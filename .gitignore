@@ -60,6 +60,10 @@ coverage.xml
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
+superteacher.ini
+
+# IntellIJ
+.idea/
 
 # Flask stuff:
 instance/
