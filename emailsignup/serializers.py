@@ -30,9 +30,15 @@ class CustomRegisterSerializer(RegisterSerializer):
         }
 
     def custom_signup(self, request, user):
-        user.phone_number = self.validated_data.get('phone_number', '')
-        user.city = self.validated_data.get('city', '')
-        user.date_of_birth = self.validated_data.get('date_of_birth', '')
+        if self.validated_data.get('phone_number', ''):
+            user.phone_number = self.validated_data.get('phone_number', '')
+
+        if self.validated_data.get('city', ''):
+            user.city = self.validated_data.get('city', '')
+
+        if self.validated_data.get('date_of_birth', ''):
+            user.date_of_birth = self.validated_data.get('date_of_birth', '')
+
         user.save(update_fields=['phone_number', 'city', 'date_of_birth'])
 
 
