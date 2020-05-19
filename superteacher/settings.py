@@ -172,4 +172,8 @@ REST_AUTH_SERIALIZERS = {
     'USER_DETAILS_SERIALIZER': 'emailsignup.serializers.UserSerializer',
 }
 
+REST_AUTH_REGISTER_SERIALIZERS = {
+    "REGISTER_SERIALIZER": "emailsignup.serializers.CustomRegisterSerializer",
+}
+
 AUTH_USER_MODEL = 'emailsignup.CustomUser'
