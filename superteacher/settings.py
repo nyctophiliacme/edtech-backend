@@ -47,6 +47,8 @@ INSTALLED_APPS = [
     'allauth',
     'allauth.account',
     'allauth.socialaccount',
+
+    'emailsignup'
 ]
 
 MIDDLEWARE = [
@@ -165,3 +167,9 @@ REST_FRAMEWORK = {
         'rest_framework.authentication.TokenAuthentication',
     ]
 }
+
+REST_AUTH_SERIALIZERS = {
+    'USER_DETAILS_SERIALIZER': 'emailsignup.serializers.UserSerializer',
+}
+
+AUTH_USER_MODEL = 'emailsignup.CustomUser'
