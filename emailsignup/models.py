@@ -4,11 +4,12 @@ from django.db import models
 
 from django.db import models
 from django.contrib.auth.models import AbstractUser
-from django.contrib.auth.base_user import BaseUserManager
+from .managers import CustomUserManager
 
 
 class CustomUser(AbstractUser):
-    objects = BaseUserManager()
+
+    objects = CustomUserManager()
 
     phone_number = models.CharField(blank=True, max_length=100)
     date_of_birth = models.DateField(blank=True, null=True)
