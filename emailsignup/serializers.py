@@ -48,14 +48,14 @@ class CustomRegisterSerializer(RegisterSerializer):
 
     def custom_signup(self, request, user):
         phone_number = self.validated_data.get('phone_number', '')
-        current_class = self.validated_data.get('', '')
-        school = self.validated_data.get('', '')
-        city = self.validated_data.get('', '')
+        current_class = self.validated_data.get('current_class', '')
+        school = self.validated_data.get('school', '')
+        city = self.validated_data.get('city', '')
 
-        date_of_birth = self.validated_data.get('', '')
-        parent_name = self.validated_data.get('', '')
-        parent_email = self.validated_data.get('', '')
-        parent_phone_number = self.validated_data.get('', '')
+        date_of_birth = self.validated_data.get('date_of_birth', '')
+        parent_name = self.validated_data.get('parent_name', '')
+        parent_email = self.validated_data.get('parent_email', '')
+        parent_phone_number = self.validated_data.get('parent_phone_number', '')
 
         if phone_number:
             user.phone_number = phone_number
