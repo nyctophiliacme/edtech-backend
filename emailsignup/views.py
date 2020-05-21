@@ -1,13 +1,12 @@
-from rest_framework import status
+from django.shortcuts import redirect
 from rest_framework.decorators import api_view
-from rest_framework.response import Response
 
 
 @api_view()
 def null_view(request):
-    return Response(status=status.HTTP_400_BAD_REQUEST)
+    return redirect("https://www.superteacher.pk/not_found")
 
 
 @api_view()
 def complete_view(request):
-    return Response("Email account is activated")
+    return redirect("https://www.superteacher.pk/email_verified")
