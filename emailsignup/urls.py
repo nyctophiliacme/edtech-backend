@@ -1,6 +1,6 @@
-from django.conf.urls import url, include
 from allauth.account.views import ConfirmEmailView
-from .views import complete_view, null_view
+from django.conf.urls import url, include
+from emailsignup.views import complete_view, null_view
 
 urlpatterns = [
     # Override urls

@@ -1,10 +1,8 @@
 from django.db import models
-
-# Create your models here.
-
-from django.db import models
 from django.contrib.auth.models import AbstractUser
-from .managers import CustomUserManager
+from django.utils import timezone
+
+from emailsignup.managers import CustomUserManager
 
 
 class CustomUser(AbstractUser):
@@ -21,6 +19,9 @@ class CustomUser(AbstractUser):
     parent_name = models.CharField(blank=True, null=True, max_length=255)
     parent_email = models.CharField(blank=True, null=True, max_length=255)
     parent_phone_number = models.CharField(blank=True, null=True, max_length=30)
+
+    created_on = models.DateTimeField(default=timezone.now)
+    modified_at = models.DateTimeField(default=timezone.now)
 
     def __str__(self):
         return self.email

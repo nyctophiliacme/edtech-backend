@@ -49,7 +49,9 @@ INSTALLED_APPS = [
     'allauth.socialaccount',
 
     'corsheaders',
-    'emailsignup'
+
+    'emailsignup',
+    'exams',
 ]
 
 MIDDLEWARE = [
