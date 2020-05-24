@@ -19,9 +19,11 @@ from django.urls import path
 
 import emailsignup.urls
 import exams.urls
+import subjects.urls
 
 urlpatterns = [
     path('auth/', include(emailsignup.urls)),
     path('admin/', admin.site.urls),
     path('exams/', include(exams.urls)),
+    path('subjects/', include(subjects.urls))
 ]

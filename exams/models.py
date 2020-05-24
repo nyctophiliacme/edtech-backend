@@ -12,7 +12,7 @@ class Exam(models.Model):
 
     def to_json(self):
         return {
-            'id': self.id,
+            'id': self.pk,
             'code': self.code,
             'title': self.title,
             'description': self.description,
