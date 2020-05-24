@@ -1,4 +1,5 @@
 from subjects.models import Subject
+from exams.models import Exam
 from subjects.serializers import SubjectSerializer
 from rest_framework import status
 from rest_framework.response import Response
@@ -14,7 +15,8 @@ class SubjectView(APIView):
 
     def post(self, request, *args, **kwargs):
         serializer = SubjectSerializer(data=request.data)
+        exam_obj = Exam.objects.get(code=request.data.get("exam_code"))
         if serializer.is_valid():
-            serializer.save()
+            serializer.save(exam=exam_obj)
             return Response(serializer.data, status=status.HTTP_201_CREATED)
         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)

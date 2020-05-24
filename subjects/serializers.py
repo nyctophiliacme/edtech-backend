@@ -4,7 +4,7 @@ from subjects.models import Subject
 
 
 class SubjectSerializer(serializers.ModelSerializer):
-    exam_code = serializers.CharField(source='exams.Exam.code')
+    exam_code = serializers.CharField(source='Exam.code')
 
     class Meta:
         model = Subject

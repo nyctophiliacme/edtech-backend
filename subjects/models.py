@@ -1,4 +1,5 @@
 from django.db import models
+from exams.models import Exam
 
 
 class Subject(models.Model):
@@ -7,7 +8,7 @@ class Subject(models.Model):
     description = models.TextField(blank=True, null=True)
     image_url = models.TextField(blank=True, null=True)
 
-    exam = models.ForeignKey('exams.Exam', on_delete=models.CASCADE)
+    exam = models.ForeignKey(Exam, on_delete=models.CASCADE)
 
     created_on = models.DateTimeField(auto_now_add=True)
     modified_at = models.DateTimeField(auto_now=True)
