@@ -2,7 +2,7 @@ from django.db import models
 
 
 class Exam(models.Model):
-    code = models.CharField(max_length=100, unique=True)
+    exam_code = models.CharField(max_length=100, unique=True)
     title = models.CharField(max_length=255)
     description = models.TextField(blank=True, null=True)
     image_url = models.TextField(blank=True, null=True)

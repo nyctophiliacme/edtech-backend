@@ -1,3 +1,35 @@
-from django.shortcuts import render
+from chapters.models import Chapter
+from chapters.serializers import ChapterSerializer
+from exams.models import Exam
+from subjects.models import Subject
 
-# Create your views here.
+from rest_framework import status
+from rest_framework.response import Response
+from rest_framework.views import APIView
+
+
+class ChapterView(APIView):
+
+    def get(self, request, *args, **kwargs):
+        chapters = Chapter.objects.all()
+        serializer = ChapterSerializer(chapters, many=True)
+        return Response(serializer.data)
+
+    def post(self, request, *args, **kwargs):
+        serializer = ChapterSerializer(data=request.data)
+        exam_obj = Exam.objects.get(exam_code=request.data.get("exam_code"))
+        subject_obj = Subject.objects.get(subject_code=request.data.get("subject_code"), exam=exam_obj)
+
+        if serializer.is_valid():
+            serializer.save(exam=exam_obj, subject=subject_obj)
+            return Response(serializer.data, status=status.HTTP_201_CREATED)
+        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
+
+
+class ChapterViewSubjectExamVise(APIView):
+
+    def get(self, request, *args, **kwargs):
+        chapters = Chapter.objects.filter(exam__exam_code=request.query_params.get("exam_code"),
+                                          subject__subject_code=request.query_params.get("subject_code"))
+        serializer = ChapterSerializer(chapters, many=True)
+        return Response(serializer.data)

@@ -53,6 +53,7 @@ INSTALLED_APPS = [
     'emailsignup',
     'exams',
     'subjects',
+    'chapters',
 ]
 
 MIDDLEWARE = [
