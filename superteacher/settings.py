@@ -181,3 +181,6 @@ REST_AUTH_REGISTER_SERIALIZERS = {
 }
 
 AUTH_USER_MODEL = 'emailsignup.CustomUser'
+
+CORS_ORIGIN_ALLOW_ALL = True
+
