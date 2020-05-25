@@ -5,7 +5,7 @@ from chapters.models import Chapter
 class Question(models.Model):
     question_text = models.TextField()
     question_title = models.TextField(blank=True, null=True)
-    question_type = models.CharField(blank=True, null=True)
+    question_type = models.CharField(blank=True, null=True, max_length=100)
     question_img_url = models.TextField(blank=True, null=True)
 
     difficulty_level = models.CharField(max_length=50, choices=(
