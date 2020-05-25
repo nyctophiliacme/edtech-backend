@@ -21,6 +21,7 @@ import emailsignup.urls
 import exams.urls
 import subjects.urls
 import chapters.urls
+import questions.urls
 
 urlpatterns = [
     path('auth/', include(emailsignup.urls)),
@@ -28,4 +29,5 @@ urlpatterns = [
     path('exams/', include(exams.urls)),
     path('subjects/', include(subjects.urls)),
     path('chapters/', include(chapters.urls)),
+    path('questions/', include(questions.urls))
 ]
