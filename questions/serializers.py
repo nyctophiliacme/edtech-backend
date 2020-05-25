@@ -10,7 +10,7 @@ class QuestionChoiceSerializer(serializers.ModelSerializer):
 
 
 class QuestionSerializer(serializers.ModelSerializer):
-    question_choice = QuestionChoiceSerializer(many=True, read_only=True, source='question_choice_set')
+    question_choice = QuestionChoiceSerializer(many=True, read_only=True, source='questionchoice_set')
 
     class Meta:
         model = Question
