@@ -15,4 +15,4 @@ class QuestionSerializer(serializers.ModelSerializer):
     class Meta:
         model = Question
         fields = ('id', 'question_text', 'question_title', 'question_type', 'question_img_url', 'difficulty_level',
-                  'time_to_solve', 'answer_selection_type', 'explanation', 'explanation_img_url')
+                  'time_to_solve', 'answer_selection_type', 'explanation', 'explanation_img_url', 'question_choice')
