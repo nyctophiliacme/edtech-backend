@@ -10,9 +10,9 @@ class QuestionChoiceSerializer(serializers.ModelSerializer):
 
 
 class QuestionSerializer(serializers.ModelSerializer):
-    question_choice = QuestionChoiceSerializer(many=True, read_only=True)
+    question_choice = QuestionChoiceSerializer(many=True, read_only=True, source='question_choice_set')
 
     class Meta:
         model = Question
-        fields = ('id', 'question_text', 'question_title', 'question_type', 'question_img_url', 'difficulty_level',
-                  'time_to_solve', 'answer_selection_type', 'explanation', 'explanation_img_url', 'question_choice')
+        fields = ['id', 'question_text', 'question_title', 'question_type', 'question_img_url', 'difficulty_level',
+                  'time_to_solve', 'answer_selection_type', 'explanation', 'explanation_img_url', 'question_choice']
