@@ -26,9 +26,9 @@ class QuestionPostView(APIView):
             try:
                 question = serializer.save()
                 # Save Question Choices
-                for i in range(1, 4):
-                    question_choice_get = "question_choice_get_" + str(i)
-                    if i == request.data.get("correct_choice"):
+                for i in range(1, 5):
+                    question_choice_get = "question_choice_" + str(i)
+                    if i == int(request.data.get("correct_choice")):
                         QuestionChoice.objects.create(
                             choice_text=request.data.get(question_choice_get),
                             is_right_choice=True,
