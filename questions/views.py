@@ -15,3 +15,34 @@ class QuestionViewChapterVise(APIView):
         questions = Question.objects.filter(id__in=question_ids)
         serializer = QuestionSerializer(questions, many=True)
         return Response(serializer.data)
+
+
+class QuestionPostView(APIView):
+
+    def post(self, request, *args, **kwargs):
+        serializer = QuestionSerializer(data=request.data)
+
+        if serializer.is_valid():
+            try:
+                question = serializer.save()
+                # Save Question Choices
+                for i in range(1, 4):
+                    question_choice_get = "question_choice_get_" + str(i)
+                    if i == request.data.get("correct_choice"):
+                        QuestionChoice.objects.create(
+                            choice_text=request.data.get(question_choice_get),
+                            is_right_choice=True,
+                            question=question
+                        )
+                    else:
+                        QuestionChoice.objects.create(
+                            choice_text=request.data.get(question_choice_get),
+                            question=question
+                        )
+                # Save Question Chapter Mapping
+                QuestionChapterMapping.objects.create(question=question, chapter_id=request.data.get("chapter_id"))
+
+                return Response(serializer.data, status=status.HTTP_201_CREATED)
+            except Exception as err:
+                print("Exception occurred in Question Post \n", err)
+        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
