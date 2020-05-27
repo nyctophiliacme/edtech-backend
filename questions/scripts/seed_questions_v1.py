@@ -1,8 +1,14 @@
 import csv
+import django
+import os
 import sys
+
+sys.path.append("/home/ubuntu/edtech-backend")
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'superteacher.settings')
+django.setup()
 from questions.views import QuestionPostView
 
-file_path = '../questions_csvs/' + sys.argv[1]
+file_path = '/home/ubuntu/edtech-backend/questions/questions_csvs/' + sys.argv[1]
 with open(file_path) as csv_file:
     csv_reader = csv.DictReader(csv_file, delimiter=',')
     line_count = 0
