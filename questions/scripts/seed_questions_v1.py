@@ -26,8 +26,4 @@ with open(file_path) as csv_file:
             'question_choice_4': row['question_choice_4'],
             'correct_choice': row['correct_choice']
         }
-        request = {
-            'data': question_dict
-        }
-        question_post_view_obj = QuestionPostView()
-        question_post_view_obj.post(request=request)
+        QuestionPostView.save_question_data(data=question_dict)
