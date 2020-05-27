@@ -9,25 +9,27 @@ https://docs.djangoproject.com/en/3.0/topics/settings/
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/3.0/ref/settings/
 """
+# To remove error django.core.exceptions.AppRegistryNotReady: Apps aren't loaded yet.
 
+# SECURITY WARNING: keep the secret key used in production secret!
+import django
 import os
 from django.urls import reverse_lazy
+
+SECRET_KEY = 'fct)uas$cjf!rkxlr%usham!qmc&-h&)c548yl!4#ev6en$=rr'
+django.setup()
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/3.0/howto/deployment/checklist/
 
-# SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'fct)uas$cjf!rkxlr%usham!qmc&-h&)c548yl!4#ev6en$=rr'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
 ALLOWED_HOSTS = ['15.206.24.5', '15.206.142.25', 'localhost', '127.0.0.1']
-
 
 # Application definition
 
@@ -90,7 +92,6 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'superteacher.wsgi.application'
 
-
 # Database
 # https://docs.djangoproject.com/en/3.0/ref/settings/#databases
 
@@ -104,7 +105,6 @@ DATABASES = {
         'PORT': '',
     }
 }
-
 
 # Password validation
 # https://docs.djangoproject.com/en/3.0/ref/settings/#auth-password-validators
@@ -124,7 +124,6 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
-
 # Internationalization
 # https://docs.djangoproject.com/en/3.0/topics/i18n/
 
@@ -138,12 +137,10 @@ USE_L10N = True
 
 USE_TZ = True
 
-
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/3.0/howto/static-files/
 
 STATIC_URL = '/static/'
-
 
 # Email backend settings for Django
 EMAIL_HOST = 'smtp.gmail.com'
@@ -186,4 +183,3 @@ REST_AUTH_REGISTER_SERIALIZERS = {
 AUTH_USER_MODEL = 'emailsignup.CustomUser'
 
 CORS_ORIGIN_ALLOW_ALL = True
-
