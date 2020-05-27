@@ -1,0 +1,643 @@
+question_text,question_img_url,difficulty_level,explanation,explanation_img_url,chapter_id,question_choice_1,question_choice_2,question_choice_3,question_choice_4,correct_choice,,,,,,,,,,,,,,,
+ How many significant figures present in 0.00123,,easy,Significant figures are the number of digits excluding the zero from the start,,20,3,6,4,5,1,,,,,,,,,,,,,easy,moderate,difficult
+A zero digit in any measurement can be,,moderate,If zero comes in the middle or end like 202 and 200 are considered to be significant. But zero are the start are not considered to be significant like in the previous MCQ,,20,always significant,always non significant,can be significant and non significant,None,3,,,,,,,,,,,,,,,
+"In order to reduced random error, we 
+",,moderate,The random error is the slight variation in the measurements varies from instrument to instrument. In order to reduce we take the mean of several measurements,,20,take mean of several measurements,compare the instrument with more accurate one,take zero correction,All of these,1,,,,,,,,,,,,1,2,3,4
+"An error in the measurement is the result of
+",,easy,"Error is the dispersion from the mean or actual value of any measurements. It could be caused due to inexperience person, instrumental error and inappropriate method.",,20,Inexperienced person,"Instrument error",Inappropriate method, All of these,4,,,,,,,,,,,,,,,
+"Complete the following
+1 deca=____",,easy,"Deca is a prefix which is equal to
+1 deca $=10^{1}$",,20,$10^1$,$10^2$,$10^12$,$10^-1$,1,,,,,,,,,,,,,,,
+ Scientific notation of 1567 is,,moderate,"It can be written as
+1567.00 Now we need to move the decimal points to the left, right between 1 and 5.
+So it can be written as  $1.5 \times10^{3}$",,20,$1.5 \times $10^{3}$,$2^12$,0.000087,1 / 0.000087,1,,,,,,,,,,,,,,,
+"The dimension of strain is
+",,easy," As we know that 
+M is the dimension for unit “kg”
+L is the dimension for unit “meter”
+Strain = change in length/ original length
+So it is unit less as it is a ratio of two similar quantities",,20,$\left[\mathrm{M}^{\circ} \mathrm{L}^{0}\right]$,$\left[\mathrm{M}^{1} \mathrm{L}^{0}\right]$,$\left[\mathrm{M}^{\circ} \mathrm{L}^{1}\right]$,$\left[\mathrm{M}^{1} \mathrm{L}^{1}\right]$,1,,,,,,,,,,,,,,,
+"\left(5.0 \times 10^{6}\right) \times\left(5.0 \times 10^{6}\right) can be written as
+",,difficult,"By multiplying both we get
+\[
+25 \times 10^{12}
+\]
+Now we need to move the decimal point between 2 and $5,$ so add one in power of 10
+So $2.5 \times 10^{13}$",,20,2.5 \times 10^{12},2.5 \times 10^{11},2.5 \times 10^{13},2.5 \times 10^{12},3,,,,,,,,,,,,,,,
+ Which of the following has the highest power,,moderate,"the power of prefix is given as under
+1 giga $=10^{9}$
+$1 \mathrm{kilo}=10^{3}$
+peta $=10^{15}$
+$1 \mathrm{mega}=10^{\circ}$",,20,giga,peta,kilo,mega,2,,,,,,,,,,,,,,,
+ Steradian is a supplementary unit used for,,easy,Sterradian is neither included in Base unit nor in Derived unit. Sterradian is included in supplementary unit which is a unit used for solid angle.,,20,plane angle,Both solid and plane,solid angle,C,3,,,,,,,,,,,,,,,
+SI unit for coefficient of viscosity,,moderate,"We know that
+$\mathrm{F}=6 \pi \mathrm{n} \mathrm{r} \mathrm{v}$
+Where $F$ represents force, $r$ is the radius, $v$ means velocity and $n$ is the viscosity constant
+$\mathrm{n}=\mathrm{F} / 6 \pi \mathrm{rv}$
+$\mathrm{n}=\mathrm{kgms}^{-2} \mathrm{m}^{-1} \mathrm{m}^{-1} \mathrm{s}^{1}$
+$\mathrm{n}=\mathrm{kgm}^{-1} \mathrm{s}^{-1}$",,20,$\mathrm{kg} \mathrm{m}^{-1} \mathrm{s}^{-1}$,$\mathrm{kg} \mathrm{m} \mathrm{s}^{-3}$,$\mathrm{kg} \mathrm{m}^{-2} \mathrm{s}^{-2}$,$\mathrm{kg} \mathrm{m}^{2} \mathrm{s}^{-3}$,1,,,,,,,,,,,,,,,
+ Smaller the least count of the measurement more is the measurement,,easy,In order to measure the quantity with more precision we are required to increase the least count of the measurement,,20,precise,uncertain,accurate,None of these,1,,,,,,,,,,,,,,,
+SI unit for temperature,,moderate,"Standard international unit for temperature is Kelvin.",,20,kelvin,Degree Fahrenheit,Degree C,Degree kelvin,1,,,,,,,,,,,,,,,
+ Which pair has the same dimension,,moderate,"So there are three quantities work, energy and torque
+We know that
+W = Fd = Joule
+E = KE + PE = Fd= Joule
+E is the total energy KE means kinetic energy and PE is the potential energy
+Torque = rF = Nm =Joule 
+r represents moment arm
+So all have same units",,20,"work, energy","work, torque","energy, torque",All are correct,4,,,,,,,,,,,,,,,
+ Percentage uncertainty in radius r is 5 \%. The percentage uncertainty while measuring the volume is,,difficult,"We know that
+\[
+\text { Volume }=(4 / 3) \pi r^{3}
+\]
+$\%$ uncertainty in Volume $=3$ x \%uncertainty in
+$\%$ uncertainty in Volume $=3 \times 5$
+$\%$ uncertainty in Volume $=15 \%$",,20,6 \%,15\%,5 \%,25\%,2,,,,,,,,,,,,,,,
+The unit of force is _____ represented by_____,,moderate,The unit of force is newton represented by N according to the rules to represents the unit,,20,"Newton, N","Newton, n","newton, n   ","newton, N",4,,,,,,,,,,,,,,,
+Which one is not base quantity,,easy,"Velocity is not a base quantity as it is derived from base quantities
+As,
+$\mathrm{V}=\Delta \mathrm{d} / \mathrm{t}=\mathrm{m} / \mathrm{sec}$
+Where d and t is based quantity",,20,mass,temperature,length,velocity,4,,,,,,,,,,,,,,,
+ The length of a pencil is 10.2 cm. Out of the 2.34cm is cut out. The remaining length of the pencil according to the idea of the significant figure?,,difficult,"simple math is
+10.2
+-2.34
+7.86
+According to the idea of significant figure we are require to round out to two significant
+figures as the last significant figure is greater than $5 .$ So $7.9 \mathrm{cm}$",,20,7.82 cm,7 cm,7.8 cm,7.9 cm,4,,,,,,,,,,,,,,,
+"22.3 $\times$ 1.2=_______ according to significant figure.
+",,difficult,"As the least number of significant digit in the above multiplication is 2. So we are required to round the answer up to two significant figures. So by round up we got
+26.76 round up to two decimal digit = 27",,20,26.76,26.7,26,27,4,,,,,,,,,,,,,,,
+Pick the incorrect representation ,,moderate,"$1000 \mathrm{um}$ is the incorrect representation. As it can be re written in the correct form as
+$1000 \mathrm{um}=1 \times 10^{3} \times 10^{-6} \mathrm{m}=1 \times 10^{-3}=1 \mathrm{mm}$",,20,1mm,50kg,10mm,1000um,4,,,,,,,,,,,,,,,
+"The least count of the stop watch is $1 / 5$ sec. the time of the 20 oscillation of a pendulum
+is measured to be 25 sec, what is the maximum percentage error in the measurement?",,difficult,"Least count of watch $=1 / 5=0.2$
+Time period of 1 oscillation $=25 / 20=1.25 \mathrm{sec}$
+Uncertainty in the measurement $=0.2 / 20=0.01 \mathrm{sec}$
+$\%$ error in the measurement $=(0.01) / 1.25 \times 100=0.8 \%$",,20,8 \%,0.8 \%,1 \%,16 \%,2,,,,,,,,,,,,,,,
+The physical quantity which has the dimension formula $\mathrm{M}^{1} \mathrm{L}^{-3}$,,moderate,"We know that
+\[
+\text { Density }=\mathrm{m} / \mathrm{V}=\mathrm{kg} / \mathrm{m}^{3}=\left[\mathrm{M}^{1} \mathrm{L}^{-3}\right]
+\]
+$\mathrm{V}$ is the volume and $\mathrm{m}$ is the mass",,20,Surface density,solar constant,Density,compressibility,3,,,,,,,,,,,,,,,
+ The dimension does not give any information about,,easy,"Dimension of a quantity is just like units and contain no information about the constant.",,20,proportionality constant,Units,formula,none,1,,,,,,,,,,,,,,,
+"If the equation is $x=a t+b t^{2}$ where $x$ has unit of meter and $t$ ha measured in hours, then
+the unit of $b$ is",,moderate,"We know that the unit of $x$ is meter. thas unit of hours.
+$b t^{2}$ must have the unit of meters
+so b has unit = meter/ hour $^{2}$",,20,meter/hour,meter $^{2} /$ hour,meter/hour $^{2}$,meter,3,,,,,,,,,,,,,,,
+"We have equation $v=\sqrt{(\mathrm{F} / \mathrm{m})}$ in which $\mathrm{v}$ is the velocity and $\mathrm{F}$ is the force then then the
+dimension of $\mathrm{m}$ is",,difficult,"We know that v has the unit $\mathrm{m} / \mathrm{s}^{2}$
+$\mathrm{F}$ is the force having unit $\mathrm{kgms}^{-2}$
+Now m should have unit $\mathrm{kg} / \mathrm{s}$
+So m has the dimension
+$\left[\mathrm{M}^{1} \mathrm{L}^{\circ} \mathrm{T}^{-1}\right]$",,20,$\left[\mathrm{M}^{1} \mathrm{L}^{1} \mathrm{T}^{0}\right]$,$\left[\mathrm{M}^{1} \mathrm{L}^{-1} \mathrm{T}^{0}\right]$,$\left[\mathrm{M}^{1} \mathrm{L}^{1} \mathrm{T}^{-1}\right]$,$\left[\mathrm{M}^{1} \mathrm{L}^{\circ} \mathrm{T}^{-1}\right]$,4,,,,,,,,,,,,,,,
+A dimensionless quantity ,,easy,A dimensionless quantity may have units. We know that unit to measure the angle is radian but it has no dimension.,,20, may have unit ,Never have a unit,always have unit,None of these,1,,,,,,,,,,,,,,,
+Which of the reading from the following instrument is considered to be more precise,,moderate,"We know that more the least count more will be the precision 
+So here Screw gauge has relatively more least count. Hence screw gauge is considered to be more precise",,20,Screw gauge,Meter rod reading,Vernier caliper,all have same precision,1,,,,,,,,,,,,,,,
+"Two measurement $x_1=87.32 \pm 0.2, x _2=67.32 \pm 0.5$ are subtracted then the total
+uncertainty in the answer is",,difficult,The total uncertainty $=0.5+0.2=0.7$,,20,0.3,-0.3,0.5,0.7,4,,,,,,,,,,,,,,,
+If the error in length of one side of square is $1 \%$. Then the error in the area of the square is,,moderate,"The \% length of square is $=1 \%$
+Formula of area of cube $=1^{2}$
+\%error in the area $=2 \times 1 \%=4 \%$",,20,2 \%,5 \%,1 \%,insufficient information,1,,,,,,,,,,,,,,,
+The time for 20 vibrations of simple pendulum is recorded by stop watch having least count of 0.1s and it comes out to be 54.6 sec. The uncertainty in the time period is,,moderate,"We know that
+Time taken for one vibration $=54.6 / 20=2.73 \mathrm{sec}$
+Uncertainty in the time period $=0.1 / 20=5 \times 10^{-3} \mathrm{sec}$",,20,0.1sec,0.001sec,0.005sec,0.003sec,3,,,,,,,,,,,,,,,
+"The sum of 2.745, 8.98, 1.890 up to correct significant figure is",,moderate,If we sum then all we get 13.615. But we have to notice the significant figures for the number having least significant figures which is 8.98. So we have to round our answer to 3 significant figures. So the answer is 13.6,,20,13.615,13.6,13.61,13,2,,,,,,,,,,,,,,,
+Which of the following is not the discipline of Physical Sciences?,,easy,Zoology is the branch of science in which we study animal and plants behavior and characteristics,,20,Chemistry,Geology,Zoology,Physics,3,,,,,,,,,,,,,,,
+The study of molecules is done in which frontier of fundamental sciences?,,easy,Information,,20,World of extremely large,world of complex matter,World of extremely small,none,2,,,,,,,,,,,,,,,
+"A student measured the mass of an object, which comes out to be 7000kg. It is measured from the instrument with the accuracy of 10 kg. then the expected significant figures in the measurement is",,moderate,"Significant figures 7000 kg for 10kg accuracy$=3$
+Significant figures 7000 kg for 100kg accuracy$=2$
+Significant figures 7000 kg for 1000kg accuracy$=1$",,20,3,2,4,5,1,,,,,,,,,,,,,,,
+The ratio of units surface tension and spring constant have units same as that of,,difficult,"We know that 
+Surface tension  
+F stands for force l is the length
+Spring constant $=\mathrm{k}=\mathrm{F} / \mathrm{x}=\mathrm{N} / \mathrm{m}$
+K is the spring constant x is the change in the length
+By taking the ratio
+Surface tension 'spring constant = unit less
+Refiactive index and Magnification also have no units",,20,Refractive Index,Magnification,Both A and B,None of these,3,,,,,,,,,,,,,,,
+1 femto $=$ ____ giga,,moderate,"$1 \mathrm{femto} =10^{-15}$
+$1 \mathrm{giga}=10^{9}$
+$1 \mathrm{femto}=10^{-24} \mathrm{x} 10^{9}=10^{-15}$",,20,$10^{-18}$,$10^{-42}$,$10^{-15}$,$10^{-24}$,4,,,,,,,,,,,,,,,
+ The unit of frequency is Hz. What is the dimension of frequency,,easy,"We know that frequency is the reciprocal of time period
+$\mathrm{f}=1 / \mathrm{T}$
+frequency has unit 1/sec
+so the dimension is $\left[\mathrm{M}^{\circ} \mathrm{L}^{\circ} \mathrm{T}^{-1}\right]$",,20,$\left[\mathrm{M}^{\circ} \mathrm{L}^{\circ} \mathrm{T}^{-1}\right]$,$\left[\mathrm{MLT}^{1}\right]$,$\left[\mathrm{M}^{\circ} \mathrm{L}^{-1} \mathrm{T}^{1}\right]$,none of these,1,,,,,,,,,,,,,,,
+"What is the angle between Y and X as X and Y is related as
+A$+$B$=$X , Y$=$B$=$A",,moderate,"What is the angle between Y and X as X and Y is related as
+$A+B=X$ , $Y=B=A$""	null	moderate	""The addition of vector is commutative
+$A+B=B+A$
+$X=Y$
+Hence there will 0 angle between X and Y",,27,180,90,0,60,3,,,,,,,,,,,,,,,
+The minimum number of vectors with unequal magnitude whose resultant can be zero,,moderate,"The resultant of two vectors can be zero if they are equal in magnitude and opposite in direction.
+The minimum number of vectors have unequal magnitude whose resultant can be zero is 3.",,27,2,1,3,4,3,,,,,,,,,,,,,,,
+" The vector $\mathrm{B}$ is represented by rectangular coordinates as $\mathrm{B}=-5 \mathrm{i}+2 \mathrm{j}$, then the value of
+angle is",,moderate,"We know that
+$\tan \theta=(y / x)$
+$\theta=\tan ^{-1}(-2 / 5)$",,27,$\theta=\tan ^{-1}(-2 / 5)$,$\theta=\tan ^{-1}(2 / 5)$,$\theta=\tan ^{-1}(-5 / 2)$,$\theta=\tan ^{-1}(5 / 2)$,1,,,,,,,,,,,,,,,
+"In the figure
+The angle between vector $A$ and $y$ axis
+is $30^{\circ}$. Then the magnitude of $y$ component",http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p2_Vectors_and_equilibrium/p2%20q4.PNG,difficult,"Angle between $A$ and $y$ axis $=30$
+Angle between $A$ and $x$ axis $=90-30=60$
+We know that
+$\sin \theta=(P / H)$
+$\sin \theta=(y / A)$
+\[
+\begin{array}{l}
+\sin 60=y / A \\
+y=(\sqrt{3} / 2) A
+\end{array}
+\]",,27, $(1 / \sqrt{2}) \mathrm{A}$,$(2 / \sqrt{2}) \mathrm{A}$,$(\sqrt{3} / 2) \mathrm{A}$, $(\sqrt{3}) \mathrm{A}$,3,,,,,,,,,,,,,,,
+The angle of $A=2 i+\sqrt{12}$ j with $y$ axis,,difficult,"$\tan \theta=(y / x)$
+$\theta=\tan ^{-1}(\sqrt{12 / 2})$
+$\theta=60$
+Now the angle with y axis $=90-60=30$",,27,60,20,90,30,4,,,,,,,,,,,,,,,
+The pair forces by which we can have resultant of 10N,,easy,All pairs can have the resultant of 10N depending on the angle between them,,27,"5N,5N","2N,8N","4N,6N",All,4,,,,,,,,,,,,,,,
+"A force of 20N acts on x axis of a body, its y component is",,moderate,"A force of 20N is acting on x axis and hence no force is acting on y axis
+Force on y axis$=$0N
+Resultant$=$20",,27,20N,0N,40N,90N,4,,,,,,,,,,,,,,,
+"The resultant of FIG. is,",http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p2_Vectors_and_equilibrium/p2q8.PNG,moderate,"If we try to draw resultant vector of the above vector, we find out that the resultant vector is 0. If a closed figure is obtained by adding the vectors from head to tail rule then the resultant vector is zero.",,27,$R=A+B-C$, $R=A-B-C$, $R=C$,$R=0$,4,,,,,,,,,,,,,,,
+Position vector in yz plane is,http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p2_Vectors_and_equilibrium/p2q9.PNG,moderate,"There are specific names given to the unit vector for x, y and z axis as i, j and k respectively.
+j unit vector is related with y axis and z represents the unit vector in z axis
+So the position vector in yz axis is
+$bj+ck$",,27,$bj+ck$,$ai+ck$,$ai+bj+ck$,$ai+bj$,1,,,,,,,,,,,,,,,
+There are 2 unit vectors that are located on the xy axis as shown in the figure. Their resultant will be,http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p2_Vectors_and_equilibrium/p2q10.PNG,difficult,"The unit vectors have magnitude 1
+The two unit vector on $x$ y axis is i and j respectively
+The magnitude is given by
+Magnitude $=\sqrt{1+1}=\sqrt{2}$",,27,2,0,$\sqrt{2}$,$\sqrt{3}$,3,,,,,,,,,,,,,,,
+In the following figure the angle between A and B is,https://d15o1jx56rxevg.cloudfront.net/ecat/physics/p2_Vectors_and_equilibrium/p2q11.PNG,difficult,"We know that
+\[
+\begin{array}{l}
+\cos \theta=(B / H) \\
+\cos \theta=(-A / B)
+\end{array}
+\]
+the minus sign above represents the opposite direction of vector A. Because the angle is
+between $A$ and $B$",,27,$\sin ^{-1}(-\mathrm{A} / \mathrm{B})$,$\tan ^{1}(-\mathrm{A} / \mathrm{B})$,$\cos ^{1}(-A / B)$,$\cos ^{1}(\mathrm{A} / \mathrm{B})$,3,,,,,,,,,,,,,,,
+Two forces acting on an object and the resultant is 0. What do you conclude from this,,easy,"The resultant of two vectors can be zero if they are equal in magnitude and opposite in direction.
+The minimum number of vectors have unequal magnitude whose resultant can be zero is 3",,27,two force of same magnitude but opposite angle,two force of same magnitude but same angle,two force of same magnitude and 30 angle between them,two force of same magnitude and 45 angle between them,1,,,,,,,,,,,,,,,
+"The dot product of the vector A and B will be, if the magnitude of A and B is 100. The angle between A and B is 60",https://d15o1jx56rxevg.cloudfront.net/ecat/physics/p2_Vectors_and_equilibrium/p2q13.PNG,difficult,"From the information given in the question
+$\theta=60$
+$A B=100$
+$A \cdot B=A B \cos \theta$
+$\mathrm{A} \cdot \mathrm{B}=100 \cos 60$
+$\mathrm{A} \cdot \mathrm{B}=50$",,27,25,100,50,75,3,,,,,,,,,,,,,,,
+Two vectors will be perpendicular if,https://d15o1jx56rxevg.cloudfront.net/ecat/physics/p2_Vectors_and_equilibrium/p2q14.PNG,moderate,"Two vectors must be perpendicular if the y components of both the vector are of opposite sign
+$b=1$ then both the vectors have opposite sign so both are perpendicular",,27,$b=0$,$b=1$,$b=-1$,$b=-1 / 2$,2,,,,,,,,,,,,,,,
+If $A=3i+4j$ and $B=6i+8j  the component of vector A along B is,,moderate,"A along means $A \cos \theta$
+We know that
+$A \cdot B=A B \cos \theta \quad A \cos \theta=A \cdot B / B$
+$A\cos\theta$ $=(18+32) /\sqrt{64+36}=5$",,27,5,$\sqrt{2} \quad$,50,10,1,,,,,,,,,,,,,,,
+Referring to the previous question what will be the dot product of A and B,,moderate,"We know that
+$A \cdot B=A B \cos \theta$
+$A=3 i+4 j$ and $B=6 i+8 j$
+$A \cdot B=(3 \times 6)+(4 \times 8)$
+$A \cdot B=(18)+(32)$
+$A \cdot B=50$",,27,50,5,100,10,1,,,,,,,,,,,,,,,
+$[(i \times j) \times j]\cdot i$,,difficult,"$i\times j = k$
+$k \times j=-i$
+$-i . i=-1$",,27,1,-1,0,undefined,2,,,,,,,,,,,,,,,
+"Vectors $A, B$ and $C$ lies in the same plane that is xy axis then the result of $[B .(A \times C)]$ is",,difficult,"$A \times B$ lies on $z$ plane $A$ and $B$ lies on xy axis
+B. $(A \times B)=B(A \times B) \cos 90=0$
+As the angle between $z$ axis and $x y$ axis is 90",,27,0,1,$AB\sin\theta$,cannot be predicted,1,,,,,,,,,,,,,,,
+"The line of action of force $F=(2 i-3 j+4 k)$ passes through the point whose position vector
+is $i-2 j+k$. The torque about a point whose position vector is $(2 i+j+k)$ is",,difficult,"Position vector of point $\mathrm{A}=\mathrm{r}_{1}=2 \mathrm{i}+\mathrm{j}+\mathrm{k}$
+The position vector of point $\mathrm{P}=\mathrm{r}_{2}=\mathrm{i}-2 \mathrm{j}+\mathrm{k}$
+$\mathrm{AP}=\mathrm{r}_{2}-\mathrm{r}_{1}=\mathrm{r}$
+Torque $=\operatorname{r}\times F=(-i-3 j) \times(2 i-3 j+4 k)$
+\[
+=-12 i+4 j+9 k \,\,\,N m
+\]",,27,$4 i+3 j$,$3 \mathrm{k}+7 \mathrm{j}$,$-12 i+4 j+9 k$,$-3 i+4 j-7 k$,3,,,,,,,,,,,,,,,
+ If $\mathrm{A} \cdot \mathrm{B}=0$ and $\mathrm{A} \times \mathrm{C}=0$ then the angle between $\mathrm{B}$ and $\mathrm{C}$ is,,difficult,"$\mathrm{A} \cdot \mathrm{B}=\mathrm{AB} \cos \theta=0$
+$A \times B=A B \sin \theta=0$
+$\mathrm{AB} \cos \theta=\mathrm{AB} \sin \theta=0$
+$\tan \theta=0$
+$\theta=90$",,27,0,90,60,180,2,,,,,,,,,,,,,,,
+If $A \times B=B \times A$ then the angle between $A$ and $B$ is,,moderate,"$AB\cos\theta=BA\sin\theta$
+$tan\theta=1$
+$\theta=0$",,27,0,90,180,none of these,1,,,,,,,,,,,,,,,
+$(\mathrm{A} \cdot \mathrm{B})^{2}+|\mathrm{A} \times \mathrm{B}|^{2}=$,,difficult,"$(A \cdot B)^{2}=(A B \cos \theta)^{2}$
+$|A \times B|^{2}=(A B \sin \theta)^{2}$
+$(A B \cos \theta)^{2}+(A B \sin \theta)^{2}$
+$\mathrm{A}^{2} \mathrm{B}^{2}$",,27,$A^{2} B^{2} \cos ^{2} \theta$,$\mathrm{A}^{2} \mathrm{B}^{2}$,$\mathrm{A}^{2} \mathrm{B}^{2} \sin ^{2} \theta$,$\mathrm{AB}$,2,,,,,,,,,,,,,,,
+"If A is vertically downward and B is directed along north, then the direction of $A \times B$ ?",,moderate,"By rolling the fingers in the direction from A to B while keeping the thumb erect, the thumb will point to the direction of A x B",https://d15o1jx56rxevg.cloudfront.net/ecat/physics/p2_Vectors_and_equilibrium/p2e23.PNG,27,north,south,west,east,4,,,,,,,,,,,,,,,
+"The slope of the graph between angular momentum and time give us",,moderate,"Slope = change in y axis/ change in x axis
+$=$ angular momentum / time
+Units $=\mathrm{kg} \mathrm{m}^{2} \mathrm{s}^{-1} / \mathrm{s}=\mathrm{kg} \mathrm{m}^{2} \mathrm{s}^{-2}$
+Units of torque $=\mathrm{Nm}=\mathrm{kgm}^{2} \mathrm{s}^{-2}$",,27,$\tau$,F$\tau$,acceleration,alpha,1,,,,,,,,,,,,,,,
+What will be the couple for this figure,https://d15o1jx56rxevg.cloudfront.net/ecat/physics/p2_Vectors_and_equilibrium/p2q25.PNG,easy,Couple $=(d / 2) F+(d / 2) F=d F$,,27, $d F$,$\mathrm{dF} / 2$,$2 \mathrm{dF}$,$d F \cos \theta$,1,,,,,,,,,,,,,,,
+" A car is moving on earth with constant velocity in a straight velocity. It is in ________equilibrium",,easy,"Dynamic Equilibrium means that $a=0$
+Translation Equilibrium means some of all forces$ = 0$
+Rotational Equilibrium means sum of all torque $= 0$
+All the conditions is fulfill so D is the option",,27,translational,Dynamic,rotational,All of these,4,,,,,,,,,,,,,,,
+The torque produced will be half of the maximum if the angle between r and F is,,moderate,"We know that
+\( \mathrm{\tau }=\mathrm{F}_{\mathrm{r}} \sin \mathrm{\theta} \)
+\( \mathrm{\tau}(\operatorname{maximum})=\mathrm{F}_{\mathrm{r}} \)
+\( \mathcal{\tau}(\text { half of maximum })=(1 / 2) \mathrm{F}_{\mathrm{r}}\)
+\( \sin \theta=1 / 2 \)
+\( \theta=30 \)",,27,30,60,90,45,1,,,,,,,,,,,,,,,
+A force passing through the center of gravity of body causes ______ motion.,,easy,A force passing through the center of gravity of an object will cause the body to move in one direction and torque produced is zero. Translational motion is the motion that tends to move the body in straight line/motion.,,27,translational,rotational,Both A and B,None of these,1,,,,,,,,,,,,,,,
+A body is said to be in complete equilibrium if,,easy,"Complete equilibrium means both translation and rotational equilibrium
+\( \Sigma \mathrm{F}=0 \) and \( \Sigma \mathrm{C}=0 \)",,27,\( \Sigma \mathrm{F}=0 \),\( \Sigma \mathrm{F}=0 \) and \( \Sigma C=0 \),\( \Sigma \mathrm{F}=0 \) or \( \Sigma \mathrm{C}=0 \),\( \Sigma C=0 \),2,,,,,,,,,,,,,,,
+For couple which statement is correct,,moderate,For couple two forces are acting on the body with same magnitude and opposite direction and causing torque to produce. So the sum of all translational forces is zero,,27,\( \Sigma \mathrm{F}=0 \),\( \Sigma x=0 \),\( \Sigma C=0 \),All of these,1,,,,,,,,,,,,,,,
+What is the tension in each of rope which is holding a mass as shown in the figure?,https://d15o1jx56rxevg.cloudfront.net/ecat/physics/p2_Vectors_and_equilibrium/p2q31.PNG,difficult,"We can see from the figure that the body is in equilibrium
+So \( \mathrm{Fx}=0 \)
+\( F_{x}=0 \)
+\[
+\mathrm{Mg}=\mathrm{T} \sin \mathrm{e}+\mathrm{T} \sin \mathrm{e}
+\]
+Where \( \mathrm{T} \) is the tension \( \mathrm{g} \) is gravitational acceleration \( \mathrm{M} \) is the mass
+\( \mathrm{Mg}=\mathrm{T} \sin 45+\mathrm{T} \sin 45 \)
+\( \mathrm{T}=\mathrm{Mg} / \sqrt{2} \)",,27,\( \mathrm{Mg} \),\( \mathrm{Mg} / 2 \),\( \mathrm{Mg} / \sqrt{2} \),\( 2 \mathrm{Mg} \),3,,,,,,,,,,,,,,,
+A uniform rod 30cm long is pivoted at its center. A 40N weight is hung 5cm from the left end. Where must a 50 newton weight be hung to maintain equilibrium?,,difficult,"We know that
+Torque produced on left side = Torque produced on right side
+(40)(10)sin90 =P(50)sin90
+P= 8
+P taking the whole rod = 8 +15 =23
+So, weight must be hung 7cm from right end
+",,27,5cm from left end,7cm from right end,6cm from rightend,8cm from right end,2,,,,,,,,,,,,,,,
+The rod of total length of 100cm is suspended from center as shown in the figure. What will be the position of P so that the rod will remain stable.,https://d15o1jx56rxevg.cloudfront.net/ecat/physics/p2_Vectors_and_equilibrium/p2q33.PNG,difficult,"Torque produced on left side = Torque produced on right side
+(50)(5)sin90 =P(10)sin90
+P= 25
+P taking the whole rod = 25 +50 =75",,27,90cm,2m,70cm,75cm,4,,,,,,,,,,,,,,,
+Rectangular coordinates is also known as,,easy,Information,,27,Cartesian coordinate system,Polar coordinate system,Spherical coordinate system,Cylindrical coordinate system,1,,,,,,,,,,,,,,,
+The resultant of two forces of equal magnitudes is also equal to the magnitude of the forces. The angle between them,,difficult,"$\theta=(2 \pi) / 3$
+Let the angle between \( \mathrm{F}_{\mathrm{a}} \) and \( \mathrm{F}_{\mathrm{b}} \) be \( \theta \) and their resultant is \( \mathrm{F}_{\mathrm{r}} \). So
+\( \left(\mathrm{F}_{\mathrm{r}}\right)^{2}=\left(\mathrm{F}_{\mathrm{a}}\right)^{2}+\left(\mathrm{F}_{\mathrm{b}}\right)^{2}+2 \mathrm{F}_{\mathrm{a}} \mathrm{F}_{\mathrm{b}} \\cos \theta \)
+Now
+Let, \( \mathrm{F}_{\mathrm{a}}=\mathrm{F}_{\mathrm{b}}=\mathrm{F}_{\mathrm{r}}=\mathrm{F} \)
+So
+\( \mathrm{F}^{2}=\mathrm{F}^{2}+\mathrm{F}^{2}+2 \mathrm{F}^{2} \cos \theta \)
+\( \operatorname{cos\theta}=-(1 / 2) \)
+therefore \( \theta=2 \pi / 3 \)",,27,30,60,120,90,3,,,,,,,,,,,,,,,
+Which of the following is a unit vector,,moderate,"Take the magnitude of each and check it as must be equal to 1
+Magnitude of option \( \left.(\mathrm{a})=\sqrt{(}(1 / \sqrt{3})^{2}+(1 / \sqrt{3})^{2}+(1 / \sqrt{3})^{2}\right)=1 \)
+Magnitude of option \( \left.(\mathrm{c})=\sqrt{(}(0)^{2}+(0)^{2}+(1)\right)=1 \)
+Unit vector is the vector that has unit/1 magnitude.",,27,\( (1 / \sqrt{3}) \mathrm{i}+(1 / \sqrt{3}) \mathrm{j}+(1 / \sqrt{3}) \mathrm{k} \),\( \sqrt{3} \mathrm{i}+\sqrt{3} \mathrm{j}+\sqrt{3} \mathrm{k} \),\( 0 \mathrm{i}+0 \mathrm{j}+1 \mathrm{k} \),Both A and C,4,,,,,,,,,,,,,,,
+"A man does work from A to C ,C to D and D to B. the distance from A to C and D to B is 2 meter. If the distance from C to D is 30m then what is the total displacement",https://d15o1jx56rxevg.cloudfront.net/ecat/physics/p2_Vectors_and_equilibrium/p2q37.PNG,moderate,Total displacement is the shortest distance to cover part Point A to point B. The shortest distance from point A to point B is 30m.,,27,2,10,34,30,4,,,,,,,,,,,,,,,
+_____ is the smallest particle of an element which may or may not have an independent existence:,,easy,"An atom is the smallest particle of an element. An atom is the smallest constituent unit of ordinary matter that constitutes a chemical element. Every solid, liquid, gas, and plasma are composed of neutral or ionized atoms. Atoms are extremely small; typical sizes are around 100 picometers. 
+Supplementary info: Diatomic gases are gases in which the molecules that make it up naturally consist of two atoms of the same type. For example, oxygen as a gas will naturally consist of molecules that contain two oxygen atoms. Other diatomic gases include nitrogen and chlorine. A molecule is a group of atoms bonded together, representing the smallest fundamental unit of a chemical compound that can take part in a chemical reaction. A chemical compound is a chemical substance composed of many identical molecules composed of atoms from more than one element held together by chemical bonds. Two atoms of the same element bonded in a molecule do not form a chemical compound, since this would require two different elements.",,47,Di atomic Gas,atoma,molecule,compound,2,,,,,,,,,,,,,,,
+" _____ determined the atomic masses of various elements and introduced the concepts of their symbols",,moderate," J. Berzelius determined the atomic masses of various elements. 
+Supplementary info: Whereas Democritus was a Greek philosopher who lived between 470-380 B.C. He developed the concept of the 'atom', Greek for 'indivisible'. Democritus believed that everything in the universe was made up of atoms, which were microscopic and indestructible. Democritus had many remarkable insights for his time. Dalton's atomic theory proposed that all matter was composed of atoms, indivisible and indestructible building blocks. While all atoms of an element were identical, different elements had atoms of differing size and mass. The Persian physician Al-Razi (ca. 865-925), also known as Rhazes, prepared compilations that were influential in Western medicine for centuries. His monograph on smallpox and measles is still considered a medical classic.",,47,Democritus,John Dalton,Al Razi,J. Berzelius,4,,,,,,,,,,,,,,,
+The properties of an element mostly corresponds to that isotope which has greater:,,easy,"Atoms that have the same number of protons, but different numbers of neutrons are known as isotopes. The relative abundance of an isotope is the percentage of atoms with a specific atomic mass found in a naturally occuring sample of an element. The properties of an element mostly correspond to that isotope which has greater relative abundance.",,47,Mass number,Atomic mass,Relative abundannce,None of these,3,,,,,,,,,,,,,,,
+Diameter of an atom,,moderate," The diameter of an atom is $2 \times 10^{-10} \mathrm{m}$
+$1 n m=10^{-9} m$
+Diameter of an atom $=2 \times 10^{-10} \mathrm{m}=0.2 \mathrm{nm}$",,47,2nm,0.2nm,200nm,0.02nm,2,,,,,,,,,,,,,,,
+Comment on the mass of an atom:,,moderate,The mass of an atom ranges from $10^{-27}$ to $10^{-25}$ kg. (fact),,47,It ranges from $10^{-27}$ to $10^{-25} \mathrm{kg}$,It ranges from $10^{-27}$ to $10^{-20} \mathrm{kg}$,It ranges from $10^{-30}$ to $10^{-25} \mathrm{kg}$,It ranges from $10^{-26}$ to $10^{-19} \mathrm{kg}$,1,,,,,,,,,,,,,,,
+"Choose the correct option with respect to atomicity:",,difficult,"Hetro atomic molecules must have more than one type of atom, such as water $\left(\mathrm{H}_{2} \mathrm{O}\right)$ ) $. \mathrm{A}$ homoatomic molecule is a molecule consisting of atoms of the same element. examples are - oxygen $\left(\mathrm{O}_{2}\right),$ hydrogen $\left(\mathrm{H}_{2}\right),$ and nitrogen $\left(\mathrm{N}_{2}\right) .$ Homo atomic molecules are also called ""Diatomic"" molecules. Only B option shows the correct option, H exists as a di atomic molecule in nature $\left(\mathrm{H}_{2}\right)$ and has only one type of atoms in the molecule (Hydrogen).",,47,Ne exists as di homo atomic molecule,H exists as di homo atomic molecule,N exists as hetro polyatomic molecule,N exist as homo polyatomic molecule,2,,,,,,,,,,,,,,,
+Which option shows the size of molecules correctly?,,difficult,"a macromolecule containing a very large number of atoms, such as a protein, nucleic acid, or synthetic polymer. a micro molecule refers to a molecule of relatively small size and low molecular weight as opposed to a macromolecule, which is large and with greater molecular weight. Silica is a simple micro molecule. Same goes for water, although it has strong covalent forces due to hydrogen bonding, it still forms a simple molecule. Proteins and lipids are complex macromolecule due to being very large structures and many types of bonding involved. Diamond is a macromolecule formed by each carbon atom attached to 4 other carbon atoms. It has strong covalent forces which makes it a complex hard crystal structure.",,47,Silica is a complex micro molecule,Diamond is a complex macromolecule,Water has strong forces and forms a complex macromolecule,Proteins and Lipids are simple micro molecules,2,,,,,,,,,,,,,,,
+Size of a molecule does not depend on:,,moderate,"Physical state has no effect on the composition of molecule and its actual size. Physical state is dependent on the on the attraction between the molecules (M.P.), its valency (color) etc. Size of molecules depends on the rest of the options.",,47,Size of atom,Atomicity,Shape of molecule,Physical state,4,,,,,,,,,,,,,,,
+Choose which statement shows the correct type of reaction with cation/ anion:,,difficult,"After uni-negative ion, when second electron is added then due to already present electron, electron-electron repulsion occurs, so to overcome this repulsion energy is given. That's why uni-negative ion is exothermic but di or tri-negative ion is endothermic",,47,Formation of cation is always exothermic,Formation of uni negative ion is endothermic,"Formation of uni-negative ion is exothermic, but formation of all other negative ions is endothermic",Formation of all positive ions are sometimes exothermic sometimes endothermic,3,,,,,,,,,,,,,,,
+Anionic molecular ion:,,difficult,"An anion can have a positive charge on ions involved to form a molecule, but it will always possess a negative charge as a whole. Such as a carbonate ion ${CO}_{3}^{2-}$",,47,Will always have an overall negative charge on the molecule  ,Can have positive charge within the molecule which makes the overall charge on the molecule positive,Means an anion reacting with a charged particle,Will always undergo endothermic reactions,1,,,,,,,,,,,,,,,
+A similarity between isotopes of same elements:,,difficult,"Isotopes are variants of a chemical element which differ in neutron number, and consequently in nucleon number. For example, $C^{12}$ and $C^{14}$. All isotopes of a given element have the same number of protons but different numbers of neutrons in each atom. Only the chemical properties of isotopes will be same due to having same number of electrons which leads to having same valence electrons which makes the chemical reaction with other elements same.",,47,Half life,"Mass number
+",Chemical properties,Rate of reaction,3,,,,,,,,,,,,,,,
+Sn (Tin) is a undeca-isotopic element. What does this mean?,,moderate,Un-deca means $(1+10)$ isotopes,,47,It has one isotope for every ten isotopes,It has eleven isotopes existing,It has 1+ charge on all ten isotopes of Sn,None of these,2,,,,,,,,,,,,,,,
+Which of the following is not a part of a mass spectrometer?,,moderate,"Coolant is not a part of a mass spectrometer whereas a heater is present to convert the elements to gaseous form in the vaporization chamber
+",https://d15o1jx56rxevg.cloudfront.net/ecat/chemistry/c1e13.PNG,47,Amplifier,Ionization chamber,Coolant,Ion collector / detector,3,,,,,,,,,,,,,,,
+"what happens in the ionization chamber?",,moderate," Vaporized ions are hit by electron beams or Alpha beams to form positively charged cations which further pass through electric field (to deflect) and magnetic field until they are detected by the detector.
+",,47,Electric field is applied to accelerate the positive ions,"On passing through magnetic field, deflection of positive ions takes place according to their mass/ charge ratio ","In this chamber sample of element is ionized by alpha Rays or by electron beam ",Ion collector receives positive ions according to their mass charge ratio related to isotopes,3,,,,,,,,,,,,,,,
+The number of peaks obtained in mass spectrometry shows ,,moderate, It shows the number of isotopes present with their relative abundance which adds up to 100% in total,,47,relative abundance ,average mass of element ,number of isotopes,relative isotopic mass,1,,,,,,,,,,,,,,,
+Which of the following compounds has a formula weight between 74 and 75 grams per mole?,,difficult,"Of the compounds listed, both choices (B) and (D) are covalent compounds and thus are measured in molecular weights, not formula weights. The formula weight of ${Mg}{Cl}_{2}$ is much too high $(24.3 amu + 2 \times 35.5 amu = 95.3$ amu per formula unit), eliminating choice (C). Only KCl fits the criteria $(39.1 amu + 35.5 amu = 74.6 amu)$",,47,KCl,$C_{4}H_{10}O$,${Mg}{Cl}_{2}$,$BF_{3}$,1,,,,,,,,,,,,,,,
+"Which of the following terms is not used for ionic compound",,easy,"Ionic compounds are compounds made up of ions. These ions are atoms that gain or lose electrons, giving them a net positive or negative charge. Metals tend to lose electrons, so they become cations and have a net positive charge. Nonmetals tend to gain electrons, forming anions that have a net negative charge. Ionic compounds exist in the form of ions, so the term empirical formula is used for ionic compounds not the molecular formula
+Supplementary info.: A molecular formula consists of the chemical symbols for the constituent elements followed by numeric subscripts describing the number of atoms of each element present in the molecule. The empirical formula represents the simplest whole-integer ratio of atoms in a compound. 
+",,47,Formula unit,empirical formula,molecular formula,formula mass,3,,,,,,,,,,,,,,,
+"Empirical formula:",,easy,"Empirical Formula is a formula that gives the simplest whole-number ratio of atoms in a compound. Start with the number of grams of each element, given in the problem. the mass of each element = the percent given. Divide each mole value by the smallest number of moles calculated. Empirical formula is used for both molecular and ionic compounds; it shows the simplest ratio of atoms present in a molecule",,47,"is used for both molecular and ionic compounds  ",is only used for molecular compounds,is only used for ionic compounds,none of these,1,,,,,,,,,,,,,,,
+"What is the percentage composition of carbon in a molecule of carbon dioxide? (Mr (molecular mass) of carbon = 12, oxygen = 16)",,difficult," Percentage composition of carbon = (no. of atoms $\times$ atomic mass of carbon) /molecular 
+mass of carbon $\times 100$
+\[
+=(12 / 44) \times 100=27.27 \%
+\]",,47,$27.27 \%$,$34 \%$,$72.73 \%$,$66\%$,1,,,,,,,,,,,,,,,
+"Combustion analysis is performed to determine: ",,easy,"Combustion analysis is a method used in both organic chemistry and analytical chemistry to determine the elemental composition (more precisely empirical formula) of a pure organic compound by combusting the sample under conditions where the resulting combustion products can be quantitatively analyzed. Mostly, elements have fractional atomic masses because atomic masses are average masses of isotopes proportional to their relative abundance",,47,Empirical formula,molecular formula,molecul a formula,formula mass,1,,,,,,,,,,,,,,,
+What volume 16g of methane gas occupies at room temperature?,,difficult," Moles = mass / molar mass = 16 / 16 = 1 mole
+                                      Volume = Moles $\times$ 22.414 $dm^3$ 
+                                      = 1 $\times$ 22.414 $dm^3$ 
+                                     =  22.414 $dm^3$ ",,47, 22.414 $dm^3$ ,29.414  $dm^3$ ,19.614  $dm^3$ ,20.514  $dm^3$ ,1,,,,,,,,,,,,,,,
+which one is not correct?,,," 1 mole of any element / compound contains $6.022 \times 10^{23}$ atoms. That makes A option correct. 18g of methane (Mr of methane is 18) equals 1 mole so option is correct as well. That automatically makes D option correct since both A and B are correct. That leaves option C since:
+                                  Moles = mass / molar mass
+                                   = 8/16 = 0.5 moles
+           No. of atoms = $Moles \times  6.022 \times  10^{23}$
+                                   = $0.5 \times  6.022 \times  10^{23}$
+                                   = $3.011 \times 10^{23}$ atoms",,47,1 mole of Na =  $6.022 \times  10^{23}$ atoms,18g of water =$6.022 \times  10^{23}$ atoms,8g of Methane = $6.022 \times 10^{23}$ atoms,Both A and B are correct,3,,,,,,,,,,,,,,,
+"A compound contains $50\%$ sulfur and $50\%$ oxygen by mass, the empirical formula of the compound is:",,moderate," Empirical formula is calculated using the ratios of percentages with molar masses as shown below:
+Dividing the percentages of elements given with their atomic masses:
+\[
+\begin{array}{c}
+\mathrm{S}: \mathrm{O} \\
+50 / 32: 50 / 16 \\
+1.5625: 3.125
+\end{array}
+\]
+Dividing all elements with least amount gives simplest ratios:
+\[
+1.5625 / 1.5625: 3.125 / 1.5625
+\]
+$1 \quad: \quad 2$
+\[
+\text { Formula }=\mathrm{SO}_{2}
+\]",,47,$S_2O_3$,$SO_2$,$SO_3$,SO,2,,,,,,,,,,,,,,,
+The minimum number of molecules are present in,,difficult,"Use no. of molecules = moles $\times$ Avogadro’s constant. Apply this formula on all option and get the correct answer through trial and error method. Applying this on option D gives the least number of molecules. 
+Moles of $N_2O_5$ = Mass / molar mass
+5.4 /108 = 0. 05 moles 
+No. of molecules = $0.05\times 6.02\times10^{23} = 3.01 \times 10^{22}$ molecules. 
+Finding molecules of other options, the same way gives the number of molecules of option D least.",,47,3.6 grams of $\mathrm{H}_{2} \mathrm{O}$,4.8 grams of $C_{2} H_{5} O H$,2.8 grams of CO,5.4 grams of $N_{2} O_{3}$,4,,,,,,,,,,,,,,,
+Comment on the actual yield and theoretical yield:,,moderate, Actual yield is always less than theoretical yield. A practically inexperienced worker has many shortcomings and cannot get the expected yield. ,,47,actual yield and theoretical yield are always equal,actual yield is always less than theoretical yield,theoretical yield is always less than actual yield,actual yield and theoretical yield are not related to each other,1,,,,,,,,,,,,,,,
+"50 $dm_3$ of CO is burnt completely according to the reaction, which of the following is correct? 
+",,difficult,"As we have the equation of carbon monoxide reacting with oxygen to form carbon dioxide:
+\[
+2 \mathrm{CO}+\mathrm{O}_{2} \rightarrow 2 \mathrm{CO}_{2}
+\]
+Now look at the molar ratio of carbon dioxide and oxygen:
+Moles of $\mathrm{CO}: \mathrm{O}_{2} \rightarrow 2: 1$
+As volume ratio is found out by looking at the molar ratios, and since molar ratios of Carbon monoxide and oxygen is 2: 1 the volume of ration will be:
+Volume ratio 50: 25
+So, $50 \mathrm{dm}_{3}$ of CO requires $25 \mathrm{dm}_{3}$ of oxygen",,47,volume of $\mathrm{O}_{2}$ required is $25 \mathrm{dm}_{3}$,volume of $\mathrm{CO}_{2}$ formed is $60 \mathrm{dm}$,volume of $\mathrm{O}_{2}$ required is $5 \mathrm{dm}_{3}$,volume of CO formed is $25 \mathrm{dm}_{3}$,,,,,,,,,,,,,,,,
+what describes a limiting reactant?,,easy,Limiting reactant is a reactant that produces the least number of Moles of product. It is consumed earlier in the reaction. It controls the number of products formed in a chemical reaction due to being less than the required amount,,47,It is a reactant that produces least number of moles of product,It is a product that is produced in least amount in a chemical reaction,It is a reactant that that remains after a chemical reaction,It is a reactant that limits it's reacting capability,1,,,,,,,,,,,,,,,
+One mole of \( \mathrm{C}_{2} \mathrm{H}_{5} \mathrm{OH} \) and \( \mathrm{CH}_{3} \) have equal number of:,,moderate,"Since number of molecules = number of molecules x number of moles x Avogadro's constant
+\[
+\begin{array}{l}
+\mathrm{C}_{2} \mathrm{H}_{5} \mathrm{OH}=1 \times 1 \times 6.022 \times 10^{23}=6.022 \times 10^{23} \text { molecules } \\
+\qquad \mathrm{CH}_{3}=1 \times 1 \times 6.022 \times 10^{23}=6.022 \times 10^{23} \mathrm{molecules}
+\end{array}
+\]",,47,Atoms,Molecules,Electrons,Protons,2,,,,,,,,,,,,,,,
+Naturally occurring isotopes of carbon are,,moderate,"Naturally there are three isotopes of carbon existing which are $C_{12}$, $C_{13}$, and $C_{14}$",,47,4,5,3,2,3,,,,,,,,,,,,,,,
+The percentage of oxygen in water is:,,moderate,"(no. of atoms of oxygen $\times$atomic mass of oxygen) / molecular mass of water 
+                      (16/18) $\times$ 100 = 88.88\%
+",,47,80,88.88,8.8,9.8,2,,,,,,,,,,,,,,,
+which option shows a wrong formula to calculate the number of moles?,,easy,The correct formula using volume and molar gas constant is moles = volume / molar gas constant as stated in option B,,47,Mass / molar mass,Volume / molar gas constant,Concentration $\times$ volume, Volume $\times$molar gas constant,4,,,,,,,,,,,,,,,
+Represents the volume occupied by any gas at STP in L/n,,difficult,All gases occupy 22.4 $dm^{3}$ at standard temperature and pressure.,,47,$22.4$,$6\times10^{22}$,$1.2\times10^{24}$,$149$,1,,,,,,,,,,,,,,,
+The number of hydrogen atoms in a 0.9-gram sample of water,,difficult,(mass / molar mass) $\times$ no. of atoms of hydrogen in water $\times$ Avogadro's constant \( =(0.9 / 18) \times 6.022 \times 10^{23} \times 2=6 \times 10^{22} \) atoms of hydrogen,,47,$22.4$,$6\times10^{22}$,$1.2\times10^{24}$,$149$,2,,,,,,,,,,,,,,,
+The molar mass of ammonium phosphate,,difficult,"sum of (number of atoms of each type of atom x molar mass of that atom)
+\[
+\begin{array}{rl}
+\left(\mathrm{NH}_{4}\right)_{3} \mathrm{PO}_{4} & 3 \mathrm{N} \times 14.01 \mathrm{g} / \mathrm{mol}=42.03 \,\mathrm{g} / \mathrm{mol} \\
+&12 \mathrm{H} \times 1.008 \mathrm{g} / \mathrm{mol}=12.096 \,\mathrm{g} / \mathrm{mol} \\
+& \,\,\,1 \mathrm{P} \times 30.97 \mathrm{g} / \mathrm{mol}=30.97 \, \mathrm{g} / \mathrm{mol} \\
+& 4 \mathrm{O} \times 16.00 \mathrm{g} / \mathrm{mol}=64.00 \,\mathrm{g} / \mathrm{mol}  \\
+\hline &\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\, \mathrm{Sum}=149.096 \mathrm{g} / \mathrm{mol}
+\end{array}
+\]",,47,$22.4$,$6\times10^{22}$,$1.2\times10^{24}$,$149$,4,,,,,,,,,,,,,,,
+Which of the following compounds have the same empirical formula?,,moderate,"Taking out the simplest ratios of choices given in option D leads us to the same empirical formula of \( \mathrm{C} \mathrm{H}_{2}\)
+\( \mathrm{C}_{6} \mathrm{H}_{12} / 2=\mathrm{CH}_{2} \quad \mathrm{C}_{7} \mathrm{H}_{14} / 2=\mathrm{CH}_{2} \) 
+The simplest form of both molecules in option \( \mathrm{D} \) are \( \mathrm{CH}_{2} \)
+",,47,\( C_{4} \mathrm{H}_{10} \) and \( \mathrm{C}_{10} \mathrm{H}_{4} \),\( \mathrm{NO} \) and \( \mathrm{NO}_{2} \),\( \mathrm{CO}_{2} \) and \( \mathrm{SO}_{2} \),\( \mathrm{C}_{6} \mathrm{H}_{12} \) and \( \mathrm{C}_{7} \mathrm{H}_{14} \),4,,,,,,,,,,,,,,,
+"Which of the following is not a separation technique?",,easy,"Separation techniques are those techniques that can be used to separate two different states of matter such as liquid and solid. Such separation techniques include filtration, decanting or sublimation. Boiling is not a separation technique it is the change of state of a substance from liquid do vapors",,48,Filtration,Sublimation,Boiling,Decanting,3,,,,,,,,,,,,,,,
+"Which of the following is not a qualitative technique?",,easy,"Qualitative analysis is the identification of the constituents, e.g. elements or functional groups, present in a substance. Quantitative analysis is the measurement of the quantities of constituents present in a substance. volumetric analysis is a quantitative technique in which the amount of solute and solvent can be determined. Salt analysis and detection of groups and qualitative analysis since they identify the substances presence and not the quantity of the compounds.",,48,salt analysis ,volumetric analysis,detection of functional groups,all of these,2,,,,,,,,,,,,,,,
+"Which one of these is not a step for quantitative analysis?",,moderate, Identification of the properties of elements present in a compound is carried out in qualitative analysis.,,48,identification of the properties of the elements present in a compound,separation of desired constituents,measurement and calculation of result,none of these,1,,,,,,,,,,,,,,,
+Which of the following correctly describes decanting and centrifuging?,,moderate,"Decanting allows two immiscible liquids or a mixture of solid and liquid to separate out by gravity. Once the mixture components have separated, the lighter liquid is poured off leaving the heavier behind. it is not very accurate as a small amount of the lighter is always left behind. A centrifuge is used to spin mixtures of solids and liquids very fast so that the solid gravitates towards the bottom and the liquid to the top.",,48,Separating a soluble solid from a solution,separating soluble and insoluble solids,separation of a suspension,separation of a liquid from a solution,3,,,,,,,,,,,,,,,
+What technique do we use to obtain solvent from a solution?,,moderate,"Separating funnel is used to obtain solvent from a solution. The solution is passed from the separating funnel and so the solute remains on the funnel and only the solvent passes through it. Sublimation is a technique used to separate the components of a mixture containing a sublimable volatile solid and a non-sublimable impurity. Crystallization is a technique used for the purification of substances. A separation technique to separate solids from a solution. On adding a solid substance in a liquid and stirring it, the solid dissolves in the fluid. Evaporation is the process by which water changes from a liquid to a gas or vapor which leaves solid at the end only.",,48,Sublimation,Separating funnel,Crystallization,Evaporation,2,,,,,,,,,,,,,,,
+Sintered glasses is a porous material used for:,,moderate,"Sintered glass is a porous material used for filtration. It ensures fast filtration compared to traditional techniques the filter a solute from a solvent ",,48,absorption,adsorption,filtration,sublimation,2,,,,,,,,,,,,,,,
+A method of separating a component from its solution according to a distribution law is called:,,difficult,"Solvent extraction is a process with which the partial removal of a substance from a solution or mixture by dissolving it in another, immiscible solvent in which it is more soluble. It follows their distribution law which calculates the ratio absolute in both phases. Sublimation is a technique used to separate the components of a mixture containing a sublimable volatile solid and a non-sublimable impurity. Crystallization is a technique used for the purification of substances. A separation technique to separate solids from a solution. On adding a solid substance in a liquid and stirring it, the solid dissolves in the fluid. Paper chromatography, in analytical chemistry, technique for separating dissolved chemical substances by taking advantage of their different rates of migration across sheets of paper.",,48,crystallization,sublimation,solvent extraction,paper chromatography,3,,,,,,,,,,,,,,,
+NaCl and sand can be separated by one of the following techniques,,difficult,"Explanation: mixture of NaCl and sand can be separated by dissolving this mixture into the water. (Since NaCl is soluble and sand is insoluble in water). NaCl will be dissolved while sand will remain insoluble. First, we use filtration to separate sand from the solution after that by evaporation NaCl crystals will be obtained.",,48,formation of solution and filtration,formation of solution an evaporation without filtration,sublimation,chromatography,1,,,,,,,,,,,,,,,
+To achieve a good separation the two liquids are gently shaken to increase their area of:,,moderate,"By shaking 2 liquids in solvent extraction the area of contact for solute increases. As the area of contact increases, the immiscible liquids are easier to separate. Equilibrium is established rapidly by shaking the liquids. miscibility means forming a homogeneous mixture when added together.",,48,miscibility,separation,contact,solubility,3,,,,,,,,,,,,,,,
+What is used instead of filter paper to make sure the reactive solutions do not react with the filter paper?,,difficult,asbestos Mat is a heat proof mat. It is used instead of filter paper for those chemicals which have a reaction with paper,,48,HCl,Asbestos,Charcoal,Crucible,2,,,,,,,,,,,,,,,
+On what basis filter papers are classified?,,easy,Filter paper is a semi-permeable paper barrier placed perpendicular to a liquid or air flow. It is used to separate fine substances from liquids or air. Filter paper is classified on their size of course they should be filled with precipitates up to ¼-1/2,,48,Their size of pores,their material from which they are extracted,basis of solvent,basis of solute,1,,,,,,,,,,,,,,,
+"Which of the following should not be considered when choosing solvent during crystallization? ",,difficult,"For solute to be suitable for crystallization, a solvent should dissolve excess amount of solute when heated and the amount of solute dissolved in the solution at room temperature should be less than at high temperatures. All the other options are vital while choosing solvent for crystallization.",,48,Suitable solvent dissolves excess of solvent at high temperature and high amount of solute at room temperature,it should be cheaper,it should be safe and should be easily removable,suitable solvent it dissolves excess of solute at high temperature unless amount of solute at room temperature,1,,,,,,,,,,,,,,,
+What classifies a saturated solution? ,,difficult, A saturated solution is a chemical solution containing the maximum concentration of a solute dissolved in the solvent. ​The additional solute will not dissolve in a saturated solution. (fact),,48,An inflammable salute at room temperature,solute is dissolved in minimum amount of solvent at its boiling point to form a saturated solution,on cooling it should deposit a good amount of solvent at room temperature,minimum solute that can be dissolved in maximum amount of solvent at its boiling point to form a saturated solution,2,,,,,,,,,,,,,,,
+why is filtration carried out after preparation of a saturated solution in crystallization?,,moderate,fluted filter paper or normal filter paper is used for the filtration of a hot solution. The filtration of a hot solution avoids premature crystal.  the hot solution is formed after the solute is dissolved in minimum amount of solvent at its boiling point to form a saturated solution. Heating the solution is not going to remove the impurities when filtration is supposed to be carried out.,,48,To make sure no insoluble impurities are left,to make sure no soluble impurities are left,to avoid premature crystals,in case premature crystals are to be obtained,3,,,,,,,,,,,,,,,
+How decolorization of crystals is obtained after crystallization?,,moderate,"D option shows the correct procedure to decolorize crystals after crystallization. After being boiled the solution is filtered in hard state, moderate cooling is carried out and crystals of pure substance will be separated out. All the other techniques are incorrect.",,48,they are re dissolved in the solute to mix the color with the salute,crystals of pure substance are dissolved with impure substance to mix the color,crystals are further cooled down which decolorize them,crystals with deposition of coloring matter are dissolved in solvent and boiled,4,,,,,,,,,,,,,,,
+What solvent is used to adsorb color during decolorization of crystals after crystallization?,,easy,"Animal charcoal (uncountable) is a fine charcoal prepared by calcining bones in a closed vessel; used as a filtering agent in sugar refining, and as an adsorbent and disinfectant. Animal charcoal is used to adsorb color in decolorization of crystals ",,48,Asbestos,NaCl,animal charcoal,$H_2SO_4$,3,,,,,,,,,,,,,,,
+Solvent extraction is a technique mostly applied to:,,moderate,solvent extraction technique involves the separation of a solute from a solution by shaking the solution with an immiscible solvent in which the solute is more soluble. This technique is mostly applied to separate organic compounds from water,,48,separate organic compounds from water,separate different organic compounds,separate different aqueous solutions,separate a solvent from a solute,1,,,,,,,,,,,,,,,
+Which of the following combinations of liquids would be expected to have a vapor pressure higher than the vapor pressure that would be predicted by Raoult's law?,,moderate," Mixtures that have a higher vapor pressure than predicted by Raoult's law have stronger solvent-solvent and solute-solute interactions than solvent-solute interactions. Therefore, particles do not want to stay in solution and more readily evaporate, creating a higher vapor pressure than an ideal solution. Two liquids that have different properties, like hexane (hydrophobic) and ethanol (hydrophilic, small) in Choice (A), would not have many interactions with each other and would cause positive deviation. Choices (B) and (C) are composed of liquids that are like one another and would not show significant deviation from Raoult's law. Choice (D) contains two liquids that would interact very well with each other, which would cause a negative deviation from Raoult's law—when attracted to one other, liquids prefer to stay in liquid form and have a lower vapor pressure than predicted by Raoult's law.",,48,Ethanol and hexane,Acetone and water,Isopropanol and methano,Nitric acid and water,1,,,,,,,,,,,,,,,
+" A substance having very high vapor pressure at its melting point, on heating will show:",,difficult,Sublimation is the only process in which a solid is directly converted to a gas at its melting point it doesn't go through the liquid phase. Very high vapor pressure at melting point will convert the solid into gas.,,48,melting,sublimation,decomposition,condensation,2,,,,,,,,,,,,,,,
+What solvent can be used as a stationary phase in chromatography? ,,moderate,"Silica gel is a polar adsorbent and being slightly acidic in nature, it has a powerful capacity to absorb basic contents that may be present in the material that needs separation or purification. It is also well known for its role in reversed-phase partition chromatography. Silica gel is an example of a stationary phase the which the solute combines if it is less soluble in the solvent or the mobile phase. (fact)",,48,Asbestos,Silica gel,HCL,stationary face does not require a solvent,2,,,,,,,,,,,,,,,
+Which one of the following methods will be used to separate the mixture of NaCl and sand?,,difficult,"Water dissolves in NaCl, whereas sand is insoluble in water. Filtration removes the sand leaving solution of NaCl by evaporating water. Only NaCl is left behind.",,48,Solvent Extraction,sublimation,Filtration,chromatography,3,,,,,,,,,,,,,,,
+Which statement about chromatography is correct?,,moderate,"Partition chromatography is an LC method in which solutes are separated based on their partitioning between a liquid mobile phase and a stationary phase that is coated or bonded onto a solid support. Liquid chromatography (LC) is a separation. Adsorption chromatography is a type of chromatography which is based on the principle of adsorption. Here, the separation is based on the interaction of the adsorbate with the adsorbent. The adsorbent is the surface and adsorbate are the molecules of interest which are getting adsorbed on the adsorbent. adsorption chromatography supports solid as a stationary phase while liquid chromatography supports liquid or liquid supported on solid as a stationary phase.",,48,In adsorption liquid supported on solid act as stationary phase,in partition chromatography a solid it is used as stationary phase,in liquid chromatography liquid or liquid supported on solid act as stationary phase,adsorption chromatography does not support chromatography of complex compounds anymore,3,,,,,,,,,,,,,,,
+ Different components of a mixture have different RF values due to:,,easy,"The Rf value is defined as the ratio of the distance moved by the solute (i.e. the dye or pigment under test) and the distance moved by the solvent (known as the Solvent front) along the paper, where both distances are measured from the common Origin or Application Baseline. Each component has different affinity for the solvent. Solvent acts same with different component mixtures, so option A is incorrect. Distribution Law is applicable on solvent extraction, it has nothing to do with RF values and chromatography which makes option D incorrect.",,48,polar solvent used,combination of solvents used,their different distribution coefficients in the solvent,distributive law,3,,,,,,,,,,,,,,,
+choose the correct definition of mother liquor:,,moderate,Mother liquor is the liquid remaining after a substance has crystallized out.,,48,find particles that are held in a liquid and not sink to the bottom,a solution that passes through the filter paper,normally a solvent which does not get dissolved,a solution left after crystallization,4,,,,,,,,,,,,,,,
+Comment on the unit of retardation factor:,,moderate," Rf= Ds/Df, where RF is the retardation factor, Ds is the migration distance of the substance and Df is the migration distance of the solvent front. retardation factor is the ratio of the distance traveled by a component from the original spot and the distance traveled by solvent from the original spot which cancels out the units therefore retardation factor has no unit.
+Rf = m/m
+No unit",,48,retardation factor has he no unit,retardation factor has the same unit as speed,retardation factor has the same unit as volume of the solutes,retardation factor has the same unit as distance traveled by the solutes,1,,,,,,,,,,,,,,,
+Which of the following is not an example of paper chromatography?,,easy,"In ascending chromatography, the mobile phase moves up the paper, separating the components of the analyte as it moves along the paper. In descending chromatography, the mobile phase moves down, separating the components of the analyte as it moves along the paper. Radial chromatography is a form of chromatography, a preparatory technique for separating chemical mixtures. The wick at the center of system drips solvent into the system which the provides the mobile phase and moves the sample radially to form the sample spots of different compounds as concentric rings. 3 ways of paper chromatography includes ascending paper chromatography, descending paper chromatography, and radial or circular paper chromatography.",,48,Ascending paper chromatography,descending paper chromatography,circular paper chromatography,diagonal paper chromatography,4,,,,,,,,,,,,,,,
+Which of the following statement is true?,,difficult,Residue is a substance that remains after a process such as combustion or evaporation. Distillate is the something formed by distillation. A suspension is a heterogeneous mixture in which solute-like particles settle out of a solvent-like phase sometime after their introduction. Only C option shows the correct definition.,,48,Residue is the solution that passes through the filter paper,Distillates are liquid that mix together,fraction is a distillate between a certain boiling point range separated by fractional distillation,Suspension is the solution left after crystallization,3,,,,,,,,,,,,,,,
+Which pairs of the following components can be separated by sublimation?,,difficult,"Sublimation is the transition of a substance directly from the solid to the gas state, without passing through the liquid state. One of the substances should be thermally stable and one of them should be thermally unstable. Option A shows the correct value. In option B both compounds are thermally stable. Same goes for option C and D.",,48,sand and naphthalene,sand and NaCl,sand and broken pieces of glass,NaCl and KCL,1,,,,,,,,,,,,,,,
+Sublimation method is a particularly useful technique for separation when the product to be separated is:,,moderate,If the product to be collected is volatile or thermally unstable then once it forms a vapor it can be cooled down and collected efficiently. Hence one product must be thermally unstable / volatile the other should not be volatile.,,48,nonvolatile or thermally unstable,volatile or thermally stable,nonvolatile of thermally stable,volatile or thermally unstable,4,,,,,,,,,,,,,,,
+A filtration process could be very time consuming if it were not added by gentle suction which is developed:,,difficult,"Filtration is the process of separating suspended solid matter from a liquid, by causing the latter to pass through the pores of some substance, called a filter. The liquid which has passed through the filter is called the filtrate. The paper should fit tightly so the filtrate can easily pass through it.",,48,if the paper covers the final up to its circumference,if the paper fits tightly,if the paper has got small sized pores in it,if the stem of the final is large so that it dips into the filtrate,2,,,,,,,,,,,,,,,
+Cold finger tube is used in:,,difficult,A cold finger is a piece of laboratory equipment that is used to generate a localized cold surface. Cold finger used in sublimation. Volatile compound sticks on the cold surface so it can be collected.,,48,sublimation,distillation,filtration,none of these,1,,,,,,,,,,,,,,,
+Which of the following method is used to measure the concentration of hydrogen ions in a solution?,,difficult,"The quantitative analysis of the concentration of hydrogen ions in a solution can be done by volumetric analysis. For example, a volumetric analysis of an acid which contains hydrogen ions with an alkali. Option B is used to provide current whereas pH meter detects the Ph of the solution.",,48,volumetric titration,by EMP galvanic cell,pH meter,all the above,1,,,,,,,,,,,,,,,
+The solvent selected for crystallization of a substance is based on:,,easy, During crystallization choice of solvent is selected by hidden trial method. Suitable solvent dissolves excess of solute at high temperature and less amount of solute at low temperature. ,,48,its reacting nature,its nonpolar nature,it should react chemically,on hit and trial basis,4,,,,,,,,,,,,,,,
+Which of the following is not an adsorption chromatographic technique:,,easy,"Paper chromatography is an analytical method used to separate colored chemicals. It works as absorption chromatography where the more soluble a molecule is, the higher it will migrate up the paper. If a chemical is very non-polar it will not dissolve at all in a very polar solvent. The rest of the of the options work on adsorption technique.",,48,thin layer chromatography,paper chromatography,column chromatography,gas chromatography,2,,,,,,,,,,,,,,,
+"In $CCl_4$ , $I_2$ shows:",,easy,Color of $I_2$ is purple naturally. (fact),,48,red color,blue color,purple color,yellow color,3,,,,,,,,,,,,,,,
+"If $x, y \in R,$ then $x+y$ is a Real Number, this law is called",,easy,Definition of closure property of set.,,84,Closure law,commutative law,Associative law,Distributive law,1,,,,,,,,,,,,,,,
+"If $a \in Q$, there exist a multiplicative inverse for a, which is",,easy,"the product of number and its multiplicative inverse is $1,$ so $a * \frac{1}{a}=1$",,84,0,$a$,$1/a$,$-a$,3,,,,,,,,,,,,,,,
+Which of the following is field?,,moderate,"The set which satisfy all 11 laws of real number, is called field. Only set of rational number Q, Real numbers R, and complex numbers C, are field.",,84,Q,N,W,Q',1,,,,,,,,,,,,,,,
+"Which of the following is not an order axiom,",,moderate,The set which follow properties of inequalities are order axioms. Every set follow inequalities except for complex numbers.,,84,Q,C,R,Z,2,,,,,,,,,,,,,,,
+"Let $a, b, c, d \in R$ then $a=b$ and $c=d \Rightarrow$",,easy,"Apply the additive property of real number on a=b, since c=d, their addition and subtraction will not change the output.",,84,$a+b=c+d$,$a-b=c+d$,$a-c=b-d$,$a-c=b+d$,3,,,,,,,,,,,,,,,
+"The solution of $x+p=q,$ where $p>q$ exist in the set of",,moderate,"the solution is $x=q-p,$ so if $p>q$ then the result will be negative number Let say $p=5, p>q, \quad q=4$ then $x=q-p=4-5=-1$ it is a negative number that belongs to set of integers $Z=\{0,\pm 1,\pm 2, \ldots \ldots\}$",,84,$N$,$\mathrm{W}$,$Z$,All of These,2,,,,,,,,,,,,,,,
+"$x+\sqrt{a}=2$ will have a solution in $N$ for,",,moderate," for $a=1$ the value of $x$ will be 1 , anything else will generate $\mathrm{W}, \mathrm{Z}$ or $Q$.
+(b) $\quad x+\sqrt{2}=x+2=2 \rightarrow x=2-2=0$
+0 belongs to set $\mathrm{W}$
+(c) $\quad x+\sqrt{1}=x+1=2 \quad \rightarrow \quad x=2-1=1$
+1 belongs to set $\mathrm{N}$ For any other perfect square, x will be negative",,84,$a$ is perfect square,$a=\{1\}$,"$a=\{1,4\}$",does not exist,3,,,,,,,,,,,,,,,
+The set of rational numbers between two real numbers is __________,,easy,"Basic Point, there are infinite many rational numbers between 2 real numbers",,84,Finite,Empty,Infinire,Singleton,3,,,,,,,,,,,,,,,
+Additive identity on N is __________,,easy,"The set of natural number starts from 1,2,3,…, whereas 0 is additive identity.",,84,0,1,No identity,none of these,3,,,,,,,,,,,,,,,
+Additive inverse of $2+\sqrt{3}$ is __________,,easy," The sum of number and its inverse is identity (0).
+(a) $2+\sqrt{3}+2-\sqrt{3}=4$
+(b) $2+\sqrt{3}-2-\sqrt{3}=0$",,84,$2-\sqrt{3}$,$-2-\sqrt{3}$,$-2+\sqrt{3}$,0,2,,,,,,,,,,,,,,,
+The multiplicative inverse of $\sqrt{7}$ is __________,,easy,"The product of number and its inverse should be identity (1).
+\[
+\frac{\sqrt{7}}{7}=\frac{\sqrt{7}}{(\sqrt{7})^{2}}=\frac{\sqrt{7}}{\sqrt{7} \cdot \sqrt{7}}=\frac{1}{\sqrt{7}}
+\]",,84,$-\frac{1}{\sqrt{7}}$,$\frac{\sqrt{7}}{7}$,$\frac{1}{7}$,1,2,,,,,,,,,,,,,,,
+$(12) \quad 0 . \overline{3575}$ is,,easy,Every non-terminating and recurring decimal is rational number e.g. $0 . \overline{24}=\frac{24}{99}$ and this number is $0 . \overline{3575}=\frac{3575}{9999}$,,84,Rational,Irrational,Integer,Non-recurring decimal.,1,,,,,,,,,,,,,,,
+"$\quad$ If $|x-3|<5,$ then $x$ lies between",,moderate,"Reverse solve it
+(a) $|2-3|=|-1|=1<5$ $|4-3|=|1|=1<5$ satisfy",,84,2 and 4 ,-6 and -2,-2 and 4,-4 and 2,1,,,,,,,,,,,,,,,
+$\left|x^{2}\right|=$,,easy,The value inside always generate positive answer since $-x^{2}$ is negative.,,84,$x^{2}$,$-x^{2}$,$x$,Both a and 6,1,,,,,,,,,,,,,,,
+"If $Z_{1}=\left(x_{1}, y_{1}\right), \quad Z_{2}=\left(x_{2}, y_{2}\right)$ where $Z_{1}, Z_{2} \in C$ then $Z_{1}+Z_{2}=?$",,easy,"The real part adds in the real part, whereas imaginary adds in imaginary part.
+Basic Theoretical Formula ",,84,"(x1+x2, y1+y2)","(x1+y2, x2+y1)","(x1+y1, x2+y2)","(x1-x2, y1-y2)",1,,,,,,,,,,,,,,,
+If $Z_{1}=3-6 i$ and $Z_{2}=4+5 i$ then $Z_{1} Z_{2}=?$,,moderate,"simple multiplication for $Z_{1}=\left(x_{1}, y_{1}\right), Z_{2}=\left(x_{2}, y_{2}\right)$
+\[
+Z_{1} \cdot Z_{2}=\left(x_{1} x_{2}-y_{1} y_{2}, x_{1} y_{2}+x_{2} y_{1}\right)
+\]
+""So for the given statement:
+$(3(4)-(-6)(5), 3(5)+4(-6))=(12+30,15-24)=(42,-9)=42+9 i$""",,84,$42-9 i$,$9-42 i$,$42+9 i$,$7-i$,1,,,,,,,,,,,,,,,
+"$\quad$ If $Z_{1}=(1,0), Z_{2}=(2,3)$ then $Z_{1} Z_{2}=?$",,moderate,"simple multiplication for $Z_{1}=\left(x_{1}, y_{1}\right), Z_{2}=\left(x_{2}, y_{2}\right)$
+\[
+Z_{1} \cdot Z_{2}=\left(x_{1} x_{2}-y_{1} y_{2}, x_{1} y_{2}+x_{2} y_{1}\right)
+\]
+For given statement: $(1(2)-0(3), 2(0)+3(1))=(2-0,0+3)=(2,3)=2+3 i$",,84,$-2+3 i$,$2-3 i$,$2+3 i$,$-2-3 i$,3,,,,,,,,,,,,,,,
+"$(3,5)+(0,4)=?$",,easy,"The real part adds in the real part, whereas imaginary adds in imaginary part. $\left(x_{1}+x_{2}, y_{1}+y_{2}\right)$
+For Given Statement: $(3+0,5+4)=(3,9)$ ",,84,"(3,5)","(0,9)","(0,4)","(3,9)",4,,,,,,,,,,,,,,,
+"Additive inverse of (3,3) in C is",,easy,The sum of number and its inverse is identity (0),,84,"(3, 0)","(0, 3)","(-3, 3)","(-3,-3)",4,,,,,,,,,,,,,,,
+"If Z =(a,b) then multiplicative inverse of Z is",,easy,"Theoretical Formula based on $Z^{-1}=\frac{\bar{z}}{|Z|^{2}}=\frac{a-b i}{(\sqrt{a^{2}+b^{2}})^{2}}=\frac{a-b i}{a^{2}+b^{2}}=\left(\frac{a}{a^{2}+b^{2}}, \frac{-b}{a^{2}+b^{2}}\right)$",,84,"$\left(\frac{a}{a^{2}+b^{2}}, \frac{b}{a^{2}+b^{2}}\right)$","$\left(\frac{a}{a^{2}+b^{2}}, \frac{-b}{a^{2}+b^{2}}\right)$","$\left(\frac{-a}{a^{2}+b^{2}}, \frac{-b}{a^{2}+b^{2}}\right)$","$\left(\frac{-a}{a^{2}+b^{2}}, \frac{b}{a^{2}+b^{2}}\right)$",2,,,,,,,,,,,,,,,
+If $Z=a+b$ then $|Z|=?$,,easy,Theoretical Formula Difficulty: Easy,,84,$a+b$,$\sqrt{a^{2}+b^{2}}$,$a^{2}+b^{2}$,$a^{2}+b^{2}+2 a b$,2,,,,,,,,,,,,,,,
+"$\quad$ If $Z=a+b,$ then $\bar{Z}=?$",,easy,conjugate only changes the sign of negative numbers not real.,,84,$a-b$,$-(a+b)$,$-a+b$,$a+b$,4,,,,,,,,,,,,,,,
+$i^{15}=?$,,easy,"Divide the power by $4,$ the remainder then be used to solve \begin{tabular}{|c|c|c|c|c|}
+\hline Remainder & 0 & 1 & 2 & 3 \\
+\hline Answer & 1 & $i$ & -1 & $-i$ \\
+\hline
+\end{tabular} Divide 15 by 4: will result in remainder 3 so answer is $-i$",,84,1,$-i$,$i$,-1,2,,,,,,,,,,,,,,,
+The value of $i^1937$ =?,,moderate,"For powers greater than hundred, just divide last two parts by 4 and get the remainder. For 1937. just divide 37 by 4 the remainder will be 1 so answer is i
+\begin{array}{|c|c|c|c|c|}
+\hline \text { Remainder } & 0 & 1 & 2 & 3 \\
+\hline \text { Answer } & 1 & i & -1 & -i \\
+\hline
+\end{array}",,84,$i$,$-i$,1,-1,1,,,,,,,,,,,,,,,
+"Conjugate of (-3, 4) is",,easy,conjugate only changes the sign of imaginary part of complex numbers not real.,,84,"(3, 4)","(3,-4)","(-3,-4)","(-3,4)",3,,,,,,,,,,,,,,,
+$(-i)^{31}$,,easy,$\quad(-i)^{31}=(-1 * i)^{31}=(-1)^{31}(i)^{31}=(-1)(-i)=i$,,84,$i$,$-i$,1,-1,1,,,,,,,,,,,,,,,
+The multiplicative inverse of $1-3 i$ is,,easy,"use theoretical formula $\left(\frac{a}{a^{2}+b^{2}}, \frac{-b}{a^{2}+b^{2}}\right)$
+\[
+(1,-3)^{-1}=\left(\frac{1}{1^{2}+3^{2}}, \frac{-(-3)}{1^{2}+3^{2}}\right)=\left(\frac{1}{1+9}, \frac{3}{1+9}\right)=\left(\frac{1}{10}, \frac{3}{10}\right)=\frac{1}{10}(1+i)
+\]",,84,$3 i$,$\frac{1}{3 i}$,$-\frac{1}{3}$,none,4,,,,,,,,,,,,,,,
+The value of $i^{-29}$ is,,easy,"for negative power, solve the power first, since the remainder of 29 when divided by 4 is $1,$ answer will be $i^{-29}=i^{-1}=\frac{1}{i}=-i$",,84,$i$,$-i$,1,-1,2,,,,,,,,,,,,,,,
+If $Z \in C$ then $Z . \bar{Z}=?$,,difficult,The product of complex number and its conjugate is square of modulus. Property.,,84,$Z$,$-Z$,$z^2$,$|Z|^{2}$,4,,,,,,,,,,,,,,,
+"If $Z_{1}, Z_{2} \in C$ then $\overline{Z_{1}+Z_{2}}=?$",,easy,property,,84,$\overline{Z_{1}}+\overline{Z_{2}}$,$Z_{1}-Z_{2}$,$Z_{1}+Z_{2}$,$\overline{Z_{1}-Z_{2}}$,1,,,,,,,,,,,,,,,
+The value of $(3+2 i)^{3}$ is,,moderate,"Simplify the cube $(a+b)^{3}=a^{3}+b^{3}+3 a^{2} b+3 a b^{2}$ $(3+2 i)^{3}=3^{3}+3(3)^{2}(2 i)+3(3)(2 i)^{2}+(2 i)^{3}$
+\[
+27+54 i-36-8 i=46 i-9
+\]",,84,$62+9 i$,$46-9 i$,$46 i-9$,$46 i+9$,3,,,,,,,,,,,,,,,
+C has no identity with respect to + other than___________.,,easy,by definition of identity,,84,$1+0i$,$0+1i$,$0+0i$,$1+1i$,3,,,,,,,,,,,,,,,
+The conjugate of $\frac{2+3 i}{-i+1}=?$,,easy,Property of complex numbers $\frac{\overline{z_{1}}}{\overline{z_{2}}}=\overline{\frac{\overline{z_{1}}}{z_{2}}}$,,84,$\frac{2-3 i}{1+i}$,$\frac{2-3 i}{1-i}$,$\frac{2+3 i}{1+i}$,$\frac{2+3 i}{-1-i}$,1,,,,,,,,,,,,,,,
+$\quad(-1+\sqrt{-3})^{4}+(-1-\sqrt{-3})^{4}=?$,,moderate," Simplifying even power of complex number and its conjugate always cancel out imaginary parts, so
+\[
+\begin{array}{c}
+-1^{4}+^{4} C_{1}(-1)^{3}(\sqrt{3} i)+^{4} C_{2}(-1)^{2}(\sqrt{3} i)^{2}+^{4} C_{3}(-1)(\sqrt{3} i)^{3}+(\sqrt{3} i)^{4}+-1^{4}+^{4} C_{1}(-1)^{3}(-\sqrt{3} i)+^{4} C_{2}(-1)^{2}(-\sqrt{3} i)^{2}+^{4} C_{3}(-1)(-\sqrt{3} i)^{3}+(-\sqrt{3} i)^{4}
+\end{array}
+\]
+Red parts will cancel each other and all the remaining parts are real,
+\[
+=1+6(-3)+9+1+6(-3)+9=-16
+\]",,84,-2,4,-4,-16,4,,,,,,,,,,,,,,,
+"The greatest positive integer "" $k ""$ "" for which $\left(\frac{1+i}{1-i}\right)^{k}=1$ is",,moderate,"for simplicity, $(1+i)^{2}=2 i,(1-i)^{2}=-2 i$
+\[
+\left(\frac{1+j}{1-i}\right)^{2}=\left(\frac{2 i}{-2 i}\right)=(-1) \rightarrow\left(\frac{1+j}{1-i}\right)^{4}=(-1)^{2}=1
+\]",,84,$4 n$,$n$,$2 n$ 1,all of these,1,,,,,,,,,,,,,,,
+Set of even prime natural numbers is;,,easy,2 is the only even prime natural number,,84,Finite,Empty,Singleton,infinite,3,,,,,,,,,,,,,,,
+"For any positive integer $n$, the value of $\frac{i^{4 n+1}+i^{4 n-1}}{2}$",,moderate,"Sum of two alternative powers of $i$ is always zero. since $i^{4 n}=1$ so
+\[
+\frac{\frac{d^{4 n} t+i^{4 n}}{2} \tilde{t}^{-1}}{2}=\frac{(1) i+1\left(\tilde{c}^{-1}\right)}{2}=\frac{i+\frac{1}{2}}{2}=\frac{i+(-i)}{2}=0
+\]",,84,1,-1,$i$,0,4,,,,,,,,,,,,,,,
+$\quad \frac{\sqrt{18}}{\sqrt{72}}$,,easy,"\[
+\frac{18}{72}=\frac{1}{4} \rightarrow \frac{\sqrt{18}}{\sqrt{72}}=\sqrt{\frac{18}{72}}=\sqrt{\frac{1}{4}}=\frac{1}{2}
+\]",,84,Rational number,irrational,Imaginary,none of these,1,,,,,,,,,,,,,,,
+$2 \sqrt{-9} \times \sqrt{-16}=?$,,easy,$2 \sqrt{-9} \times \sqrt{-16}=2(3 i)(4 i)=24 i^{2}=-24$,,84,24,-24,48,-48,2,,,,,,,,,,,,,,,
+${\frac{1+i}{1+\frac{1}{i}}}=?$,,easy,"The entries of numerator and denominator has same coefficient as
+\[
+\left|\frac{1+i}{1+\frac{1}{i}}\right|=\left|\frac{1+i}{1-i}\right|=\frac{\sqrt{1^{2}+1^{2}}}{\sqrt{1^{2}+1^{2}}}=\frac{\sqrt{2}}{\sqrt{2}}=1
+\]",,84,$\sqrt{2}$,$\frac{1}{\sqrt{2}}$,$\frac{3}{\sqrt{2}}$,1,4,,,,,,,,,,,,,,,
+$\quad\left(\frac{1-i}{1+i}\right)^{100}=x+i y$,,moderate," for simplicity, $(1+i)^{2}=2 i,(1-i)^{2}=-2 i$
+\[
+\left(\frac{1+j}{1-i}\right)^{2}=\left(\frac{2 i}{-2 i}\right)=(-1) \rightarrow\left(\frac{1+i}{1-i}\right)^{4}=(-1)^{2}=1
+\]
+So 100 is divisible by $4,$ so answer will be 1",,84,"$x=2, y=-1$","$x=1, y=0$","$x=0, y=1$","$x=-1, y=2$",2,,,,,,,,,,,,,,,
+"$\quad\{1,-1\}$ is closed with respect to",,easy,"Closure law upholds. \begin{tabular}{|c|c|c|c|c|c|c|}
+\hline$*$ & $\mathbf{1}$ & $\mathbf{- 1}$ & & $\div$ & $\mathbf{1}$ & $\mathbf{- 1}$ \\
+\hline $\mathbf{1}$ & 1 & -1 & & $\mathbf{1}$ & 1 & -1 \\
+\hline $\mathbf{- 1}$ & -1 & 1 & & $\mathbf{- 1}$ & -1 & 1 \\
+\hline
+\end{tabular}",,84,Addition,multiplication,Division,both b & c,4,,,,,,,,,,,,,,,
+$\left(\cos 20^{\circ}+i \sin 20^{\circ}\right)^{5} \div\left(\cos 30^{\circ}+i \sin 30^{\circ}\right)^{3}=?$,,moderate,"use De Moiver's Theorem $(r \operatorname{cis} \theta)^{n}=r^{n}$ cis $(n \theta)$ and property of argument as
+\[
+\begin{array}{c}
+\operatorname{Arg}\left(\frac{z_{1}}{z_{2}}\right)=\operatorname{Arg}\left(z_{1}\right)-\operatorname{Arg}\left(z_{2}\right) \\
+\frac{(\operatorname{cis}(20))^{5}}{(\operatorname{ct}(30))^{3}}=\frac{(5(20))}{(3(30)}=\frac{\operatorname{cis}(100)}{\operatorname{cis}(90)}=\operatorname{cis}(100-90)=(10)
+\end{array}
+\]",,84,$\cos 20^{\circ}+i \sin 20^{\circ}$,$\cos 30^{\circ}+i \sin 30^{\circ}$,$\cos 10^{\circ}+i \sin 10^{\circ}$,$\cos 20^{\circ}-i \sin 20^{\circ}$,3,,,,,,,,,,,,,,,
+" The polar coordinates of a point are $\left(2,319^{\circ}\right)$ then the Cartesian coordinates of the point
+are",,easy," No need to solve the whole angle, just check the quadrant",,84,"(1.509,-1.312)","(-1.509,-1.312)","(1.509,1.312)","(-1.509,1.312)",1,,,,,,,,,,,,,,,
+Multiplicative inverse of a non-zero element $a \in Z$ is,,easy,"The product of number and its inverse should be identity (1).
+\[
+a \times \frac{1}{a}=1
+\]",,84,1,$-a$,$\frac{1}{a}$,Non - existent,3,,,,,,,,,,,,,,,
+"The $\left\{x \in R, x^{2}+10=0\right\}$ is",,easy,$x^{2}=-10 \rightarrow x=\sqrt{-10}=\sqrt{10} i$ which is imaginary,,84,\{10\},\{-10\},Null set,$R$,3,,,,,,,,,,,,,,,
+If $Z$ is a complex number then the minimum value of $|Z|+|Z-1|$ is,,easy,"The modulus always generate the positive number, even if $|Z|=0,|Z-1|=1$",,84,1,2,0,-2,1,,,,,,,,,,,,,,,
+$\quad$ If $\frac{Z_{1}}{Z_{2}}$ is purely imaginary then $\left|\frac{Z_{1}+Z_{2}}{Z_{1}-Z_{2}}\right|=?$,,moderate,"$\quad$ divide by $Z_{2}, \quad\left|\frac{Z_{1} / Z_{2}+Z_{2} / Z_{2}}{Z_{1} / Z_{2}-Z_{2} / Z_{2}}\right|, \frac{Z_{1}}{Z_{2}}=a i,$ since it is imaginary
+\[
+\left|\frac{\alpha i+1}{a i-1}\right|=1
+\]",,84,0,1,-1,Cannot be determined,2,,,,,,,,,,,,,,,
+${\left(\frac{1}{2}+\frac{i \sqrt{3}}{2}\right)^{6}}=$,,moderate," Simplify it in form of $z=r \operatorname{cis}(\theta)$ and then convert in $z=r(\cos \cos (\theta)+i \sin \sin (\theta))$
+\[
+r=\sqrt{\left(\frac{1}{2}\right)^{2}+\left(\frac{\sqrt{3}}{2}\right)^{2}}=1, \quad \theta=\left(\frac{\sqrt{3}}{1}\right)=60^{\circ}
+\]
+Simplify power for modulus $r^{\prime}=r^{6}=1^{6}=1,$ and multiply for angle $\theta^{\prime}=6 \theta=360^{\circ}$
+New complex number is $z^{\prime}=r^{\prime} \operatorname{cis}\left(\theta^{\prime}\right)=1<360^{\circ}=1(\cos \cos (360)+i \sin (360))=1$",,84,$\omega$,$\omega^{2}$,1,0,3,,,,,,,,,,,,,,,
+"If the square of a number $x$ is "" $i$ "" then $x=?$",,moderate,"Take the squares of numbers in the option, Reverse solve,
+\[
+\left(\frac{1+i}{\sqrt{2}}\right)^{2}=\frac{1+2i+i^{2}}{2}=\frac{1-1+2 i}{2}=\frac{2 i}{2}=i
+\]",,84,$\left(\frac{1+i}{\sqrt{2}}\right)$,$\frac{1-i}{\sqrt{2}}$,$\frac{i}{\sqrt{2}}$,$1+i$,1,,,,,,,,,,,,,,,
+"If $Z=x+i y,$ then $Z^{2}=|Z|^{2}$ if",,easy,"\begin{array}{l}
+\text { Sol: } \quad Z=x+i y \rightarrow Z^{2}=x^{2}-y^{2}+2 x y i \quad \text { whereas } \quad|Z|^{2}=x^{2}+y^{2} \\
+\text { So for } y=0, \quad Z^{2}=|Z|^{2}
+\end{array}",,84,$x=0$,$y=0$,"$x \neq 0, y \neq 0$","$x=0, y \neq 0$",2,,,,,,,,,,,,,,,
+\arg \left(\frac{Z_{1}}{Z_{2}}\right)=?,,easy,Property of Arguments,,84,$\arg Z_{1} \div \arg Z_{2}$,$\arg Z_{1}+\arg Z_{2}$, $\arg Z_{1}-\arg Z_{2}$, None of these,3,,,,,,,,,,,,,,,
+The modulus of the complex number $1+i \tan \alpha=?$,,easy,$\quad Z=1+i \tan \tan \alpha \rightarrow|Z|=\sqrt{1^{2}+\alpha}=\sqrt{\alpha}=\sec \sec \alpha$,,84,1,$\tan \alpha$,$\sec \alpha$,$\operatorname{cosec} \alpha$,3,,,,,,,,,,,,,,,
+If $(\cos \theta+i \sin \theta)^{2}=x-i y$ then $x^{2}+y^{2}=?$,,moderate,"$(\cos \cos \theta+i \sin \sin \theta)^{2}=\theta-\theta+2 i \sin \sin \theta \cos \cos \theta=\cos \cos 2 \theta+i \sin \sin 2 \theta=x-y i$
+\[
+x=\cos \cos 2 \theta, y=\sin \sin 2 \theta, \rightarrow x^{2}+y^{2}=1
+\]",,84,1,0,2,-1,1,,,,,,,,,,,,,,,
+If $Z=4+6 i^{2}$ then $|Z|=?$,,easy,$\sqrt{52}$ Sol: $\quad|Z|=\sqrt{4^{2}+6^{2}}=\sqrt{16+36}=\sqrt{52}$,,84,$\sqrt{52}$,16,36,2,1,,,,,,,,,,,,,,,
+"If $Z=\frac{2+7 i}{2-8 i},$ then $\frac{2-7 i}{2+8 i}=?$",,easy,Property of complex numbers. $\quad \bar{Z}=\overline{\frac{Z_{1}}{Z_{2}}}=\frac{\bar{Z}_{1}}{\bar{z}_{2}}$,,84,$Z^{-1}$,$\bar{Z}$,$\overline{\bar{z}}$,-Z,2,,,,,,,,,,,,,,,
+"$\quad$ If $Z=\cos \theta+i \sin \theta,$ then $\frac{1}{Z}=?$",,easy," Use the formula of inverse, $Z^{-1}=\frac{\bar{z}}{|Z|^{2}}=\frac{a-b i}{(\sqrt{a^{2}+b^{2}})^{2}}=\frac{a-b i}{a^{2}+b^{2}}=\left(\frac{a}{a^{2}+b^{2}}, \frac{-b}{a^{2}+b^{2}}\right)$
+$(\cos \cos \theta+i \sin \sin \theta)^{-1}=\left(\frac{\cos \cos \theta}{\theta+\theta}, \frac{-\sin \sin \theta}{\theta+\theta}\right)=\left(\frac{\cos \cos \theta}{1},-\frac{\sin \sin \theta}{1}\right)=\cos \cos \theta-i \sin \sin \theta$",,84,1,-1,$\cos \cos \theta-i \sin \sin \theta$,none of these,3,,,,,,,,,,,,,,,
+Which one is not a set,,easy,A set is collection of unique entries that entries does not repeat. In part (c) “4” is repeating so it is not a set,,85,"A = {1,2,3}","A={3,4,7}","A={3,4,5,4}","B={9,7}",3,,,,,,,,,,,,,,,
+An element ‘b’ of a set B can be written as,,easy,Basic notations for an element belongs to set,,85, $b \subseteq B$, $b<B$, $b \in B$, $B \in b$,3,,,,,,,,,,,,,,,
+The union of all even integers and odd integers is,,easy,Set of all integers will contain even and odd integers.,,85,Z,N,$Z^+$,(d) $\bar{Z}$,1,,,,,,,,,,,,,,,
+"$\quad$ If $A=\{1,3,4\}, B=\{c, d, f\}$ then $A \cap B=?$",,easy,A and B are disjoint sets they have no common entry.,,85,\{0\},$\{\phi\}$,$\phi$,"$\{1,3,4, c, d, f\}$",3,,,,,,,,,,,,,,,
+Two sets $X$ and $Y$ are disjoint if,,easy,"Property of disjoint Sets, since they have no common entry their intersection is empty set.",,85,$X=Y$,$X \cup Y=Z$ (Z= universal set),$X \cap Y=\phi$,$X \neq Y$,3,,,,,,,,,,,,,,,
+"If $A=\{4,3\} .$ Then $P(A)$ is",,easy,Definition of Power set. ,,85,"$\{,\{4\},\{3\},\{4,3\}\}$","\{\{3\},\{4\},\{4,3\}\}","$\{,\{3\},\{4\}\}$","$\{,\{3,4\}\}$",1,,,,,,,,,,,,,,,
+"For any three sets $X, Y$ and $Z, X \cap(Y U Z)=?$",,easy,Distributive Properties of Set,,85,$(X U Y) \cap(X \cap Z)$,$(X \cap Y) U(X \cap Z)$,$X \cap(Y \cap Z)$,"$\{,\{3,4\}\}$",2,,,,,,,,,,,,,,,
+"For any two sets $X$ and $Y \& X \subset Y, X U(Y-X)=?$",,moderate,"Special Case, $Y-X$ contain all entries of Y without X, while union it with $X$ will result in addition of all entries of $X$ back in the set $Y$.",,85,$x$,$Y$,$\phi$,$x \cap Y$,1,,,,,,,,,,,,,,,
+"For any subset $B$ of $X, B \cap B^{\prime}=?$",,easy,The intersection of Set and its compliment is Empty set,,85,$\phi$,$x$,$B \cup x$,$B \cap B$,2,,,,,,,,,,,,,,,
+"For $A \subset X, A \cup A^{\prime}=?$",,easy,The union of Set and its compliment is universal set,,85,$A \cup \phi$,$A \cap X$,$A \cup(A-X)$,$A \cup(X-A)$,4,,,,,,,,,,,,,,,
+$A \cup(X-A)$,,moderate,"The Sign ""/"" indicates the relative complement. $A-U=$ Empty set.",,85,$A^{\prime}$,$A$,$\phi$,XUA,3,,,,,,,,,,,,,,,
+Which binary operation is not defined in the set of natural numbers?,,easy,Natural numbers are only positive number and subtraction will result in negative number.,,85,$+$,$-$,\times,none,2,,,,,,,,,,,,,,,
+"To each element of a group, there correspond how many inverse elements?",,easy,"Group holds all the properties of Field, so every element has one inverse. The basic principle of the groups.",,85,Only one,at least one,More than one,two,1,,,,,,,,,,,,,,,
+"The identity element of N, w-r-t^{u}+^{n} \text { is }",,easy,Natural number have no identity or inverse,,85,1,0,2,none,4,,,,,,,,,,,,,,,
+If $A \subseteq B$ then which of the following must be true?,,easy,every element of $A$ is in $B$ so the result will be empty set not 0,,85,$A-B=0$,$A-B=\phi$,$B-A=0$,$B-A=\phi$,1,,,,,,,,,,,,,,,
+$n(A \cup B)=n(A)+n(B)$ only if,,moderate,"Special Property; for two disjoint sets, the number of element of union is sum of element of each set.",,85,$A \cup B=\phi$,$A \cup B=A \cap B$,$A \cap B=\phi$,$A=B$,3,,,,,,,,,,,,,,,
+The truth value of the proposition 3 is a +ve number or $2+2=7$  is,,easy,"3 is +ve is True, while $2+2=7$ is False, so true or False is true, $T \vee F=T$",,85,TRUE,FALSE,Contigency,none,1,,,,,,,,,,,,,,,
+"The truth value of the statement $(p \rightarrow q) \vee p$ is false, when",,moderate," It is a basic Tautology, the answer can never be false \begin{tabular}{|c|c|c|c|}
+\hline$p$ & $q$ & $p \rightarrow q$ & $(p \rightarrow q) \vee p$ \\
+\hline $\mathrm{T}$ & $\mathrm{T}$ & $\mathrm{T}$ & $\mathrm{T}$ \\
+\hline $\mathrm{T}$ & $\mathrm{F}$ & $\mathrm{F}$ & $\mathrm{T}$ \\
+\hline $\mathrm{F}$ & $\mathrm{T}$ & $\mathrm{T}$ & $\mathrm{T}$ \\
+\hline $\mathrm{F}$ & $\mathrm{F}$ & $\mathrm{T}$ & $\mathrm{T}$ \\
+\hline
+\end{tabular}",,85,") $p$ is true, $q$ is false","$\mathrm{p}$ is true, $\mathrm{q}$ is true","$\mathrm{p}$ is false, $\mathrm{q}$ is true",none of these,4,,,,,,,,,,,,,,,
+The inverse of $A \rightarrow B$ is,,easy,Definition of inverse,,85,\mathrm{B} \rightarrow \mathrm{A},\sim A \rightarrow \sim B,\sim B \rightarrow \sim A,A \rightarrow \sim B,2,,,,,,,,,,,,,,,
+The contra positive of $\sim \mathrm{B} \rightarrow \sim \mathrm{A}$ is,,easy,Definition of contrapositive,,85,A \rightarrow B,\mathrm{B} \rightarrow \mathrm{A},A \rightarrow \sim B,^{\sim} A \rightarrow B,1,,,,,,,,,,,,,,,
+\sim \mathrm{B} \rightarrow \sim \mathrm{A} \text { is converse of },,easy,Definition of converse,,85,A \rightarrow B,\mathrm{B} \rightarrow \mathrm{A},^{\sim} A \rightarrow B,\sim B \rightarrow \sim A,4,,,,,,,,,,,,,,,
+"The inverse of the function \{(1,3),(2,1),(4,5)\} is",,easy,The x and y values of relation are interchanged in inverse.,,85,"\{(3,1),(2,1),(4,5)\}","\{(1,3),(2,1),(5,4)\}","\{(3,1),(1,2),(5,4)\}","\{(3,1),(2,1),(5,4)\}",3,,,,,,,,,,,,,,,
+"Which of the following statement cannot be true?
+(I) inverse of a function is always function 
+(II) inverse of a line is line 
+(III) inverse of injective function is function",,moderate,Inverse of a function is not necessarily a function.,,85,I only,II only,I and II only,I and III only,4,,,,,,,,,,,,,,,
+"The set $\{1,-1, i,-i\}$ is group w.r.t",,easy,"it holds all the properties under multiplication \begin{tabular}{|c|c|c|c|c|}
+\hline$\times$ & 1 & -1 & $i$ & $-i$ \\
+\hline 1 & 1 & -1 & $i$ & $-i$ \\
+\hline-1 & -1 & 1 & $-i$ & $i$ \\
+\hline$i$ & $i$ & $-i$ & -1 & 1 \\
+\hline$-i$ & $-i$ & $i$ & 1 & -1 \\
+\hline
+\end{tabular}",,85,$+$,$-$,\times,all of these,2,,,,,,,,,,,,,,,
+A semi group is monoid if,,easy,the definition of monoid,,85,It has identity,it is closed,it holds associative property,it has inverse property,1,,,,,,,,,,,,,,,
+Which of the following is not monoid w.r.t addition?,,easy,Natural numbers does not have additive identity “0”.,,85,Z,W,N,R,3,,,,,,,,,,,,,,,
+"The order of the group $(A,+)$ is $\quad$ if $A=\{0,+1,+2,+3 \dots\}$",,moderate,Order is the number of element. The set A has infinite element so its order will be infinity,,85,4,3,8,none of these,4,,,,,,,,,,,,,,,
+Which of the following is true?,,easy,the elements of equal set can be in any order.,,85,"\{1,2\}=\{2,1\}",a \in\{\{a\}\},a \subseteq\{a\},\{a\} \subseteq\{\{a\}\},1,,,,,,,,,,,,,,,
+"Let $S$ be a non-empty set. Then what is the identity element of $(p(S), \cap)$ ?",,moderate,"every element of power set is a subset of S, so intersection of subset with power set will result in the subset.",,85,P(S),empty set,Set S itself,no identity,3,,,,,,,,,,,,,,,
+(A-B) \cup B=?,,easy,Basic Concept,,85,A,B,$A-B$,\mathcal{A} \cup B,1,,,,,,,,,,,,,,,
+"\text { Let } U=\{1,2,3, \cdots, 10\}, A=\{1,2,5\}, B=\{6,7\} \text { then } A \cap B^{\prime}=?",,easy,"B^{\prime}=\{1,2,3,4,5,8,9,10\}, \quad A \cap B^{\prime}=\{1,2,5\}",,85,B',B,A,A',3,,,,,,,,,,,,,,,
+If $A \& B$ are any two sets then which of the following is always true?,,easy,The intersection of two sets is always subset of their union.,,85,A \cup B \subseteq A \cap B,A \cap B \subset A \cup B,A \cup B=A \cap B,all of these,2,,,,,,,,,,,,,,,
+"\text { Let } A=\{1,2,3,4,5\}, B=\{1,2\} \text { then } A \backslash(A \backslash B)=?",,moderate,"The operator \ means relative complement. First complement is of $A$
+W.r.t B, then of A w.r.t AlB.
+\[
+A \backslash B=\{3,4,5\}, \quad A \backslash(A \backslash B)=\{1,2\}
+\]",,85,$\phi$, $A$, $B$,$A \cup B$,3,,,,,,,,,,,,,,,
+If $A \& B$ are any two sets then $A \cap(B \backslash A)=?$,,moderate,"The complement of B relative to A will leave no entry of A set, so the intersection will be Empty Set.",,85,$\phi$, $A$, $B$,$A \cup B$,1,,,,,,,,,,,,,,,
+If $A \& B$ are any two sets then $A \cup B=A \cap B$ iff,,easy,"union and intersection is same for only equal sets.",,85,A \subset B,B \subset A,$A=B$,all of these,3,,,,,,,,,,,,,,,
+"\text { If } A=\{a, b, c\}, B=\{2,6,10\} \text { then } n(A \times B)=?",,easy,"The elements in relation of sets $A \times B$ is product of elements of $A$ and $B$ $n(A)=3, n(B)=3, \quad n(A \times B)=n(A) \times n(B)=3(3)=9$",,85,6,9,12,18,2,,,,,,,,,,,,,,,
+A \cap(A \cup B)^{\prime}=?,,easy,"The complement include no entry of A or B, so the intersection will be empty set.",,85,$A$,$B$,$\phi$,$A \cap A^{\prime}$,3,,,,,,,,,,,,,,,
+"Which of the following is the number of elements in set  such that
+A \cup\{1,2\}=\{1,2,3,5,9\}",,easy,"Set ‘A’ can have equal number of entries as the resultant set as long as it includes \{3,5,9\}",,85,3,5,4,All of these,2,,,,,,,,,,,,,,,
+"\( \quad \) If \( n(A)=3, n(B)=6 \) and \( A \subset B \) then \( n(A \cup B)=? \)",,easy,Union of a Set and its Subset includes the entries of Set itself. \[n(A \cup B)=n(A)+n(B)-n(A \cap B)=3+6-3=6\],,85,3,9,6,8,3,,,,,,,,,,,,,,,
+In a group of people 60 \% like chocolate and 70 \% like strawberry then percentage of people who like both chocolate and strawberry is:,,moderate,\( P(A \cap B)=P(A)+P(B)-100 \%=60 \%+70 \%-100 \%=30 \% \),,85,30\%,60\%,10\%,40\%,1,,,,,,,,,,,,,,,
+\( \quad B-A \) is a subset of,,easy,The set \( B-A \) will have some or all entries of B.,,85,\( A \),\( \mathrm{B} \),\( A-B \),\( A \cap B \),2,,,,,,,,,,,,,,,
+"If \( x \in A \cup B, \) then",,easy,element \( x \) is part of either \( \mathrm{A} \) or \( \mathrm{B} \) in case of union of sets.,,85,\( x \in A \wedge x \in B \),\( x \in A \) but \( x \notin B \),\( x \notin A \) but \( x \in B \),\( x \in A \vee x \in B \),4,,,,,,,,,,,,,,,
+n(A \cap B)=10 \) then \( n(A \cup B)=? \),,moderate,"for two overlapping sets, \( n(A \cup B)=n(A)+n(B)-n(A \cap B) \)",,85,16,26,36,6,2,,,,,,,,,,,,,,,
+"\( \quad A-B=B-A \), if and only if __________",,easy,The subtraction will generate a null set,,85,\( A \subseteq B \),\( B \subseteq A \),\( A=B \),\( A=\varphi \),3,,,,,,,,,,,,,,,
+\( \quad B-A \) __________\( A^{\prime} \),,easy,Basic Point,,85,\( = \),\( \supset \),\( \subseteq \),None of these,3,,,,,,,,,,,,,,,
+"\( \quad \) If \( A=\{1,2\}, B=\{3,4\} \) then \( 1 \notin \)___________",,easy,\( \quad 1 \) belongs to rest of the sets and it does not belong to \( \mathrm{B} \) only.,,85,\( A \),\( \mathrm{B} \),\( A \cup B \),\( A-B \),2,,,,,,,,,,,,,,,
+$A\times B = B\times A$ iff _____________,,moderate,"in case of relations, the elements of only equal sets hold closure law.",,85,$A\subset B$,$B\subset A$,$A=B$,None of these,3,,,,,,,,,,,,,,,
+If a set A has 3 elements and B has 6 elements such that   $A\subseteq B$ then the number of elements in $A\cap B=?$ ,,easy,"for  $A\subseteq B$ , $n(A\cap B)$=n(A)",,85,3,9,6,12,1,,,,,,,,,,,,,,,
+Which of the following operation is NOT commutative?,,moderate,It does not have both ‘x’ and ‘y’ on both sides of equality,,85,$x\ast y=2xy$,$x\ast y=x+y$,$x\ast y=2x$,$x\ast y=2x+2y$,3,,,,,,,,,,,,,,,
+Which of the following is NOT a group w.r.t multiplication?,,easy,There is no inverse of  '0' in any of the sets since it is undefined.,,85,Z,R,Q,All of these,4,,,,,,,,,,,,,,,
+"If $G=\{1,3,5,7\}$ is group under multiplication modulo 8 then inverse of 5 is __________ ",,easy,"for the elements to be group, 1 and 7, 3 and 5 are inverses of each other.",,85,7,3,5,None of these,3,,,,,,,,,,,,,,,
+Which of the following is square root function?,,moderate,"For a function, the answer should be real and existent, (b) and (d) are quadratic, while (a) can result in imaginary if                     is negative",,85,$y=\sqrt{x}$,$y^{2}=x$,"$y=\sqrt{x}, x \geq 0$","$y^{2}=x, x \in R$",3,,,,,,,,,,,,,,,
+Truth set of $P \wedge q$ is ____________,,easy,The operator  $' \wedge '$ is “AND” operator and it acts same as intersection.,,85,$P\cup Q$,$P \cap Q$,$P^{\prime} \cap Q$,$P \cup Q^{\prime}$,2,,,,,,,,,,,,,,,
