@@ -15,7 +15,7 @@ class Question(models.Model):
 
     time_to_solve = models.IntegerField(blank=True, null=True)
     answer_selection_type = models.CharField(max_length=50, default='single_choice', db_index=True)
-    explanation = models.TextField()
+    explanation = models.TextField(blank=True, null=True)
     explanation_img_url = models.TextField(blank=True, null=True)
 
     created_on = models.DateTimeField(auto_now_add=True)
