@@ -49,6 +49,7 @@ class QuestionPostView(APIView):
                 return Response(serializer.data, status=status.HTTP_201_CREATED)
             except Exception as err:
                 print("Exception occurred in Question Post \n", err)
+                return Response(status=status.HTTP_400_BAD_REQUEST)
         print("Exception in Question Post\n", serializer.errors)
         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
 

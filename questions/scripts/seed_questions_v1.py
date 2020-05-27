@@ -9,6 +9,8 @@ django.setup()
 from questions.views import QuestionPostView
 
 file_path = '/home/ubuntu/edtech-backend/questions/questions_csvs/' + sys.argv[1]
+
+row_number = 1
 with open(file_path) as csv_file:
     csv_reader = csv.DictReader(csv_file, delimiter=',')
     line_count = 0
@@ -26,4 +28,7 @@ with open(file_path) as csv_file:
             'question_choice_4': row['question_choice_4'],
             'correct_choice': row['correct_choice']
         }
-        QuestionPostView.save_question_data(data=question_dict)
+        response = QuestionPostView.save_question_data(data=question_dict)
+        if response.status_code == 400:
+            print("Error processing row number: ", row_number)
+        row_number += 1
