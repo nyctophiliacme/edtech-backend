@@ -26,7 +26,7 @@ SECRET_KEY = 'fct)uas$cjf!rkxlr%usham!qmc&-h&)c548yl!4#ev6en$=rr'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['superteacher.pk', '15.206.142.25', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['superteacher.pk', 'www.superteacher.pk', '15.206.142.25', 'localhost', '127.0.0.1']
 
 
 # Application definition
