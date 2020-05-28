@@ -311,7 +311,7 @@ What volume 16g of methane gas occupies at room temperature?,,difficult," Moles 
                                       Volume = Moles $\times$ 22.414 $dm^3$ 
                                       = 1 $\times$ 22.414 $dm^3$ 
                                      =  22.414 $dm^3$ ",,47, 22.414 $dm^3$ ,29.414  $dm^3$ ,19.614  $dm^3$ ,20.514  $dm^3$ ,1,,,,,,,,,,,,,,,
-which one is not correct?,,," 1 mole of any element / compound contains $6.022 \times 10^{23}$ atoms. That makes A option correct. 18g of methane (Mr of methane is 18) equals 1 mole so option is correct as well. That automatically makes D option correct since both A and B are correct. That leaves option C since:
+which one is not correct?,,hard," 1 mole of any element / compound contains $6.022 \times 10^{23}$ atoms. That makes A option correct. 18g of methane (Mr of methane is 18) equals 1 mole so option is correct as well. That automatically makes D option correct since both A and B are correct. That leaves option C since:
                                   Moles = mass / molar mass
                                    = 8/16 = 0.5 moles
            No. of atoms = $Moles \times  6.022 \times  10^{23}$
@@ -349,7 +349,7 @@ Now look at the molar ratio of carbon dioxide and oxygen:
 Moles of $\mathrm{CO}: \mathrm{O}_{2} \rightarrow 2: 1$
 As volume ratio is found out by looking at the molar ratios, and since molar ratios of Carbon monoxide and oxygen is 2: 1 the volume of ration will be:
 Volume ratio 50: 25
-So, $50 \mathrm{dm}_{3}$ of CO requires $25 \mathrm{dm}_{3}$ of oxygen",,47,volume of $\mathrm{O}_{2}$ required is $25 \mathrm{dm}_{3}$,volume of $\mathrm{CO}_{2}$ formed is $60 \mathrm{dm}$,volume of $\mathrm{O}_{2}$ required is $5 \mathrm{dm}_{3}$,volume of CO formed is $25 \mathrm{dm}_{3}$,,,,,,,,,,,,,,,,
+So, $50 \mathrm{dm}_{3}$ of CO requires $25 \mathrm{dm}_{3}$ of oxygen",,47,volume of $\mathrm{O}_{2}$ required is $25 \mathrm{dm}_{3}$,volume of $\mathrm{CO}_{2}$ formed is $60 \mathrm{dm}$,volume of $\mathrm{O}_{2}$ required is $5 \mathrm{dm}_{3}$,volume of CO formed is $25 \mathrm{dm}_{3}$,1,,,,,,,,,,,,,,,
 what describes a limiting reactant?,,easy,Limiting reactant is a reactant that produces the least number of Moles of product. It is consumed earlier in the reaction. It controls the number of products formed in a chemical reaction due to being less than the required amount,,47,It is a reactant that produces least number of moles of product,It is a product that is produced in least amount in a chemical reaction,It is a reactant that that remains after a chemical reaction,It is a reactant that limits it's reacting capability,1,,,,,,,,,,,,,,,
 One mole of \( \mathrm{C}_{2} \mathrm{H}_{5} \mathrm{OH} \) and \( \mathrm{CH}_{3} \) have equal number of:,,moderate,"Since number of molecules = number of molecules x number of moles x Avogadro's constant
 \[
@@ -563,7 +563,7 @@ If $(\cos \theta+i \sin \theta)^{2}=x-i y$ then $x^{2}+y^{2}=?$,,moderate,"$(\co
 x=\cos \cos 2 \theta, y=\sin \sin 2 \theta, \rightarrow x^{2}+y^{2}=1
 \]",,84,1,0,2,-1,1,,,,,,,,,,,,,,,
 If $Z=4+6 i^{2}$ then $|Z|=?$,,easy,$\sqrt{52}$ Sol: $\quad|Z|=\sqrt{4^{2}+6^{2}}=\sqrt{16+36}=\sqrt{52}$,,84,$\sqrt{52}$,16,36,2,1,,,,,,,,,,,,,,,
-"If $Z=\frac{2+7 i}{2-8 i},$ then $\frac{2-7 i}{2+8 i}=?$",,easy,Property of complex numbers. $\quad \bar{Z}=\overline{\frac{Z_{1}}{Z_{2}}}=\frac{\bar{Z}_{1}}{\bar{z}_{2}}$,,84,$Z^{-1}$,$\bar{Z}$,$\overline{\bar{z}}$,-Z,2,,,,,,,,,,,,,,,
+"If $Z=\frac{2+7 i}{2-8 i},$ then $\frac{2-7 i}{2+8 i}=?$",,easy,Property of complex numbers. $\quad \bar{Z}=\overline{\frac{Z_{1}}{Z_{2}}}=\frac{\bar{Z}_{1}}{\bar{z}_{2}}$,,84,$Z^{-1}$,$\bar{Z}$,$\overline{\bar{z}}$,#NAME?,2,,,,,,,,,,,,,,,
 "$\quad$ If $Z=\cos \theta+i \sin \theta,$ then $\frac{1}{Z}=?$",,easy," Use the formula of inverse, $Z^{-1}=\frac{\bar{z}}{|Z|^{2}}=\frac{a-b i}{(\sqrt{a^{2}+b^{2}})^{2}}=\frac{a-b i}{a^{2}+b^{2}}=\left(\frac{a}{a^{2}+b^{2}}, \frac{-b}{a^{2}+b^{2}}\right)$
 $(\cos \cos \theta+i \sin \sin \theta)^{-1}=\left(\frac{\cos \cos \theta}{\theta+\theta}, \frac{-\sin \sin \theta}{\theta+\theta}\right)=\left(\frac{\cos \cos \theta}{1},-\frac{\sin \sin \theta}{1}\right)=\cos \cos \theta-i \sin \sin \theta$",,84,1,-1,$\cos \cos \theta-i \sin \sin \theta$,none of these,3,,,,,,,,,,,,,,,
 Which one is not a set,,easy,A set is collection of unique entries that entries does not repeat. In part (c) “4” is repeating so it is not a set,,85,"A = {1,2,3}","A={3,4,7}","A={3,4,5,4}","B={9,7}",3,,,,,,,,,,,,,,,

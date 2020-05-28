@@ -20,7 +20,7 @@ class QuestionViewChapterVise(APIView):
 class QuestionPostView(APIView):
 
     def post(self, request, *args, **kwargs):
-        self.save_question_data(request.data)
+        return self.save_question_data(request.data)
 
     @staticmethod
     def save_question_data(data):

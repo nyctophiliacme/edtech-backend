@@ -24,10 +24,10 @@ import chapters.urls
 import questions.urls
 
 urlpatterns = [
-    path('auth/', include(emailsignup.urls)),
-    path('admin/', admin.site.urls),
-    path('exams/', include(exams.urls)),
-    path('subjects/', include(subjects.urls)),
-    path('chapters/', include(chapters.urls)),
-    path('questions/', include(questions.urls))
+    path('api/auth/', include(emailsignup.urls)),
+    path('api/admin/', admin.site.urls),
+    path('api/exams/', include(exams.urls)),
+    path('api/subjects/', include(subjects.urls)),
+    path('api/chapters/', include(chapters.urls)),
+    path('api/questions/', include(questions.urls))
 ]
