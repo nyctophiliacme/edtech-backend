@@ -9,4 +9,4 @@ def null_view(request):
 
 @api_view()
 def complete_view(request):
-    return redirect("https://www.superteacher.pk/email_verified")
+    return redirect("https://www.superteacher.pk/")
