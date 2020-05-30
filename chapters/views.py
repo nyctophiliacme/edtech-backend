@@ -11,7 +11,7 @@ from rest_framework.views import APIView
 class ChapterView(APIView):
 
     def get(self, request, *args, **kwargs):
-        chapters = Chapter.objects.all()
+        chapters = Chapter.objects.all().order_by('id')
         serializer = ChapterSerializer(chapters, many=True)
         return Response(serializer.data)
 
@@ -30,6 +30,6 @@ class ChapterViewSubjectExamVise(APIView):
 
     def get(self, request, *args, **kwargs):
         chapters = Chapter.objects.filter(exam__exam_code=request.query_params.get("exam_code"),
-                                          subject__subject_code=request.query_params.get("subject_code"))
+                                          subject__subject_code=request.query_params.get("subject_code")).order_by('id')
         serializer = ChapterSerializer(chapters, many=True)
         return Response(serializer.data)

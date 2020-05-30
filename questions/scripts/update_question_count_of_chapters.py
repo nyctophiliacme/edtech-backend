@@ -18,6 +18,5 @@ if __name__ == '__main__':
     for subject in subjects:
         chapters = Chapter.objects.filter(subject=subject)
         for chapter in chapters:
-            question_count = 0
             chapter.question_count = QuestionChapterMapping.objects.filter(chapter=chapter).count()
             chapter.save()
