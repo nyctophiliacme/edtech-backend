@@ -10,7 +10,8 @@ class QuestionViewChapterVise(APIView):
 
     def get(self, request, *args, **kwargs):
         chapter_id = request.query_params.get('chapter_id')
-        question_ids = QuestionChapterMapping.objects.filter(chapter_id=chapter_id).values_list('question_id', flat=True)
+        question_ids = QuestionChapterMapping.objects.filter(chapter_id=chapter_id).values_list(
+            'question_id', flat=True).order_by('id')
 
         questions = Question.objects.filter(id__in=question_ids)
         serializer = QuestionSerializer(questions, many=True)
