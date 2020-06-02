@@ -84,3 +84,9 @@ class UserSerializer(serializers.ModelSerializer):
         model = CustomUser
         fields = ['pk', 'email', 'first_name', 'last_name', 'phone_number', 'current_class', 'school', 'city',
                   'date_of_birth', 'parent_name', 'parent_email', 'parent_phone_number', 'is_paid_user']
+
+
+class RequiredInformationSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = CustomUser
+        fields = ['email', 'first_name', 'last_name', 'phone_number', 'is_paid_user', 'created_on', 'modified_at']

@@ -1,6 +1,7 @@
 from allauth.account.views import ConfirmEmailView
 from django.conf.urls import url, include
-from emailsignup.views import complete_view, null_view
+from django.urls import path
+from emailsignup.views import complete_view, null_view, CustomerRequiredInformationView
 
 urlpatterns = [
     # Override urls
@@ -10,5 +11,6 @@ urlpatterns = [
     # Default urls
     url(r'^accounts/', include('allauth.urls')),
     url(r'', include('rest_auth.urls')),
-    url(r'^registration/', include('rest_auth.registration.urls'))
+    url(r'^registration/', include('rest_auth.registration.urls')),
+    path('user/get_required_information', CustomerRequiredInformationView.as_view()),
 ]
