@@ -4,9 +4,11 @@ from questions.serializers import QuestionSerializer
 from rest_framework import status
 from rest_framework.response import Response
 from rest_framework.views import APIView
+from rest_framework.permissions import IsAuthenticated
 
 
 class QuestionViewChapterVise(APIView):
+    permission_classes = [IsAuthenticated]
 
     def get(self, request, *args, **kwargs):
         chapter_id = request.query_params.get('chapter_id')
