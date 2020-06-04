@@ -7,5 +7,4 @@ class UserQuestionProgressSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = UserQuestionProgress
-        fields = '__all__'
         exclude = ['created_on', 'modified_at']
