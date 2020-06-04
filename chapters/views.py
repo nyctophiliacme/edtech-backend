@@ -2,6 +2,7 @@ from chapters.models import Chapter
 from chapters.serializers import ChapterSerializer
 from exams.models import Exam
 from subjects.models import Subject
+from user_question.models import UserQuestionProgress
 
 from rest_framework import status
 from rest_framework.response import Response
@@ -31,7 +32,16 @@ class ChapterViewSubjectExamVise(APIView):
     permission_classes = [IsAuthenticated]
 
     def get(self, request, *args, **kwargs):
+        user_id = request.user.id
         chapters = Chapter.objects.filter(exam__exam_code=request.query_params.get("exam_code"),
                                           subject__subject_code=request.query_params.get("subject_code")).order_by('id')
         serializer = ChapterSerializer(chapters, many=True)
+
+        for chapter_data in serializer.data:
+            chapter_data['user_total_attempts'] = UserQuestionProgress.objects.filter(
+                user_id=user_id, chapter_id=chapter_data['id']).count()
+
+            chapter_data['user_correct_attempts'] = UserQuestionProgress.objects.filter(
+                user_id=user_id, chapter_id=chapter_data['id'], is_correctly_solved=True).count()
+
         return Response(serializer.data)

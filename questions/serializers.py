@@ -11,8 +11,11 @@ class QuestionChoiceSerializer(serializers.ModelSerializer):
 
 class QuestionSerializer(serializers.ModelSerializer):
     question_choice = QuestionChoiceSerializer(many=True, read_only=True, source='questionchoice_set')
+    user_question_choice_id = serializers.IntegerField(read_only=True)
+    user_attempt_is_correct = serializers.BooleanField(read_only=True)
 
     class Meta:
         model = Question
         fields = ['id', 'question_text', 'question_title', 'question_type', 'question_img_url', 'difficulty_level',
-                  'time_to_solve', 'answer_selection_type', 'explanation', 'explanation_img_url', 'question_choice']
+                  'time_to_solve', 'answer_selection_type', 'explanation', 'explanation_img_url', 'question_choice',
+                  'user_question_choice_id', 'user_attempt_is_correct']

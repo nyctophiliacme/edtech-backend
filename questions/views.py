@@ -1,5 +1,6 @@
 from questions.models import Question, QuestionChoice, QuestionChapterMapping
 from questions.serializers import QuestionSerializer
+from user_question.models import UserQuestionProgress
 
 from rest_framework import status
 from rest_framework.response import Response
@@ -11,12 +12,25 @@ class QuestionViewChapterVise(APIView):
     permission_classes = [IsAuthenticated]
 
     def get(self, request, *args, **kwargs):
+        user_id = request.user.id
         chapter_id = request.query_params.get('chapter_id')
         question_ids = QuestionChapterMapping.objects.filter(chapter_id=chapter_id).values_list(
             'question_id', flat=True)
 
         questions = Question.objects.filter(id__in=question_ids).order_by('id')
         serializer = QuestionSerializer(questions, many=True)
+
+        for question_data in serializer.data:
+            try:
+                user_question_attempt = UserQuestionProgress.objects.get(user_id=user_id,
+                                                                         question_id=question_data['id'])
+                question_data['user_question_choice_id'] = user_question_attempt.question_choice_id
+                question_data['user_attempt_is_correct'] = user_question_attempt.is_correctly_solved
+
+            except UserQuestionProgress.DoesNotExist:
+                question_data['user_question_choice_id'] = None
+                question_data['user_attempt_is_correct'] = None
+
         return Response(serializer.data)
 
 
