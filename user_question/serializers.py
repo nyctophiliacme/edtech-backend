@@ -7,4 +7,4 @@ class UserQuestionProgressSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = UserQuestionProgress
-        exclude = ['created_on', 'modified_at']
+        exclude = ['created_on', 'modified_at', 'subject', 'exam']
