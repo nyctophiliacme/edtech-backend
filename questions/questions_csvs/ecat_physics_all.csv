@@ -1405,14 +1405,14 @@ Taking the ratio
 \text{Or } \mathrm{F}(\mathrm{A}) / \mathrm{F}(\mathrm{B})=2 
 \end{array}
 \]",,33,1:2,2:1,1:4,4:1,,,,,2,,,,,,,
-Which of the following is not an optically active substance,,easy,Substances that can rotate the plane polarized light is called optically active. Water is an optically active substance,,34,sugar,tartaric acid,water,sodium chloride,,,,,,,,,,,,
+Which of the following is not an optically active substance,,easy,Substances that can rotate the plane polarized light is called optically active. Water is an optically active substance,,34,sugar,tartaric acid,water,sodium chloride,,,,,3,,,,,,,
  What will be the phase difference between waves if two coherent sources produces a dark fringe,,moderate,Dark fringes will be produced when there are destructive interference. The condition for that is the two waves should have a phase difference of an odd integral multiple of $ /pi $,,34,zero,\( 2 \pi \),\( n \pi \),"\( (2 n-1) \pi, n=1,2,3,4 \)",,,,,4,,,,,,,
 Huygen’s construction can be applicable fo,,easy,Huygen contruction is applicable for all electromagnetic waves including light.,,34,light,Electromagnetic waves,transverse waves,Both A and B,,,,,4,,,,,,,
 "In young’s double slit experiment, two coherent light sources S1 and S2 are used which as a result produces fringes. If λ is the wavelength of source light, and P is the point where second bright fringe is formed. What will be path difference between S1P and S2P",http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p9_Physical_optics/p9q4.PNG,moderate,"We know that
 Path difference \( =\mathrm{n} \lambda \) where \( \mathrm{n}=2 \) for bright fringe
 n is the fringe number, \( \lambda \) is the wavelength
 So Path difference \( =2 \lambda \)",,34,\( \lambda \),\( 2 \lambda \),\( 3 \lambda / 2 \),\( 4 \lambda \),,,,,2,,,,,,,
- Huygen wave theory can explain all of these except,,easy,Photoelectric effect is the induction of voltage when cell is exposed to light. Huygen wave cannot explain photoelectric phenomenon.,,34,diffraction,Interference,polarization,photoelectric effect,,,,,,,,,,,,
+ Huygen wave theory can explain all of these except,,easy,Photoelectric effect is the induction of voltage when cell is exposed to light. Huygen wave cannot explain photoelectric phenomenon.,,34,diffraction,Interference,polarization,photoelectric effect,,,,,4,,,,,,,
 The reason beside using two slits instead of one in Young’s double slit is,,moderate,"We use two slits in YDS in other to have a path difference between interfering light
 Path difference \( =\mathrm{n} \lambda \) for bright fringe
 \( \mathrm{n} \) is the fringe number, \( \lambda \) is the wavelength
@@ -1476,7 +1476,7 @@ If we decrease the intensity of source light in Young double slit experiment. Wh
 Two rays of light are said to be monochromatic if they have
 ",,easy,Mono means single chromatic means color.,,34,same intensity,same color,same amplitude,same speed,,,,,2,,,,,,,
 In YDSE the process taking place is ,,moderate,In Young double slit experiment when the light passes through it bends which is a phenomenon known as diffraction. Then the diffracted light interferes constructively or destructively to form fringes.,,34,Interference,Diffraction,Both A and B,None of these,,,,,3,,,,,,,
-Stars twinkle due to ,,easy,we know that atmosphere consist of gases that are non uniform. Light reflects back from these non uniform density of gases and hence we see stars twinkling.,,34,the fact that they do not emit light continously,the non uniform density of atmosphere ,the uniform density of atmosphere                                           ,None of these,,,,,,,,,,,,
+Stars twinkle due to ,,easy,we know that atmosphere consist of gases that are non uniform. Light reflects back from these non uniform density of gases and hence we see stars twinkling.,,34,the fact that they do not emit light continously,the non uniform density of atmosphere ,the uniform density of atmosphere                                           ,None of these,,,,,2,,,,,,,
 Which of the following scientist first give the idea of wave nature of light?,,easy,Huygen gave the  idea of wave nature of light and Young proved it.,,34,Huygen's,de Broglie,Young,Maxwell,,,,,1,,,,,,,
 In order to increase the resolving power of telescope we,,moderate,"We know that
 \[
@@ -1707,7 +1707,7 @@ Density = mass/Volume
 Mass of N molecules = Nm
 So density = Nm/$I^3$
 ",,36,m/$I^3$,M/$I^3$,m/N$I^3$,mN/$I^3$,,,,,4,,,,,,,
- Referring to the above question the number of particles colliding with any face of cube,,moderate,"A cube has 6 sides, so on average the number of particles colliding with any face is N/6.",,36,N/6,N/2,N,N/4,,,,,,,,,,,,
+ Referring to the above question the number of particles colliding with any face of cube,,moderate,"A cube has 6 sides, so on average the number of particles colliding with any face is N/6.",,36,N/6,N/2,N,N/4,,,,,1,,,,,,,
 The time period of collision of gas molecules in a cubical container is given by ,,easy,"Formula
 Time period = 2l/v
 ",,36,v/2l,2l/3v,3v/2l,2l/v,,,,,4,,,,,,,
@@ -3238,7 +3238,7 @@ In transistor the arrow is present on,,easy,Information,,43,Emitter,Base,Collect
 Which of the following has the greatest energy gap?,,moderate,Insulator does not conduct any electric current so it has greatest energy gap.,,43,Insulator,Semi-conductors,Conductors,All,,,,,1,,,,,,,
 The device that converts dc to ac is called,,easy,Inverter is the circuit that convert DC into AC,,43,Amplifier,Inverter,Rectifier,Converter,,,,,2,,,,,,,
 "According to the special theory of relativity, all physics law are valid if",,easy," Postulate 1 for special theory of relativity ",,44,Inertial frames of reference,Non inertial frames of reference,General frame of reference,None of these,,,,,1,,,,,,,
-"If the relativistic length reduce by half of its original length, what will be the value of velocity",,moderate,"We know that
+"If the relativistic length reduce by half of its original length, what will be the value of velocity",,moderate,"We know that
 \[
 \left.1=1_{0} \sqrt{(} 1-v^{2} / c^{2}\right)
 \]
@@ -3248,7 +3248,7 @@ putting $1=1 / 2$
 \left.1 / 2_{=} 1_{0} \sqrt{(} 1-\mathrm{v}^{2} / \mathrm{c}^{2}\right) \\
 \mathrm{v}=(\sqrt{3} / 2) \mathrm{c}
 \end{array}
-\]",,1/4,(1 / 4) c,(3/2)c,(1/2)c,(\sqrt{3} / 2) c,,,,,4,,,,,,,
+\]",,44,(1 / 4) c,(3/2)c,(1/2)c,(\sqrt{3} / 2) c,,,,,4,,,,,,,
 "The energy of two photon are related as $2 \mathrm{E}_{1}=\mathrm{E}_{2}$, then the ratio of their momentum $\mathrm{p}_{\mathrm{a}}: \mathrm{p}_{\mathrm{b}}$
 will be",,difficult,"We know that
 \[
@@ -3573,8 +3573,8 @@ We can see that tritium has the highest mass so radius is greater for tritium.",
 Which one is more suitable for storing radioactive element,,easy,"Lead can effectively attenuate certain kinds of radiation because of its high density and high atomic number; principally, it is effective at stopping gamma rays and x-rays. ",,46,lead,copper,cadmium,iron,,,,,1,,,,,,,
 The charge on gamma particle_________ and the rest mass is _________,,moderate,Gamma particles consist of large number of individual photons which are neutral and hence it does not carry any charge.,,46,"positive, 0 ","neutral, $mc^{2}$","negative, 0","neutral,0",,,,,4,,,,,,,
 Gamma particles are emitted because ,,easy,Gamma particle are emitted when parent nuclei changes to daughter nuclei having same atomic number and atomic mass. This is also known as de excitation of nucleus.,,46,De excitation of atom,De excitation of nucleus,Excitation of atom,Excitation of nucleus,,,,,2,,,,,,,
-,"The equation represent the emission of which radioactive particle
-\( A\rightarrow B+_{-1} e^{0} \)",easy,The electron that is emitted is the clear indication of beta particle as beta particles are negatively charged.,,46,alpha particle,gamma particle,beta particle,None,,,,,3,,,,,,,
+"The equation represent the emission of which radioactive particle
+\( A\rightarrow B+_{-1} e^{0} \)",,easy,The electron that is emitted is the clear indication of beta particle as beta particles are negatively charged.,,46,alpha particle,gamma particle,beta particle,None,,,,,3,,,,,,,
 The phenomenon of radioactivity is associated with,,moderate,Radioactivity means continuous emission of radioactive element which results in the decay of nucleus.,,46,Decay of nucleus,Fusion of nucleus,transmission of nucleus,fission of nucleus,,,,,1,,,,,,,
 The daughter radium after emission of alpha particle from parent radium \( _{88}^{226} \mathrm{Ra} ? \),,difficult,"The following taken place as the alpha particle is emitted
 \( _{88} ^{226} \mathrm{Ra}\rightarrow _{88} ^{222} \mathrm{Ra} + _{2} ^{4} \mathrm{He} \)",,46,\(_{86}  ^{224} \mathrm{Ra} \),\(_{86}  ^{226} \mathrm{Ra} \),\(_{86}  ^{222} \mathrm{Ra} \),\(_{86} ^{222} \mathrm{Ra} \),,,,,4,,,,,,,
@@ -3645,7 +3645,7 @@ Which of the following is not an elementary particle,,moderate,"Quarks are eleme
 Hadrons are made up of 2 or mare than 2 quarks
 ",,46,Leptons,Hadrons,Photons,Muons,,,,,2,,,,,,,
 "Friction, Adhesion and Cohesion falls in which category of forces",,easy,Information,,46,Electromagnetic,gravitational,weak nuclear,strong nuclear,,,,,1,,,,,,,
-The order of weak nuclear force,,easy,Information,,46,$10^{-17}$m,$10^{-12}$m,$10^{-10}$m,$10^{-14}$m,,,,,,,,,,,,
+The order of weak nuclear force,,easy,Information,,46,$10^{-17}$m,$10^{-12}$m,$10^{-10}$m,$10^{-14}$m,,,,,1,,,,,,,
 Which of the following element is used in radiotherapy for the treatment of cancer,,easy,The gamma rays emitted by cobalt-60 are harnessed by the radiotherapy instrument which is highly effective in precisely delivering a high dose of radiation to the tumour area and therefore preserving surrounding healthy tissue therefore Cobalt 60 is used for the treatment of cancer.,,46,Cobalt 60,Iron,Strontium 90,None,,,,,1,,,,,,,
 Blood circulation is studied by,,easy,Sodium 24 is used as an electrolyte tracer to follow the path sodium takes in a person's body to see if their uptake levels are within normal ranges. ,,46,$^{24} Na$,$^{59} Fe$,$^{125} I$,$^{99} Te$,,,,,1,,,,,,,
 Photosynthesis in plant can be traced by ,,easy,Use of isotope of carbon $C_15$,,46,C 15,C 12,C 11,C 14,,,,,4,,,,,,,
