@@ -49,15 +49,18 @@ class QuestionPostView(APIView):
                 # Save Question Choices
                 for i in range(1, 5):
                     question_choice_get = "question_choice_" + str(i)
+                    choice_img_url = "question_choice_" + str(i) + "_image_url"
                     if i == int(data.get("correct_choice")):
                         QuestionChoice.objects.create(
                             choice_text=data.get(question_choice_get),
+                            choice_img_url=data.get(choice_img_url),
                             is_right_choice=True,
                             question=question
                         )
                     else:
                         QuestionChoice.objects.create(
                             choice_text=data.get(question_choice_get),
+                            choice_img_url=data.get(choice_img_url),
                             question=question
                         )
                 # Save Question Chapter Mapping

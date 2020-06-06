@@ -26,7 +26,11 @@ with open(file_path) as csv_file:
             'question_choice_2': row['question_choice_2'],
             'question_choice_3': row['question_choice_3'],
             'question_choice_4': row['question_choice_4'],
-            'correct_choice': row['correct_choice']
+            'correct_choice': row['correct_choice'],
+            'question_choice_1_image_url': row['question_choice_1_image_url'],
+            'question_choice_2_image_url': row['question_choice_2_image_url'],
+            'question_choice_3_image_url': row['question_choice_3_image_url'],
+            'question_choice_4_image_url': row['question_choice_4_image_url'],
         }
         response = QuestionPostView.save_question_data(data=question_dict)
         if response.status_code == 400:
