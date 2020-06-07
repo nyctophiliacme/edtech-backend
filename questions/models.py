@@ -42,6 +42,9 @@ class QuestionChoice(models.Model):
     choice_img_url = models.TextField(blank=True, null=True)
     is_right_choice = models.BooleanField(default=False)
 
+    class Meta:
+        ordering = ['pk']
+
 
 class QuestionChapterMapping(models.Model):
     question = models.ForeignKey(Question, on_delete=models.CASCADE)
