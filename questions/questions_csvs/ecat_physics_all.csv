@@ -80,7 +80,7 @@ Rockets lifts from the ground because hot air with high velocity,,easy,The lifti
 Momentum depends upon,,easy,"We know that
 Momentum = p = mv
 So it depends on the mass and velocity",,28,Force,Velocity,Mass,Both mass and velocity,,,,,4,,,,,,,
- Ali travel 2m with the velocity of v1 and the other 2m with the velocity of $v_2$. Then the average velocity will be,,easy,Formula to calculate average velocity,,28,\left(v_{1}+v_{2}\right) / 2,\left(\mathrm{v}_{1} \mathrm{v}_{2}\right) / 2,\mathrm{v}_{1} \mathrm{v}_{2} /\left(\mathrm{v}_{1}+\mathrm{v}_{2}\right),2 v_{1} v_{2} /\left(v_{1}+v_{2}\right),,,,,4,,,,,,,
+ Ali travel 2m with the velocity of v1 and the other 2m with the velocity of $v_2$. Then the average velocity will be,,easy,Formula to calculate average velocity,,28,$\left(v_{1}+v_{2}\right) / 2$,$\left(\mathrm{v}_{1} \mathrm{v}_{2}\right) / 2$,$\mathrm{v}_{1} \mathrm{v}_{2} /\left(\mathrm{v}_{1}+\mathrm{v}_{2}\right)$,$2 v_{1} v_{2} /\left(v_{1}+v_{2}\right)$,,,,,4,,,,,,,
  A particle of mass m moving with velocity v strikes a stationary particle of mass 2m and sticks to it then the velocity of the system will be,,difficult,"By using law of conservation of momentum
 \[
 \mathrm{m}_{1} \mathrm{v}_{1}+\mathrm{m}_{2} \mathrm{v}_{2}=\mathrm{m}_{1} \mathrm{v}_{1}+\mathrm{m}_{2} \mathrm{v}_{2}
@@ -134,7 +134,7 @@ For which angle between F and v maximum acceleration/ retardation can be produce
 What will be the impulse if a force of 3N acting on a body for 5 sec?,,moderate,"We know that
 Impulse $=\mathrm{F} \times \mathrm{t}$
 $=5 \times 3=15 \mathrm{Ns}$
-Also $\mathrm{Ns}=\mathrm{kgm} / \mathrm{s}$",,28,10Ns,15Ns,15 \mathrm{kgms}^{-1},Both B and C,,,,,4,,,,,,,
+Also $\mathrm{Ns}=\mathrm{kgm} / \mathrm{s}$",,28,10Ns,15Ns,$15 \mathrm{kgms}^{-1}$,Both B and C,,,,,4,,,,,,,
 A force of 2000N acts on a body of mass 20kg such that it’s velocity changes from initial to final velocity in 10sec then the rate of change of momentum be,,difficult,"We know that
 $\mathrm{F} \mathrm{x} \mathrm{t}=\mathrm{mv}_{\mathrm{f}}-\mathrm{mv}_{\mathrm{i}}=$ change in momentum
 Rate of change in momentum $=\left(\mathrm{mv}_{\mathrm{f}}-\mathrm{mv}_{\mathrm{i}}\right) / \mathrm{t}$
@@ -144,7 +144,7 @@ Slope $=\Delta \mathrm{d} / \Delta \mathrm{t}=\mathrm{v}$",,28,acceleration,Mome
 Which of the following velocity time graph represents constant acceleration?,,difficult," In the graph of option a the acceleration is positive and constant
 In the graph of option b the acceleration is zero and constant
 In the graph of option c the acceleration is negative and constan
-",,28,,,,All of these,http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p3_Motion_and_force/p3q30.1.PNG,http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p3_Motion_and_force/p3q30.2.PNG,http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p3_Motion_and_force/p3q30.3.PNG,,4,,,,,,,
+",,28,,,,,http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p3_Motion_and_force/p3q30.1.PNG,http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p3_Motion_and_force/p3q30.2.PNG,http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p3_Motion_and_force/p3q30.3.PNG,,4,,,,,,,
 The rate of change of momentum for a freely falling object is,,moderate,"We know that
 \[
 \mathrm{F} \times \mathrm{t}=\mathrm{mv}_{\mathrm{f}}-\mathrm{mv}_{\mathrm{i}}=\text { change in momentum }
@@ -174,8 +174,8 @@ Also
 $\mathrm{KE}=(1 / 2) \mathrm{p}^{2} \mathrm{m}$
 $\mathrm{P}=\sqrt{2} \mathrm{mE}$
 And
-$\mathrm{E}=\mathrm{P}^{2} / 2 \mathrm{m}$",,28,\mathrm{P}=\sqrt{(} 2 \mathrm{mE}),\mathrm{E}=\sqrt{(} 2 \mathrm{mP}),\mathrm{E}=\mathrm{P}^{2} / 2 \mathrm{m},Both A and C,,,,,4,,,,,,,
-What \% of rocket mass comprises of fuel?,,easy,Information,,28,20 \%,50 \%,40 \%,80 \%,,,,,4,,,,,,,
+$\mathrm{E}=\mathrm{P}^{2} / 2 \mathrm{m}$",,28,$\mathrm{P}=\sqrt{( 2 \mathrm{mE})}$,$\mathrm{E}=\sqrt{( 2 \mathrm{mP})}$,$\mathrm{E}=\mathrm{P}^{2} / 2 \mathrm{m}$,Both A and C,,,,,4,,,,,,,
+What \% of rocket mass comprises of fuel?,,easy,Information,,28,$20 \%$,$50 \%$,$40 \%$,$80 \%$,,,,,4,,,,,,,
 Two balls of same masses collide elastically then,,moderate,"From the equations
 \[
 \begin{array}{l}
@@ -185,7 +185,7 @@ v_{2}^{\prime}=(2 m 2) v 1 /(m 1+m 2)+(m 2-m 1) v 2 /(m 1+m 2)
 \]
 by putting $\mathrm{m} 1=\mathrm{m} 2$ in the above equation we come up with
 $v_{2}^{\prime}=v_{1}$
-$v_{1}^{\prime}=v_{2}$",,28,\mathrm{v}_{1}^{\prime}=\mathrm{v}_{2},v_{2}^{\prime}=v_{1},\mathrm{v}_{1}^{\prime}=\mathrm{v}_{2},Both A and B,,,,,4,,,,,,,
+$v_{1}^{\prime}=v_{2}$",,28,$\mathrm{v}_{1}^{\prime}=\mathrm{v}_{2}$,$v_{2}^{\prime}=v_{1}$,$\mathrm{v}_{1}^{\prime}=\mathrm{v}_{2}$,Both A and B,,,,,4,,,,,,,
 During an elastic collision,,easy,"In an elastic collision velocity of separation is equal to velocity of approach.
 As in elastic collision the kinetic energy and momentum remain conserved. So
 $v_{1}-v_{2}=v e l_{0} \operatorname{city}$ of approach
@@ -240,7 +240,7 @@ t_{2}=2 \mathrm{v} \sin (90-\theta) / \mathrm{g} \\
 \end{array}
 \]
 By taking the ratio
-We get $tan\theta$ : 1",,28,\tan ^{2} \theta: 1,\tan \theta: 1,1:\tan \theta,1:1,,,,,2,,,,,,,
+We get $tan\theta$ : 1",,28,$\tan ^{2} \theta: 1$,$\tan \theta: 1$,$1:\tan \theta$,1:1,,,,,2,,,,,,,
 In order to get maximum height then the angle of projection is,,difficult,"We know that
 \[
 \mathrm{h}=\mathrm{v}_{\mathrm{i}}^{2}\left(\sin ^{2} \theta\right) / 2 \mathrm{g}
@@ -280,7 +280,7 @@ between force and displacement is 0
 $\mathrm{W}=3.5 \times 10^{6} \times 1000 \cos 0$
 \[
 \mathrm{W}=3.5 \times 10^{9} \mathrm{J}
-\]",,29,3.5 \times 10^{3} \mathrm{J},3.5 \times 10^{4} \mathrm{J},3.5 \times 10^{9} \mathrm{J},3.5 \times 10^{5} \mathrm{J},,,,,3,,,,,,,
+\]",,29,$3.5 \times 10^{3} \mathrm{J}$,$3.5 \times 10^{4} \mathrm{J}$,$3.5 \times 10^{9} \mathrm{J}$,$3.5 \times 10^{5} \mathrm{J}$,,,,,3,,,,,,,
 The relation between horse power and watt is,,moderate,"Horse power is the bigger unit of power which is related as
 1hp = 746watt
 ",,29,1hp=546watt,1hp=746watt,1hp=1000watt,1hp=946watt,,,,,2,,,,,,,
@@ -308,7 +308,7 @@ The relation between velocity and radius in the equation of escape velocity,,mod
 \]
 $\mathrm{G}$ is the gravitational constant $\mathrm{R}$ is the radius $\mathrm{M}$ is the mass
 So from the here we can see that
-$V_{\text {escape }} \alpha R^{-1 / 2}$",,29,v \alpha R,v \alpha R^{1 / 2},v \alpha R^{ 2},v \alpha R^{-1 / 2},,,,,4,,,,,,,
+$V_{\text {escape }} \alpha R^{-1 / 2}$",,29,$v \alpha R$,$v \alpha R^{1 / 2}$,$v \alpha R^{ 2}$,$v \alpha R^{-1 / 2}$,,,,,4,,,,,,,
 "Kinetic energy of body of mass $\mathrm{m}$ moving with the velocity of $10 \mathrm{ms}^{-1}$ is $30 \mathrm{J}$. If the
 velocity is changes to new value of $30 \mathrm{ms}^{-1}$. Then the KE becomes",,difficult,"We know that
 $\mathrm{KE}_{\mathrm{old}}=(1 / 2) \mathrm{m} \mathrm{v}_{1}$
@@ -327,19 +327,19 @@ $\mathrm{KE}_{\mathrm{new}}=90$ Joule",,29,10J,90J,270J,180J,,,,,3,,,,,,,
 PE is the potential energy
 $\mathrm{PE}=\mathrm{W}=\mathrm{Fd}$
 $\mathrm{Fd}=\mathrm{PE}$
-$\mathrm{PE}=500 \times 20=10000 \mathrm{N}$",,29,10000J,100J,1000J,500 \times 9.8 \mathrm{J},,,,,1,,,,,,,
+$\mathrm{PE}=500 \times 20=10000 \mathrm{N}$",,29,10000J,100J,1000J,$500 \times 9.8 \mathrm{J}$,,,,,1,,,,,,,
 Work done in moving a body of mass m at a height h inclined at an angle  $\theta$,https://d15o1jx56rxevg.cloudfront.net/ecat/physics/p4_Work_and_energy/p4q12.PNG,moderate,"We know that
 Work done = KE + PE
 KE =0
 Work done = PE
 Work = mgh
-",,29,mgh,\mathrm{mg}{\left.\sqrt{}( \mathrm{h}^{2}-\mathrm{l}^{2}\right)},$mghcos\theta$,$mghsin\theta$,,,,,1,,,,,,,
+",,29,mgh,$\mathrm{mg}{\left.\sqrt{( \mathrm{h}^{2}-\mathrm{l}^{2}\right)}}$,$mghcos\theta$,$mghsin\theta$,,,,,1,,,,,,,
 A boat is moving with velocity v facing drag frictional force F. What will be the power develop by the boat?,,difficult,"We know that
 Power $=$ Work $/ \mathrm{t}$
 Also work $=\mathrm{Fd}$
 Power $=\mathrm{Fd} / \mathrm{t}$
 Also $\mathrm{v}=\mathrm{d} / \mathrm{t}$
-Power $=\mathrm{Fv}$",,29,(1 / 2) \mathrm{Fv},(1 / 2) \mathrm{Fv}^{2},\mathrm{Fv}^{2},Fv,,,,,4,,,,,,,
+Power $=\mathrm{Fv}$",,29,$(1 / 2) \mathrm{Fv}$,$(1 / 2) \mathrm{Fv}^{2}$,$\mathrm{Fv}^{2}$,Fv,,,,,4,,,,,,,
 The cell that converts solar energy into electrical energy,,easy,In the photoelectric cell when the light is incident the electrons and holes are produced so it tends to increase the potential difference. In that manner solar energy is converted into electric energy by photovoltaic cell,,29,rotatory,photovoltaic,galvanic,none,,,,,2,,,,,,,
 Mark the one which have largest value of kinetic energy,,easy,"Find KE for eery option,
 For option $\mathrm{C}$
@@ -398,7 +398,7 @@ The dimension of power is,,difficult,"We know that
 Power $=\mathrm{W} / \mathrm{t}=\mathrm{Nm} / \mathrm{s}$
 Power $=\mathrm{kgms}^{-2} \mathrm{m} \mathrm{s}^{-1}$
 Power $=\mathrm{kg} \mathrm{m}^{2} \mathrm{s}^{-3}$
-Dimension $=\left[\mathrm{M} \mathrm{L}^{2} \mathrm{T}^{-3}\right]$",,29,\left[\mathrm{M} \mathrm{L}^{2} \mathrm{T}^{-3}\right],\left[\mathrm{M} \mathrm{L} \mathrm{T}^{-2}\right],\left[\mathrm{M} \mathrm{L}^{2} \mathrm{T}^{-3}\right],\left[\mathrm{M} \mathrm{L}^{2} \mathrm{T}^{3}\right],,,,,3,,,,,,,
+Dimension $=\left[\mathrm{M} \mathrm{L}^{2} \mathrm{T}^{-3}\right]$",,29,$\left[\mathrm{M} \mathrm{L}^{2} \mathrm{T}^{-3}\right]$,$\left[\mathrm{M} \mathrm{L} \mathrm{T}^{-2}\right]$,$\left[\mathrm{M} \mathrm{L}^{2} \mathrm{T}^{-3}\right]$,$\left[\mathrm{M} \mathrm{L}^{2} \mathrm{T}^{3}\right]$,,,,,3,,,,,,,
 Which of the following is the unit PE,,moderate,"Calorie is the bigger unit of joule
 1 calorie $=4184 \mathrm{J}$
 $\mathrm{PE}=\mathrm{Work}=\mathrm{Joule}$
@@ -471,7 +471,7 @@ which it is thrown",,29,its mass,the angel at which it is thrown,both mass and a
 &\mathrm{MWh}\\
 &1 \times 10^{6} \times(60)(60) \mathrm{W} / \mathrm{s}\\
 &=3.6 \times 10^{9} \mathrm{J}
-\end{aligned}",,29,3.6 \times 10^{6} \mathrm{J},3.6 \times 10^{12} \mathrm{J},3.6 \times 10^{8} \mathrm{J},3.6 \times 10^{9} \mathrm{J},,,,,4,,,,,,,
+\end{aligned}",,29,$3.6 \times 10^{6} \mathrm{J}$,$3.6 \times 10^{12} \mathrm{J}$,$3.6 \times 10^{8} \mathrm{J}$,$3.6 \times 10^{9} \mathrm{J}$,,,,,4,,,,,,,
 Work has same unit as of,,moderate,"We know that
 $\mathrm{W}=\mathrm{Fd}=\mathrm{Nm}$
 And $\tau$ =F \times r=N m",,29,Torque,Angular Momentum,Linear Momentum,Power,,,,,1,,,,,,,
@@ -487,7 +487,7 @@ $\mathrm{KE}$ is the Kinetic energy $\mathrm{r}$ is the radius $\mathrm{w}$ is t
 $\mathrm{KE}_{\mathrm{disc}}=(1 / 4) \mathrm{mr}^{2} \omega^{2}$
 $\mathrm{KE}_{\text {disc }}=(1 / 2)(1 / 2) \mathrm{mr}^{2} \omega^{2}$
 $\mathrm{KE}_{\text {disc }}=(1 / 2) \mathrm{KE}_{\text {hoop }}$
-$\mathrm{KE}_{\mathrm{hoop}}=2 \mathrm{KE}_{\mathrm{disc}}$",,30,$\mathrm{KE}_{\text {hoop }}=\mathrm{KE}_{\text {disc }}$,$\mathrm{KE}_{\text {hoop }}=2 \mathrm{KE}_{\text {disc }}$,\mathrm{KE}_{\mathrm{hoop}}=(1 / 2) \mathrm{KE}_{\mathrm{disc}},$\mathrm{KE}_{\text {hoop }}=4 \mathrm{KE}_{\text {disc }}$,,,,,2,,,,,,,
+$\mathrm{KE}_{\mathrm{hoop}}=2 \mathrm{KE}_{\mathrm{disc}}$",,30,$\mathrm{KE}_{\text {hoop }}=\mathrm{KE}_{\text {disc }}$,$\mathrm{KE}_{\text {hoop }}=2 \mathrm{KE}_{\text {disc }}$,$\mathrm{KE}_{\mathrm{hoop}}=(1 / 2) \mathrm{KE}_{\mathrm{disc}}$,$\mathrm{KE}_{\text {hoop }}=4 \mathrm{KE}_{\text {disc }}$,,,,,2,,,,,,,
 An arc of length equal to the circumference of circle subtends an angle,,moderate,"Circumference of circle $=2 \mathrm{r} \pi$
 Angle subtended by the complete rotation $=360$ or $2 \pi$ radian
 $\mathrm{Or}$
@@ -498,7 +498,7 @@ The angular velocity of the minute hand of a clock,,difficult,"Minute hand compl
 60 minutes $=60 \times 60$ sec $=3600$ sec
 So $\omega=\theta / t$
 w is the angular velocity $e$ is the angle subtended
-$\omega=(2 \lambda / 3600) \mathrm{rads}^{-1}$",,30,(2 \lambda / 60) \mathrm{rads}^{-1},( \lambda / 60) \mathrm{rads}^{-1},(2 \lambda / 3600) \mathrm{rads}^{-1},(\lambda / 3600) \mathrm{rads}^{-1},,,,,3,,,,,,,
+$\omega=(2 \lambda / 3600) \mathrm{rads}^{-1}$",,30,$(2 \lambda / 60) \mathrm{rads}^{-1}$,$( \lambda / 60) \mathrm{rads}^{-1}$,$(2 \lambda / 3600) \mathrm{rads}^{-1}$,$(\lambda / 3600) \mathrm{rads}^{-1}$,,,,,3,,,,,,,
 "Ten second after an electric fan is turned on, the fan rotates at 300rev/min. Its average angular acceleration is",,difficult,"$\omega=300 \mathrm{rev} / \mathrm{min}$
 $\omega=5$ rev $/$ sec
 w is the angular velocity
@@ -511,24 +511,24 @@ $\alpha$ is the angular acceleration
 \begin{array}{l}
 \alpha=31.4 / 10 \\
 \alpha=3.14 \mathrm{rad} / \mathrm{s}^{2}
-\end{array}",,30,30 \mathrm{rad} / \mathrm{s}^{2},3.14 \mathrm{rad} / \mathrm{s}^{2},30 \mathrm{rev} / \mathrm{s}^{2},500 \mathrm{rev} / \mathrm{s}^{2},,,,,2,,,,,,,
+\end{array}",,30,$30 \mathrm{rad} / \mathrm{s}^{2}$,$3.14 \mathrm{rad} / \mathrm{s}^{2}$,$30 \mathrm{rev} / \mathrm{s}^{2}$,$500 \mathrm{rev} / \mathrm{s}^{2}$,,,,,2,,,,,,,
 The time period of circular motion is defined by the formula,,moderate,"We know that
 $\omega=2 \pi \mathrm{f}$
 w is the angular velocity
 And $\mathrm{f}=1 / \mathrm{T}$
 $\omega=2 \pi / \mathrm{T}$
-$\mathrm{T}=2 \pi / \mathrm{w}$",,30,\mathrm{T}=\mathrm{rV},\mathrm{T}=\omega \mathrm{w},\mathrm{T}=2 \lambda \omega,\mathrm{T}=2 \lambda / \omega,,,,,4,,,,,,,
+$\mathrm{T}=2 \pi / \mathrm{w}$",,30,$\mathrm{T}=\mathrm{rV}$,$\mathrm{T}=\omega \mathrm{w}$,$\mathrm{T}=2 \lambda \omega$,$\mathrm{T}=2 \lambda / \omega$,,,,,4,,,,,,,
 The relation between the angular acceleration and linear acceleration is,,easy,"Formula of angular acceleration
 \[
 a=\alpha \times 1
 \]
-$\alpha$ is the angular acceleration and a is the linear acceleration",,30,\alpha=a \times 1,a=r \times \alpha,a=\alpha \times r,\mathrm{r}=\alpha \times \mathrm{r},,,,,3,,,,,,,
+$\alpha$ is the angular acceleration and a is the linear acceleration",,30,$\alpha=a \times 1$,$a=r \times \alpha$,$a=\alpha \times r$,$\mathrm{r}=\alpha \times \mathrm{r}$,,,,,3,,,,,,,
 A ball attached to string moves in a circle of radius of 0.4m with the constant velocity of 2m/s. its angular speed will be,,moderate,"We know that
 $v=r w$
 w is the angular velocity
 $\mathrm{w}=\mathrm{v} / \mathrm{r}$
 $\mathrm{w}=2 / 0.4$
-$\mathrm{w}=5 \mathrm{rad} / \mathrm{s}$",,30,4 \mathrm{rad} / \mathrm{s},5 \mathrm{rad} / \mathrm{s},1.6 \mathrm{rad} / \mathrm{s},2.8\mathrm{rad} / \mathrm{s},,,,,2,,,,,,,
+$\mathrm{w}=5 \mathrm{rad} / \mathrm{s}$",,30,$4 \mathrm{rad} / \mathrm{s}$,$5 \mathrm{rad} / \mathrm{s}$,$1.6 \mathrm{rad} / \mathrm{s}$,$2.8\mathrm{rad} / \mathrm{s}$,,,,,2,,,,,,,
 "When a ball attached to string is turn to move in a circle with constant angular velocity, then the necessary centripetal force is provided by",,easy,The centripetal force is the force that is necessary for a ball to move in a circular path. In this case the required force is provided by the string for the ball to move in a circle,,30,ball,ball and string,string,None,,,,,3,,,,,,,
 The angular momentum of a body is conserved if,,moderate,"Angular momentum, like energy and linear momentum, is conserved. Angular momentum is conserved when net external torque is zero, just as linear momentum is conserved when the net external force is zero",,30,Force acting on it is constant,Torque acting on it is zero,force acting on it is zero,None,,,,,2,,,,,,,
 If the ball is rotated with the string then the tension in the string when the ball is at maximum distance from the ground?,,moderate,"When the ball is at maximum distance means that the ball is vertically upward and have maximum distance from the ground. And here the tension becomes equal to the weight.
@@ -542,14 +542,14 @@ The angular speed of hour’s hand of the wrist watch is ______ radian per hour.
 $\omega=\theta / \mathrm{t}$
 w is the angular velocity
 So, $\omega=2 \pi \operatorname{rad} / 12$
-$\omega=\pi / 6$ rad/hour",,30,\pi / 4,\pi / 2,\pi / 6,\pi / 12,,,,,3,,,,,,,
+$\omega=\pi / 6$ rad/hour",,30,$\pi / 4$,$\pi / 2$,$\pi / 6$,$\pi / 12$,,,,,3,,,,,,,
 If a car is moving in circle of radius 0.4m with the uniform speed of 2m/s. Then what will be its angular speed,,easy,"We know that
 $V=r \omega$
 w is the angular velocity
 $\omega=\mathrm{v} / \mathrm{r}=2 / 0.4=5 \mathrm{rad} / \mathrm{sec}$",,30,4 rad/sec,1.6 rad/sec,5 rad/sec,2.8 rad/sec,,,,,3,,,,,,,
 A body have a constant velocity only if it follows _______ path,,moderate,If a body is following a rectilinear path it means that it has same magnitude and direction. In all other option except rectilinear we can have same magnitude of velocity but its direction will kept on changing. In rectilinear we have same magnitude and direction of velocity.,,30,circular,hyperbolic,parabolic,rectilinear,,,,,4,,,,,,,
 What will be the angular displacement if a body moves twice in a circle of radius R,,moderate,"Angular displacement for 1 complete rotation $=$ circumference of circle $=2 \pi \mathrm{R}$
-Angular displacement for 2 complete rotation $=4 \pi \mathrm{R}$",,30,\pi \mathrm{R},4\pi ,4\pi R,0,,,,,3,,,,,,,
+Angular displacement for 2 complete rotation $=4 \pi \mathrm{R}$",,30,$\pi \mathrm{R}$,$4\pi $,$4\pi R$,0,,,,,3,,,,,,,
 Time taken by the geostationary satellite to complete one complete round around earth,,easy,Geostationary satellite are the satellite whose rotation is synchronize with the rotation of earth so earth takes 24 hours to complete one complete round trip about its axis so due geostationary satellite.,,30,24days,24days,1 month,1 year,,,,,2,,,,,,,
 Two object of same mass are rotating in a circle of radius r1 and r2 respectively. What will the ratio of their centripetal forces?,,moderate,"We know that
 $\mathrm{F} 1(\text { centripetal })=\mathrm{mv}^{2} / \mathrm{r}_{1}$
@@ -559,12 +559,12 @@ $\mathrm{F} 1(\text { centripetal })=\mathrm{mv}^{2} / \mathrm{r}_{1}$
 By taking the ratio
 \[
 \mathrm{F} 1(\text { centripetal }) / \mathrm{F} 2(\text { centripetal })=\mathrm{r}_{2} / \mathrm{r}_{1}
-\]",,30,\left(r_{1} / r_{2}\right),\left(\mathrm{r}_{2} / \mathrm{r}_{1}\right),\left.\sqrt{(} \mathrm{r}_{1} / \mathrm{r}_{2}\right),\left(\mathrm{r}_{1} / \mathrm{r}_{2}\right)^{2},,,,,2,,,,,,,
+\]",,30,$\left(r_{1} / r_{2}\right)$,$\left(\mathrm{r}_{2} / \mathrm{r}_{1}\right)$,$\left.\sqrt{(} \mathrm{r}_{1} / \mathrm{r}_{2}\right)$,$\left(\mathrm{r}_{1} / \mathrm{r}_{2}\right)^{2}$,,,,,2,,,,,,,
 If a wheel of radius r turn through an angle of 30 then the distance through which any point on its rim move is,,moderate,"We know that
 $\mathrm{L}=\mathrm{r} \theta$
 L is the length of arc $r$ is the radius $\theta$ is the angle subtended
 $\theta=30=\pi / 6$
-$\mathrm{L}=\mathrm{r} \pi / 6$",,30,\pi r / 3,\pi r / 6,\pi r / 30,\pi r / 180,,,,,2,,,,,,,
+$\mathrm{L}=\mathrm{r} \pi / 6$",,30,$\pi r / 3$,$\pi r / 6$,$\pi r / 30$,$\pi r / 180$,,,,,2,,,,,,,
 The angle subtended by an arc equal to the radius is,,easy,"if the radius of circle is equal to the arc length then the angle subtended is 1 radian
 \[
 \theta=\mathrm{L} / \mathrm{r}
@@ -583,7 +583,7 @@ Real weight = mg + ma
 REAL weight (or any object's real weight) is that which is registered on the scale. In physics, apparent weight is a property of objects that corresponds with how heavy an object is",,30,mg,$mg-ma$,$mg+ma$,$mg-ma$,,,,,1,,,,,,,
 In the solar eclipse of 1919AD bending of starlight was measured to be,,easy, In solar eclipse of 1919AD bending of starlight was measured to be 1.745sec,,30,1.745sec,1.745minute,1.745degree,1.745 radian,,,,,1,,,,,,,
 "If $\theta_{\mathrm{E}}$ is the angle of bending of light predicted by Einstein's theory of gravity and $\theta_{\mathrm{N}}$ is
-the angle of bending predicted by Newton then",,easy,Information,,30,\theta_{E=}\theta _{N},\theta_{E=}\theta _{N}/2,\theta_{E=}2\theta _{E},None of these,,,,,3,,,,,,,
+the angle of bending predicted by Newton then",,easy,Information,,30,$\theta_{E=}\theta _{N}$,$\theta_{E=}\theta _{N}/2$,$\theta_{E=}2\theta _{E}$,None of these,,,,,3,,,,,,,
 A satellite moving in the orbit around earth with the constant speed. Which of the following is correct,,moderate,"A satellite is moving in a circle with constant speed but direction of velocity is continuously changing, so
 Momentum = mv is a vector quantity and it will change with the change in direction of velocity.
 KE is the scalar quantity and will remain same will the change in direction of velocit",,30,KE remains constant,Momentum will change,KE will change,both A and B,,,,,4,,,,,,,
@@ -633,7 +633,7 @@ What will be the deceleration produced if the fan moving with 4 rad/sec comes to
 w is the angular velocity
 $\alpha$ is the angular acceleration
 $\alpha=4 / 16$
-$\alpha=0.25 \mathrm{rad} / \mathrm{s}^{2}$",,30,0.5 \mathrm{rev} / \mathrm{sec}^{2},0.25 \mathrm{rad} / \mathrm{sec}^{2},0.2 \mathrm{rev} / \mathrm{sec}^{2},0.6 \mathrm{rev} / \mathrm{sec}^{2},,,,,2,,,,,,,
+$\alpha=0.25 \mathrm{rad} / \mathrm{s}^{2}$",,30,$0.5 \mathrm{rev} / \mathrm{sec}^{2}$,$0.25 \mathrm{rad} / \mathrm{sec}^{2}$,$0.2 \mathrm{rev} / \mathrm{sec}^{2}$,$0.6 \mathrm{rev} / \mathrm{sec}^{2}$,,,,,2,,,,,,,
 The unit of angular momentum is,,easy,"We know that
 Angular momentum $=\mathrm{r} \times \mathrm{p}$
 \[
@@ -642,7 +642,7 @@ Angular momentum $=\mathrm{r} \times \mathrm{p}$
 =(\mathrm{m})(\mathrm{kg})(\mathrm{m} / \mathrm{s}) \\
 =\mathrm{m}^{2} \mathrm{kg} / \mathrm{s}=\mathrm{Ns}
 \end{array}
-\]",,30,Js,Ns,\mathrm{kgm}^{2} \mathrm{s}^{-1},Both A and C,,,,,4,,,,,,,
+\]",,30,Js,Ns,$\mathrm{kgm}^{2} \mathrm{s}^{-1}$,Both A and C,,,,,4,,,,,,,
 The ratio of radii of spin and orbital motion of earth is,,moderate,"Time taken by earth to complete its 1 spin cycle = 24 hours
 Time taken by earth to complete its 1 orbital cycle = 365days
 Hence the ratio is less than 1 as the orbital motion is greater than spin motion",,30,$>1$,$<1$,$=1$,None of these,,,,,2,,,,,,,
@@ -654,7 +654,7 @@ To produce artificial gravity $a_c$ $/ \mathrm{f}^{2}=$,,easy,"We know that
 \left.\mathrm{f}=(1 / 2 \pi) \sqrt{(} \mathrm{a}_{\mathrm{c}} / \mathrm{R}\right) \\
 \mathrm{a}_{\mathrm{c}} / \mathrm{f}^{2}=4 \pi^{2} \mathrm{R}
 \end{array}
-\]",,30,4 \pi R,4 \pi^{2} \mathrm{R}^{2},4 \pi^{2} \mathrm{R},2 \pi \mathrm{R},,,,,3,,,,,,,
+\]",,30,$4 \pi R$,$4 \pi^{2} \mathrm{R}^{2}$,$4 \pi^{2} \mathrm{R}$,$2 \pi \mathrm{R}$,,,,,3,,,,,,,
 If we increase the rotational speed of fan then its rotational KE will,,moderate,"We know that
 $\mathrm{KE}=(1 / 2) \mathrm{mv}^{2}$
 And
@@ -670,8 +670,8 @@ Terminal velocity is a constant velocity
 As change in velocity is zero so the acceleration becomes zero.",,31,maximum,0,minimum,infinite,,,,,2,,,,,,,
 Terminal velocity is given by,,easy,"The formula of terminal velocity is given by
 \mathrm{v}_{\mathrm{t}}=2 \mathrm{gr}^{2} \mathrm{p} / 9 \mathrm{n}                 
-where vt is the terminal velocity g is gravitational acceleration p is the density n is the viscosity coefficient             ",,31,v_{t}=g r^{2} p / n,\mathrm{v}_{\mathrm{t}}=2 \mathrm{gr}^{2} \mathrm{p} / 9 \mathrm{n},\mathrm{v}_{\mathrm{t}}=\mathrm{g} \mathrm{r}^{2} \mathrm{p} / 9 \mathrm{n},\mathrm{v}_{\mathrm{t}}=9 \mathrm{gr}^{2} \mathrm{p} / \mathrm{n},,,,,2,,,,,,,
-The constant in the equation of continuity A1v1=A2v2= constant also known as,,moderate,"Av has unit $=\left(\mathrm{m}^{2}\right)\left(\mathrm{ms}^{-1}\right)$
+where vt is the terminal velocity g is gravitational acceleration p is the density n is the viscosity coefficient             ",,31,$v_{t}=g r^{2} p / n$,$\mathrm{v}_{\mathrm{t}}=2 \mathrm{gr}^{2} \mathrm{p} / 9 \mathrm{n}$,$\mathrm{v}_{\mathrm{t}}=\mathrm{g} \mathrm{r}^{2} \mathrm{p} / 9 \mathrm{n}$,$\mathrm{v}_{\mathrm{t}}=9 \mathrm{gr}^{2} \mathrm{p} / \mathrm{n}$,,,,,2,,,,,,,
+The constant in the equation of continuity $A_1v_1=A_2v_2=$ constant also known as,,moderate,"Av has unit $=\left(\mathrm{m}^{2}\right)\left(\mathrm{ms}^{-1}\right)$
 A is the area v is the velocity
 \[
 \text { Av has unit }=\mathrm{m}^{3} \mathrm{s}^{-1}
@@ -693,7 +693,7 @@ By equation of continuity
 \mathrm{v} \propto 1 / \mathrm{A}
 \]
 As the velocity is highest the area or diameter will be smallest",,31,velocity is highest,diameter is smallest,diameter is largest,Both a and b,,,,,4,,,,,,,
-A ball having diameter d is released in a viscous liquid. The velocity of the ball is represented by the following curve,,difficult,"We know that
+A ball having diameter d is released in a viscous liquid. The velocity of the ball is represented by the following curve,https://d15o1jx56rxevg.cloudfront.net/ecat/physics/p6_Fluid_dynamics/p6q7.PNG,difficult,"We know that
 \[
 v_{t}=2 g r^{2} p / 9 n
 \]
@@ -702,7 +702,7 @@ viscosity coefficient
 \[
 v_{t} \alpha r^{2}
 \]
-So the graph will be a parabola.",https://d15o1jx56rxevg.cloudfront.net/ecat/physics/p6_Fluid_dynamics/p6q7.PNG,31,Curve A,Curve B,Curve C,Curve D,,,,,3,,,,,,,
+So the graph will be a parabola.",,31,Curve A,Curve B,Curve C,Curve D,,,,,3,,,,,,,
 Equation of continuity is obtained by applying the law of conservation of,,easy,"Equation of continuity is given as
 \[
 \mathrm{A} 1 \mathrm{v} 1=\mathrm{A} 2 \mathrm{v} 2
@@ -712,13 +712,13 @@ Or $A \propto 1 / v$
 The velocity of fluid is greater where the area is narrow keeping the mass constant.
 So the total mass present will remain constant and mass is conserved.
 ",,31,Energy,Momentum,Mass,All,,,,,3,,,,,,,
-The fluid flows in a tube with varying diameter as shown in the figure. The relationship between the pressure and velocity is shown correctly by which of the graph?,,moderate,"By Bernoulli statement
+The fluid flows in a tube with varying diameter as shown in the figure. The relationship between the pressure and velocity is shown correctly by which of the graph?,https://d15o1jx56rxevg.cloudfront.net/ecat/physics/p6_Fluid_dynamics/p6q9.PNG,moderate,"By Bernoulli statement
 ""Where the speed is high, the pressure will be high""
 $\mathrm{P} \alpha 1 / \mathrm{v}$
 Also
 $\mathrm{A} \propto 1 / \mathrm{v}$
 As we see in the diagram as initially the area is grater so the velocity is lesser and the
-pressure is higher and vice versa.",https://d15o1jx56rxevg.cloudfront.net/ecat/physics/p6_Fluid_dynamics/p6q9.PNG,31,,,,,http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p6_Fluid_dynamics/p6.q9.1.PNG,http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p4_Work_and_energy/p4q1.2.PNG,,http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p6_Fluid_dynamics/p6q9.4.PNG,3,,,,,,,
+pressure is higher and vice versa.",,31,,,,,http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p6_Fluid_dynamics/p6.q9.1.PNG,http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p4_Work_and_energy/p4q1.2.PNG,,http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p6_Fluid_dynamics/p6q9.4.PNG,3,,,,,,,
 Speed of efflux can be determined by applying,,easy,"The speed of efflux is given by Torricelli equation
 \[
 \mathrm{v}=\sqrt{2} \mathrm{g}\left(\mathrm{h}_{1}-\mathrm{h}_{2}\right)
@@ -805,7 +805,7 @@ Which one is venture relation?,,easy,"venture relation is given by
 \[
 P_{1}-P_{2}=(1 / 2) \mathrm{pv}_{2}^{2}
 \]
-$P$ is the pressure $v$ is the velocity $p$ is the density",,31,P_{1}-P_{2}=(1 / 2) \mathrm{pv}_{2}^{2},\mathrm{P}+(1 / 2) \mathrm{pv}^{2}=\text { constant },P_{1}-P_{2}=(1 / 2) p v_{1}^{2},Both a and b,,,,,1,,,,,,,
+$P$ is the pressure $v$ is the velocity $p$ is the density",,31,$P_{1}-P_{2}=(1 / 2) \mathrm{pv}_{2}^{2}$,$\mathrm{P}+(1 / 2) \mathrm{pv}^{2}=\text { constant }$,$P_{1}-P_{2}=(1 / 2) p v_{1}^{2}$,Both a and b,,,,,1,,,,,,,
 The blood pressure in our vein is,,moderate,The blood pressure in our vein is greater than atmospheric pressure and this is the reason that our blood not try to come out of the body.,,31,equal to atmospheric pressure,less than atmospheric pressure,greater than atmospheric pressure,Depends upon circumstances,,,,,3,,,,,,,
 The fluid is flowing through a horizontal pipe if the pressure increases then,,moderate,"Bernoulli equation is
 \[
@@ -816,7 +816,7 @@ Now by increasing the pressure the velocity decrease
 So $(1 / 2) \mathrm{pv}^{2}$ decreases
 And pgh remains constant",,31,$(1 / 2) \mathrm{pv}^{2}$ decreases,pgh remains same,both a and b,$(1 / 2) \mathrm{pv}^{2}$ and pgh both decreases,,,,,3,,,,,,,
 "In Bernoulli equation P + (1/2)pv2 + pgh = constant, the unit of the constant is",,easy,"Constant has unit equivalent to pressure
-Unit of Pressure $=$ pascal or $\mathrm{Nm}^{-2}$",,31,\mathrm{Nm}^{-2},Ns,Nm,Unit less,,,,,1,,,,,,,
+Unit of Pressure $=$ pascal or $\mathrm{Nm}^{-2}$",,31,$\mathrm{Nm}^{-2}$,Ns,Nm,Unit less,,,,,1,,,,,,,
 For horizontal pipe the Bernoulli equation will becomes,,moderate,"Bernoulli equation is
 \[
 P+(1 / 2) p v^{2}+p g h=\text { constant }
@@ -826,7 +826,7 @@ So for horizontal pipe $\mathrm{h}=0$
 So the equation becomes
 \[
 \operatorname{pgh}+(1 / 2) \mathrm{pv}^{2}=\text { constant }
-\]",,31,\mathrm{P}+(1 / 2) \mathrm{pv}^{2}=\text { constant },\operatorname{pgh}+(1 / 2) \mathrm{pv}^{2}=\text { constant },\mathrm{P}+\mathrm{pgh}=\text { constant },remains same,,,,,1,,,,,,,
+\]",,31,$\mathrm{P}+(1 / 2) \mathrm{pv}^{2}=\text { constant }$,$\operatorname{pgh}+(1 / 2) \mathrm{pv}^{2}=\text { constant }$,$\mathrm{P}+\mathrm{pgh}=\text { constant }$,remains same,,,,,1,,,,,,,
 The speed of efflux from a container filled with water does not depend upon,,moderate,"The speed of efflux is given by
 \mathbf{v}=\sqrt{2} \mathbf{g}\left(\mathbf{h}_{1}-\mathbf{h}_{2}\right)
 So from here we ca see that speed of efflux does not depend on the area of hole",,31,Height above orifice,Area of hole,Both A and B,Value of g,,,,,2,,,,,,,
@@ -848,7 +848,7 @@ v_{t}(\text { new })=v_{t}(\text { old }) \times 4
 \]",,31,Becomes 4 times,Becomes double,Become half,Can’t attain terminal velocity,,,,,1,,,,,,,
 "The spherical object is falling with the terminal velocity in a viscous medium, the acceleration will be",,moderate,"Terminal velocity is always constant so the acceleration will be zero
 Terminal velocity = 0
-Acceleration = change in velocity/ t =0",,31,a=g,a>g,a<g,a=0,,,,,4,,,,,,,
+Acceleration = change in velocity/ t =0",,31,$a=g$,$a>g$,$a<g$,a=0,,,,,4,,,,,,,
 Stock’s law can be applied when,,moderate,"The formula of stock’s law is given as
 $\mathrm{F}=6 \pi \mathrm{nrv}$
 So now from here we see that body have some radius and radius is possessed by spherical object.
@@ -856,8 +856,8 @@ Also the fluid must be non ideal as the ideal fluid have zero viscosity.",,31,Ob
 In liquid and gases the cause of viscosity respectively is,,easy,Cohesive force is the force present between the molecules of liquid and it provide the resistance for object to flow through it and Diffusion is the net movement of anything from a region of higher concentration to a region of lower concentration,,31,"Cohesive force, Diffusion","Diffusion, Diffusion","Diffusion, Cohesive force","Cohesive, Cohesive force",,,,,1,,,,,,,
 Which one of the following is true for drag force in any viscous medium?,,easy,"The formula of stock's law is given as
 $\mathrm{F}=6 \pi \mathrm{nrv}$
-So force is proportional to radius, velocity and viscosity.",,31,\mathrm{F}_{\mathrm{d}} \alpha \mathrm{r},\mathrm{F}_{\mathrm{d}} \alpha \mathrm{n},\mathrm{F}_{\mathrm{d}} \alpha \mathrm{v},All,,,,,4,,,,,,,
-A solid spherical object is dropped from some height in a viscous medium. The velocity time is given by,,difficult,There are two things. Initial velocity of the body must be zero and by stock’s law the terminal velocity will be constant. So after some time the velocity become constant which is also known as terminal velocity.,,31,,,http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p3_Motion_and_force/p3q30.2.PNG,,http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p4_Work_and_energy/p4q1.2.PNG,,http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p6_Fluid_dynamics/p6q37.c,none,3,,,,,,,
+So force is proportional to radius, velocity and viscosity.",,31,$\mathrm{F}_{\mathrm{d}} \alpha \mathrm{r}$,$\mathrm{F}_{\mathrm{d}} \alpha \mathrm{n}$,$\mathrm{F}_{\mathrm{d}} \alpha \mathrm{v}$,All,,,,,4,,,,,,,
+A solid spherical object is dropped from some height in a viscous medium. The velocity time is given by,,difficult,There are two things. Initial velocity of the body must be zero and by stock’s law the terminal velocity will be constant. So after some time the velocity become constant which is also known as terminal velocity.,,31,,,,none,http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p3_Motion_and_force/p3q30.2.PNG,http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p4_Work_and_energy/p4q1.2.PNG,http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p6_Fluid_dynamics/p6q37.c,,3,,,,,,,
 Viscosity of ideal fluid is,,easy,In ideal solid there is no resistive force and the liquid has zero viscosity.,,31,1,0,0.5,Infinite,,,,,2,,,,,,,
 In gases when we increase the temperature the viscosity will,,moderate,In gases the viscosity is due to the diffusion. The more the diffusion the more will be the viscosity. So if we increase the temperature the rate of diffusion also increase so do the viscosity,,31,Increase  ,Remain same,Decrease,None of these,,,,,1,,,,,,,
  If we have visco static fluid what happen to viscosity if we increase the temperature,,easy,Visco mean viscosity and static mean at rest. Visco static fluid are the fluid whose viscosity does not depends on the temperature.,,31,Increase  ,Remain same,Decrease,None of these,,,,,2,,,,,,,
@@ -915,7 +915,7 @@ As we know that,
 v_{0}=\mathrm{wx}_{0} \\
 \text { Also } \mathrm{a}_{0}=\mathrm{w}^{2} \mathrm{x}_{0}
 \end{array}
-\]",,32,v_\circ^{2}/ a_\circ,v_\circ^{2} a_\circ, a_\circ^{2}/v_\circ,1 / \mathrm{v}_\circ \mathrm{a}_\circ,,,,,1,,,,,,,
+\]",,32,$v_\circ^{2}/ a_\circ$,$v_\circ^{2} a_\circ$,$a_\circ^{2}/v_\circ$,$1 / \mathrm{v}_\circ \mathrm{a}_\circ$,,,,,1,,,,,,,
 Total energy of a body executing simple harmonic motion(SHM) is directly proportional to,,moderate,"Total Energy is given by
 \[
 \mathrm{TE}=(1 / 2) \mathrm{k} \mathrm{x}_{0}^{2}
@@ -931,13 +931,14 @@ Total Energy is given by
 $\mathrm{x}_{0}$ is the amplitude",,32,PE remain constant,KE will remain constant,total energy remain constant,total momentum remain constant,,,,,3,,,,,,,
 The acceleration and position executing simple harmonic motion(SHM) are related by which of the graph,,difficult,"From Hook’s law
 
-F = -kx
+\[F = -kx\]
 
-F = ma
+\]F = ma\]
 
-ma = -kx
+\[ma = -kx\]
 
-a $\propto$ –x",,32,,,,,http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p7_Oscillations/8.1.PNG,http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p7_Oscillations/8.2.PNG,http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p7_Oscillations/8.3.PNG,http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p7_Oscillations/8.4.PNG,2,,,,,,,
+\[a $\propto$ –x\]
+",,32,,,,,http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p7_Oscillations/8.1.PNG,http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p7_Oscillations/8.2.PNG,http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p7_Oscillations/8.3.PNG,http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p7_Oscillations/8.4.PNG,2,,,,,,,
 The wave produced in microwave oven has the wavelength of,,easy,Information,,32,12m,1.2cm,12cm,12um,,,,,3,,,,,,,
  For what displacement the Potential energy of simple harmonic motion(SHM) becomes equal to ¼ of its maximum value?,,difficult,"According to given condition
 \[
@@ -955,7 +956,7 @@ So comparing both
 \mathrm{x}^{2}=\mathrm{x}_{0}^{2} / 4
 \end{array}
 \]
-or $x=\left(x_{0} / 2\right)$",,32,x=x_{0},x=x_{0}/ 2,x=x_{0} / 4,x=x_{0}^2 / 4,,,,,2,,,,,,,
+or $x=\left(x_{0} / 2\right)$",,32,$x=x_{0}$,$x=x_{0}/ 2$,$x=x_{0} / 4$,$x=x_{0}^2 / 4$,,,,,2,,,,,,,
 "The displacement of simple harmonic motion(SHM) can be written as $\mathrm{x}=\mathrm{x}_{0}$ sinwt. If we
 write equation in terms of cosine as $\mathrm{x}=\mathrm{x}_{0}$ coswt. Then the phase constant will be equal to",,moderate,"\begin{array}{l}
 \sin \theta=-\cos (\theta+90) \\
@@ -1009,7 +1010,7 @@ T is the time period $m$ is the mass $k$ is the constant
 By putting k
 \[
 \mathrm{T}=2 \pi \sqrt{(} 3 \mathrm{m} / 2 \mathrm{k})
-\]",,32,2 \pi \sqrt{(} \mathrm{m} / 3 \mathrm{k}),2 \pi \sqrt{(} 3 \mathrm{m} / 2 \mathrm{k}),2 \pi \sqrt{(} 2 \mathrm{m} / 3 \mathrm{k}),2 \pi \sqrt{(} \mathrm{m} / 2 \mathrm{k}),,,,,2,,,,,,,
+\]",,32,$2 \pi \sqrt{(} \mathrm{m} / 3 \mathrm{k})$,$2 \pi \sqrt{(} 3 \mathrm{m} / 2 \mathrm{k})$,$2 \pi \sqrt{(} 2 \mathrm{m} / 3 \mathrm{k})$,$2 \pi \sqrt{(} \mathrm{m} / 2 \mathrm{k})$,,,,,2,,,,,,,
 When kinetic energy of simple harmonic motion(SHM) is maximum the,,moderate,KE is maximum means that velocity is maximum and we know that velocity is maximum at mean position. At mean position acceleration is zero and PE is also zero due to conservation of energy. Also restoring force is maximum at extreme position and zero at mean position.,http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p7_Oscillations/p7e17.PNG,32, PE is zero,acceleration is zero,restoring force is zero,"all PE ,acceleration and restoring force are zero",,,,,4,,,,,,,
 "The total distance travelled by the bob in simple harmonic motion(SHM) in terms of
 maximum amplitude a $_{0}$ is",,moderate,"the distance traveled form mean to extreme =$a_\circ$
@@ -1040,15 +1041,15 @@ By given condition
 \mathrm{x}=\pm(1 / \sqrt{2}) \mathrm{x}_{0} \\
 \mathrm{x}=\pm(1 / \sqrt{2}) \mathrm{A}
 \end{array}
-\]",,32,\pm \sqrt{2} \mathrm{A},\pm(1 / \sqrt{2}) \mathrm{A},\pm(1 / 2) \mathrm{A},1 / \sqrt{2} \mathrm{A},,,,,2,,,,,,,
+\]",,32,$\pm \sqrt{2} \mathrm{A}$,$\pm(1 / \sqrt{2}) \mathrm{A}$,$\pm(1 / 2) \mathrm{A}$,$1 / \sqrt{2} \mathrm{A}$,,,,,2,,,,,,,
 Which of the following is correct if the body is executing SHM,,moderate,"Total energy always remain constant
 \[
 \begin{array}{l}
 \mathrm{TE}=(1 / 2) \mathrm{kx}_{0}^{2} \\
 \mathrm{TE}=\mathrm{KE}_{\max }=\mathrm{PE}_{\max }
 \end{array}
-\]",,32,\mathrm{TE}=(1 / 2) \mathrm{kx}_{0}^{2},\mathrm{TE}=\mathrm{KE}_{\mathrm{max}},\mathrm{TE}=\mathrm{PE}_{\mathrm{max}},All,,,,,4,,,,,,,
- The energy absorbed by the body in resonance is,,moderate,"At resonance, the frequency of different sources combined and formed a combined maximum effect so the energy is maximum at resonance",,32,maximum,minimum,0,Both Aand B,,,,,1,,,,,,,
+\]",,32,$\mathrm{TE}=(1 / 2) \mathrm{kx}_{0}^{2}$,$\mathrm{TE}=\mathrm{KE}_{\mathrm{max}}$,$\mathrm{TE}=\mathrm{PE}_{\mathrm{max}}$,All,,,,,4,,,,,,,
+ The energy absorbed by the body in resonance is,,moderate,"At resonance, the frequency of different sources combined and formed a combined maximum effect so the energy is maximum at resonance",,32,maximum,minimum,0,Both A and B,,,,,1,,,,,,,
  In case of simple pendulum the drag force which becomes the cause of damped oscillation is,,easy,Damping is the effect in which oscillation slow down with the passage of time. In simple pendulum the air friction cause the damping effect.,,32,tension in string,drag force of air,gravity,None of these,,,,,2,,,,,,,
  If the mass of mass spring oscillator become 1/4 the frequency will be,,moderate,"\begin{array}{l}
 \mathrm{T}=(2 \pi) \sqrt{(\mathrm{m} / \mathrm{k})} \\
@@ -1064,7 +1065,7 @@ The distance covered by the body in one complete oscillation is 20cm. What will 
 " If the oscillator starts vibrating from negative extreme, then the phase constant will be",,moderate,"Start from mean position, Angle is $=0$
 Start from positive extreme, Angle is $=\pi / 2$
 Start from mean position, to negative extreme Angle is $=\pi$
-Start from negative extreme, Angle is $=3 \pi / 2$",http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p7_Oscillations/p7e26.PNG,32,\pi/2,\pi,3\pi/2,2\pi,,,,,3,,,,,,,
+Start from negative extreme, Angle is $=3 \pi / 2$",http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p7_Oscillations/p7e26.PNG,32,$\pi/2$,$\pi$,$3\pi/2$,$2\pi$,,,,,3,,,,,,,
 A simple harmonic has a time period of 10sec. Then the acceleration and displacement is related as,,difficult,"We know that
 \[
 \mathrm{w}=2 \pi / \mathrm{T}=\pi / 5
@@ -1075,7 +1076,7 @@ a=-w^{2} x
 w is the angular velocity, a is the acceleration
 \[
 a=-(2 \pi / 10)^{2}x
-\]",,32,a=-10x,\mathrm{a}=-(2 \pi / 10)^{2} \mathrm{x},a=-(20 \pi)^{2} x,a=-(20 \pi) x,,,,,2,,,,,,,
+\]",,32,$a=-10x$,$\mathrm{a}=-(2 \pi / 10)^{2} \mathrm{x}$,$a=-(20 \pi)^{2} x$,$a=-(20 \pi) x$,,,,,2,,,,,,,
 Spring constant k has the same unit as that of,,easy,"We know that
 \[
 \begin{array}{l}
@@ -1090,7 +1091,7 @@ Surface tension $=\mathrm{F} / \mathrm{l}=(\mathrm{N} / \mathrm{m})$",,32,Pressu
 \mathrm{w}=2 \pi / \mathrm{T} \\
 \mathrm{w} \mathrm{T}=2 \pi
 \end{array}
-\]",,32,1,2\pi/f,2\pi,T,,,,,3,,,,,,,
+\]",,32,1,$2\pi/f$,$2\pi$,T,,,,,3,,,,,,,
 A spring has spring constant k. The spring is cut into two equal size spring. What will be the value of k for these spring,,moderate,"We know that
 \[
 \mathrm{F}=\mathrm{kx}
@@ -1133,7 +1134,7 @@ Equaling
 2 \pi \sqrt{(m / k)}=2 \pi \sqrt{(} 1 / g)
 \]
 $\mathrm{k}=\mathrm{constant}(1 / \mathrm{L})$ keeping $\mathrm{m}$ constant
-$\mathrm{k} \propto(1 / \mathrm{L})$",,32,\mathrm{k} \propto 1 / \mathrm{L},\mathrm{k} \propto \mathrm{L},\mathrm{k} \propto 1 / \mathrm{L}^{2},,,,,,1,,,,,,,
+$\mathrm{k} \propto(1 / \mathrm{L})$",,32,$\mathrm{k} \propto 1 / \mathrm{L}$,$\mathrm{k} \propto \mathrm{L}$,$\mathrm{k} \propto 1 / \mathrm{L}^{2}$,No Relation,,,,,1,,,,,,,
 "The equation displacement in $\mathrm{SHM}$ is $\mathrm{x}=\mathrm{x}_{\mathrm{o}}$ sint$\omega$. The value of acceleration at instant
 $t=T / 4$ is",,difficult,"We know that
 \[
@@ -1150,7 +1151,7 @@ w t=\pi / 2
 \[
 \text { and sinwt }=\sin (\pi / 2)=1
 \]
-and $x=x_{0}$",,32,x_{0} \omega,\mathrm{x}_{0} \mathrm{\omega}^{2},$x_\circ$,\mathrm{x}_{0} \mathrm{\omega} / 2,,,,,3,,,,,,,
+and $x=x_{0}$",,32,$x_{0} \omega$,$\mathrm{x}_{0} \mathrm{\omega}^{2}$,$x_\circ$,$\mathrm{x}_{0} \mathrm{\omega} / 2$,,,,,3,,,,,,,
  The ratio of maximum velocity and maximum acceleration for the body executing SHM is ,,difficult,"\[
 \begin{array}{l}
 \mathrm{V}(\max )=\mathrm{wx}_{\mathrm{o}} \\
@@ -1167,7 +1168,7 @@ For spring
 \begin{array}{l}
 \mathrm{T}=2 \pi \sqrt{\mathrm{m} / \mathrm{k}} \\
 (1 / \mathrm{w})=\sqrt{(\mathrm{m} / \mathrm{k})}
-\end{array}",,32,\mathrm{T} / 2 \pi,\sqrt{(m / k)},\sqrt{(} | / \mathrm{g}),All of these,,,,,4,,,,,,,
+\end{array}",,32,$\mathrm{T} / 2 \pi$,$\sqrt{(m / k)}$,$\sqrt{(} | / \mathrm{g})$,All of these,,,,,4,,,,,,,
 If the initial phase is 270 we can use the formula for displacement for SHM,,moderate,"We know that
 $\mathrm{x}=\mathrm{x}_{0} \sin \theta \quad$ for mean position
 now angle is 270
@@ -1176,7 +1177,7 @@ now angle is 270
 x=x_{0} \sin ( \theta +270) \\
 x=-x_{0} \cos \theta
 \end{array}
-\]",,32,x=x_{0} \sin \theta,x=x_{0} \cos \theta,x=-x_{0} \sin \theta,x=-x_{0} \cos \theta,,,,,4,,,,,,,
+\]",,32,$x=x_{0} \sin \theta$,$x=x_{0} \cos \theta$,$x=-x_{0} \sin \theta$,$x=-x_{0} \cos \theta$,,,,,4,,,,,,,
 If the kinetic energy in simple harmonic motion is minimum then which one is correct,,moderate,KE is minimum means the velocity is minimum which relate to extreme position. Displacement and acceleration is maximum at extreme position,,32, PE is maximum,Acceleration is maximum, Displacement is maximum,All of these,,,,,4,,,,,,,
 The time period of a simple pendulum is independent of,,easy,"For simple pendulum
 \[
@@ -1418,7 +1419,7 @@ Path difference \( =\mathrm{n} \lambda \) for bright fringe
 \( \mathrm{n} \) is the fringe number, \( \lambda \) is the wavelength
 Path difference \( =(2 \mathrm{n}-1) \lambda \) for dark fringe",,34,one slit for frequency the other one for wavelength,two slits in parallel other for less resistance,to  create the intensity,to create a path difference,,,,,4,,,,,,,
 Longitudinal waves possess all of the following except ,,easy,Polarization is the property of electromagnetic waves. Longitudinal wave is confined to 1 plane while electromagnetic wave exit in 2 plane.,,34,reflection,refraction,diffraction,polarizatiion,,,,,4,,,,,,,
-In the equation $\sin \phi$ \( =\lambda \) a for single slit diffraction the angle \( \phi \) is,,easy,Information,,34,the angle to the second maximum,the angle to the first maximum,the phase between the extreme phase,None of these,,,,,2,,,,,,,
+In the equation $\sin \phi =\lambda $ a for single slit diffraction the angle $ \phi $ is,,easy,Information,,34,the angle to the second maximum,the angle to the first maximum,the phase between the extreme phase,None of these,,,,,2,,,,,,,
 "The equation for diffraction grading is \( \mathrm{d} \sin \phi=\mathrm{m} \lambda, \) here 'm' represents",,easy,Information,,34,the slit width,the number of slits,the order of line,the slit sepration,,,,,3,,,,,,,
 Which of the following is nearly a monochromatic light?,,moderate,Monochromatic means light having a particular color that have specific wavelength and frequency Sodium lamp emits light that is very much confined to yellow light so it is considered to be mono.,,34,light from fluorescent tube,light from sodium lamp,light from mercury lamp,light from simple lamp,,,,,2,,,,,,,
 The locus of all the points in a medium having same phase of vibration is known as,,easy,Definition of wave fronts,,34,wavelength,wavefronts,crest,trough,,,,,2,,,,,,,
@@ -1506,7 +1507,7 @@ Resolving power of simple microscope is related as,,easy,"We know that
 \mathrm{R}=\mathrm{D} / 1.22 \lambda
 \]
 $\mathrm{R}$ is the resolution, $\mathrm{D}$ is the diameter, $\lambda$ is the wavelength
-$\mathrm{R} \propto 1 / \lambda$",,35,\mathrm{R} \propto 1/ \lambda,\mathrm{R} \propto \lambda,\mathrm{R} \propto \lambda^{2},\mathrm{R} \propto 1 / \lambda^{2},,,,,1,,,,,,,
+$\mathrm{R} \propto 1 / \lambda$",,35,$\mathrm{R} \propto 1/ \lambda$,$\mathrm{R} \propto \lambda$,$\mathrm{R} \propto \lambda^{2}$,$\mathrm{R} \propto 1 / \lambda^{2}$,,,,,1,,,,,,,
 "If the wavelength of two light is $\lambda=4000$ A and $\lambda=5000$ A is used in optical instrument.
 What will the ratio of their resolving power",,difficult,"We know that
 \[
@@ -1553,7 +1554,7 @@ $10=f_{\mathrm{e}}$
 $\mathrm{f}_{\mathrm{o}}$ is the focal length of objective lens, $\mathrm{f}_{\mathrm{e}}$ is the focal length of eyepiece
 \[
 \mathrm{Also} \mathrm{M}=\mathrm{f}_{\mathrm{o}} / \mathrm{f}_{\mathrm{e}}
-\]",,35,f_\circ-f_{e},f_\circ+f_{e},f_\circ/f_{e},\mathrm{f}_\circ \mathrm{f}_{\mathrm{e}} / \mathrm{f}_{\mathrm{o}}+\mathrm{f}_{\mathrm{e}},,,,,2,,,,,,,
+\]",,35,$f_\circ-f_{e}$,$f_\circ+f_{e}$,$f_\circ/f_{e}$,$\mathrm{f}_\circ \mathrm{f}_{\mathrm{e}} / \mathrm{f}_{\mathrm{o}}+\mathrm{f}_{\mathrm{e}}$,,,,,2,,,,,,,
 "The final image obtained by compound microscope is",,moderate,"The image formed by first convex lens is virtual and inverted and image formed by second lens is also virtual and inverted.
 ",,35, real and inverted , virtual and inverted,real and erect,"virtual and real",,,,,2,,,,,,,
 "A convex lens of focal length f1 and concave length of focal length of f2 to view the image. What will be their combined focal length
@@ -1563,7 +1564,7 @@ $\mathrm{f}_{\mathrm{o}}$ is the focal length of objective lens, $\mathrm{f}_{\m
 \mathrm{F}_{2}=\text { focal length of concave lens } \\
 1 / \mathrm{F}=1 / \mathrm{F}_{1}+1 / \mathrm{F}_{2} \\
 \mathrm{F}=\mathrm{F}_{1} \mathrm{F}_{2} /\left(\mathrm{F}_{1}+\mathrm{F}_{2}\right)
-\end{array}",,35,\mathrm{f}_{1}+\mathrm{f}_{2},f_{1}-f_{2},f_{1} f_{2} /\left(f_{1}+f_{2}\right),-f_{1} f_{2} /\left(f_{1}-f_{2}\right),,,,,3,,,,,,,
+\end{array}",,35,$\mathrm{f}_{1}+\mathrm{f}_{2}$,$f_{1}-f_{2}$,$f_{1} f_{2} /\left(f_{1}+f_{2}\right)$,$-f_{1} f_{2} /\left(f_{1}-f_{2}\right)$,,,,,3,,,,,,,
  Two convex having same focal length of f are used in object image. The resultant focal length will be,,difficult,"$\mathrm{F}=$ focal length of the combination
 $1 / \mathrm{F}=1 / \mathrm{F}_{1}+1 / \mathrm{F}_{2}$
 Also,
@@ -1583,7 +1584,7 @@ $c=$ speed of light in air
 v=c / n=\left(3 \times 10^{8}\right) /(1.5) \\
 v=2 \times 10^{8} \mathrm{m} / \mathrm{s}
 \end{array}
-\]",,35,2 \times 10^{8} \mathrm{m} / \mathrm{s},0.5 \times 10^{8} \mathrm{m} / \mathrm{s},3 \times 10^{8} \mathrm{m} / \mathrm{s},1.5 \times 10^{8} \mathrm{m} / \mathrm{s},,,,,1,,,,,,,
+\]",,35,$2 \times 10^{8} \mathrm{m} / \mathrm{s}$,$0.5 \times 10^{8} \mathrm{m} / \mathrm{s}$,$3 \times 10^{8} \mathrm{m} / \mathrm{s}$,$1.5 \times 10^{8} \mathrm{m} / \mathrm{s}$,,,,,1,,,,,,,
 " The effect on least distance of distinct vision of human eye with increase in age",,easy,With the increase in age it become difficult to distinguish between two object placed far apart. This is due to near sightedness or farsightedness.,,35,decreases,Inceases,remain same,infinite,,,,,2,,,,,,,
 In order to increase the magnitude power of a compound microscope we have to,,moderate,"We know that
 Power = P = 1/focal length
@@ -1593,7 +1594,7 @@ Length of telescope $=\mathrm{f}_\circ+\mathrm{f}_{\mathrm{e}}$
 $f_\circ$ is the focal length of objective lens $f_{e}$ is the focal length of eyepiece
 \[
 \text { Also } \mathrm{M}=\mathrm{f}_{\mathrm{o}} / \mathrm{f}_{\mathrm{e}}
-\]",,35,f_\circ+f_{e},f_\circ-f_{e},f_\circ/f_{e},\mathrm{f}_{e} / \mathrm{f}_\circ,,,,,3,,,,,,,
+\]",,35,$f_\circ+f_{e}$,$f_\circ-f_{e}$,$f_\circ/f_{e}$,$\mathrm{f}_{e} / \mathrm{f}_\circ$,,,,,3,,,,,,,
 If the red light used in microscope is replaced by blue light. What will happen to the magnification of microscope,,difficult,"The magnification of microscope does not depends on light color however the resolution
 does depends on the light color by the following relation
 \[
@@ -1638,7 +1639,7 @@ c=16 \mathrm{fd}
 The instrument used by Michelson to calculate the speed of light,,moderate,"Michelson makes its own instrument to the speed of light. In this experiment the speed of light was determined by measuring the time it took to cover a round trip between two mountains.",,35,spectrometer,galvanometer,interferometer   ,None,,,,,4,,,,,,,
 " The central image formed in compound microscope is",,moderate,Image formed is virtual and inverted and enlarged than object because the object is placed beyond F of convex lens,,35," virtual, erect and magnified"," inverted, virtual and larger than object"," virtual, erect and magnified","erect, virtual and smaller than final image",,,,,2,,,,,,,
  The purpose of collimater in spectrometer is,,easy, The purpose of collimater is to produce parallel beam of light     ,,35,to produce parallel beam of light, to filter the light wave, to make them mutually perpendicular ," no function",,,,,1,,,,,,,
-"In Michelson’s experiment the angle subtended by a side of the eight sided mirror",,easy,"Michelson makes its own instrument to the speed of light. In this experiment the speed of light was determined by measuring the time it took to cover a round trip between two mountains.",,35,\pi / 4,\pi ,3\pi / 2,2\pi ,,,,,1,,,,,,,
+"In Michelson’s experiment the angle subtended by a side of the eight sided mirror",,easy,"Michelson makes its own instrument to the speed of light. In this experiment the speed of light was determined by measuring the time it took to cover a round trip between two mountains.",,35,$\pi / 4$,$\pi $,$3\pi / 2$,$2\pi $,,,,,1,,,,,,,
  Power of lens is equal to,,moderate,"We know that
 Power = P = 1/focal length 
 Unit = Diapter",,35,focal length in meter, Reciprocal of focal length,Double of focal length ,half the focal length,,,,,2,,,,,,,
@@ -1681,7 +1682,7 @@ $h_{i}$ is the height of image, $h_{0}$ is the height of object
 \[
 \mathrm{M}=\beta / \alpha
 \]
-$\beta$ is the angle made with convex lens, $\alpha$ is the angle formed without convex lens.",,35,\mathrm{h}_{i} / \mathrm{h}_\circ,\beta / \alpha,q/p,All of these,,,,,4,,,,,,,
+$\beta$ is the angle made with convex lens, $\alpha$ is the angle formed without convex lens.",,35,$\mathrm{h}_{i} / \mathrm{h}_\circ$,$\beta / \alpha$,q/p,All of these,,,,,4,,,,,,,
 A convex having focal length of 25cm can be used as magnifying lens ,,moderate,"We know that
 \[
 M=1+(d / f)
@@ -1750,7 +1751,7 @@ Also \( \mathrm{T}= \) constant \( <\mathrm{v}^{2}> \)
 \( 273 / T_{2}=<v_{1}^{2}>/<4\left(v_{1}\right)^{2}> \)
 \( \mathrm{T}_{2}=4 \mathrm{x} 273 \)
 \( \mathrm{T}_{2}=1092 \mathrm{K}=819 \mathrm{C} \)",,36,273C,819C,1092C,103C,,,,,2,,,,,,,
-\( \mathrm{O}_{2} \) is 16 times heavier than \( \mathrm{H}_{2} \). If both the gases are at thermal equilibrium what will be the root mean square speed of hydrogen.,,easy,"We know that
+$O_2$ is 16 times heavier than $H_2$. If both the gases are at thermal equilibrium what will be the root mean square speed of hydrogen.,,easy,"We know that
 \[ \mathrm{P}=\mathrm{p}<\mathrm{v}^{2}> \]
 \( \mathrm{p} \) is the density \( , \mathrm{p}= \) Molar mass/Volume
 \[
@@ -1906,7 +1907,7 @@ The PV equation for isothermal process is,,easy,"Iso means constant thermal mean
 According to Boyle's law
 \( P \propto 1 / V \)
 \( \mathrm{P}_{1} \mathrm{V}_{1}=\mathrm{P}_{2} \mathrm{V}_{2} \quad \) keeping the temperature const",,36,\( P_{1} V_{1}=P_{2} V_{2} \),\( \mathrm{P}_{1} \mathrm{V}_{1} ^\mathrm{\gamma}=\mathrm{P}_{2} \mathrm{V}_{2}^{\mathrm{\gamma}} \),\( P=\) constant,\( \mathrm{V}= \) constant,,,,,1,,,,,,,
- A system containing changes its state from (P \( _{1} \mathrm{V}_{1} \mathrm{T} \) ) to \( \left(\mathrm{P}_{2} \mathrm{V}_{2} \mathrm{T}\right) \). What process takes place and what will be the internal energy of the system,,moderate,"We can see that the temperature remains constant so it is an isothermal
+ A system containing changes its state from $P_1V_1T$ to $P_2V_2T$. What process takes place and what will be the internal energy of the system,,moderate,"We can see that the temperature remains constant so it is an isothermal
 process. Iso means constant thermal means heat. Isothermal means constant temperature.
 According to Boyle's law
 \( \mathrm{P} \propto 1 / \mathrm{V} \)
@@ -2018,15 +2019,15 @@ C=(F-32)(5 / 9) \\
 C=(98.6-32)(5 / 9) \\
 C=37 C
 \end{array}
-\]",,36,37C,42C,55C,410C,,,,,1,,,,,,,
+\]",,36,$37^\circ$C,$42^\circ$C,$55^\circ$C,$410^\circ$C,,,,,1,,,,,,,
 Temperature is a property which determines,,easy,Definition of temperature,,36,How much heat a body contains,Weather a body will feel hot or cold to touch,in which direction the heat will flow between two systems ,How much total absolute energy a body has,,,,,3,,,,,,,
 In which of the following process the entropy remain constant,,moderate,"Adiabatic means that neither the heat enter in the system nor leaves from the system. So the net heat change is zero, hence the entropy is also zero.",,36,Isobaric,Isochoric,Adiabatic,Isothermal,,,,,3,,,,,,,
 Second law of thermodynamics implies,,easy,"In order to have 100 $\%$ efficiency, we need to have source temperature very high at infinity and the sink temperature very low equal to -273C which is practically impossible.",,36,Whole heat can be converted into mechanical energy,No heat engine can have efficiency 100$\%$,Some heat engine working in reversible process can have efficiency 100$\%$,A refrigerator can reduce the temperature to absolute zero,,,,,2,,,,,,,
-According to Pascal’s law the pressure of gas in a vessel is,,easy,Pressure on the wall of cube is considered to be equal according to Pascal.,,36,different in different direction,Same in all direction,) Same only along opposite direction,Same only along normal direction,,,,,2,,,,,,,
+According to Pascal’s law the pressure of gas in a vessel is,,easy,Pressure on the wall of cube is considered to be equal according to Pascal.,,36,different in different direction,Same in all direction,Same only along opposite direction,Same only along normal direction,,,,,2,,,,,,,
 If the distance between two identical charges is infinite. What will be the force present between them?,,moderate,"If the distance between charges becomes infinite there is zero force present between. We can also find from Coulomb’s law
 $\mathrm{F}=\mathrm{k} \mathrm{q}_{1} \mathrm{q}_{2} / \mathrm{r}^{2}$
 $\mathrm{F}$ is the force $\mathrm{k}$ is the constant $\mathrm{q}$ represent charge $\mathrm{r}$ is the distance between charges
-As r is infinite, hence something over infinite is zero.",,37,\mathrm{kq}^{2},0,1,undetermined,,,,,2,,,,,,,
+As r is infinite, hence something over infinite is zero.",,37,$kq^2$,0,1,undetermined,,,,,2,,,,,,,
 At which angle between electric field and vector area the electric flux is half of the its maximum flux,,easy,"The formula for finding electric flux is as under
 $\boldsymbol{\omega}=\mathbf{E}$ A cose then the maximum flux will be $\boldsymbol{\omega}=\mathbf{E} \mathbf{A}$
 ( is flux $\mathrm{E}$ is the electric field and $\mathrm{A}$ is the area
@@ -2050,7 +2051,7 @@ But in the question we have 1 eV
 1 \mathrm{e}=1.6 \times 10^{-19} \mathrm{C} \\
 \text { Hence } 1 \mathrm{eV}=1 \mathrm{V} \times 1.6 \times 10^{-19} \mathrm{C}
 \end{array}
-\]",,37,6.1 \times 10^{-19} \mathrm{J},6.1 \times 10^{-11} \mathrm{J},1.6 \times 10^{-19} \mathrm{J},1.6 \times 10^{-11} \mathrm{J},,,,,3,,,,,,,
+\]",,37,$6.1\times10^{-19}$ J,$6.1\times10^{-11}$ J,$1.6\times10^{-19}$ J,$1.6\times10^{-11}$ J,,,,,3,,,,,,,
 Which of the following has large “RC” as the graph is between q (on y axis )and t(on x axis).,http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p12_Electrostatics/p12q5.PNG,moderate,"We know that
 \[
 \begin{array}{l}
@@ -2090,7 +2091,7 @@ that manner the force acting on q charge will be zero.
 \mathrm{a}^{2} / \mathrm{b}^{2}=2 / 3 \\
 \mathrm{a} / \mathrm{b}=\sqrt{(} 2 / 3)
 \end{array}
-\]",,37,2/3,\sqrt{(} 2 / 3),3/2,\sqrt{(} 3/2),,,,,2,,,,,,,
+\]",,37,2/3,$\sqrt{(2 / 3)}$,3/2,$\sqrt{(3 / 2)}$,,,,,2,,,,,,,
 Electric field due to point charge depends on,,easy,"by the formula of electric field, we can see the dependence
 \mathrm{E}=\mathrm{k} \mathrm{q} / \mathrm{r}^{2}",,37,Quantity of charge,Distance from the charge,Medium in which charge is placed,Both A and B,,,,,4,,,,,,,
 The ratio of electric force to electric field strength is equal to,,easy,"take the ratio of electric force and electric field strength
@@ -2107,7 +2108,7 @@ There are +5qC charges present on the surface of sphere. The electric field at t
 \omega=\left(1 / e_{0}\right)(2+4+3+5) \\
 \omega=\left(1 / e_{0}\right)(14)
 \end{array}
-\]",,37,14 / \mathrm{e}_{0},12 / \mathrm{e}_{0},48 / \mathrm{e}_{0},None,,,,,1,,,,,,,
+\]",,37,$14/e_\circ$,$12/e_\circ$,$48/e_\circ$,None,,,,,1,,,,,,,
 "The negative of potential gradient is",,easy,"Electric intensity as a potential gradient can be found by the following formula
 \[
 \mathrm{E}=-\Delta \mathrm{V} / \Delta \mathrm{r}
@@ -2134,9 +2135,9 @@ $\mathrm{W}=\mathrm{Erq}$
 \[
 \mathrm{W}=5 \times 10 \times 5=250 \mathrm{J}
 \]",,37,25J,200J,2J,250J,,,,,4,,,,,,,
-In Millikan’s oil drop experiment the particle become suspended when,,easy,the charge is suspended by equating electric force and gravitational force.,,37,\mathrm{F}_{\mathrm{d}}=\mathrm{F}_{\mathrm{z}},\mathrm{F}_{\mathrm{d}}=\mathrm{F}_{\mathrm{d}},\mathrm{F}_{\mathrm{e}}=\mathrm{F}_{\mathrm{g}},Both A and B,,,,,3,,,,,,,
+In Millikan’s oil drop experiment the particle become suspended when,,easy,the charge is suspended by equating electric force and gravitational force.,,37,$F_d=F_g$,$F_d=F_d$,$F_e=F_g$,Both A and B,,,,,3,,,,,,,
 The minimum charge of an electron in Millikan’s oil drop experiment comes out to be,,easy,"This is the charge present on one electron
-",,37,1.6 \times 10^{-19} \mathrm{C},6.1 \times 10^{-19} \mathrm{C},1.6 \times 10^{-11} \mathrm{C},6.1 \times 10^{-11} \mathrm{C},,,,,1,,,,,,,
+",,37,$1.6\times10^{-19}$ J,$6.1\times10^{-19}$ J,$6.1\times10^{-11}$ J,$6.1\times10^{-11}$ J,,,,,1,,,,,,,
 " Which force of the following is always attractive
 ",,easy,"Gravitational force is always attractive and always pointing towards the center of earth.
 Electrostatic force is attractive for same charges and repulsive for two charges that have opposite charge.
@@ -2154,7 +2155,7 @@ q is the charge and $V$ is the voltage
 \]
 \[
 \mathrm{W}=8 \times 10^{-18} \mathrm{J}
-\]",,37,50eV,5eV,8 \times 10^{-18} J,Both A and C,,,,,1,,,,,,,
+\]",,37,50eV,5eV,$8\times10^{-18}$ J,Both A and C,,,,,1,,,,,,,
 " The ratio between electric and gravitational force if two identical charges of 1C placed 1 meter apart and two masses of 1kg placed 1 meter apart",http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p12_Electrostatics/p12q20.PNG,difficult,"\[
 \begin{array}{l}
 \mathrm{F}_{\mathrm{e}}=\mathrm{k}(1)(1) / 1=\mathrm{k} \\
@@ -2164,7 +2165,7 @@ q is the charge and $V$ is the voltage
 Dividing both
 \[
 \mathrm{F}_{\mathrm{e}} / \mathrm{F}_{\mathrm{g}}=\mathrm{k} / \mathrm{G}
-\]",,37,\frac{F e}{F g}=\frac{2 k}{G},\frac{F e}{F g}=\frac{k}{2 G},\frac{F e}{F g}=\frac{G}{k},\frac{E c}{F g}=\frac{k}{G},,,,,4,,,,,,,
+\]",,37,$\frac{F e}{F g}=\frac{2 k}{G}$,$\frac{F e}{F g}=\frac{k}{2 G}$,$\frac{F e}{F g}=\frac{G}{k}$,$\frac{E c}{F g}=\frac{k}{G}$,,,,,4,,,,,,,
  In the figure what is the electric potential at point A,http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p12_Electrostatics/p12q21.PNG,difficult,"Electric potential due to $2 q$ on point $A$
 \[
 \mathrm{V}_{1}=\mathrm{k} \mathrm{q} / \mathrm{r}=\mathrm{k}(2 \mathrm{q}) / \mathrm{d}
@@ -2194,7 +2195,7 @@ Net Electric potential
  Which of the following is the energy storage device,,easy,"Capacitor and inductor store energy in the form of electric and magnetic field.",,37,Inductor,Capacitor,Resistor,Both A and B,,,,,4,,,,,,,
 "We know that Q=CV, the graph between C and V in the absence of dielectric is",,moderate,In the absence of dielectric no matter how much we change the voltage the capacitance will remain the same. Graph d show constant capacitances with the change in voltage.,,37,,,,,http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p3_Motion_and_force/p3q30.1.PNG,http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p3_Motion_and_force/p3q30.2.PNG,http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p7_Oscillations/10.3.PNG,http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p3_Motion_and_force/p3q30.2.PNG,4,,,,,,,
 "A capacitor is a ",,easy,"All are definition and property of capacitor",,37,Two terminal storage device,Electric energy storage device,Electric charge storing device,All,,,,,4,,,,,,,
-The equivalent series capacitance is equal to,,moderate,All are same and equal expression for finding equivalent capacitance in series.,,37,1 / \mathrm{C}_{\mathrm{E}}=1 / \mathrm{C}_{1}+1 / \mathrm{C}_{2}+\ldots \ldots,\mathrm{C}_{\mathrm{E}}=\mathrm{C} / \mathrm{n}(\mathrm{n}=\mathrm{No} \text { . of capacitor of equal capacitance }),\mathrm{C}=\mathrm{C}_{1} \mathrm{C}_{2} /\left(\mathrm{C}_{1}+\mathrm{C}_{2}\right),All,,,,,4,,,,,,,
+The equivalent series capacitance is equal to,,moderate,All are same and equal expression for finding equivalent capacitance in series.,,37,$1 / \mathrm{C}_{\mathrm{E}}=1 / \mathrm{C}_{1}+1 / \mathrm{C}_{2}+\ldots \ldots$,$\mathrm{C}_{\mathrm{E}}=\mathrm{C} / \mathrm{n}(\mathrm{n}=\mathrm{No} \text { . of capacitor of equal capacitance })$,$\mathrm{C}=\mathrm{C}_{1} \mathrm{C}_{2} /\left(\mathrm{C}_{1}+\mathrm{C}_{2}\right)$,All,,,,,4,,,,,,,
 The equivalent capacitance in the circuit is shown as,http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p12_Electrostatics/p12q27.PNG,moderate,"So all the three capacitors are in series so by applying formula
 \[
 \begin{array}{l}
@@ -2236,7 +2237,7 @@ From this we can find the other two expressions
 \mathrm{E}=(1 / 2) \mathrm{Q} \mathrm{V} \\
 \text { Also, } \mathrm{E}=(1 / 2)\left(\mathrm{Q}^{2} / \mathrm{V}\right)
 \end{array}
-\]",,37,(1 / 2) \mathrm{CV}^{2},(1 / 2) Q V,(1 / 2)\left(Q^{2} / C\right),All,,,,,4,,,,,,,
+\]",,37,$(1 / 2) \mathrm{CV}^{2}$,(1 / 2) Q V,$(1 / 2)\left(Q^{2} / C\right)$,All,,,,,4,,,,,,,
  The potential difference between capacitor plates is10V when there is a dielectric of $e_r$=2 . If the dielectric is removed the potential difference is ,,moderate,"As the dielectric coefficient is inversely proportional to the potential difference. Hence
 \[
 \begin{aligned}
@@ -2255,7 +2256,7 @@ V &=(10)(2) \\
 \]",,37,is doubled   ,"is halved", remain same    ," increased 4 times",,,,,3,,,,,,,
 An electric charge at rest produces,,easy,A charge particle has electric field around it all the time even when it is static.,,37,Electric field,"Magnetic field",both A and B,None,,,,,1,,,,,,,
  The unit of $e_r$ is,,moderate,"The formula of coefficient of dielectric is the ratio of same quantity. Hence it has no units
-\mathbf{e}_{\mathrm{r}}=\mathrm{C}_{\mathrm{med}} / \mathrm{C}_{\mathrm{vac}}",,37,\mathrm{Nm}^{-1} \mathrm{A}^{-1},\mathrm{Nm}^{2} \mathrm{A}^{-1},\mathrm{Nm}^{-1} \mathrm{A}^{-2},no unit,,,,,4,,,,,,,
+$\mathbf{e}_{\mathrm{r}}=\mathrm{C}_{\mathrm{med}} / \mathrm{C}_{\mathrm{vac}}$",,37,$\mathrm{Nm}^{-1} \mathrm{A}^{-1}$,$\mathrm{Nm}^{2} \mathrm{A}^{-1}$,$\mathrm{Nm}^{-1} \mathrm{A}^{-2}$,no unit,,,,,4,,,,,,,
 A capacitor is a perfect insulator for,,easy,Capacitor will act as an open circuit if the direct current flows between them,,37,Direct current,Alternating current,Both A and B," Rapid current",,,,,1,,,,,,,
 "Three capacitors of 4uF, 2uF, 2uF are connected in parallel with 10V battery. The equivalent capacitance will be",,moderate,"We know the formula for equivalent capacitance in parallel.
 \begin{array}{l}
@@ -2277,10 +2278,10 @@ $\mathrm{V} / \mathrm{m}=\mathrm{N} / \mathrm{C}$",,37,V/A,Vm,V/m,A/m,,,,,3,,,,,
 =1000 \times 0.10 \\
 =100 \mathrm{J}
 \end{array}",,37,200J,10J,100J,100eJ,,,,,3,,,,,,,
-The number of electron in on coulomb charge is equal to,,easy,1 \mathrm{e}=1.6 \times 10^{-19} \mathrm{C},,37,6.2 \times 10^{18},1.6 \times 10^{18},6.2 \times 10^{-11},6.2 \times 10^{-27},,,,,1,,,,,,,
+The number of electron in on coulomb charge is equal to,,easy,1 \mathrm{e}=1.6 \times 10^{-19} \mathrm{C},,37,$6.2 \times 10^{18}$,$1.6 \times 10^{18}$,$6.2 \times 10^{-11}$,$6.2 \times 10^{-27}$,,,,,1,,,,,,,
 Value of $e_r$ for different dielectric is always,,moderate,"The capacitance decreases when we place the dielectric between the plates of capacitor.
 $e_{r}=C_{\text {med }} / C_{\text {vac }}$",,37,less than unity,"equal to unity",larger than unity,None,,,,,1,,,,,,,
- The work done in moving a charge in the path ESPQ will be,http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p12_Electrostatics/p12q46.PNG,moderate,"Work done in a closed path is always zero in an electric field as electric field is a conservative field.",,37,\mathrm{q} / \mathrm{e},q,\mathrm{qE}(\mathrm{PQ}+\mathrm{QR}+\mathrm{SR}+\mathrm{SP}),zero,,,,,4,,,,,,,
+ The work done in moving a charge in the path ESPQ will be,http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p12_Electrostatics/p12q46.PNG,moderate,"Work done in a closed path is always zero in an electric field as electric field is a conservative field.",,37,$\mathrm{q} / \mathrm{e}$,q,$\mathrm{qE}(\mathrm{PQ}+\mathrm{QR}+\mathrm{SR}+\mathrm{SP})$,zero,,,,,4,,,,,,,
 In a charged capacitor the energy resides in,,easy,"Electric field is stored between the plates of capacitor in the form of electric field.",,37,Electric field surrounding the capacitor,Electric field inside the capacitor,Both A and B,Gravitational field,,,,,2,,,,,,,
 "A charge moving with some velocity possess",,easy, A charge has electric field around it all the time even when it is stable and static but when charge start to move current produces and it also produces magnetic field around itself.,,38,Electric field,Magnetic Field,Both A and B,None of these,,,,,3,,,,,,,
 "If 1A current flows through 2m long conductor, the charge flow through it in 1 hour will be",,moderate,"By using the formula I=q/t, we can find q. Here t is in hours we need to change it in seconds so t=3600.",,38,3600C,7200C,1C,2C,,,,,1,,,,,,,
@@ -2371,7 +2372,7 @@ We know that
 \mathrm{P}=205.71 \text { ohms }
 \end{array}
 \]",,38,207 ohm,200ohm,20571ohm,205.71ohm,,,,,4,,,,,,,
-A wire of length L and area A is cut from middle into 2 equal parts. The resistance of each part is,,moderate,As far as the material and area of wire is not change the resistance will remain same.,,38,remain same,hlved,doubled,zero,,,,,1,,,,,,,
+A wire of length L and area A is cut from middle into 2 equal parts. The resistance of each part is,,moderate,As far as the material and area of wire is not change the resistance will remain same.,,38,remain same,halved,doubled,zero,,,,,1,,,,,,,
  The resistance between any two vertices of a triangle having resistance of 2ohms attached to each side is,,difficult,"2 resistor are connected in series and one in parallel
 \begin{array}{l}
 \mathrm{R}_{\mathrm{eql}}=2+2=4 \\
@@ -2404,7 +2405,7 @@ Total cost = 3000 \times 5= 15k
 " Slop of the graph between Voltage (on x axis) and current (on y axis) gives",,easy,"slope =quantity on y axis/ quantity on x axis
 Slope = I/V
 Slope = 1/resistance",,38,Resistance,Resistivity,Conductance,None of these,,,,,3,,,,,,,
-"Which statement is correct for two resistor R1 and R2 connected in parallel",,moderate,Voltage remain same in parallel circuit but current changes and equivalent resistance is less than the any individual resistance,,38,V2=V1,I=I2+I1,\mathrm{R}_{\mathrm{e}}=\mathrm{R} 1 \mathrm{R} 2 /(\mathrm{R} 1+\mathrm{R} 2),All of these,,,,,4,,,,,,,
+"Which statement is correct for two resistor R1 and R2 connected in parallel",,moderate,Voltage remain same in parallel circuit but current changes and equivalent resistance is less than the any individual resistance,,38,$V_2=V_1$,$I=I_2+I_1$,$\mathrm{R}_{\mathrm{e}}=\mathrm{R} 1 \mathrm{R} 2 /(\mathrm{R} 1+\mathrm{R} 2)$,All of these,,,,,4,,,,,,,
 " What is the resistance of a carbon resistor which has bands, brown, black, brown ",,easy,Learn color code for resistance. Refer table from book,,38,$100\Omega$,$1000\Omega$,$10\Omega$,$1\Omega$,,,,,2,,,,,,,
 " Determine current through R1 in the following circuit",http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p13_Current_electricity/p13q33.PNG,difficult,"\[
 \begin{array}{l}
@@ -2419,16 +2420,16 @@ Now using ohm law
 \]
 \[
 \mathrm{I}=(20) /(15)=1.33 \mathrm{A}
-\]",,38,\,3A,1.33A,5A,,,,,3,,,,,,,
+\]",,38,2A,3A,1.33A,5A,,,,,3,,,,,,,
 Internal resistance of the cell is caused due to the,,easy,Information,,38,Static charges,Electrode,Electrolyte,None of these,,,,,3,,,,,,,
 The value of current in an open circuit is,,moderate,In an open circuit no current flows in the circuit.,,38,0,Infinite,Both are possible,None of these,,,,,1,,,,,,,
 The value of current in an short circuit is,,easy,"The circuit becomes infinite as the resistance becomes zero.",,38,0,Infinite,Both are possible,None of these,,,,,2,,,,,,,
- Maximum output power is given by,,easy,"Formula for maximum output power ",,38,\mathrm{E} / 4 \mathrm{r}^{2},\mathrm{E}^{2} / 4 \mathrm{r}^{2},\mathrm{E} / 4 \mathrm{r},\mathrm{E}^{2} / 4 \mathrm{r},,,,,4,,,,,,,
+ Maximum output power is given by,,easy,"Formula for maximum output power ",,38,$\mathrm{E} / 4 \mathrm{r}^{2}$,$\mathrm{E}^{2} / 4 \mathrm{r}^{2}$,$\mathrm{E} / 4 \mathrm{r}$,$\mathrm{E}^{2} / 4 \mathrm{r}$,,,,,4,,,,,,,
 An ideal voltmeter has ______ resistance,,easy," Infinite resistance so that no current will flow from it.",,38,Zero,Mega ohms,Infinite,None of these,,,,,3,,,,,,,
- For close circuit which of the following statement is correct,,moderate,Terminal voltage is always less than EMF as EMF is voltage without any terminal losses,,38,\mathrm{E}>\mathrm{V}_{\mathrm{t}},\mathrm{E}=\mathrm{V},\mathrm{E}<\mathrm{V}_{\mathrm{t}},All of these,,,,,1,,,,,,,
+ For close circuit which of the following statement is correct,,moderate,Terminal voltage is always less than EMF as EMF is voltage without any terminal losses,,38,$\mathrm{E}>\mathrm{V}_{\mathrm{t}}$,$\mathrm{E}=\mathrm{V}$,$\mathrm{E}<\mathrm{V}_{\mathrm{t}}$,All of these,,,,,1,,,,,,,
  Kirchhoff’s 2 rule is in accordance with law of conservation of ,,easy,It is in accordance with conservation of energy as it states that the all losses in the circuit in the circuit is equal to the source energy. ,,38,Energy,Mass,Momentum,All of these,,,,,1,,,,,,,
 Wheatstone bridge is an application of Kirchhoff’s ___ rule,,easy,Information,,38,1,2,3,4,,,,,2,,,,,,,
-"In the Wheatstone bridge in the figure shown below, the final expression is ",http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p13_Current_electricity/p13q42.PNG,moderate,"See General expression of Wheatstone bridge.",,38,\frac{R 1}{R 2}=\frac{R 4}{R 3},\frac{R 3}{R 2}=\frac{R 4}{R 1},\frac{R_{3}^{3}}{R_{4}}=\frac{R 1}{R_{2}},\frac{R 2}{R 4}=\frac{R 1}{R 3},,,,,4,,,,,,,
+"In the Wheatstone bridge in the figure shown below, the final expression is ",http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p13_Current_electricity/p13q42.PNG,moderate,"See General expression of Wheatstone bridge.",,38,$\frac{R_1}{R_2}=\frac{R_4}{R_3}$,$\frac{R_3}{R_2}=\frac{R_4}{R_1}$,$\frac{R_{3}^{3}}{R_{4}}=\frac{R_1}{R_{2}}$,$\frac{R_2}{R_4}=\frac{R_1}{R_3}$,,,,,4,,,,,,,
 " Referring from the above figure the equivalent resistance between point C and D is
 If R1=R2=2ohm, R3=R4=5ohm",,difficult,"Ignore galvanometer while finding the resistance
 $\mathrm{R}_{1}$ and $\mathrm{R}_{2}$ in series and equivalent resistance is $4 \mathrm{ohm}$
@@ -2504,7 +2505,7 @@ field and velocity of proton is zero so does the force becomes zero.
 \mathrm{F}=\mathrm{e}(\mathrm{vB} \sin \mathrm{e})=\mathrm{Bevsin} 0=0
 \end{array}
 \]
-$\mathrm{F}$ is the force e is the charge on electron $\mathrm{v}$ is the velocity $\mathrm{B}$ is the magnetic field",,39,evB,0,infinite,evb/2,,,,,2,,,,,,,
+$\mathrm{F}$ is the force e is the charge on electron $\mathrm{v}$ is the velocity $\mathrm{B}$ is the magnetic field",,39,evB,0,infinite,evB/2,,,,,2,,,,,,,
 "Which one of the following is most suitable for making the core of an electromagnet?",,easy, Soft iron is a ferromagnetic material(which magnetize itself in the presence of external magnetic field) and used in transforms to increase the strength of magnetic field.,,39,Air,Steel,CuNi Alloy,soft iron,,,,,4,,,,,,,
 The magnetic force experienced by the charge placed in a uniform magnetic field is minimum when it moves,,easy,As the angle between magnetic field and velocity of electron is zero by moving parallel to the field and hence the force becomes zero.,,39,"perpendicular to the field",parallel to the field,inclined at some angle to the field,Inclined at an angle of 45,,,,,2,,,,,,,
 The relationship between two different unit of magnetic field is,,easy,Both are units of magnetic field,,39,$1 \mathrm{T}=10^{3} \mathrm{G}$,$1 \mathrm{T}=10^{-3} \mathrm{G}$,$1 \mathrm{T}=10^{2} \mathrm{G}$,$1 \mathrm{T}=10^{4} \mathrm{G}$,,,,,4,,,,,,,
@@ -2513,7 +2514,7 @@ Magnetic field intensity and magnetic flux is related as,,moderate,"Formula of m
 \[
 \omega=\mathrm{B} \mathrm{A}
 \]
-where $A$ is the vector area",,39,$\omega=BA$,$A=\omegaB$,$\omega=B/A$,$\omega=A^2B$,,,,,1,,,,,,,
+where $A$ is the vector area",,39,$\omega=BA$,$A= \omegaB$,$\omega=B/A$,$\omega=A^2B$,,,,,1,,,,,,,
 An instrument which can measure potential without drawing any current is,,easy,Cathode rays oscilloscope (CRO) is used to draw voltage time curve of any electric impulse without drawing any current,,39,Voltmeter,Galvanometer,CRO,Ammeter,,,,,3,,,,,,,
 The magnetic field of solenoid is given by the formula ,,moderate,"Magnetic field present inside the solenoid is given by the formula
 B=unI
@@ -2557,7 +2558,7 @@ n=N/l
 where N has no units and l is measured in meters so unit of n is per meter.",,39,$m^{-1}$,$m^{-4}$,$m^{-2}$,$m^{-3}$,,,,,1,,,,,,,
 "Around a straight current carrying conductor the direction of magnetic field is",,moderate,Magnetic field present in a straight current carrying conductor in the circular form. The direction of magnetic field can be found out by right hand rule.,,39,Straight,Circular,Both A and B,None of these,,,,,2,,,,,,,
 A neutron enter in a magnetic field then the magnetic force acting on it will be half of the maximum if the angle of projection is,,moderate,Neutron carry zero charge and hence magnetic force acting on it always zero.,,39,30,60,45,Not possible as it experience no force,,,,,4,,,,,,,
-The expression of Lorentz force is,,easy,"Lorentz force is the sum of electric and magnetic force.",,39,\mathrm{F}_{\mathrm{e}}-\mathrm{F}_{\mathrm{b}},\mathrm{F}_{\mathrm{e}}+\mathrm{F}_{\mathrm{b}},-\mathrm{F}_{e}-\mathrm{F}_{\mathrm{b}},None of these,,,,,2,,,,,,,
+The expression of Lorentz force is,,easy,"Lorentz force is the sum of electric and magnetic force.",,39,$\mathrm{F}_{\mathrm{e}}-\mathrm{F}_{\mathrm{b}}$,$\mathrm{F}_{\mathrm{e}}+\mathrm{F}_{\mathrm{b}}$,$-\mathrm{F}_{e}-\mathrm{F}_{\mathrm{b}}$,None of these,,,,,2,,,,,,,
 "A charge particle enters in magnetic field. What will be the magnetic force if charge is moving parallel to magnetic fiel
 ",,moderate,"We know that
 \[
@@ -2579,10 +2580,10 @@ The value of e/m of electron comes out to be,,moderate,"Charge on electron $=1.6
 \[
 \text { Mass of electron }=9.10938356 \times 10^{-31} \text {kilograms }
 \]
-Take the ratio and find the answer",,39,1.75 \times 10^{11} \mathrm{C}^{-1} \mathrm{kg}^{-1},1.75 \times 10^{11} \mathrm{C}^{-1} \mathrm{kg},1.75 \times 10^{11} \mathrm{Ckg}^{-1},1.75 \times 10^{11} \mathrm{C}^{-1} \mathrm{kg}^{-2},,,,,3,,,,,,,
+Take the ratio and find the answer",,39,$1.75 \times 10^{11} \mathrm{C}^{-1} \mathrm{kg}^{-1}$,$1.75 \times 10^{11} \mathrm{C}^{-1} \mathrm{kg}$,$1.75 \times 10^{11} \mathrm{Ckg}^{-1}$,$1.75 \times 10^{11} \mathrm{C}^{-1} \mathrm{kg}^{-2}$,,,,,3,,,,,,,
 The charge by mass ratio of electron also known as,,moderate,charge density is charge per area.,,39,charge density,"Effective charge",Specific charge,None of these,,,,,3,,,,,,,
 Which of the following component of CRO is always grounded,,easy,Screen is always grounded in CRO,,39,Screen,Grid,Filament,Deflecting Plates,,,,,1,,,,,,,
-For a CRO saw tooth voltage is applied to,,easy,Saw tooth voltage is applied to XX plates in order to deflect the charge particle in the desired x axis direction.,,39,XX! plate,Both A and C,YY! plate,Any plate,,,,,1,,,,,,,
+For a CRO saw tooth voltage is applied to,,easy,Saw tooth voltage is applied to XX plates in order to deflect the charge particle in the desired x axis direction.,,39,XX' plate,Both A and C,YY' plate,Any plate,,,,,1,,,,,,,
 The graph of CRO is such that it has _____ on x axis and ______on y axis.,,easy,CRO plots the graph of voltage vs time,,39,"Voltage, time","frequency, voltage","time, voltage","voltage, frequency",,,,,3,,,,,,,
 In order to increase the sensitivity of galvanometer we,,moderate,"We know the formula of sensitivity of galvanometer
 Sensitivity= BAN/c",,39,Increase B,"Both A and C
@@ -2604,10 +2605,10 @@ Now
 Also,
 \[
 \mathrm{R}_{\mathrm{s}}=\mathrm{I}_{\mathrm{g}} \mathrm{R} / \mathrm{I}_{\mathrm{s}}
-\]",,39,\mathrm{R}_{\mathrm{s}}=\mathrm{I}_{\mathrm{g}} \mathrm{R} / \mathrm{I}_{\mathrm{s}},\mathrm{R}_{\mathrm{s}}=\mathrm{I}_{\mathrm{g}} \mathrm{R}_{\mathrm{g}} /\left(\mathrm{I}-\mathrm{I}_{\mathrm{g}}\right),\mathrm{R}_{\mathrm{s}}=\mathrm{R}_{\mathrm{e}} /(\mathrm{n}-1)," All of these",,,,,4,,,,,,,
+\]",,39,$\mathrm{R}_{\mathrm{s}}=\mathrm{I}_{\mathrm{g}} \mathrm{R} / \mathrm{I}_{\mathrm{s}}$,$\mathrm{R}_{\mathrm{s}}=\mathrm{I}_{\mathrm{g}} \mathrm{R}_{\mathrm{g}} /\left(\mathrm{I}-\mathrm{I}_{\mathrm{g}}\right)$,$\mathrm{R}_{\mathrm{s}}=\mathrm{R}_{\mathrm{e}} /(\mathrm{n}-1)$," All of these",,,,,4,,,,,,,
 In order to increase the range of a voltmeter we need to connect,,easy,The range of voltmeter will be increase if we connect high resistance in series as of high resistance low current will pass through and the range of Voltmeter will be broadened.,,39,High resistance in series,High resistance in parallel,Low resistance in parallel,low resistance in series,,,,,1,,,,,,,
 Practical application of mutual induction is,,easy,Transformer in which we step up or step down the voltage is the practical example of mutual induction,,40,Motor,Transformers,DC generator,AC generator,,,,,2,,,,,,,
-Faraday’s law state that an induced emf is equal to,,easy,Faraday’s law state that the rate of change of magnetic flux is directly proportion to the emf induced.,,40,-\mathrm{N}(\mathrm{d\omega} / \mathrm{dt}),(d \omega/ d v),\mathrm{N}(\mathrm{d} \omega / \mathrm{d} \mathrm{t}),-\mathrm{N}(\mathrm{dB} / \mathrm{dt}),,,,,1,,,,,,,
+Faraday’s law state that an induced emf is equal to,,easy,Faraday’s law state that the rate of change of magnetic flux is directly proportion to the emf induced.,,40,$-\mathrm{N}(\mathrm{d\omega} / \mathrm{dt})$,$(d \omega/ d v)$,$\mathrm{N}(\mathrm{d} \omega / \mathrm{d} \mathrm{t})$,$-\mathrm{N}(\mathrm{dB} / \mathrm{dt})$,,,,,1,,,,,,,
 Current produced in coil due to movement of coil in magnetic field,,easy,Current is induced in the coil moving in magnetic field due to the rate of change of flux.,,40,A.C current,Induced current,D.C current,Mean square current,,,,,2,,,,,,,
 Emf induced in a circuit depends upon,,easy," Faraday’s law state that the rate of change of magnetic flux is directly proportion to the emf induced.
 Emf(induced)= –N$(d\omega/dt)$                                  
@@ -2625,9 +2626,9 @@ The inductance of solenoid having length l no of turns N with the cross sectiona
 \end{array}
 \]
 Where $L$ is the inductance $N$ is the total number of turns $A$ is the area of coil And I
-represent current",,40,\mathrm{uN}^{2} \mathrm{A} / \mathrm{l},uNA/1,\mathrm{uN}^{2} 1 / \mathrm{A},\mathrm{uN}^{3} \mathrm{A} / 1,,,,,1,,,,,,,
+represent current",,40,$\mathrm{uN}^{2} \mathrm{A} / \mathrm{l}$,uNA/1,$\mathrm{uN}^{2} 1 / \mathrm{A}$,$\mathrm{uN}^{3} \mathrm{A} / 1$,,,,,1,,,,,,,
 Energy stored in magnetic field is related as,,moderate,"Energy stored in inductor $=(1 / 2) \mathrm{LI}^{2}$
-Energy stored in capacitor $=(1 / 2) \mathrm{CV}^{2}$",,40,\mathrm{LI}^{2},(1 / 2) \mathrm{LI}^{2},(1 / 2) I L^{2},\mathrm{LI}^{2},,,,,2,,,,,,,
+Energy stored in capacitor $=(1 / 2) \mathrm{CV}^{2}$",,40,$\mathrm{LI}^{2}$,$(1 / 2) \mathrm{LI}^{2}$,$(1 / 2) I L^{2}$,$\mathrm{LI}^{2}$,,,,,2,,,,,,,
 If we use iron core in the coil the flux through it will be,,moderate,"By using the soft iron in the coil we increase the magnetic field strength and by the
 increase in magnetic field strength the magnetic flux also increases
 As, $\quad \theta=\mathrm{B} . \mathrm{A}$
@@ -2635,7 +2636,7 @@ $\mathrm{B}$ increase, flux increase",,40,remain same,zero,increased,decrease,,,
 When the motor is operating at maximum speed then back emf will be,,moderate,Due to its maximum speed the flux change is also maximum will create back in emf.,,40,min,max,Intermediate value,No back emf,,,,,2,,,,,,,
 Self inductance of solenoid is,,moderate,"$\mathrm{L}=\mathrm{un}^{2} \mathrm{IA}$
 Where $L$ is the inductance $N$ is the total number of turns $A$ is the area of coil And I
-represent current",,40,\mathrm{un}^{2} \mathrm{lA},\mathrm{un}^{2} \mathrm{A} / 1,unlA,BAlA,,,,,1,,,,,,,
+represent current",,40,$\mathrm{un}^{2} \mathrm{lA}$,$\mathrm{un}^{2} \mathrm{A} / 1$,unlA,BAlA,,,,,1,,,,,,,
 " The dc motor operates at 200V, the initial current is 5A, and current reduce to 3A when operating at full speed. What is the back emf",,difficult,"\[
 \begin{array}{l}
 \mathrm{V}=\mathrm{k} \mathrm{I} \\
@@ -2688,7 +2689,7 @@ The emf induced in the coil by changing magnetic flux has unit,,difficult,"We kn
 =(\mathrm{N} / \mathrm{Am})\left(\mathrm{m}^{2}\right) / \mathrm{sec} \\
 =\mathrm{kg} \mathrm{m} / \mathrm{s}^{2} \mathrm{A} \mathrm{m} \mathrm{s}^{-1}
 \end{array}
-\]",,40,\mathrm{kgm}^{-1} \mathrm{s}^{-3} \mathrm{A}^{-1},m s^{-2} A^{-1},\mathrm{kgm}^{2} \mathrm{s}^{-2} \mathrm{A}^{-1},\operatorname{kgm}^{2} \mathrm{s}^{-3} \mathrm{A}^{-1},,,,,4,,,,,,,
+\]",,40,$\mathrm{kgm}^{-1} \mathrm{s}^{-3} \mathrm{A}^{-1}$,$m s^{-2} A^{-1}$,$\mathrm{kgm}^{2} \mathrm{s}^{-2} \mathrm{A}^{-1}$,$\operatorname{kgm}^{2} \mathrm{s}^{-3} \mathrm{A}^{-1}$,,,,,4,,,,,,,
 If the turns ratio (N2/N1) is 3:4. The voltage in the primary coil is 100V. The voltage in the secondary coils will be,,difficult,"We know that
 \[
 \begin{array}{l}
@@ -2699,7 +2700,7 @@ If the turns ratio (N2/N1) is 3:4. The voltage in the primary coil is 100V. The 
 \end{array}
 \]",,40,75V,200V,100V,50V,,,,,1,,,,,,,
 The basic working principle of an AC generator is,,easy,Changing in the rate of flux will induced emf which is the principal of AC generator,,40,To convert mechanical energy into electrical energy,To convert electrical energy into mechanical energy,Mutual Induction,Faraday's Law,,,,,4,,,,,,,
-The relationship of induced emf of an AC generator is,,easy,Formula for induced emf,,40,\mathrm{e}=\mathrm{NAwB} \operatorname{cos\theta},\mathrm{e}=\mathrm{NAwB} \sin \theta,e=e_{0} \sin \theta,Both B and C,,,,,4,,,,,,,
+The relationship of induced emf of an AC generator is,,easy,Formula for induced emf,,40,$\mathrm{e}=\mathrm{NAwB} \operatorname{cos\theta}$,$\mathrm{e}=\mathrm{NAwB} \sin \theta$,$e=e_{0} \sin \theta$,Both B and C,,,,,4,,,,,,,
 The maximum emf induced by AC generator which has 1 turn,,moderate,"We know that
 $\mathrm{e}=\mathrm{NAwB} \sin \theta$
 for maximum
@@ -2710,7 +2711,7 @@ for maximum
 \end{array}
 \]",,40,NAwB,NAB,wAB,None of these,,,,,3,,,,,,,
 The working principle of a DC motor is,,easy,Information,,40,Turning effect on a current carrying coil,To convert electrical energy into mechanical energy,Mutual Induction,Faraday's Law,,,,,1,,,,,,,
-The relation for back emf in DC motor is,,easy,Formula of back emf,,40,\mathrm{IR}=\mathrm{V}-\mathrm{e}_{\mathrm{back}},\mathrm{IR}=-\mathrm{V}+e_{\text {back }},\mathrm{V}=\mathrm{IR}+\mathrm{e}_{\mathrm{back}},Both Aand C,,,,,4,,,,,,,
+The relation for back emf in DC motor is,,easy,Formula of back emf,,40,$\mathrm{IR}=\mathrm{V}-\mathrm{e}_{\mathrm{back}}$,$\mathrm{IR}=-\mathrm{V}+e_{\text {back }}$,$\mathrm{V}=\mathrm{IR}+\mathrm{e}_{\mathrm{back}}$,Both Aand C,,,,,4,,,,,,,
 A DC motor runs by battery of 24V. The coil of motor has resistance 2ohm. Back emf with load connected is 22.5V. What is starting current?,,difficult,"The starting current is the current when there is no back emf 
 So I =V/R
 I =24/2 =12A",,40,0.75A,6A,12A,None of these,,,,,3,,,,,,,
@@ -2729,7 +2730,7 @@ $\omega$ is the angular frequency $\mathrm{f}$ is the linear frequency
 \omega=314 \mathrm{rad} / \mathrm{sec}
 \end{array}
 \]",,40,31.43 rad/s,314.3 rad/s,3.143 rad/s,"100 rad/s",,,,,2,,,,,,,
-The relation of motional emf can be written as,,easy,Formula of motional emf,,40,e=-v B L \cos (90-\theta),\mathrm{e}=-\mathrm{vBL} \sin \theta,\mathrm{e}=+\mathrm{vBL} \sin \mathrm{o},Both Aand B,,,,,4,,,,,,,
+The relation of motional emf can be written as,,easy,Formula of motional emf,,40,$e=-v B L \cos (90-\theta)$,$\mathrm{e}=-\mathrm{vBL} \sin \theta$,$\mathrm{e}=+\mathrm{vBL} \sin \mathrm{o}$,Both Aand B,,,,,4,,,,,,,
 A bar magnet having magnetic field of 20T move towards the coil which consist of galvanometer with the velocity of 10m/s and galvanometer shows some deflection say $\theta$1 and now the bar magnet made to move away from the magnet and the galvanometer shows different deflection say$\theta$ ⱺ2. Which one is true,,moderate,This can be explained by Lenz law. When we move coil towards another coil it shows some voltage and when we move away the coil just because of the pole shift there is also a shift in voltage sign.,,40,$\theta 1=\theta 2$ and both deflection are in same direction,$\theta 1<02$ and both deflection are in same direction,$01>02$ and both deflection are in opposite direction,$\theta 1=\theta 2$ and both deflection are in opposite direction,,,,,4,,,,,,,
 "If a conductor is moved across B such that it makes an angle of 90 with magnetic field, then induced emf will be",,moderate,"We know that
 $\mathrm{E}=-\mathrm{vBL} \sin \mathrm{o}$
@@ -2749,10 +2750,10 @@ $\theta=30$",,40,30,40,60,90,,,,,1,,,,,,,
 If we take north pole of permanent magnet away from a coil then the side of the coil facing north pole act as,http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p15_Electromagnetic_induction/p15q40.PNG,moderate,"By Lenz law
 “the direction of the current induced in a circuit by a changing magnetic field is such that the magnetic field produced by this current will oppose the original field.”",,40,North pole,Maybe north or south,South pole,No pole will induced,,,,,3,,,,,,,
 A bar magnet as shown in the figure is allowed to fall down into a coil which is cut from one side. What is true?,,moderate,Rate of change of magnetic flux will induced emf but current will not be induced because of the fact the the wire is cut from one side.,,40,emf will be induced only,Neither emf nor current will be induced,both current and emf will be induced,None of these,,,,,1,,,,,,,
-Referring to the previous figure what the acceleration of bar magnet if it allowed to fall from the coil,,moderate,a=g as no attractive force present to attract the magnet,,40,a=g,a<g,a>g,a=0,,,,,1,,,,,,,
+Referring to the previous figure what the acceleration of bar magnet if it allowed to fall from the coil,,moderate,a=g as no attractive force present to attract the magnet,,40,a=g,$a<g$,$a>g4,a=0,,,,,1,,,,,,,
 "Referring to the previous figure if the coil is attached from both sides. If the bar magnet is allowed to fall. Which one is true?",,moderate,Rate of change of magnetic flux will induced emf and current.,,40,emf will be induced only,Neither emf nor current will be induced,both current and emf will be induced,None of these,,,,,3,,,,,,,
-Referring to Q 48 the acceleration of bar magnet will be,,moderate,a<g because of lenz law as the round wire will try to attract the magnet.,,40,a=g,a<g,a>g,a=0,,,,,2,,,,,,,
-The relation for mutual inductance is,,easy,Formula of mutual inductance,,40,\mathrm{M}=\left(\mathrm{e}_{2}\right) /\left(\Delta \mathrm{I}_{\mathrm{p}} / \Delta \mathrm{t}\right),\mathrm{M}=\left(\mathrm{e}_{3}\right) /\left(\Delta \mathrm{I}_{\mathrm{s}} / \Delta \mathrm{t}\right),\mathrm{M}=\left(\mathrm{e}_{2}\right) /(\Delta \mathrm{I} / \Delta \mathrm{t}),None of these,,,,,1,,,,,,,
+Referring to Q 40 the acceleration of bar magnet will be,,moderate,$a<g$ because of lenz law as the round wire will try to attract the magnet.,,40,a=g,$a<g$,$a>g$,a=0,,,,,2,,,,,,,
+The relation for mutual inductance is,,easy,Formula of mutual inductance,,40,$\mathrm{M}=\left(\mathrm{e}_{2}\right) /\left(\Delta \mathrm{I}_{\mathrm{p}} / \Delta \mathrm{t}\right)$,$\mathrm{M}=\left(\mathrm{e}_{3}\right) /\left(\Delta \mathrm{I}_{\mathrm{s}} / \Delta \mathrm{t}\right)$,$\mathrm{M}=\left(\mathrm{e}_{2}\right) /(\Delta \mathrm{I} / \Delta \mathrm{t})$,None of these,,,,,1,,,,,,,
 The cause of induced emf is,,easy,Rate of change of magnetic flux will induced emf but current in the wire.,,40,rate of change of magnetic flux  ,decrease in flux,increase in flux,change in flux,,,,,1,,,,,,,
 At resonance the power factor in RLC circuit is,,easy,"At resonance the circuit behave as a resistive circuit and in resistive circuit current and voltage have no phase difference
 R represents resistance, L in the inductance and C stands for capacitance
@@ -2803,7 +2804,7 @@ V(\text { average })=(V(\text { positive peak })+V(\text { negative peak })) / 2
 V(\text { average })=(2+(-2)) / 2 \\
 V(\text { average })=0
 \end{array}
-\]",,41,V_{0} / {2},V_{0},V_{0} / \sqrt{2},0,,,,,4,,,,,,,
+\]",,41,$V_{0} / {2}$,$V_{0}$,$V_{0} / \sqrt{2}$,0,,,,,4,,,,,,,
 "In resonance RLC circuit, the phase difference between voltage and current is",,moderate,Reactance of capacitor and reactance of inductor cancel out their effects and circuit behaves as resistive. And the phase difference between current and voltage is zero.,,41,-180,0,-90,90,,,,,2,,,,,,,
 Which one of the following statement is correct,,moderate,The difference of angle between current and voltage in RC circuit is 90 and voltage lags current by the angle of 90.,,41,Voltage of capacitor lead 90 in RC circuit,Voltage of capacitor lags 90 in RC circuit,Voltage of inductor lags 90 in RL circuit,"Voltage of resistor lead 90 in RL circuit",,,,,2,,,,,,,
 Natural frequency of LC circuit is,,easy,"Natural frequency can be found by equating the reactance of capacitor and inductor.
@@ -2816,7 +2817,7 @@ Natural frequency of LC circuit is,,easy,"Natural frequency can be found by equa
 Which comes out to be
 \[
 \mathrm{f}=1 / 2 \pi \sqrt{\mathrm{L}} \mathrm{C}
-\]",,41,1 / 2 \pi \sqrt{\mathrm{LC}},2 \pi \sqrt{\mathrm{LC}},1 \sqrt{\mathrm{LC}},None,,,,,1,,,,,,,
+\]",,41,$1 / 2 \pi \sqrt{\mathrm{LC}}$,$2 \pi \sqrt{\mathrm{LC}}$,$1 \sqrt{\mathrm{LC}}$,None,,,,,1,,,,,,,
 A coke coil has,,easy,In order to have minimum power loss we use coil of minimum resistance and maximum inductance. It is used in AC circuit to limit current.,,41,High inductance and high resistance,Low inductance and low resistance,Low inductance and high resistance,High inductance and low resistance,,,,,4,,,,,,,
 Waves are transmitted from antenna in the form of,,easy, Electromagnetic waves is used to transmit signal at very high speed equal to speed of light,,41,Radio waves,Electromagnetic Waves,Sound waves,Modulated Waves,,,,,2,,,,,,,
 "The direction of propagation of electromagnetic wave is",,easy,In an electromagnetic wave both electric and magnetic field travel perpendicular to each other.,,41,Parallel to electric and magnetic field,"Perpendicular to electric and magnetic field",Parallel to electric field,Parallel to magnetic field,,,,,2,,,,,,,
@@ -2830,7 +2831,7 @@ When the frequency of the oscillator in RLC series circuit is doubled ,,difficul
 \end{array}
 \]
 So if we double the capacitive reactance the frequency will also become double",,41,the capacitive reactance is doubled,the capacitive reactance is halved,the current amplitude is halved,the impedance is doubled,,,,,2,,,,,,,
- In RLC parallel circuit the voltage drop across capacitor and inductor is,,easy,Voltage remains same for the component connected in parallel.,,41,V_{c}<V_{L},Different,V_{c}>V_{L},same,,,,,4,,,,,,,
+ In RLC parallel circuit the voltage drop across capacitor and inductor is,,easy,Voltage remains same for the component connected in parallel.,,41,$V_{c}<V_{L}$,Different,$V_{c}>V_{L}$,same,,,,,4,,,,,,,
 Ammeter measure ______ value of current in AC circuit,,easy,Ammeter shows the root mean square (RMS) value of current,,41,Exact value,RMS,Net value,Peak value,,,,,2,,,,,,,
 Impedance of RLC series is increased if,,moderate,"We know that
 \[
@@ -2852,7 +2853,7 @@ Putting values
 \mathrm{X}_{\mathrm{C}}=32 \text { ohms }
 \]",,41,32 ohm,60ohm,50ohm,100ohm,,,,,1,,,,,,,
 In capacitive circuit the current _________,,easy,Current leads voltage by an angle of 90 in capacitive circuit.,,41,lag behind voltage by 90,is in phase with voltage,opposite in phase of voltage,leads the voltage by 90,,,,,4,,,,,,,
-The power factor of AC circuit,,easy,$PF= cos\theta$,,41,cos\theta,VI cos\theta,sin\theta,cos\theta/2,,,,,1,,,,,,,
+The power factor of AC circuit,,easy,$PF= cos\theta$,,41,$cos\theta $,$VI cos\theta $,$sin\theta $,$cos\theta/2$,,,,,1,,,,,,,
 In pure resistive circuit the voltage and current are,,easy,There is no phase difference between voltage and current in resistive circuit,,41,lagging each other,in phase,leading at home,at 90 phase difference,,,,,2,,,,,,,
 The rms value of an AC current is,,easy,Definition of Root Mean Square value,,41,its average value,its peak value,that steady current that produces the same rate of heating in a resistor as of actual current,that steady current that will charge a battery at the same rate as of actual current,,,,,3,,,,,,,
  The rms value of current in AC circuit is 4A flows through the resistor of 10 ohm. The peak value will be,,moderate,"We know that
@@ -2863,7 +2864,8 @@ The rms value of an AC current is,,easy,Definition of Root Mean Square value,,41
 \mathrm{V}(\text { peak })=5.66 \mathrm{V}
 \end{array}
 \]",,41,20A,5.66A,6.60A,20.66A,,,,,2,,,,,,,
-In order to find the rms value we need to have,,easy,Definition of Root Mean Square value,,41,Square value of I^2,square root of mean value of I^2,Mean value of I^2,"square of I/2",,,,,2,,,,,,,
+In order to find the rms value we need to have,,easy,Definition of Root Mean Square value,,41,Square value of  $I^2$,square root of mean value of  $I^2$,Mean value of  $I^2$,"square of I/2
+",,,,,2,,,,,,,
 "$\mathrm{An}$
 AC current is given as $I=50 sin100\pi{t}$. It will achieve value of 25 A after______
 seconds",,difficult,"\begin{array}{l}
@@ -2886,7 +2888,7 @@ $\mathrm{I}_{2}=100 \cos 200 \pi \mathrm{t}$",,difficult,"\[
 From here we can see that
 \[
 \mathrm{f} 2=2 \mathrm{f} 1
-\]",,41,f_{1}= f_{2},f_{1}=2 f_{2},2f_{1}= f_{2},f_{1}= 10f_{2},,,,,3,,,,,,,
+\]",,41,$f_{1}= f_{2}$,$f_{1}=2 f_{2}$,$2f_{1}= f_{2}$,$f_{1}= 10f_{2}$,,,,,3,,,,,,,
 How many times the value of AC voltage become zero in complete cycle,,easy,"AC voltage become zero in one cycle $=2$
 \[
 V=V_{0} \sin \theta
@@ -2932,15 +2934,15 @@ The response for which one remains the same for AC and DC,,difficult,Capacitor w
 AC current and voltage are,,easy,We saw that AC quantities changes its value and direction continuously so it is vector quantity.,,41,Scalar,neither scalar nor vector,Vector,A and C,,,,,3,,,,,,,
 The peak to peak value in the following figure is,http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p16_Alternating_current/p16q36.PNG,moderate,"So the p to p voltage formula is
 V(pp) = V(positive peak) - V(negative peak)
-V(pp) = 3 + 1 = 4V",,41,2 \mathrm{V}_{0},3 \mathrm{V}_{0},1 \mathrm{V}_{0},4 \mathrm{V}_{0},,,,,4,,,,,,,
-Referring to the previous question the average value will be,,moderate,V(average) $=(\mathrm{V} \text { (positive peak) }+\mathrm{V}(\text { negative peak })) / 2$ $\mathrm{V}(\text { average })=(3-1) / 2=1 \mathrm{V}_{0}$,,41,2 \mathrm{V}_{0},3 \mathrm{V}_{0},1 \mathrm{V}_{0},4 \mathrm{V}_{0},,,,,3,,,,,,,
+V(pp) = 3 + 1 = 4V",,41,$2 \mathrm{V}_{0}$,$3 \mathrm{V}_{0}$,$1 \mathrm{V}_{0}$,$4 \mathrm{V}_{0}$,,,,,4,,,,,,,
+Referring to the previous question the average value will be,,moderate,V(average) $=(\mathrm{V} \text { (positive peak) }+\mathrm{V}(\text { negative peak })) / 2$ $\mathrm{V}(\text { average })=(3-1) / 2=1 \mathrm{V}_{0}$,,41,$2 \mathrm{V}_{0}$,$3 \mathrm{V}_{0}$,$1 \mathrm{V}_{0}$,$4 \mathrm{V}_{0}$,,,,,3,,,,,,,
 Referring to the previous question the rms value will be,,difficult,"\begin{array}{l}
 \left.\left.\mathrm{V}(\mathrm{RMS})=\sqrt{(} \mathrm{V}(\text { positive peak })^{2}+\mathrm{V}(\text { negative peak })^{2}\right) / 2 \times 2\right) \\
 \mathrm{V}(\mathrm{RMS})=\sqrt{(}((9)+1) / 2 \times 2)) \\
 \text { So } \\
 \qquad \mathrm{V}(\mathrm{RMS})=\sqrt{(}(5) / 2)
-\end{array}",,41,\mathrm{V}_{0} / \sqrt{2},\left.\mathrm{V}_{0} \sqrt{(} 2 / 5\right),\sqrt{(} 3 / 2) \mathrm{V}_{0},\sqrt{(} 5 / 2) \mathrm{V}_{0},,,,,4,,,,,,,
-Two waveform are shown in the figure,http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p16_Alternating_current/p16q39.PNG,moderate,From figure above we can see that V1 is leading V2 by angle of 90.,,41,V1 leads V2 by 90,V2 lags V2 by 90,V1 lags V2 by 90,Both A and B,,,,,4,,,,,,,
+\end{array}",,41,$\mathrm{V}_{0} / \sqrt{2}$,$\left.\mathrm{V}_{0} \sqrt{( 2 / 5\right)}$,$\sqrt{(} 3 / 2) \mathrm{V}_{0}$,$\sqrt{(} 5 / 2) \mathrm{V}_{0}$,,,,,4,,,,,,,
+Two waveform are shown in the figure,http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p16_Alternating_current/p16q39.PNG,moderate,From figure above we can see that V1 is leading V2 by angle of 90.,,41,$V_1$ leads $V_2$ by 90,$V_2$ lags $V_1$ by 90,$V_1$ lags $V_2$ by 90,Both A and B,,,,,4,,,,,,,
 The current in resistance at resonance series circuit is,,easy,Current in the circuit is maximum as they the series resonance circuit will behave as resistive and the inductive and capacitive part cancel out each other.,,41,Minimum but finite,Maximum,Maximum but finite,Minimum,,,,,3,,,,,,,
 Unit of impedance is,,easy,Unit of impedance is ohms = V/A,,41,V/A,VA,A/V,None of these,,,,,1,,,,,,,
 Dimension of L/RC is same as that of,,difficult,"Energy stored in inductor $=(1 / 2) \mathrm{L} \mathrm{I}^{2}$
@@ -2978,7 +2980,7 @@ The unit of stress,,moderate,"We have the formula for stress
 Stress = F/A
 Hence unit is N/m^2",,42,N/m^2,Nm,Nm^2,no unit,,,,,1,,,,,,,
 The unit of strain,,moderate,"We know that strain is the ratio of two similar quantities.
-Strain $=\Delta \mathrm{L} / \mathrm{L},$ so strain is unit less.",,42,N/m,Nm,Nm^2,no unit,,,,,4,,,,,,,
+Strain $=\Delta \mathrm{L} / \mathrm{L},$ so strain is unit less.",,42,N/m,Nm,$Nm^2$,no unit,,,,,4,,,,,,,
 The strain of the wire if its length change from ‘l’ to ‘2l’.,,moderate,"Strain=(change in length)/original length
 Original length is l 
 Change in length =2l-l=l
@@ -2986,7 +2988,7 @@ Hence Strain=l/l=1",,42,0,1,2,1/2,,,,,2,,,,,,,
 "A wire is stretched by length l and the elastic limit of the material is not exceeded than then the energy stored will be
 ",,difficult,"By the curve we can see that when it is straight line rising up it is in the region of proportionality limit. Hence work done is the area of the triangle.
 E=(1/2)(base)(height)
-E=(1/2)(F)(l)",,42,FI,FI^2,(1/2)FI,(1/2)FI^2,,,,,3,,,,,,,
+E=(1/2)(F)(l)",,42,FI,$FI^2$,(1/2)FI,$(1/2)FI^2$,,,,,3,,,,,,,
 Materials that undergoes plastic deformation before breaking,,moderate,Property of Ductile is that it deformed its shape and then it break.,,42,Brittle,Ductile,Amorphous,Polymers,,,,,2,,,,,,,
 Young’s modulus relates with the temperature,,moderate,With the increase in temperature the atomic size and vibrations change and atomic force decreases and hence Young modulus decreases.,,42,no relation,directly,inversely,None,,,,,3,,,,,,,
 The shear modulus of liquid is,,easy,The shear modulus of liquid is,,42,0,3,1,Infinite,,,,,1,,,,,,,
@@ -3013,13 +3015,13 @@ A wire breaks if F of 50N is applied. Now if the wire is cut into two half. What
 The unit of stress is same as that of,,easy,"Pressure=F/A
 Bulk modulus = stress/ strain = F/A
 Energy density =energy/volume=Nm/m^2= Nm^{-2}= stress",,42,bulk modulus,Pressure,Energy Density,All,,,,,4,,,,,,,
-"A wire of radius r and breaking force F is stretched in such a way that its radius becomes half, the new breaking force will be",,difficult,"\begin{array}{l}
+"A wire of radius r and breaking force F is stretched in such a way that its radius becomes half, the new breaking force will be",,difficult,"$\begin{array}{l}
 \mathrm{F}=\text { stress } \mathrm{x} \text { Area } \\
 \mathrm{F}=\text { stress } \mathrm{x} \pi \mathrm{r}^{2} \\
 \mathrm{F}=\operatorname{stress} \mathrm{x} \pi(1 / 2 \mathrm{r})^{2} \\
 \mathrm{F}=\operatorname{stress} \mathrm{x} \pi \mathrm{r}^{2}(1 / 4) \\
 \mathrm{F}_{\mathrm{arw}}=\mathrm{F}_{\mathrm{old}}(1 / 4)
-\end{array}",,42,F/2,F/4,FA,None,,,,,2,,,,,,,
+\end{array}$",,42,F/2,F/4,FA,None,,,,,2,,,,,,,
 Stress is given by,,easy,Formula of stress,,42,FI,F/A,FA,F/l,,,,,2,,,,,,,
 The ratio of tensile stress to volume stress has same units as that of,,easy,The ratio of tensile stress to volume stress has no units as it is a ratio of two quantities with same unit. Refractive index is also the ratio of two similar quantities and has no units.,,42,Length,Volume,Area,Refractive Index,,,,,4,,,,,,,
 If the length of wire is doubled by applying force. The strain produced is,,moderate,"let’s say it has original length l.
@@ -3047,7 +3049,7 @@ Shear modulus of water is,,easy,"Shear modulus of liquid is zero
 We know that
 Shear modulus = stress/strain
 Shear modulus = stress x change in volume/original volume
-For liquids the change in volume is zero and volume remains constant.",,42,0,2.2 \times 10^{9},Undefined,None,,,,,1,,,,,,,
+For liquids the change in volume is zero and volume remains constant.",,42,0,$2.2 \times 10^{9}$,Undefined,None,,,,,1,,,,,,,
 The reciprocal of bulk modulus is,,easy,The reciprocal of bulk modulus is,,42,Stiffness,"Compressibility",Toughness,Hardness,,,,,2,,,,,,,
 Young’s modulus also named as,,easy,Young’s modulus also known as tensile modulus,,42,Bulk modulus,Shear modulus,Modulus of rigidity,tensile modulus,,,,,4,,,,,,,
 Curve X graph in the diagram below represent which substance,http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p17_Physics_of_solids/p17q41.PNG,difficult,Ductile substance possess plastic region while in curve Y it represents brittle substance that does not possess the plastic region,,42,Brittle,"Ductile",Rubber,None,,,,,2,,,,,,,
@@ -3088,7 +3090,7 @@ $Y=(F / A) /$ change in length/original length
 Y=\left(200 \times 10^{5}\right) /\left(10^{-4}\right) \\
 Y=200 \times 10^{9} \mathrm{Pa}
 \end{array}
-\]",,42,1.5 \times 10^{-4} \mathrm{Pa},200 \times 10^{9} \mathrm{Pa},2 \times 10^{4} \mathrm{Pa},1.5 \times 10^{4} \mathrm{Pa},,,,,2,,,,,,,
+\]",,42,$1.5 \times 10^{-4} \mathrm{Pa}$,$200 \times 10^{9} \mathrm{Pa}$,$2 \times 10^{4} \mathrm{Pa}$,$1.5 \times 10^{4} \mathrm{Pa}$,,,,,2,,,,,,,
 "In the following graph, what is ratio of $Y_{A} / Y_{B}$",http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p17_Physics_of_solids/p17q49.PNG,difficult,"A makes angle with y axis $=60$
 B makes angle with y axis=30
 By the formula of shear modulus
@@ -3096,7 +3098,7 @@ $\mathrm{G}_{\mathrm{B}}=(\text { stress }) / \tan 30$
 $\mathrm{G}_{\mathrm{A}}=\operatorname{str} \mathrm{ess} / \mathrm{tan} 60$
 Now take the ratio
 $\mathrm{G}_{\mathrm{A}} / \mathrm{G}_{\mathrm{B}}=\tan 30 / \tan 60$
-$\mathrm{G}_{\mathrm{A}} / \mathrm{G}_{\mathrm{B}=} 1 / 3$",,42,1:3,1: \sqrt{3},3:1,\sqrt{3}: 1,,,,,1,,,,,,,
+$\mathrm{G}_{\mathrm{A}} / \mathrm{G}_{\mathrm{B}=} 1 / 3$",,42,1:3,$1: \sqrt{3}$,3:1,$\sqrt{3}: 1$,,,,,1,,,,,,,
 Which of the following is the application of superconductor?,,easy,Superconductors are type of conductors whose resistance become zero below a particular temperature and all above are the application of superconductors.,,42,MRI,Super Computers,Small Motors,All of these,,,,,4,,,,,,,
 The phenomenon in which magnetism lags behind the magnetizing current is called,,easy,Definition of Hysteresis,,42,Saturation," Hysteresis",Retentivity,None,,,,,2,,,,,,,
 The main source of magnetism is,,easy," the effect of magnetism is caused by spin as well as the orbital motion of electron.
@@ -3127,7 +3129,7 @@ The practical application of transistor is,,easy,Transistor are used for amplifi
 The relation of current gain in pnp transistor,,easy,"We know the formula of gain
 \[
 \text { Current gain }=\left(\mathrm{I}_{\mathrm{c}} / \mathrm{I}_{\mathrm{B}}\right)
-\]",,43,\mathrm{I}_{\mathrm{B}} / \mathrm{I}_{\mathrm{C}},\mathrm{I}_{\mathrm{C}} / \mathrm{I}_{\mathrm{B}},\mathrm{V}_{\mathrm{B}} / \mathrm{I}_{\mathrm{C}},\mathrm{I}_{\mathrm{B}} / \mathrm{V}_{\mathrm{C}},,,,,2,,,,,,,
+\]",,43,$\mathrm{I}_{\mathrm{B}} / \mathrm{I}_{\mathrm{C}}$,$\mathrm{I}_{\mathrm{C}} / \mathrm{I}_{\mathrm{B}}$,$\mathrm{V}_{\mathrm{B}} / \mathrm{I}_{\mathrm{C}}$,$\mathrm{I}_{\mathrm{B}} / \mathrm{V}_{\mathrm{C}}$,,,,,2,,,,,,,
 The graph of diode characteristics is the plot between,,moderate,The characteristics of diode can be find out by plot between V and I,,43,V and I,V and t,I and t,none,,,,,1,,,,,,,
 The diode for the detection of light and automatic switching,,easy,Photodiode is used for light detection and automatic switching,,43,LED,Photodiode,Transistors,Photovoltaic cell,,,,,2,,,,,,,
 Which of the following is incorrect about transistor,,difficult,"We know that
@@ -3156,7 +3158,7 @@ $V_{B E}$______",,easy,"Condition for transistor as OFF
 \[
 V_{B E}=V_{c c}
 \]
-Refer transistor as a switch for complete details",,43,$=\mathrm{V}_{\mathrm{CC}}$,>\mathrm{V}_{\mathrm{cc}},$<\mathrm{V}_{\mathrm{cc}}$,0,,,,,1,,,,,,,
+Refer transistor as a switch for complete details",,43,$=\mathrm{V}_{\mathrm{CC}}$,$>\mathrm{V}_{\mathrm{cc}}$,$<\mathrm{V}_{\mathrm{cc}}$,0,,,,,1,,,,,,,
 The slope of graph of characteristic curve of diode give us,,moderate,"Slope = change in y/ change in x
 Slope = Voltage/ current
 Slope = 1/resistance
@@ -3174,16 +3176,16 @@ If the frequency of voltage source is 50 Hz then the voltage after rectification
 \]",,43,150Hz,25Hz,200Hz,100Hz,,,,,4,,,,,,,
 "The number of input terminals of an ordinary op amp are
 ",,easy,Information,,43,2,5,3,4,,,,,2,,,,,,,
-The magnitude of open loop gain of an amplifier is of the order,,moderate,The thing we need to know here is that all options have same magnitude but we have to choose the option that has no unit because gain is unit less,,43,10^5,10^5 A,10^5 ohm,10^5V,,,,,1,,,,,,,
+The magnitude of open loop gain of an amplifier is of the order,,moderate,The thing we need to know here is that all options have same magnitude but we have to choose the option that has no unit because gain is unit less,,43,$10^5$,$10^5$ A,$10^5$ ohm,$10^5$ V,,,,,1,,,,,,,
 Application of op amp is,,easy,All are applications of op amp,,43,Night switch,"Inverting and non-inverting amplifier",Comparator,All of these,,,,,4,,,,,,,
 The gain of non-inverting amplifier can be expressed as,,easy,"Formula for non inverting gain is given by
 \[
 \mathrm{G}=1+\left(\mathrm{R}_{2} / \mathrm{R}_{1}\right)
-\]",,43,\mathrm{G}=-\mathrm{R}_{2} / \mathrm{R}_{1},G=1+\left(R_{2} / R_{1}\right),\mathrm{G}=\mathrm{R}_{2} / \mathrm{R}_{1},\mathrm{G}=1-\left(\mathrm{R}_{2} / \mathrm{R}_{1}\right),,,,,2,,,,,,,
+\]",,43,$\mathrm{G}=-\mathrm{R}_{2} / \mathrm{R}_{1}$,$G=1+\left(R_{2} / R_{1}\right)$,$\mathrm{G}=\mathrm{R}_{2} / \mathrm{R}_{1}$,$\mathrm{G}=1-\left(\mathrm{R}_{2} / \mathrm{R}_{1}\right)$,,,,,2,,,,,,,
 The gain of inverting amplifier can be expressed as,,easy,"Formula for inverting gain is given by
 \[
 \mathrm{G}=-\left(\mathrm{R}_{2} / \mathrm{R}_{1}\right)
-\]",,43,\mathrm{G}=-\mathrm{R}_{2} / \mathrm{R}_{1},G=1+\left(R_{2} / R_{1}\right),\mathrm{G}=\mathrm{R}_{2} / \mathrm{R}_{1},\mathrm{G}=1-\left(\mathrm{R}_{2} / \mathrm{R}_{1}\right),,,,,1,,,,,,,
+\]",,43,$\mathrm{G}=-\mathrm{R}_{2} / \mathrm{R}_{1}$,$G=1+\left(R_{2} / R_{1}\right)$,$\mathrm{G}=\mathrm{R}_{2} / \mathrm{R}_{1}$,$\mathrm{G}=1-\left(\mathrm{R}_{2} / \mathrm{R}_{1}\right)$,,,,,1,,,,,,,
 The output of two input XNOR gate will be zero if,,difficult,"We need to remember here one thing that first of all we need to make the truth table of XNOR table from formula and then choose from optional.
 So we can see here alternate input lead to zero output.",http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p18_Electronics/p18e27.PNG,43,both input are zero,alternate input,both input are 1,None of these,,,,,1,,,,,,,
 The output of two input XOR gate will be one if,,difficult,So we can see here alternate input lead to one output.,http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p18_Electronics/p18q28.PNG,43,both input are zero,both input have alternate values,both input are 1,"None of these",,,,,2,,,,,,,
@@ -3226,7 +3228,7 @@ Which of the following is correct,,moderate,"We know that
 For OR gate
 A+B =X
 and
-1+1 =1",,43,\overline{\bar{A} \cdot \bar{B}}=\mathrm{A}+\mathrm{B},\overline{\bar{A} \cdot \bar{B}}=\mathrm{A}.\mathrm{B},AB +AB = 2AB,1 +1 =1,,,,,4,,,,,,,
+1+1 =1",,43,$\overline{\bar{A} \cdot \bar{B}}=\mathrm{A}+\mathrm{B}$,$\overline{\bar{A} \cdot \bar{B}}=\mathrm{A}.\mathrm{B}$,AB +AB = 2AB,1 +1 =1,,,,,4,,,,,,,
 The expression for the circuit is,http://d15o1jx56rxevg.cloudfront.net/ecat/physics/p18_Electronics/p18q41.PNG,difficult,"Y= ((A + B) +C) +D
 Y = A+ B+ C+ D",,43,ABCD,AB+CD,A=B=C=D,A=BCD,,,,,3,,,,,,,
 The Boolean expression $\mathrm{X}=\overline{\overline{A+B}}$ represents,,easy,Both bar cancels out each other and we only left with A+B which is OR gate.,,43,XOR gate,XNOR gate,OR gate,"NAND gate",,,,,3,,,,,,,
@@ -3248,7 +3250,7 @@ putting $1=1 / 2$
 \left.1 / 2_{=} 1_{0} \sqrt{(} 1-\mathrm{v}^{2} / \mathrm{c}^{2}\right) \\
 \mathrm{v}=(\sqrt{3} / 2) \mathrm{c}
 \end{array}
-\]",,44,(1 / 4) c,(3/2)c,(1/2)c,(\sqrt{3} / 2) c,,,,,4,,,,,,,
+\]",,44,(1 / 4) c,(3/2)c,(1/2)c,$(\sqrt{3} / 2) c$,,,,,4,,,,,,,
 "The energy of two photon are related as $2 \mathrm{E}_{1}=\mathrm{E}_{2}$, then the ratio of their momentum $\mathrm{p}_{\mathrm{a}}: \mathrm{p}_{\mathrm{b}}$
 will be",,difficult,"We know that
 \[
@@ -3280,7 +3282,7 @@ Strictly speaking Earth is an,,easy,Acceleration of Earth is not exactly zero so
 \left.\mathrm{m}=\mathrm{m} / \sqrt{(} 1-\left(\mathrm{c}^{2} / 4 \mathrm{c}^{2}\right)\right) \\
 \mathrm{m}=2 \mathrm{m}_{\mathrm{o}} / \sqrt{3}
 \end{array}
-\]",,44,\left.\sqrt{(} 3 \mathrm{m}_{0}\right) / 2,\mathrm{m}_{0} \sqrt{3} / 2,2 m_{0} / \sqrt{3},none,,,,,3,,,,,,,
+\]",,44,$\left.\sqrt{(} 3 \mathrm{m}_{0}\right) / 2$,$\mathrm{m}_{0} \sqrt{3} / 2$,$2 m_{0} / \sqrt{3}$,none,,,,,3,,,,,,,
 " The property that is not possessed by photon of light",,easy," Rest mass is the mass of a body measured when the body is at rest, and it is relative to an observer who is moving or not. All matter, such as any object, has some rest mass.
 The photon has mass zero. Hence, the rest mass of photon is also zero.",,44,Rest mass,Energy,Momentum,Frequency,,,,,1,,,,,,,
 "Two bulbs of same color are lightening in a room. Bulb A shows more brightness than bulb B. Which of the following is correct?",,moderate, Brightness is directly proportional to number of electrons that are ejected.,,44,Bulb A eject more electrons than B,Both eject same number of electrons,Bulb B eject more electrons than A,none,,,,,1,,,,,,,
@@ -3291,11 +3293,11 @@ $10^{15} \mathrm{Hz}$ will be",,difficult,"\[
 $\mathrm{E}$ is the energy, $\mathrm{h}$ is the plank's constant and $\mathrm{f}$ is the frequency.
 \[
 \mathrm{E}=\left(10^{15}\right)\left(6.6 \times 10^{-12} \mathrm{Js}\right)=6.6 \times 10^{-19} \mathrm{J}
-\]",,44,6.6 \times 10^{-19} \mathrm{J},6.6 \times 10^{49} \mathrm{J},6.6 \times 10^{-10} \mathrm{J},6.6 \times 10^{-12} \mathrm{J},,,,,1,,,,,,,
+\]",,44,$6.6 \times 10^{-19} \mathrm{J}$,$6.6 \times 10^{49} \mathrm{J}$,$6.6 \times 10^{-10} \mathrm{J}$,$6.6 \times 10^{-12} \mathrm{J}$,,,,,1,,,,,,,
 " Plank’s equation is E=hf and momentum of photon is related as $p=h/\lambda$. What will be the velocity of light",,difficult,"We know that
 $E= mc^2$
 E = p c
-E/p =c",,44,(\mathrm{E} / \mathrm{p})^{1 / 2},(Ep),(E/p),(\mathrm{E} / \mathrm{p})^{2},,,,,3,,,,,,,
+E/p =c",,44,$(\mathrm{E} / \mathrm{p})^{1 / 2}$,$(Ep)$,$(E/p)$,$(\mathrm{E} / \mathrm{p})^{2}$,,,,,3,,,,,,,
 The rest mass of photon is,,moderate,"We know that
 \[
 \begin{array}{l}
@@ -3306,7 +3308,7 @@ The rest mass of photon is,,moderate,"We know that
 hence $m=0$",,44,0,infinite,1,constant,,,,,1,,,,,,,
 Perfect black body absorbs power that is,,easy,Information,,44,less than 1,equal to 1,greater than 1,none,,,,,2,,,,,,,
 According to Einstein the KE for photoelectric effect is,,easy,"According to Einstein
-$KE = h(f-f_o)$",,44,h\left(f-f_{0}\right),\mathrm{h}\left(\mathrm{f}+\mathrm{f}_{0}\right),2 h\left(f+f_{0}\right),h(f),,,,,1,,,,,,,
+$KE = h(f-f_o)$",,44,$h\left(f-f_{0}\right)$,$\mathrm{h}\left(\mathrm{f}+\mathrm{f}_{0}\right)$,$2 h\left(f+f_{0}\right)$,h(f),,,,,1,,,,,,,
 " By increasing the frequency of incident light in photoelectric effect
 ",,moderate," We know that
 KE = Ve
@@ -3370,7 +3372,7 @@ For pair production hf will be,,moderate,"We know that
 \[
 \mathrm{hf}=2 \mathrm{m}_{\mathrm{o}} \mathrm{c}^{2}+\mathrm{KE}\left(\mathrm{e}^{-1}\right)+\mathrm{KE}\left(\mathrm{e}^{+1}\right)
 \]
-Here we can see that hf must be greater than $2 \mathrm{m}_{\circ} \mathrm{c}^{2}$",,44,\text { greater than } \mathrm{m}_{0} \mathrm{c}^{2},\text { greater than }(1 / 2) \mathrm{m}_{0} \mathrm{c}^{2},\text { greater than } 2 \mathrm{m}_{0} \mathrm{c}^{2},\text { lesser than } \mathrm{m}_{0} \mathrm{c}^{2},,,,,3,,,,,,,
+Here we can see that hf must be greater than $2 \mathrm{m}_{\circ} \mathrm{c}^{2}$",,44,$\text { greater than } \mathrm{m}_{0} \mathrm{c}^{2}$,$\text { greater than }(1 / 2) \mathrm{m}_{0} \mathrm{c}^{2}$,$\text { greater than } 2 \mathrm{m}_{0} \mathrm{c}^{2}$,$\text { lesser than } \mathrm{m}_{0} \mathrm{c}^{2}$,,,,,3,,,,,,,
 A pair of positron and electron is produced in pair for the conservation of,,easy,"Two charge particle are produced both carry opposite charge shows the conservation of charge",,44,Charge,Mass,Energy,Momentum,,,,,1,,,,,,,
 If the KE of electron is doubled in Davion Germer experiment then its de Broglie’s wavelength is,,difficult,"\[
 \begin{array}{l}
@@ -3392,10 +3394,10 @@ Dimension of h/mc is,,moderate,"We know that
 \[
 \Delta \lambda=\left(\mathrm{h} / \mathrm{m}_{\circ} \mathrm{c}\right)(1-\cos \theta)
 \]
-So it has unit of meter and dimension L",,44,[\mathrm{L}],\left[\mathrm{L}^{-1}\right],[\mathrm{T}],\left[\mathrm{T}^{-1}\right],,,,,1,,,,,,,
+So it has unit of meter and dimension L",,44,$[\mathrm{L}]$,$\left[\mathrm{L}^{-1}\right]$,$[\mathrm{T}]$,$\left[\mathrm{T}^{-1}\right]$,,,,,1,,,,,,,
 "Compton’s shift is equal to Compton’s wavelength at scattering angle of ",,easy,Book line,,44,180,0,90,45,,,,,3,,,,,,,
  An electron is placed in a box of size of about 1 x 10^{-10}m. What is the uncertainty in its position?,,moderate,"Here uncertainty in position is
-$\Delta \mathrm{x}=10^{-10}$ which must be equal to the size of bo",,44,10^{-15} \mathrm{m},10^{-10} \mathrm{m},10^{-5} \mathrm{m},cannot be predicted,,,,,2,,,,,,,
+$\Delta \mathrm{x}=10^{-10}$ which must be equal to the size of bo",,44,$10^{-15} \mathrm{m}$,$10^{-10} \mathrm{m}$,$10^{-5} \mathrm{m}$,cannot be predicted,,,,,2,,,,,,,
 If a proton and alpha particle are acceleration by some voltage then the ratio of their wavelength is,,difficult,"We know that
 \[
 \begin{array}{l}
@@ -3490,7 +3492,7 @@ The unit of Rydberg constant,,easy,"\[
 1 / \lambda=\mathbf{R}_{\mathbf{H}}\left(\mathbf{1} / \mathbf{1}^{2}-\mathbf{1} / 2^{2}\right)
 \]
 From the above expression
-\( \mathrm{R}_{\mathrm{h}} \) has unit \( \mathrm{m}^{-1} \)",,45,$m^{-1)$,$m^{-2)$,sec,m/sec,,,,,1,,,,,,,
+\( \mathrm{R}_{\mathrm{h}} \) has unit \( \mathrm{m}^{-1} \)",,45,$m^{-1}$,$m^{-2}$,sec,m/sec,,,,,1,,,,,,,
 Which one of the following shows continuous spectrum?,,easy,Information,,45,Atomic spectrum,Molecular spectrum,Blackbody radiation,None,,,,,1,,,,,,,
 The excitation energy of electron is _____ than the ionization energy in hydrogen atom?,,moderate,Excitation energy is the energy require to make a transition from one orbit to another orbit but ionization energy is the energy require to completely remove the electron from an atom. That’s why ionization energy is always greater than excitation energy.,,45,Greater,Equal,Lesse,can be anything,,,,,3,,,,,,,
 "If the electron is orbiting in 5 shell of hydrogen atom, then KE:PE",,difficult,"total Kinetic Energy \( =\mathrm{ke}^{2 }/2 \mathrm{r}_{\mathrm{n}} \)
@@ -3602,7 +3604,7 @@ If element have \( \mathrm{N}=10 \) and \( \mathrm{Z}=30 \) hence ratio \( =1 / 
 After emission of alpha particle \( \mathrm{N}=8 \) and \( \mathrm{Z}=26 \) hence ratio \( 8 / 26=0.30 \)
 Hence the ratio decreases.",,46,decreases,increases,1,0,,,,,1,,,,,,,
 Which of the following has maximum penetrating power,,easy,Gamma have maximum penetrating power because of no mass and charge present.,,46,alpha particle,gamma particle,beta particle,none,,,,,2,,,,,,,
-The parent uranium \( _{92}^{238} \mathrm{U} \) reduced to daughter uranium \( _{92}^{234} \mathrm{U} \) with the emission of,,moderate,"The following reaction takes place
+The parent uranium $_{92}^{238} \mathrm{U}$ reduced to daughter uranium $_{92}^{234} \mathrm{U}$ with the emission of,,moderate,"The following reaction takes place
 \( _{92}^{238} \mathrm{U}  \rightarrow _{92}^{234} \mathrm{U} + _{2}^{4} \mathrm{He} + _{-1}^{2}\mathrm{e}   \) ",,46,1 alpha 1 beta,2 alpha 1 beta,1 alpha 2 beta,2 alpha 2 beta,,,,,3,,,,,,,
 The potential difference that is applied to clear the chamber from unwanted ions in Wilson cloud experiment,,easy,See Wilson cloud experiment for full understanding,,46,of the order 1kV,equal to 2kV,equal to 1kV,of the order of 2kV,,,,,1,,,,,,,
 Half life of an element is 10sec then the mean life will be,,moderate,"We know that
@@ -3628,15 +3630,15 @@ The temperature stream coming from turbine is,,easy,Information,,46,1000C,400C,3
 Which of the following is used as a moderator in nuclear power plant,,easy,The purpose of moderator is to slow down the speed of neutron as we know that it is very difficult to control a nuclear reaction. Hydrogen is used in moderator and when neutron strikes hydrogen atom its speed reduce to many folds. All 3 options contain hydrogen.,,46,water,heavy water,hydrocarbon,all,,,,,4,,,,,,,
 The mass of uranium for the purpose of atom bomb is______ to critical mass,,moderate,Critical mass is the minimum mass to carry out the chain reaction. For nuclear purpose we must keep the mass of uranium greater than critical mass so that spontaneous chain reaction takes place.,,46,more ,less,equal,much smaller,,,,,1,,,,,,,
 "Complete the equation
-\( _4^{9} \mathrm{Be}+_{2}^{4} \mathrm{H} \text{ _____} \rightarrow + _6^{12} \mathrm{C}+ \text{_______}\)",,moderate,"the following reaction taken place
+\(  _4^{9} \mathrm{Be}+_{2}^{4} \mathrm{H} \text{ _____} \rightarrow + _6^{12} \mathrm{C}+ \text{_______} \)",,moderate,"the following reaction taken place
 \( _4^{9} \mathrm{Be}+_{2}^{4} \mathrm{He} \rightarrow + _6^{12} \mathrm{C} +_0^{1} \mathrm{n}\)
-",,46,\( _{1}^{1} \mathrm{H}+_{-1}^{0} \mathrm{e} \),\( _1^{1} \mathrm{H}+_{1}^{0} \mathrm{e} \),\( _0^{1} \mathrm{n} \),None,,,,,3,,,,,,,
+",,46,\( _{1}^{1} \mathrm{H}+ \text{    } _{-1}^{0} \mathrm{e} \),\( _1^{1} \mathrm{H}+\text{     }  _{1}^{0} \mathrm{e} \),\( _0^{1} \mathrm{n} \),None,,,,,3,,,,,,,
 "When a fusion reaction occurred between two deuterons atom, the energy given out is",,easy,Fusion of two deuterons atom is highly exothermic reaction and the energy given out is 24MeV,,46,17MeV,21MeV,20MeV,24MeV,,,,,4,,,,,,,
 The nuclear waste is normally dumped under,,easy,Old salt mine is the best place to dump nuclear waste as it does not allow the radiations to emit to the atmosphere,,46,old salt mines,oceans,populated areas,none of these,,,,,4,,,,,,,
 Core temperature of the sun is,,easy,The core of Sun is extremely hot due to fusion reactions taking place continuously and the core temperature is almost 20 million Celsius,,46,10 million celcius,1000 million celcius,20 million celcius,none of these,,,,,3,,,,,,,
 The number of protons required to carry out pp reaction,,moderate,pp reaction is proton proton reaction and it take place in nuclear chain reaction. The proton required to carry out the pp chain reaction is 6.,,46,3,5,4,6,,,,,4,,,,,,,
 "Complete the reaction
-\( _{2}^{3} \mathrm{He}+ \text{________} \rightarrow _{2}^{4} \mathrm{He}+ 2 _{1}^{1} \mathrm{H}+ energy\)",,moderate,"The following reaction takes place
+$ _{2}^{3} \mathrm{He}+ \text{________} \rightarrow _{2}^{4} \mathrm{He}+ 2 _{1}^{1} \mathrm{H}+ \text{energy} $",,moderate,"The following reaction takes place
 \( _2^{3} \mathrm{He}+_{2}^{3} \mathrm{He} \quad \rightarrow \quad _2^{4} \mathrm{He}+2 _{1}^{1} \mathrm{H}+ \) energy",,46,\( _2^{4} \mathrm{He} \),\( _2^{3} \mathrm{He} \),\( _1^{1} \mathrm{H} \),\( _1^{2} \mathrm{H} \),,,,,2,,,,,,,
 A photon is assumed to be made of ________ quarks,,moderate,"Quarks are elementary particle through which electron, proton and other components are made.
 Proton contains 2 up and 1 down quarks
