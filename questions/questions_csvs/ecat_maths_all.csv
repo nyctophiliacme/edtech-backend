@@ -1,14 +1,138 @@
 question_text,question_img_url,difficulty_level,explanation,explanation_img_url,chapter_id,question_choice_1,question_choice_2,question_choice_3,question_choice_4,question_choice_1_image_url,question_choice_2_image_url,question_choice_3_image_url,question_choice_4_image_url,correct_choice,easy,1
-$\begin{array}{|lll|}b & 0 & 0 \\ 0 & b & 0 \\ 0 & 0 & b\end{array} |=?$,,easy,Property of Determinant: the determinant of a diagonal matrix is product of entries of its diagonal,,86,b,$b^{2}$,$b^{3}$,0,,,,,3,moderate,2
-"If C and D are two matrices of order $p\timesq$ & $q\timesp$ respectively then 
-        C - D is a matrix of order…..?
-",,easy,"Since the order of matrices are different, subtraction is not possible",,86,,,,,,,,,2,difficult,3
-"If5 0 12 8 $\lambda -8 2 2 4 $ , is a singular matrix then $\lambda$=?
-",,moderate,"\begin{array}{cc}
-\text { make it lower triangular by adding: } & R_{1} \rightarrow R_{1}-3 R_{3}, \text { and } R_{2} \rightarrow R_{2}+2 R_{3} \\
-\multicolumn{2}{c} {|-150012 \lambda+40224|=(-15)(\lambda+4)(4)=0} \\
--60 \lambda-240=0 \quad \longrightarrow & 60 \lambda=-240 \quad \rightarrow \quad \lambda=-4
-\end{array}",,86,,,,,,,,,2,,4
+$\left|\begin{array}{lll}b & 0 & 0 \\ 0 & b & 0 \\ 0 & 0 & b\end{array}\right|=?$,,easy,Property of Determinant: the determinant of a diagonal matrix is product of entries of its diagonal,,86,b,$b^{2}$,$b^{3}$,0,,,,,3,moderate,2
+If $\mathrm{C}$ and $\mathrm{D}$ are two matrices of order $p \times q \& q \times p$ respectively then $\mathrm{C}-\mathrm{D}$ is a matrix of order.....?,,easy,"Since the order of matrices are different, subtraction is not possible",,86,$p \times q$,$9 \times 9$,$p \times p$,none,,,,,4,difficult,3
+"If $[50128 \lambda-8224],$ is a singular matrix then $\lambda=?$",,moderate,"make it lower triangular by adding: $\quad R_{1} \rightarrow R_{1}-3 R_{3},$ and $R_{2} \rightarrow R_{2}+2 R_{3}$
+$$
+\begin{array}{c}|-150012 \lambda+40224|=(-15)(\lambda+4)(4)=0 \\ -60 \lambda-240=0 \quad \rightarrow & 60 \lambda=-240 \quad \rightarrow \quad \lambda=-4\end{array}
+$$
+for a triangular matrix, product of diagonal entries is determinant.",,86,4,-4,12,-12,,,,,1,,4
+"$X=\left(\begin{array}{ccc}1 & 0 & 2 \\ 0 & 2 & 1 \\ 1 & -1 & 1\end{array}\right)$, then $X^{-1}=?$",,easy,"Reverse solve it, take the product of matrices, whenever it comes identity that will be inverse as $A * A^{-1}=I$
+(a) $[1020211-11][-324-1112-1-2]=[-3+0+42+0-24+0-40+2-20+2-10+2-2 -3+1+2 2-1-14-1-2 $
+\[
+=\left[\begin{array}{llllll}
+1 0 00 10 0 0 1
+\end{array}\right]
+\]",,86,$\left(\begin{array}{ccc}-3 & 2 & 4 \\ -1 & 1 & 1 \\ 2 & -1 & -2\end{array}\right)$,$\left(\begin{array}{ccc}-3 & 2 & 4 \\ -1 & 1 & 0 \\ 2 & -1 & -2\end{array}\right)$,$\left(\begin{array}{ccc}3 & 2 & 4 \\ -1 & 1 & 0 \\ 2 & -1 & -2\end{array}\right)$,$\left(\begin{array}{ccc}3 & 2 & 4 \\ 1 & 1 & 0 \\ 2 & -1 & -2\end{array}\right)$,,,,,1,,
+"$B=\left(\begin{array}{cc}-1 & 6 \\ 0 & 3\end{array}\right),$ then adjoint of $B=?$",,easy,"Adjoint of $2 \times 2$ matrix, diagonal entries interchanger and negative of non-diagonal",,86,[1 0 6 -3],[3 -6 0 -1],[1 6 0 3],[3 0 6 1],,,,,3,,
+"Which of the following is a diagonal matrix?
+(I) $\quad\left(\begin{array}{lll}1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 1\end{array}\right)$
+(II) $\left(\begin{array}{lll}3 & 0 & 0 \\ 0 & 9 & 0 \\ 0 & 0 & 0\end{array}\right)$
+(III) $\quad\left(\begin{array}{lll}4 & 0 & 0 \\ 0 & 4 & 0 \\ 0 & 0 & 4\end{array}\right)$",,easy,the diagonal matrix have at least one non-zero entry in diagonal and rest should be zero,,86,II only,II & III,III only,all,,,,,4,,
+Suppose $X$ is a $l \times m$ matrix and $Y$ is a $m \times n$ matrix. Then the product $Y X$ is of order...?,,easy,"the rows of matrix ‘X’ are ""l"" whereas columns of matrix ‘Y’ are ""n"" so multiplication is not possible.",,86,$l \times n$ Matrix,$l \times m$ Matrix,$m \times n$ Matrix,cannot be multiplied,,,,,4,,
+$\left(\begin{array}{lll}2 & 0 & 0 \\ 0 & 2 & 0 \\ 0 & 0 & 2\end{array}\right)$,,easy,"Definition of Scalar matrix: A diagonal matrix whose all diagonal entries are same K here $K \neq 0,1$ is a scalar matrix",,86,Scalar matrix,rectangular matrix,identity matrix,None,,,,,1,,
+"$3 X+\left(\begin{array}{ccc}1 & 0 & 2 \\ 2 & 1 & 3 \\ 1 & 1 & 5\end{array}\right)=\left(\begin{array}{ccc}4 & 0 & 2 \\ -1 & -2 & 0 \\ 0 & 1 & 7\end{array}\right), X=?$",,moderate,"Let call the equation $3 X+Y=Z,$ the required matrix is $X=\frac{1}{3}(Z-Y)$
+\[
+\begin{array}{c}
+X=\frac{1}{3}([402-1-20017]-[102213115])= \\
+\frac{1}{3}[300-3-33-102]=\left[100-1-11-\frac{1}{3} 0 \frac{2}{3}\right]
+\end{array}
+\]",,86,$\left(\begin{array}{ccc}1 & 0 & 0 \\ -1 & -1 & -1 \\ 3 & 0 & 4\end{array}\right)$,$\left(\begin{array}{ccc}1 & 0 & 0 \\ 1 & -1 & 1 \\ 3 & 0 & 4\end{array}\right)$,$\left(\begin{array}{ccc}1 & 0 & 0 \\ -1 & -1 & -1 \\ \frac{-1}{3} & 0 & \frac{2}{3}\end{array}\right)$,$\left(\begin{array}{ccc}1 & 0 & 8 \\ 1 & -1 & 1 \\ 3 & 0 & 4\end{array}\right)$,,,,,3,,
+$\left(\begin{array}{lll}1 & 0 & 0 \\ 0 & 5 & 0 \\ 0 & 0 & 7\end{array}\right)$ is____,,easy,Definition of diagonal Matrix: A matrix whose at least one diagonal entry in non-zero where all the non-diagonal entries are zero is diagonal matrix,,86,Scalar matrix,rectangular matrix,identity matrix,diagonal matrix,,,,,2,,
+"Which one is generally not true if A,B and C are matrices",,easy,Commutative law under multiplication does not hold in matrices,,86,$A+B=B+A$,A (BC) = (AB)C,$A+(B+C) =(A+B)+C $,$AB=BA$,,,,,4,,
+Which matrix is symmetric ,,easy,"For Symmetric, $A^{T}=A$",,86,$\left(\begin{array}{lll}1 & 2 & 3 \\ 2 & 5 & 4 \\ 3 & 4 & 6\end{array}\right)$,$\left(\begin{array}{lll}1 & 2 & 3 \\ 5 & 5 & 4 \\ 3 & 4 & 6\end{array}\right)$,$\left(\begin{array}{lll}1 & 2 & 3 \\ 5 & 5 & 4 \\ 7 & 4 & 6\end{array}\right)$,all of these,,,,,1,,
+"$A=\left(\begin{array}{lll}1 & 0 & 2 \\ 0 & 2 & 3 \\ 0 & 2 & 3\end{array}\right),$ then $|A|=?$",,easy,"Property f determinants: Row 2 and Row 3 are same, so determinant will be zero.",,86,-1,3,0,1,,,,,3,,
+"Value of the determinant 
+\begin{tabular}{|ccccc|}
+7 & 2 & -3 & 1 & 9 \\
+2 & 3 & -2 & 0 & 2 \\
+6 & 4 & 5 & 3 & 3 \\
+6 & 7 & 1 & 2 & 4 \\
+7 & 2 & -3 & 1 & 9
+\end{tabular}",,easy,"Property of determinant: Row 1 and Row 5 are same, so determinant will be zero",,86,7,50,-50,0,,,,,4,,
+"$A=\left(\begin{array}{lll}a_{11} & a_{12} & a_{13} \\ a_{21} & a_{22} & a_{23} \\ a_{31} & a_{32} & a_{33}\end{array}\right),$ then minor of $a_{21}=?$",,easy,"Definition of minor: for a square matrix of order $n,$ minor of entry $a_{i j}$ denoted by
+$M_{i j}$ is obtained by deleting  $i^{\text {th }}$ row and $j^{\text {th }}$ column of the matrix:
+$M_{21}=$ Determinant without 2 nd nd 1 st column $=\left|a_{12}a_{13} a_{32} a_{33}\right|$",,86,$\left(\begin{array}{ll}a_{11} & a_{12} \\ a_{21} & a_{22}\end{array}\right)$,$\left(\begin{array}{ll}a_{21} & a_{12} \\ a_{31} & a_{22}\end{array}\right)$,$\left|\begin{array}{ll}a_{12} & a_{13} \\ a_{32} & a_{33}\end{array}\right|$,$\left|\begin{array}{ll}a_{11} & a_{12} \\ a_{21} & a_{22}\end{array}\right|$,,,,,3,,
+"If AB = BA=I and AC=CA=I, then what about B and C.",,moderate,"the inverse of $\mathrm{A}$ will give product as answer $\mathrm{I}$. $\mathrm{B}$ and $\mathrm{C}$ are both resulting in $\mathrm{I}$ so both are inverse of $\mathrm{A}$ and equal. Mathematically
+\[
+A * A^{-1}=I \quad \text { Which implies } A * B=A * C=I=A * A^{-1} \quad \rightarrow B=C=A^{-1}
+\]",,86,They are equal,They are Inverse,Each is equal to ‘A’,None,,,,,1,,
+If A and B are non-singular matrices then which one is true ,,easy,Important Property of matrices,,86,$(A B)^{-1}=A^{-1} B^{-1}$,$(A B)^{-1}=(B A)^{-1}$,$(A B)^{-1}=B A^{-1}$,$(A B)^{-1}=\left(B^{-1} A^{-1}\right)$,,,,,4,,
+"If AB =BA=I, then which one is true",,easy,Only the product of Inverses result in I (identity matrix),,86,A is a unit matrix,B is a unit matrix,A and B are inverse of each other,None,,,,,3,,
+$\left|\begin{array}{lll}1 & a & b+c \\ 1 & b & c+a \\ 1 & c & a+b\end{array}\right|=?$,,easy,"by adding $C_{3}$ in $C_{2}$ $11 a a+b+c 2 b a+b+c 3 c a+b+c$ । Taking $a+b+c$ common from $C_{2} \quad(a+b+c) | 1 a 11 b 11 c 1 |$
+$C_{1}=C_{2}$
+So determinant is zero.",,86,0,$(a-b)(b-c)(c-a)$,abc,1,,,,,1,,
+$\left|\begin{array}{lll}1 & 4 & 7 \\ 2 & 5 & 8 \\ 3 & 6 & 9\end{array}\right|=?$,,easy,"\[
+\begin{array}{l}
+R_{3}-R_{2} \rightarrow R_{3}^{\prime}, \quad R_{2}-R_{1} \rightarrow R_{2}^{\prime} \\
+|1472-15-48-73-26-59-8|=| 147111111|
+\end{array}
+\]
+$R_{2}$ and $R_{3}$ are same Determinant is 0",,86,1,2,0,4,,,,,3,,
+$\left|\begin{array}{ccc}-1 & 1 & 0 \\ 2 & 3 & -1 \\ 2 & 1 & 2\end{array}\right|=?$,,easy,$C_{1}^{\prime}=C_{1}+C_{2} \quad|-1+1102+33-12+112|=101053-13121$,,86,$\left|\begin{array}{ccc}3 & 3 & 0 \\ 5 & 3 & -1 \\ 3 & 1 & 2\end{array}\right|$,$\left|\begin{array}{ccc}0 & 1 & 0 \\ 5 & 3 & -1 \\ 3 & 1 & 2\end{array}\right|$,$\left|\begin{array}{ccc}3 & 3 & 7 \\ 5 & 3 & -1 \\ 3 & 1 & 5\end{array}\right|$,none,,,,,2,,
+"$A=\left(\begin{array}{lll}a_{11} & a_{12} & a_{13} \\ a_{21} & a_{22} & a_{23} \\ a_{31} & a_{32} & a_{33}\end{array}\right),$ then $|A|=?$",,easy,"The sum of products of entries and cofactor of same row or column is the determinant of matrix
+The sum of products of entries and cofactor of same row or column is the determinant of matrix",,86,$a_{11} A_{11}+a_{12} A_{12}+a_{13} A_{13}$,$a_{12} A_{21}+a_{22} A_{22}+a_{32} A_{32}$,$a_{13} A_{31}+a_{23} A_{32}+a_{13} A_{33}$,none,,,,,1,,
+"If for a square matrix $A, A^{p}=0$ then $A$ is called",,moderate,"Important Property",,86,square matrix,nil potent matrix,idempotent matrix,periodic matrix,,,,,2,,
+For a square matrix $A_{l}$ if $A^{2}=A$ then $A$ is called,,moderate,"Important Property",,86,symmetric matrix,nil potent matrix,idempotent matrix,periodic matrix,,,,,3,,
+"If $A=\left[a_{i j}\right]_{n \times m},$ then transpose of $\mathrm{A}$ is of the order",,easy,"the row will be changed into columns and vice versa",,86,$m \times m$,$n \times n$,$m \times n$,$n \times m$,,,,,3,,
+"For a square matrix $A,$ if $A=A^{t}$ then $A$ is called matrix",,easy,"Definition: A matrix whose transpose is equal to the original matrix is called symmetric matrix",,86,Symmetric,transpose,Skew-symmetric,singular,,,,,1,,
+"Given a $m \times m$ matrix $A=\left[a_{i j}\right]$ if we delete the ith row and jth column of $A$, we get a $(m-1) \times(m-1)$ matrix. The determinant of this matrix is called the of the element $a_{i}$",,easy,Defination,,86,Cofactor,minor,modulus,none,,,,,2,,
+The condition for the system of linear homogenous equations to have a trivial solution is,,moderate,Key Point: The system should not be singular for trivial solution.,,86,$|A|=0$,$|A| \neq 0$,$|A|>0$,$|A|<0$,,,,,2,,
+$(C D)^{t}=?$,,easy,Important property,,86,$C^{t} D^{t}$,$D^{t} C^{t}$,$(D C)^{t}$,none,,,,,2,,
+If any two rows in a square matrix are identical then $|A|=?$,,easy,Property of determinant,,86,0,1,-1,can be any value,,,,,1,,
+$5\left(\begin{array}{ccc}4 & -3 & 2 \\ 7 & 1 & 5 \\ 0 & 3 & 2\end{array}\right)=?$,,easy,"it is matrix, the number will multiply with each of the entry of matrix
+\[
+5[4-32715032]=[20-15103552501510]
+\]",,86,$\left(\begin{array}{ccc}20 & -15 & 10 \\ 7 & 2 & 2 \\ 0 & 3 & 3\end{array}\right)$,$\left(\begin{array}{ccc}20 & -15 & 10 \\ 35 & 2 & 2 \\ 0 & 3 & 3\end{array}\right)$,$\left(\begin{array}{ccc}2 & -15 & 10 \\ 3 & 2 & 2 \\ 0 & 3 & 3\end{array}\right)$,$\left(\begin{array}{ccc}20 & -15 & 10 \\ 35 & 5 & 25 \\ 0 & 15 & 10\end{array}\right)$,,,,,4,,
+A matrix of order 1$\times$ m is called,,easy,the defined Matrix has only one row which by defination is row matrix,,86,Row matrix,column matrix,null matrix,diagonal matrix,,,,,1,,
+The sum of the products of the elements of a row (or column) by the cofactors of the corresponding elements of different row (or column) is,,easy,Key Point: $a_{11} A_{21}+a_{12} A_{22}+a_{13} A_{23}=0$,,86,0,1,Determinant,equal to matrix,,,,,1,,
+A matrix of order n$\times$1 is called,,easy,It has only one column,,86,Row matrix,column matrix,null matrix,diagonal matrix,,,,,2,,
+A square matrix $C=\left[c_{i j}\right]$ is called a matrix if $c_{i j}=O$ for all $i \neq j$ and at least one $c_{i j} \neq 0$ for all $i=j$,,easy,Definition of diagonal matrix,,86,rectangular matrix,identity matrix,diagonal matrix,null,,,,,3,,
+If A is a square matrix then AI=IA = ___,,easy,the product of Matrix and Identity is the Matrix itself,,86,0,1,A,none,,,,,3,,
+"If each element in any row of a square matrix is 0, then value of its determinant is",,easy,Property of determinant,,86,0,1,-1,5,,,,,1,,
+$\left[\begin{array}{llll}0 & 0 & 0 & 0\end{array}\right]$ is a,,easy,"satisfy all the conditions: it has only one row (row matrix), the number of rows and columns are different (rectangular matrix) and all entries are zero (null matrix)",,86,Row matrix,rectangular matrix,null matrix,all of these,,,,,4,,
+"If any two columns of a square matrix A are interchanged then $|A|$ =?
+",,easy,Property of determinant,,86,0,$-|A|$,$\left|A^{-1}\right|$,-1,,,,,2,,
+The rank of the matrix $\left(\begin{array}{cccc}1 & -1 & 2 & -3 \\ 2 & 0 & 7 & -7 \\ 3 & 1 & 12 & -11\end{array}\right)$ is..............,,moderate,"Row 3 will have all zeros in echelon form
+\[
+R_{2}-2 R_{1}, R_{3}-3 R_{1} \rightarrow[1-12-3023-1046-2] \quad R_{3}-2 R_{2} \quad[1-12-3023-10000]
+\]
+since $R_{3}$ is zero, the rank is 2",,86,4,3,1,2,,,,,4,,
+"If $A$ is a non-singular matrix, then $\left(A^{-1}\right)^{-1}=?$",,easy,double inverse,,86,A,-A,1,$A^{t}$,,,,,1,,
+"Let $A=\left[a_{i j}\right]$ be a square matrix. Then the cofactor of $a_{i j}$ i.e, $A_{i j}=?$",,easy,Important Point,,86,(-1)$M_{i j}$,$(-1)^{i+j}$,$(-1)^{i+j} M_{i j}$,$(-1)^{i-j} M_{i j}$,,,,,3,,
+"A square matrix, non-singular matrix $A$, determinant of $A^{-1}=$",,easy,"Simple solution, determinant does not change inverse",,86,$\frac{1}{|A|}$,$\left|A^{-1}\right|$,both (a) and (b),0,,,,,2,,
+Which one of the following statement is true,,easy,Basic Point,,86,The additive inverse of the matrix A is denoted by –A,The additive inverse of $A$ is denoted by $A^{-1}$,The additive inverse of A is A,The additive inverse of $A$ is $[A]$,,,,,1,,
+"Solution set of the system $4 x-3 y+2 z-3=0, x+y-3 z-13=0, \frac{1}{2} x+y+\frac{1}{4} z-\frac{9}{2}=0$",,moderate,"Reverse Solve the equations
+(a) $4(1)-3(-1)+2(0)-3=4+3-3 \neq 0 \quad$ not satisfy
+(b) $4(4)-3(3)+2(-2)-3=16-9-4-3=0$
+$4+3-3(2)-13=13-13=0, \quad \frac{1}{2}(4)+3+\frac{1}{4}(-2)-\frac{9}{2}=2+3-\frac{1}{2}-\frac{9}{2}=0$
+So option satisfies all the equations",,86,"\{(1,-1,0)\}","\{(4,3,-2)\}","\{(-3,0,5)\}","\{(2,10,43)\}",,,,,2,,
+"If $A, B, C$ are three matrices such that $A B=C$ then which is true?
+(I) $B=\frac{C}{A}$
+(II) $\mathrm{B}=\mathrm{CA}^{-1}(\mathrm{III}) \mathrm{B}=\mathrm{A}^{-1} \mathrm{C}$
+(a) I and III
+(b) II and III
+(c) III only
+(d) I only",,moderate,"notation (I) is not matrix notation, and notation II is only satisfied for closure law which generally not holds in matrices.",,86,I & II ,II &III,III only,I only,,,,,3,,
+A matrix $A$ is said to be a skew symmetric matrix if $A^{t}$ is equal to,,easy,Definition of skew symmetric matrix,,86,A,-A,$A^{2}$,-$A^{2}$,,,,,2,,
+"If $A$ is a square matrix of order $4,$ and $|A|=5$ the $|2 A|=?$",,moderate,"property of Matrices $|k A|=k^{n}|A|,$ where $n$ is order. So, $2^{4} * 5=80$",,86,10,20,40,80,,,,,4,,
+"$X\left[\begin{array}{cc}5 & 2 \\ -2 & 1\end{array}\right]=\left[\begin{array}{cc}-1 & 5 \\ 12 & 3\end{array}\right],$ then $X=?$",,moderate,"Reverse Solve, multiple the options at place of $x$
+(a) $[2433][52-21]=[10-84+415-66+3]=[2899] \quad$ not satisfy
+(b) $[132-1][52-21]=[5-62+310+24-1]=[-15123] \quad$ Satisfy",,86,$\left[\begin{array}{ll}2 & 4 \\ 3 & 3\end{array}\right]$,$\left[\begin{array}{cc}1 & 3 \\ 2 & -1\end{array}\right]$,$\left[\begin{array}{ll}1 & 0 \\ 0 & 1\end{array}\right]$,$\left(\begin{array}{cc}2 & 2 \\ 22 & 2\end{array}\right)$,,,,,2,,
+If $A$ and $B$ are two invertible matrices of order 3 each then $(B A)^{-1}=?$,,easy,"Special Property of Matrices:
+$(A B)^{-1}=B^{-1} A^{-1}$",,86,$B^{-1} A^{-1}$,$A^{-1} B^{-1}$,$A^{-1} B$,$AB^{-1}$,,,,,2,,
+If A is a square matrix of order 3 having a row of zeros the determinant of A = ?,,easy,"For any matrix with a zero row, determinant is 0",,86,1,0,Any real number,-2,,,,,2,,
+"$\Delta=\left|\begin{array}{ccc}1 & \omega & \omega^{2} \\ \omega & \omega^{2} & 1 \\ \omega^{2} & 1 & \omega\end{array}\right|$
+where $\omega$ is cube root of unity, then $\Delta=?$",,easy,$\begin{aligned} R_{1}^{\prime}=R_{1}+R_{2} &+R_{3} \quad\left[1+\omega+\omega^{2} 1+\omega+\omega^{2} 1+\omega+\omega^{2} \omega \omega^{2}+\omega^{2} 1 \omega\right] \\ &=\left|000 \omega \omega^{2} 1 \omega^{2} 1 \omega\right|=0 \quad \text { since } 1+\omega+\omega^{2}=0 \end{aligned}$,,86,1,-1,0,3,,,,,3,,
+If A is a square matrix of order 3 then,,easy,"property of Matrices $|k A|=k^{n}|A|,$ where $n$ is order. $|2 A|=2^{3}|A|=8|A|$",,86,2 det $A$,4 det $A$,0,8 det $A$,,,,,4,,
+$\left|\begin{array}{ccc}1 & 0 & 0 \\ 2 & \cos x & \sin x \\ 3 & \sin x & \cos x\end{array}\right|=?$,,moderate,"open from $R_{1}, 1 | \cos \cos x$ sinsin $x \sin \sin x \cos \cos x |=x-x=\cos \cos 2 x$",,86,1,0,cos 2x,sin 2x,,,,,3,,
+"The system of the equations has
+ $-3 x-6 y=33$
+ $x+2 y=11$",,moderate,"Parallel equations, both equations are same with common multiplication factor and hence the matrix will be singular.",,86,Only one solution,Finite many solutions,No solution,Infinite solutions,,,,,4,,
+"The value of $"" \lambda ""$ for which the system of equation does not have a solution
+\[
+\begin{array}{l}
+x+y+z=6 \\
+4 x+\lambda y-\lambda z=0 \\
+3 x+2 y-4 z=-5
+\end{array}
+\]",,moderate,"Reduce matrix to echelon form, $R_{2}-4 R_{1}, R_{3}-3 R_{1}$ $[1110 \lambda-4-\lambda-40-1-7],$ for $\lambda=-3, R_{2}=R_{3}$",,86,3,-3,0,1,,,,,1,,
+If $A$ and $B$ are square matrices of same order then $(A+B)^{2}=A^{2}+2 A B+B^{2}$ if,,moderate,"Simplify them
+(a) For $A B=B A \quad(A+B)^{2}=A^{2}+A B+B A+B^{2}=A^{2}+2 A B+B^{2}$
+(b) For $A=-B$
+$(0)^{2}=(-B+B)^{2}=-B^{2}-B^{2}-B^{2}+B^{2}=0$
+(c) For $A=B \quad(B+B)^{2}=4 B^{2}=B^{2}+B B+B B+B^{2}=4 B^{2}$",,86,AB=BA,A=-B,A=B,All of these,,,,,4,,
+If $\left|\begin{array}{ll}3 & 2 \\ x & 4\end{array}\right|=0$,,easy,$\begin{aligned} \text { Simplify }(3 \times 4)-2(x)=0 & \rightarrow \quad 12-2 x=0 \quad \rightarrow 2 x=12 \\ & x=\frac{12}{2}=6 \end{aligned}$,,86,0,6,-6,5,,,,,2,,
+$\left|\begin{array}{ccc}42 & 1 & 6 \\ 28 & 7 & 4 \\ 14 & 3 & 2\end{array}\right|=?$,,easy,take 7 common from $C_{1} \quad 7 | 616474232$ । $C_{1}=C_{3}$ so determinant is 0,,86,2,-2,0,214,,,,,3,,
 $3 x^{4}+\sqrt{5} x^{2}+3 x+1$ is a polynomial of degree,,easy,Highest power of polynomial is 4 in the first term $3x^4$,,87,3,2,4,7,,,,,3,,
 The product of four fourth roots of 64 =?,,easy,"The product of all fourth roots of number 'n' is additive inverse of number $^{\prime}-n^{\prime}$ The fourth roots on 64 will be $4,-4,4 i,-4 i$
 \[
@@ -952,3 +1076,832 @@ $\lim _{x \rightarrow \frac{\pi}{4}} \frac{\sin x-\cos x}{x-\frac{\pi}{4}}=?$,,m
 \[
 \frac{\frac{d}{d x}(\sin \sin x-\cos \cos x)}{\frac{d}{d x}\left(x-\frac{\pi}{4}\right)}=\frac{\cos \cos x+\sin \sin x}{1}=\cos \cos \left(\frac{\pi}{4}\right)+\sin \sin \left(\frac{\pi}{4}\right)=\frac{1}{\sqrt{2}}+\frac{1}{\sqrt{2}}=\frac{2}{\sqrt{2}}=\sqrt{2}
 \]",,98,2,$\sqrt{2}$,$\frac{1}{\sqrt{2}}$,$2 \sqrt{2}$,,,,,2,,
+$\frac{d}{d x} \cos x^{\circ}=?$,,easy,$\frac{d}{d x} \cos \cos x^{\circ}=\left(-\sin \sin x^{\circ}\right) \frac{d}{d x}\left(x^{\circ} * \frac{\pi}{180}\right) \operatorname{rad}=-\frac{\pi}{180} \sin \sin x^{\circ}$,,99,$-\sin x^{0}$,$x^{2} \sin x^{2}$,$\frac{\pi}{180} \sin x^{\circ}$,$-\frac{\pi}{180} \sin x^{\circ}$,,,,,4,,
+"If $\frac{d}{d x}\left(3 x^{3}+x\right)=\frac{d}{d x}\left(-3 x^{2}-5\right)$, then $x=?$",,moderate,"simplifying both sides:
+\[
+9 x^{2}+1=-6 x \rightarrow 9 x^{2}+6 x+1=0
+\]
+\[
+(3 x+1)^{2}=0 \rightarrow 3 x+1=0 \rightarrow \quad x=-\frac{1}{3}
+\]",,99,1 or 2,$\frac{-1}{3}$,1 or $\frac{-1}{3}$,1 or 0,,,,,2,,
+"If $f(y)=b y^{3}$ then which of the following is true
+(l) $\frac{d}{d x} f(y)=3 b y$
+(II) $\frac{d}{d x} f(y)=3 b y^{2}$
+$(III) \frac{d}{d x} f(y)=2 y^{2}$",,easy,Simple Derivative: $\frac{d}{d x} f(x)=b\left(3 y^{2}\right) \frac{d}{d x} y=3 b y^{2} y^{\prime}$,,99,I only,II only,I & II only,None,,,,,4,,
+The point at which the curve $y=x^{2}-4 x+3$ has gradient -2 is?,,moderate,"$\quad \frac{d y}{d x}=2 x-4=-2 \rightarrow 2 x=4-2 \quad \rightarrow \quad 2 x=2 \rightarrow x=1$
+Put in $y$ $y=(1)^{2}-4(1)+3=0$
+The required point is (1,0)",,99,"(0,1)","(1,0)","(2,1)","(-3,2)",,,,,2,,
+"The deceleration of a point, when it is momentarily at rest, which is moving along a straight line with a velocity $16-t^{2}$ is ___________",,easy,"$\quad a=\frac{d v}{d t}=\frac{d}{d t}\left(16-t^{2}\right)=-2 t \quad v=16-t^{2}=0 \rightarrow t=4$
+$a=-2(4)=-8 m / s^{2}$",,99,$4 \mathrm{m} / \mathrm{sec}^{2}$,$6 m / s^{2}$,$2 \mathrm{m} / \mathrm{sec}^{2}$,$8 \mathrm{m} / \mathrm{sec}^{2}$,,,,,4,,
+$y=\frac{2}{x}$ then $y+\frac{1}{2} \frac{d^{2} y}{d x^{2}}=?$,,easy,"$\frac{d y}{d x}=-\frac{2}{x^{2}}, \frac{d^{2} y}{d x^{2}}=\frac{4}{x^{3}} \quad$ since only $(c)$ has $x^{3}$ denominator so it's only valid option",,99,$\frac{2+x}{x^{2}}$,$\frac{2+2 x}{x^{2}}$,$\frac{2\left(1+x^{2}\right)}{x^{3}}$,$\frac{x^{3}-1}{2}$,,,,,3,,
+"Differentiating $x^{9}$ w.r.t, $x^{2},$ we get",,moderate,"$u^{\prime}=\frac{d}{d x}\left(x^{9}\right)=9 x^{8}, \quad v^{\prime}=\frac{d}{d x}\left(x^{2}\right)=2 x \quad$ using chain rule $\frac{u^{\prime}}{v^{\prime}}=\frac{9 x^{8}}{2 x}=\frac{9}{2} x^{7}$",,99,$5 x^{9}$,$\frac{5}{2} x^{6}$,$\frac{9}{2} x^{7}$,$3 x^{6}$,,,,,3,,
+$\frac{d}{d x} e^{e^{x}}=?$,,easy,$\frac{d}{d x}\left(e^{e^{x}}\right)=e^{e^{x}} \frac{d}{d x} e^{x}=e^{x} e^{e^{x}}$,,99,$e^{2 x}$,$e^{x} e^{e^{x}}$,$e^{x}$,$\frac{1}{e^{x}}$,,,,,2,,
+Derivative of $\ln e^{x^{3}}$ w.r.t $x$ is,,easy,$\frac{d}{d x}\left(\ln \ln e^{x^{3}}\right)=\frac{d}{d x}\left(x^{3} \ln \ln e\right)=3 x^{2}$,,99,$3 x^{2}$,$3 e^{x^{2}}$,$\frac{1}{3 e^{x}}$,$\frac{1}{e^{x}}$,,,,,1,,
+$\frac{d}{d x}(c)=?$,,easy,Derivative of Constant is 0.,,99,2c,c,0,$\infty$,,,,,3,,
+"$\frac{d y}{d x}=?$ If $x=\frac{a\left(1-t^{2}\right)}{2 a t}, y=\frac{2 b t}{1+t^{2}}$",,moderate,$\begin{aligned} \frac{d x}{d t}=\frac{d}{d t}\left(\frac{1-t^{2}}{2 t}\right)=\frac{2 t(-2 t)-\left(1-t^{2}\right)(2)}{4 t^{2}}=\frac{-2 t^{2}-2}{4 t^{2}} &=-\frac{1+t}{2 t^{2}} \\ \frac{d y}{d t}=\frac{d}{d t}\left(\frac{2 b t}{1+t^{2}}\right)=\frac{\left(1+t^{2}\right)(2 b)-2 b t(2 t)}{\left(1+t^{2}\right)^{2}} &=\frac{2 b\left(1-t^{2}\right)}{\left(1+t^{2}\right)^{2}} \\ \frac{d y}{d x}=&-\frac{4 b t^{2}(1-t)}{\left(1+t^{2}\right)^{2}} \end{aligned}$,,99,$\frac{a\left(t^{2}-1\right)}{2 b t}$,$\frac{b\left(1-t^{2}\right)}{2 a t}$,$\frac{2 a t}{t^{2}(t-1)}$,none,,,,,4,,
+If $x^{\frac{3}{4}}+y^{\frac{3}{4}}=a^{\frac{3}{4}}$ then $\frac{d y}{d x}=?$,,moderate,"For cases like implicit or complex explicit
+\[
+\begin{array}{l}
+\text { functions } f(x, y), \frac{d y}{d x}=-\frac{\frac{\partial f(x, y)}{\partial x}}{\frac{\partial f(x, y)}{\partial y}} \\
+\frac{\partial f(x, y)}{\partial x}=\frac{3}{4 x^{\frac{1}{4}}} \quad \frac{\partial f(x, y)}{\partial y}=\frac{3}{4 y^{4}} \quad \text { Using }
+\end{array}
+\]
+relation:
+\[
+\frac{d y}{d x}=-\left(\frac{3}{4 x^{\frac{1}{4}}}\right) /\left(\frac{3}{4 y^{\frac{1}{4}}}\right)=-\left(\frac{y}{x}\right)^{\frac{1}{4}}
+\]",,99,$\left(\frac{y}{x}\right)^{\frac{3}{4}}$,$-\left(\frac{y}{x}\right)^{\frac{1}{4}}$,$-\left(\frac{x}{y}\right)^{\frac{1}{4}}$,$\left(-\frac{y}{x}\right)^{\frac{3}{4}}$,,,,,2,,
+"Given $S=980 t-490 t^{2} \mathrm{cm},$ the velocity at the instant $t=1 / 2$ is",,easy,"$v=\frac{d S}{d t}=980-980 t \quad$ at $t=\frac{1}{2}, \quad v=980-980\left(\frac{1}{2}\right)=490 \mathrm{cm} / \mathrm{sec}$",,99,490cm,$490 \mathrm{cm} / \mathrm{sec}$,-$490 \mathrm{cm} / \mathrm{sec}$,$49 \mathrm{cm} / \mathrm{sec}$,,,,,2,,
+"If $x=a \cos ^{4} \vartheta, y=b \sin ^{4} \vartheta$ then",,moderate,$\begin{aligned} \frac{d x}{d \theta}=-4 a \theta \sin \sin \theta & \frac{d y}{d \theta}=4 b \theta \cos \cos \theta \quad \frac{d y}{d x}=\frac{d y}{d \theta} * \frac{d \theta}{d x} \\ \frac{d y}{d x}=\frac{4 b \theta \cos \cos \theta}{-4 a \theta \sin \sin \theta}=-\frac{b}{a} \theta \rightarrow a \frac{d y}{d x}=-b \theta \end{aligned}$,,99,$a \frac{d y}{d x}=-b \tan ^{2} \theta$,$a \frac{d y}{d x}-b \tan ^{2} \theta=0$,$\frac{d y}{d x}=\frac{a}{b \tan ^{2} \theta}$,none,,,,,1,,
+$\frac{d}{d x} \ln (\ln x)=?$,,moderate,$\frac{d}{d x}(\ln \ln (\ln \ln x))=\frac{1}{\ln \ln x} \frac{d}{d x}(\ln \ln (x))=\frac{1}{\ln \ln x} \frac{1}{x}=\frac{1}{x \ln \ln x}$,,99,$\frac{1}{x}$,$\frac{1}{x \ln a}$,$\frac{1}{x \ln x}$,$\frac{x}{\ln x}$,,,,,3,,
+"$\delta y=?$ If $y=3 x^{2}+5 x-2, x=1, d x=-0.5$",,moderate,"$y+\delta y=3(x+\delta x)^{2}+5(x+\delta x)-2$
+$\delta y=3 x^{2}+6 x \delta x+3(\delta x)^{2}+5 x+5 \delta x-2-3 x^{2}-5 x+2=6 x \delta x+3(\delta x)^{2}+5 \delta x$
+$\delta y=6(1)(-0.5)+3(-.5)^{2}+5(-.5)=-3+.75-2.5=-4.75$",,99,13.92,-4.75,13.21,11.76,,,,,2,,
+"If $y=7 x^{6}+3 x^{4}-5 x^{3}+2,$ then which one is true",,easy,"if degree of polynomial is $n,$ then $y_{n+1}=0$",,99,$y_{5}=0$,$y_{6}=0$,$y_{7}=0$,$y_{4}=0$,,,,,3,,
+"If y = vw then which is false",,difficult,"$y_{1}=v w_{1}+w v_{1}$
+$y_{2}=\left(v_{1} w_{1}+v w_{2}\right)+\left(w_{1} v_{1}+w v_{2}\right)=v w_{2}+2 v_{1} w_{1}+w v_{2}$
+$y_{3}=\left(v_{1} w_{2}+v w_{3}\right)+2\left(v_{1} w_{2}+v_{2} w_{1}\right)+\left(w_{1} v_{2}+w v_{3}\right)=v w_{3}+3\left(v_{1} w_{2}+w_{1} v_{2}\right)+w v_{3}$",,99,$y_{1}=v w_{1}+v_{1} w$,$y_{2}=v w_{2}+2 w_{1} v_{1}+v_{2} w$,$y_{3}=v w_{s}+3 v_{2} w_{1}+v_{3} w$,$y_{4}=v w_{4}+4 v_{1} w_{3}+6 v_{2} w_{2}+4 v_{3} w_{1}+v_{4} w$,,,,,3,,
+If $y=e^{20 x}$ then $y_{4} ?$,,moderate,"$y_{4}=(20)^{4} e^{20 x}=160000 e^{20 x}$ for $e^{a x}, y_{n}=a^{n} e^{a x}$",,99,$16000 e^{20 x}$,$160000 e^{20 x}$,$1600000 e^{20 x}$,$16000000 e^{20 x}$,,,,,2,,
+If $y=\cos a x$ then $y_{8}=?$,,moderate,"for $y=\cos \cos (a x), \quad y_{n}=a^{n} \cos \cos \left(a x+\frac{n}{2} \pi\right)$",,99,$a^{8} \cos (a x+4 \pi)$,$a^{8} \cos (a x+2 \pi)$,$a^{8} \cos (a x+5 \pi)$,$a^{8} \cos (a x+3 \pi)$,,,,,1,,
+The minimum value of the function $y=x^{3}-3 x^{2}$ is,,moderate,"$\begin{aligned} \frac{d y}{d x}=3 x^{2}-6 x=0 \rightarrow x=0,2 & \frac{d^{2} y}{d x^{2}}=6 x-6 \\ y_{2}(0)=-6<0 \quad \text { Maxima } & y_{2}(2)=6>0 \quad \text { Minima } \\ y(2)=2^{3}-3(2)^{2}=8-12=-4 & \end{aligned}$",,99,$y(1)=-13$,y(2) = -4,y(2) = 4,y(3) = 0,,,,,2,,
+$\frac{d}{d x} a^{x}=?$,,easy,Theoretical Formula,,99,$\ln a$,$x \ln a$,$a^{x} \ln a$,$a \ln x$,,,,,3,,
+$\frac{d}{d x} 7^{4 x-3}=?$,,easy,$\frac{d}{d x}\left(7^{4 x-3}\right)=7^{4 x-3} \ln \ln 7 \frac{d}{d x}(4 x-3)=4.7^{4 x-3} \ln \ln 7$,,99,$\frac{4 x-3}{\ln 7}$,$4 x \ln 7$,$(4 x-3) \ln 7$,$4.7^{4 x-3} \ln 7$,,,,,4,,
+$\frac{d}{d x} \sec 2 x=?$,,easy,Theoretical Formula,,99,$2 . \sec 2 x \cdot \tan 2 x$,$2 . \sec 2 x \cdot \tan ^{2} x$,$2 .$ secx.tanx,$\sec 2 x \cdot \tan 2 x$,,,,,1,,
+$\frac{d}{d x} \cos (\cos (\cos x))=?$,,moderate,"there are three functions, so there will three derivatives with functions reducing in each. Option (c) fits all criterion.
+\[
+\frac{d}{d x} \cos \cos (\cos \cos (\cos \cos x))=-\sin \sin (\cos \cos (\cos \cos x)) \frac{d}{d x}(\cos \cos (\cos \cos x))=-\sin \sin (\cos \cos (\cos \cos x))
+\]",,99,$-\sin [\cos (\cos x)] \cdot \sin (\cos x)$,$-\cos [\sin (\sin x)] \cdot \sin (\sin x)$,$-\sin [\cos (\cos x)] \cdot \sin (\cos x) \cdot \sin x$,$\sin [\cos (\cos x)] \cdot \cos (\cos x)$,,,,,3,,
+"$\frac{y}{x}=\tan ^{-1} \frac{x}{y},$ then $\frac{d y}{d x}=?$",,difficult,"$y=x\left(\frac{x}{y}\right) \rightarrow \frac{d y}{d x}=x \frac{d}{d x}\left(\frac{x}{y}\right)+\left(\frac{x}{y}\right) \frac{d x}{d x} \rightarrow \frac{x}{1+\left(\frac{x}{y}\right)^{2}} \frac{d}{d x}\left(\frac{x}{y}\right)+\frac{y}{x}$
+$\frac{d y}{d x}=x \frac{y^{2}}{x^{2}+y^{2}} *\left(\frac{y-x \frac{d y}{d x}}{y^{2}}\right)+\frac{y}{x}=\frac{x y}{x^{2}+y^{2}}-\frac{x^{2}}{x^{2}+y^{2}}\left(\frac{d y}{d x}\right)+\frac{y}{x}$
+$\left(1+\frac{x^{2}}{x^{2}+y^{2}}\right) \frac{d y}{d x}=\frac{y}{x}\left(1+\frac{x^{2}}{x^{2}+y^{2}}\right) \rightarrow \frac{d y}{d x}=\frac{y}{x}$",,99,$\frac{x}{y}$,$\frac{y}{x}$,$x y$,$\frac{1}{x y}$,,,,,2,,
+$\frac{d}{d x} \cos ^{-1} 3 x=?$,,easy,$\frac{d}{d x} 3 x=\frac{-1}{\sqrt{1-(3 x)^{2}}} \frac{d}{d x}(3 x)=\frac{-3}{\sqrt{1-9 x^{2}}}$,,99,$\frac{-1}{\sqrt{1-9 x^{2}}}$,$\frac{1}{\sqrt{1-9 x^{2}}}$,$\frac{3}{\sqrt{1-9 x^{2}}}$,$\frac{-3}{\sqrt{1-9 x^{2}}}$,,,,,4,,
+$\frac{d}{d x} \frac{1}{\cos ^{-1} x}=?$,,moderate,$-1(x)^{-1-1} \frac{d}{d x}(x)=-\frac{1}{(x)^{2}} * \frac{-1}{\sqrt{1-x^{2}}}=\frac{1}{(x)^{2} \sqrt{1-x^{2}}}$,,99,$\frac{-1}{\left(\cos ^{-1} x\right)^{2}}$,$\frac{1}{\left(\cos ^{-1} x\right)^{2}}$,$\frac{1}{\left(\cos ^{-1} x\right)^{2} \sqrt{1-x^{2}}}$,$\frac{-1}{\left(\cos ^{-1} x\right)^{2} \sqrt{1-x^{2}}}$,,,,,3,,
+"In case of strictly decreasing functions, the derivative is",,easy,The property of derivatives,,99,Positive,negative,zero,either negative or zero,,,,,2,,
+The derivative of an even function is always,,easy,"Important Property: due to reduction in power, even function becomes odd",,99,Odd function,even function,Does not exist,both a & b,,,,,1,,
+"If $y=\ln x$, then $y_{4}=?$",,easy,$y_{1}=\frac{1}{x} \quad y_{2}=-\frac{1}{x^{2}} \quad y_{3}=\frac{2}{x^{3}} \quad y_{4}=-\frac{6}{x^{4}}$,,99,$\frac{-3}{x^{4}}$,$\frac{-6}{x^{4}}$,$\frac{-5}{x^{4}}$,$\frac{4}{x^{4}}$,,,,,2,,
+If $y=\tan \left(\operatorname{ptan}^{-1} x\right)$ then $\left(1+x^{2}\right) y_{1}=?$,,moderate,"Rearranging $(y)=p x$ Differenti
+\[
+\frac{1}{1+y^{2}} y_{1}=\frac{p}{1+x^{2}} \rightarrow\left(1+x^{2}\right) y_{1}=p\left(1+y^{2}\right)
+\]",,99,$\left(1+y^{2}\right)$,$\left(1-y^{2}\right)$,$\frac{1}{p\left(1+y^{2}\right)}$,$p\left(1+y^{2}\right)$,,,,,4,,
+$\frac{d^{2} y}{d x^{2}}$ for $x^{2}+y^{2}=a^{2}$ is,,moderate,"Rearranging $y^{2}=a^{2}-x^{2}$
+Differentiating
+\[
+2 y\left(y_{1}\right)=-2 x
+\]
+\[
+y_{1}=-\frac{x}{y}
+\]
+Differentiating
+\[
+y_{2}=-\frac{y-x y_{1}}{y^{2}}=-\frac{y-x\left(-\frac{x}{y}\right)}{y^{2}}=-\frac{y^{2}+x^{2}}{y^{3}}=-\frac{a^{2}}{y^{3}}
+\]",,99,$\frac{-a^{2}}{y}$,$\frac{-a^{2}}{y^{3}}$,$\frac{a^{2}}{y^{2}}$,$\frac{y^{3}}{a^{2}}$,,,,,2,,
+$\frac{d}{d x} \ln x^{x}=?$,,moderate,$\frac{d}{d x}(x \ln \ln x)=x * \frac{1}{x}+\ln \ln x * 1=\ln \ln x+1$,,99,$\ln x+1$,$(\ln x)^{x}$,$x^{x} \cdot \ln x$,$x^{x} \cdot \ln (e x)$,,,,,1,,
+$\frac{d}{d x}(\ln x)^{\ln x}=?$,,moderate,"let $y=(\ln \ln x)^{\ln \ln x} \rightarrow \ln \ln y=\ln \ln x \ln \ln (\ln \ln x) \quad$ Differentiate
+$\frac{1}{y} y_{1}=\ln \ln x * \frac{1}{\ln \ln x} \frac{d}{d x} \ln \ln x+\ln \ln \ln \ln x \frac{1}{x}=\frac{1}{x}(1+\ln \ln (\ln \ln x))$
+$y_{1}=\frac{d}{d x}(\ln \ln x)^{\ln \ln x}=(\ln \ln x)^{\ln \ln x}\left(\frac{1+\ln \ln (\ln \ln x)}{x}\right)$",,99,$(\ln x)^{\ln x}\left(\frac{1+\ln \ln x}{x}\right)$,$(\ln x)^{\ln x}(1+\ln \ln x)$,$(\ln x)^{\ln x}\left(\frac{\ln \ln x}{x}\right)$,none,,,,,1,,
+$\frac{d}{d x} \cosh x=?$,,easy,Theoretical Formula,,99,sinhx,-sinhx,sechx,None,,,,,1,,
+Theoretical Formula,,easy,Theoretical Formula,,99,$\frac{1}{x \sqrt{1+x^{2}}}$,$\frac{1}{1-x^{2}}$,$\frac{-1}{\sqrt{1+x^{2}}}$,$\frac{-1}{x \sqrt{1+x^{2}}}$,,,,,4,,
+"If $y=e^{x} \sin x,$ then $\frac{d^{2} y}{d x^{2}}-2 \frac{d y}{d x}+2 y=?$",,moderate,"$y_{1}=e^{x} \cos \cos x+e^{x} \sin \sin x=e^{x} \cos \cos x+y$
+$y_{2}=y_{1}-e^{x} \sin \sin x+e^{x} \cos \cos x=y_{1}-y+e^{x} \cos \cos x-y+y=y_{1}+y_{1}-2 y$
+$y_{2}-2 y_{1}+2 y=0$",,99,$1-x^{2}$,0,2x,$x+2$,,,,,2,,
+The Maclaurin series expansion of $e^{x}$ is,,easy,"Important Series to remember
+\[
+\begin{array}{ll}
+f(x)=e^{x} \rightarrow f(0)=e^{0}=1 & f^{\prime}(x)=e^{x} \rightarrow f^{\prime}(0)=e^{0}=1 \\
+f^{\prime \prime}(x)=e^{x} \rightarrow f^{\prime \prime}(0)=e^{0}=1 & f^{\prime \prime \prime}(x)=e^{x} \rightarrow f^{\prime \prime \prime}(0)=e^{0}=1
+\end{array}
+\]
+Applying Maclaurin Series: $f(x)=f(0)+x f^{\prime}(0)+\frac{x^{2}}{2 !} f^{\prime \prime}(0)+\frac{x^{3}}{3 !} f^{\prime \prime \prime}(0)+\ldots$
+\[
+f(x)=1+x+\frac{x^{2}}{2 !}+\frac{x^{3}}{3 !}+\ldots
+\]",,99,$1+x-\frac{x^{2}}{2}+\frac{x^{3}}{3}-\cdots$,$1-x-\frac{x^{2}}{2}-\frac{x^{3}}{3}-\cdots$,$1+x+\frac{x^{2}}{2 !}+\frac{x^{3}}{3 !}+\cdots$,None,,,,,3,,
+The maximum value of the function fx=sin x cos x  is,,moderate,"$\frac{d}{d x} f(x)=\sin \sin x(-\sin \sin x)+\cos \cos x(\cos \cos x)=x-x=\cos \cos 2 x=0$
+$x=\frac{\pi}{4} \quad f\left(\frac{\pi}{4}\right)=\sin \sin \frac{\pi}{4} \cos \cos \frac{\pi}{4}=\frac{1}{\sqrt{2}} * \frac{1}{\sqrt{2}}=\frac{1}{2}$",,99,1,2,$\frac{1}{2}$,0,,,,,3,,
+"If $\sqrt{x}+\sqrt{y}=1$ then slope of tangent to the curve at $\left(\frac{1}{4}, \frac{1}{4}\right)$ is;",,moderate,"$\begin{array}{ll}\text { differentiating: } & \frac{1}{2 \sqrt{x}}+\frac{1}{2 \sqrt{y}} \frac{\partial y}{d x}=0 \rightarrow \frac{\partial y}{d x}=-\sqrt{\frac{y}{x}} \\ \text { At }\left(\frac{1}{4}, \frac{1}{4}\right) & \frac{d y}{d x}=-\end{array} \sqrt{\frac{\frac{1}{x}}{\frac{1}{4}}}=-\sqrt{1}=-1$",,99,1,2,-1,$\frac{1}{2}$,,,,,3,,
+"Equation of normal to the curve $y=\sin x$ at $(\pi, 0)$ is",,moderate,"\[
+\frac{d}{d x} \sin \sin x=\cos \cos x \quad \text { slope of tangent is } \cos \cos \pi=-1
+\]
+The slope of normal will be
+1
+\[
+y=1(x-\pi) \rightarrow x-y=\pi
+\]",,99,$x+y+\pi=0$,$x+y-\pi=0$,$x-y=\pi$,$x-y+\pi=0$,,,,,3,,
+A rectangle is of perimeter 176m. What will be its maximum area?,,moderate,"$P=2 x+2 y=176 \rightarrow x+y=88 m \rightarrow y=88-x$
+Area$=x y=x(88-x)=88 x-x^{2}$
+$\frac{d}{d x}\left(88 x-x^{2}\right)=88-2 x=0 \rightarrow x=44, y=88-x=44$
+$A_{\max }=44(44)=1936 \mathrm{m}^{2}$",,99,$1936 \mathrm{m}^{2}$,$1854 m^{2}$,$2110 m^{2}$,$1836 m^{2}$,,,,,1,,
+A cylinder is contained in a sphere of radius “R”. What will be its height if its volume is maximum?,,difficult,"the cylinder will be inscribed in such a way that its centre passes through the centre of sphere, if $^{\prime} r^{\prime}$ is radius of base of cylinder and 'h' is height, then
+\[
+\begin{array}{c}
+r^{2}=R^{2}-\frac{h^{2}}{2} \rightarrow r=\sqrt{R^{2}-\frac{h^{2}}{4}} \\
+V_{c}=\pi r^{2} h=\pi\left(R^{2}-\frac{h^{2}}{4}\right) h \\
+\frac{d}{d h} V_{c}=\pi R^{2}-\frac{3}{4} \pi h^{2} \rightarrow h=\frac{\sqrt{2}}{3} R
+\end{array}
+\]",,99,$\frac{r}{\sqrt{3}}$,$r \sqrt{3}$,$\frac{2 r}{\sqrt{3}}$,$2 \sqrt{3} r$,,,,,3,,
+$\frac{d^{777} y}{d x^{777}}(\cos x)=?$,,moderate,"Values repeat after $4,$ for greater values, only take last 2 digits and divide by four. The remainder of 77 after dividing by 4 is $1,$ so;
+\[
+\frac{d^{777} y}{d x^{777}} \cos \cos x=\frac{d^{77} y}{d x^{77}} \cos \cos x=\frac{d}{d x} \cos \cos x=-\sin \sin x
+\]",,99,$\cos x$,$\sin x$,$-\sin x$,$\cos x$,,,,,3,,
+If $f(2)=4$ and $f^{\prime}(2)=4$ then $\lim _{x \rightarrow 2} \frac{x \cdot f(2)-2 f(x)}{x-2}=?$,,moderate,Using L' Hospital $\frac{f(2)-2 f^{\prime}(2)}{1}=\frac{4-2(4)}{1}=4-8=-4$,,99,2,-2,-4,3,,,,,3,,
+$\mathrm{y}=\operatorname{Sec}^{-1}\left(\frac{x+1}{x-1}\right)+\sin ^{-1}\left(\frac{x-1}{x+1}\right)$ then $\frac{d y}{d x}=?$,,easy,$y=\left(\frac{x-1}{x+1}\right)+\left(\frac{x-1}{x+1}\right)=\frac{\pi}{2} \quad \frac{d y}{d x}=\frac{d}{d x}\left(\frac{\pi}{2}\right)=0$,,99,1,0,$\frac{x+1}{x-1}$,$\frac{x-1}{x+1}$,,,,,2,,
+"$f(x)=\left\{\begin{array}{ll}0, & x<0 \\ x^{2}, & x \geq 0 \text { then for all } x\end{array}\right.$",,moderate,"since $f(x)$ is differentiable after for $x \geq 0$ and have a value for $x<0,$ so it is continuous.",,99,$f^{\prime}(x)$ is differentiable,f is differentiable,$f^{\prime}$ is continuous,f is continuous,,,,,3,,
+"The point on the curve $y^{2}=x,$ the tangent at which makes an angle of $\frac{\pi}{4}$ with $x$ -axis is",,moderate,"$\frac{d}{d x} y^{2}=\frac{d}{d x} x \rightarrow \frac{d y}{d x}=\frac{1}{2 y}$
+for angle $45, \frac{d y}{d x}=1=\frac{1}{2 y} \rightarrow y=\frac{1}{2}, x=\frac{1}{4}$",,99,"$\left(\frac{1}{2}, \frac{1}{4}\right)$","$\left(\frac{1}{2}, \frac{1}{2}\right)$","(2,4)","$\left(\frac{1}{4}, \frac{1}{2}\right)$",,,,,4,,
+$f(x)=x^{3}-27 x+5$ is increasing when,,moderate,"\[
+\frac{d}{d x} f(x)=3 x^{2}-27=0 \quad x=\pm 3
+\]
+So, functions is increasing after relative extreme points.",,99,x<-3,$|x|>3$,$|x|<3$,$x \geq 3$,,,,,2,,
+"If $f(x)=\sqrt{x^{2}-2 x+1},$ on the interval $[0,2], \ldots \ldots . .$ then $f^{\prime}(x)=?$",,easy,$f(x)=\sqrt{(x-1)^{2}}=x-1 \quad f^{\prime}(x)=1$,,99,1,-1,0,Does not exist,,,,,1,,
+Derivative of $\operatorname{Sec}^{-1}\left(\frac{1}{2 x^{2}-1}\right)_{\text {w.r.t }} \sqrt{1-x^{2}}$ at $x=\frac{1}{2}$ is,,moderate,"\[
+\begin{aligned}
+\frac{d}{d x}\left(\frac{1}{2 x^{2}-1}\right)=\frac{d}{d x}\left(2 x^{2}-1\right) &=\frac{\frac{d}{d x}\left(2 x^{2}-1\right)}{\sqrt{1-\left(2 x^{2}-1\right)^{2}}}=\frac{4 x}{\sqrt{1-4 x^{2}+4 x-1}} \\
+&=\frac{4 x}{2 \sqrt{x-x^{2}}}=\frac{2 x}{\sqrt{x-x^{2}}}
+\end{aligned}
+\]
+$\frac{d}{d x} \sqrt{1-x^{2}}=\frac{-2 x}{\sqrt{1-x^{2}}}$ Using Chain Rule
+\[
+\frac{2 x}{\sqrt{x(1-x)}} * \frac{\sqrt{(1-x)(1+x)}}{-2 x}=-\sqrt{\frac{1+x}{x}}
+\]",,99,4,-4,0,$\frac{1}{2}$,,,,,1,,
+$y=|\sec x|$ is not differentiable for all $x$,,easy,$\sec \sec x$ is discontinuous at these intervals,,99,$x=\frac{n \pi}{2}$,$x=(2 n+1) \frac{\pi}{2}$,$x=n \pi$,None,,,,,2,,
+Minimum value of $\sqrt{e^{x^{2}}-1}$ is,,easy,"the minimum value of $x^{2}$ is $0,$ so $\sqrt{e^{0}-1}=\sqrt{1-1}=0$",,99,1,-1,0,2,,,,,3,,
+If $g(x)$ is inverse of $f(x)$ and $f^{\prime}(x)=\frac{1}{1+x^{2}}$ then $g^{\prime}(x)=?$,,easy,Important property of derivative of Inverses,,99,$1+x^{2}$,$1+g(x)$,$1+[g(x)]^{2}$,None,,,,,3,,
+If $U$ is a variable $V$ is a constant then $\frac{d}{d u}\left(U^{v}\right)=?$,,easy,Power rule of Derivative,,99,$U \cdot V^{U-1}$,$V . U^{V-1}$,$U^{V-1}$,$V. U^{V}$,,,,,2,,
+If $y=\sqrt{\sin x+\sqrt{\sin x+\sqrt{\sin x+\ldots+\infty}}}$ then $\frac{d y}{d x}(2 y-1)=?$,,moderate,"$y^{2}=\sin \sin x+=\sin \sin x+y \quad$ Differentitate
+$2 y y_{1}=\cos \cos x+y_{1} \rightarrow 2 y y_{1}-y_{1}=\frac{d y}{d x}(2 y-1)=\cos \cos x$",,99,Sinx,Cosx,Secx,Cosecx,,,,,2,,
+$\frac{d}{d x} \sin ^{-1}\left(\cos \left(\frac{\pi}{2}-x\right)\right)=?$,,moderate,"\[
+\left(\cos \cos \left(\frac{\pi}{2}-x\right)\right)=(\sin \sin x)=x
+\]
+Allied Angle Differentiate $\frac{d}{d x}(x)=1$",,99,$\frac{\pi}{2}$,Cosx,1,–Sinx,,,,,3,,
+$\mathrm{f}_{\mathrm{Y}}=e^{\ln \sin x^{2}}$ then $\frac{d y}{d x}=?$,,moderate,$y=e^{\ln \ln \sin \sin x^{2}}=\sin \sin x^{2} \quad$ differentiate $\quad \frac{d y}{d x}=\cos \cos x^{2} \cdot \frac{d}{d x} x^{2}=2 x \cos \cos x^{2}$,,99,$\cos x^{2}$,$x^{2} \cos x^{2}$,$2 x \cos x^{2}$,$\sin x^{2}$,,,,,3,,
+The point of inflexion on the curve $a^{2} y=(x-b)^{3}$ is,,moderate,"differentiate: $y^{\prime}=\frac{3}{a^{2}}(x-b)^{2}=0 \rightarrow x-b=0 \rightarrow x=b$
+\[
+y^{\prime \prime}=\frac{6}{a^{2}}(x-b) \quad y^{\prime \prime}(b)=0
+\]
+So, $(b, 0)$ is point of inflection.",,99,"(a,0)","(b,0)","(a,b)","(1,a)",,,,,2,,
+$\int \frac{a}{x^{n}} d x=?$,,easy,"Power rule of integration:
+$a\left|\frac{x^{-n+1}}{-n+1}\right|=\frac{a x^{1-n}}{1-n}$",,100,$\frac{a x^{n+1}}{n+1}$,$a x^{n-1}(n-1)$,$\frac{a x^{1-n}}{1-n}$,$(a x)^{n+1}$,,,,,3,,
+$\int \cos ^{2} a x d x=?$,,moderate,$\int a x d x=\int\left(\frac{1+\cos \cos 2 a x}{2}\right) d x=\frac{x}{2}+\frac{\sin \sin 2 a x}{4 a}$,,100,$\cos ^{3}\left(\frac{a x}{3}\right)$,$\cos ^{3}\left(\frac{a}{x}\right)$,$\frac{x}{2}+\frac{\sin 2 a x}{4 a}$,$\frac{\cos a x}{2 a}$,,,,,3,,
+$\int e^{x}\left(\tan ^{-1} x+\frac{1}{1+x^{2}}\right) d x=?$,,easy,"Property of exponential function integration:
+\[
+\int e^{x}\left(f(x)+f^{\prime}(x)\right) d x=e^{x} f(x)
+\]",,100,$e^{x} \sec ^{-1} x+\frac{e^{x}}{1+x^{2}}$,$e^{x} \tan ^{-1} x$,$e^{x} \sec ^{-1} x$,$\frac{e^{x}}{1+x^{2}}$,,,,,2,,
+$\int_{\frac{\pi}{6}}^{\frac{\pi}{6}} \sec ^{2} x d x=?$,,easy,the lower and upper limits are same so integration will be 0,,100,0,1,$1 / 2$,-1,,,,,,,
+$\int_{-1}^{1}(x+1)^{2} d x=?$,,moderate,$\int_{-1}^{1}(x+1)^{2} d x=\left|\frac{(x+1)^{3}}{3}\right|_{-1}^{1}=\frac{1}{3}\left[(1+1)^{3}-(1-1)^{3}\right]=\frac{1}{3}(8-0)=\frac{8}{3}$,,100,8,3,$\frac{8}{3}$,$\frac{3}{8}$,,,,,3,,
+"$\int_{1}^{6} g(x) d x=-3, \int_{6}^{8} g(x) d x=10 \quad,$ then $\int_{8}^{1}-3 g(x) d x=?$",,moderate,"$\int_{8}^{1}-3 g(x) d x=3 \int_{1}^{8} g(x) d x$
+$\quad=3\left(\int_{1}^{6} g(x) d x+\int_{6}^{8} g(x) d x\right)=3(-3+10)=21$",,100,21,-21,7,-7,,,,,1,,
+"$\int_{8}^{1}-3 g(x) d x=3 \int_{1}^{8} g(x) d x$
+$\quad=3\left(\int_{1}^{6} g(x) d x+\int_{6}^{8} g(x) d x\right)=3(-3+10)=21$",,easy,$\int x(x+1) d x=\int x x d x=\frac{x}{3}+c$,,100,$\frac{\tan ^{3} x}{3}$,$\frac{\tan ^{4} x}{4}$,$\frac{\tan ^{5} x}{5}$,none,,,,,1,,
+Solution of $\frac{d y}{d x}=x^{4}+12$,,easy,Power Rule: $\quad \int d y=\int\left(x^{4}+12\right) d x \rightarrow y=\frac{x^{5}}{5}+12 x+c$,,100,$x^{4}+12+c$,$\frac{x^{5}}{5}+12 x+c$,$\frac{x^{5}+12 x+c}{5}$,$\frac{x^{2}+12 x}{4}+c$,,,,,2,,
+Which one is false,,easy,$\int e^{x}\left(f(x)+f^{\prime}(x)\right) d x=e^{x} f(x)$,,100,"(a) $\quad$ If $a$ is a constant, then $\int a f(x) d x=a \int f(x) d x$",$\int[f(x)+g(x)] d x=\int f(x) d x+\int g(x) d x$,$\int \frac{f^{\prime}(x)}{f(x)} d x=\ln |f(x)|$,$\int e^{x}\left(f(x)+f^{\prime}(x)\right) d x=e^{x} f^{\prime}(x)$,,,,,4,,
+The general solution of a differential equation of order 50 is that solution which contains _____ essential arbitrary constants.,,easy,order of differential equation defines the number of arbitrary constants or boundary conditions of the solution.,,100,49,50,51,$50^2$,,,,,2,,
+$\int \sec ^{2} n x d x=?$,,easy,Theoretical Formula for integration: $\int x d x=\tan \tan x$,,100,$\frac{n}{3} \sec 3 n x$,$n \tan (n x)$,$\tan (n x)$,$\frac{1}{n} \tan (n x)$,,,,,4,,
+\int \frac{x}{x^{2}+8} d x=?,,easy,\frac{1}{2} \int \frac{2 x}{x^{2}+8} d x=\frac{1}{2} \ln \ln \left(x^{2}+8\right)=\ln \ln \left(x^{2}+8\right)^{1 / 2}=\ln \ln \sqrt{x^{2}+8},,100,$\ln \left(x^{2}+8\right)$,$-\ln \left(x^{2}+8\right)$,$\ln (\sqrt{x^{2}+8})$,$2 \ln (\sqrt{x^{2}+8})$,,,,,3,,
+$\int 4^{3 x} d x=?$,,easy,Theoretical formula: $\int a^{b x} d x=\frac{a^{b x}}{b \ln a}$,,100,$3.4^{3 x}$,$\frac{1}{3} 4^{3 x}$,$\frac{4^{3 x}}{\ln 3}$,$\frac{4^{3 x}}{3 \ln 4}$,,,,,4,,
+"For $f(x) \geq 0$ in the interval $a \leq x \leq b,$ the definite integral $\int_{a}^{b} f(x) d x$ region enclosed by the graph $y=f(x),$ the $x$ -axis and the two lines $x=a$ and $x=b$",,easy,"Definition of Area Integral,	Integration of curve generates an area.",,100,Area,Volume,Graph,Integral,,,,,1,,
+If $\Phi_{1}(x)$ and $\Phi_{2}(x)$ are any two anti-derivatives of the function $f(x)$ then $\Phi_{1}(x)-\Phi_{2}(x)=?$,,easy,"For two anti-derivatives of any function, the variables will be same, only constants will be different. So difference of 2 constants generate a third constant.",,100,Constant,e,lne,0,,,,,1,,
+$\int \frac{1}{x^{2}} d x=?$,,easy,Power rule: $\quad \int x^{-2} d x=-1 x^{-2+1}=-\frac{1}{x}$,,100,$\ln |x|$,$\ln \left|x^{2}\right|$,$-\frac{1}{x}$,$-\frac{2}{x^{3}}$,,,,,3,,
+$\frac{d}{d x} \int g(x) d x=?$,,easy,the derivative and integration of function will result in function itself.,,100,g(x),$\frac{1}{g(x)}$,g'(x),g''(x),,,,,1,,
+$\int \frac{x+4}{x+3} d x=?$,,easy,$\int \frac{x+3+1}{x+3} d x=\int\left(1+\frac{1}{x+3}\right) d x=x+\ln \ln |x+3|$,,100,$\ln |x+3|$,$4 x+\ln |x+3|$,$x+\ln |x+3|$,$x^{2}+\ln |x+3|$,,,,,3,,
+$\int \frac{e^{\frac{1}{x^{3}}}}{x^{4}} d x=?$,,easy,$\frac{1}{3} \int e^{-\frac{1}{x^{3}}}\left(\frac{3}{x^{4}}\right) d x=\frac{1}{3} e^{-\frac{1}{x^{3}}}$,,100,$-e^{\frac{1}{x^{3}}}$,$\frac{1}{3} e^{-\frac{1}{x^{3}}}$,$e^{-\frac{1}{x^{3}}}$,$\frac{1}{12} e^{-\frac{1}{x^{3}}}$,,,,,2,,
+$\int \frac{e^{\tan ^{-1} x}}{1+x^{2}} d x=?$,,easy,$\int e^{x}\left(\frac{1}{1+X^{2}}\right) d x=e^{x}$,,100,$e^{\tan ^{-1} x}$,$\frac{1}{e^{\tan ^{-1} x}}$,$\ln | 1+x^{2}$,$\ln \left|e^{\tan ^{-1} x}\right|$,,,,,1,,
+$\int \frac{\sin 2 x}{a^{2}+b^{2} \sin ^{2} x} d x=?$,,moderate,$\int \frac{2 \sin \sin x \cos \cos x}{a^{2}+b^{2} x} * \frac{b^{2}}{b^{2}} d x=\frac{1}{b^{2}} \ln \ln \left(a^{2}+b^{2} x\right)$,,100,$\ln \left(a^{2}+b^{2} \cdot \sin ^{2} x\right)$,$\frac{1}{b^{2}} \ln \left(a^{2}+b^{2} \sin ^{2} x\right)$,$\frac{1}{a^{2}} \ln \left(a^{2}+b^{2} \sin ^{2} x\right)$,$\frac{1}{a^{2}} \ln \left(a^{2}+b^{2} \sin ^{2} x\right)$,,,,,2,,
+$\int x \cos x d x=?$,,moderate,"$\int x \cos \cos x d x=x \int \cos \cos x d x-\int\left(\int \cos \cos x \frac{d}{d x}(x)\right) d x=x \sin \sin x-\int \sin \sin x d x$
+$=x \sin \sin x+\cos \cos x$",,100,xsinx,xsinx-cosx,xsinx+cosx,-xsinx+cosx,,,,,3,,
+$\int e^{x}\left(\operatorname{cosec}^{-1} x-\frac{1}{x \sqrt{x^{2}-1}}\right) d x=?$,,easy,$\int e^{x}\left(f(x)+f^{\prime}(x)\right) d x=e^{x} f(x)$,,100,$e^{x} \cos e c^{-1} x$,$\cos e c^{-1} x$,$\frac{\cos e c^{-1} x}{e^{x}}$,$-\frac{\cos e c^{-1} x}{e^{x}}$,,,,,1,,
+Which one is false?,,easy,both sides are equal without negative sign: $\int_{a}^{b} f(x) d x=\int_{a}^{b} f(x) d x$,,100,$\int_{a}^{a} f(x) d x=0$,$\int_{a}^{b} f(x) d x=-\int_{a}^{b} f(x) d x$,$\int_{a}^{b}(f(x) \pm g(x)) d x=\int_{a}^{b} f(x) d x \pm \int_{a}^{b} g(x) d x$,$\int_{a}^{b} f(x) d x+\int_{b}^{c} f(x) d x=\int_{a}^{c} f(x) d x$,,,,,2,,
+$\int_{0}^{\frac{\pi}{3}} \frac{d x}{1-\sin x}=?$,,moderate,"$\frac{\pi}{3} \frac{1+\sin \sin x}{1-x} d x=\int_{0}^{\frac{\pi}{3}} \frac{1+\sin \sin x}{x} d x=\int_{0}^{\pi / 3} \frac{1}{x} |+\frac{\sin \sin x}{\cos \cos x}\left(\frac{1}{\cos \cos x}\right) d x$
+$\int_{0}^{\frac{\pi}{3}}(x+\tan \tan x \sec \sec x) d x=|\tan \tan x+\sec \sec x|_{0}^{\frac{\pi}{3}}$
+$\left(\tan \tan \frac{\pi}{3}+\sec \sec \frac{\pi}{3}\right)-(\tan \tan 0+\sec \sec 0)=(\sqrt{3}+2)-1=\sqrt{3}+1$",,100,$\sqrt{3}$,$\sqrt{3}-1$,$\sqrt{3}+1$,1,,,,,3,,
+$\int \sin ^{-1}(\cos x) d x=?$,,moderate,"$\int(\cos \cos x) \cdot 1 d x=(\cos \cos x) \int d x-\int\left(\int d x\right) \frac{d}{d x}(\cos \cos x) d x$
+$x(\cos \cos x)-\int x \frac{1}{\sqrt{1-x}}(-\sin \sin x) d x=\frac{\sqrt{\pi}}{2}+\int \frac{x \sin \sin x}{\sqrt{x}} d x$
+$\frac{x \pi}{2}+\int x d x=\frac{\pi x}{2}+\frac{x^{2}}{2}=\frac{\pi x+x^{2}}{2}$",,100,$\frac{\pi x}{2}-\frac{x^{2}}{2}$,$\frac{\left(\pi x+x^{2}\right)}{2}$,$\frac{\pi x}{2}$,$\frac{x^{2}}{2}$,,,,,2,,
+$\int e^{x}\left[\frac{1+\sin x}{1+\cos x}\right] d x=?$,,easy,$\int e^{x}\left(\frac{1+2 \sin \sin \frac{x}{2} \cos \cos \frac{x}{2}}{2 \frac{x}{2}}\right) d x=\int e^{x}\left(\frac{1}{2} \frac{x}{2}+\tan \tan \frac{x}{2}\right)=e^{x} \tan \tan \frac{x}{2}$,,100,$\ln (\tan x)$,$e^{x} \tan \left(\frac{x}{2}\right)$,$\sin (\ln x)$,$e^{x} \cot x$,,,,,2,,
+$\int \tan ^{-1}(\sqrt{\frac{1-\cos 2 x}{1+\cos 2 x}}) d x=?$,,easy,$\int\left(\frac{\sin \sin x}{\cos \cos x}\right) d x=\int \tan \tan x \quad d x=\int x d x=\frac{x^{2}}{2}+c$ Using half angle formula,,100,$2 x^{2}+c$,$x^{2}+c$,$\frac{x^{2}}{2}+c$,$2 x+c$,,,,,3,,
+$\int \frac{\sqrt{x}}{\sqrt{a^{3}-x^{3}}} d x=?$,,moderate,"Reverse Solve:
+(a) $\frac{d}{d x}\left(\frac{2}{3}\left(\frac{x}{a}\right)^{\frac{2}{2}}\right)=\frac{2}{3}\left[\frac{3}{2}\left(\frac{x}{a}\right)^{\frac{2}{2}-1}\right]=\left(\frac{x}{a}\right)^{\frac{1}{2}} \quad$ Not Satisfy
+(b) $\frac{d}{d x} \frac{2}{3}\left(\frac{x}{a}\right)^{\frac{2}{2}}=\frac{2}{3} * \frac{1}{\sqrt{\frac{a^{3}-x^{3}}{a^{3}}}} * \frac{3}{2} \frac{x^{\frac{1}{2}}}{a^{\frac{3}{2}}}=\frac{a^{\frac{3}{2}} \sqrt{x}}{\sqrt{a^{3}-x^{3}} * a^{\frac{3}{2}}}=\frac{\sqrt{x}}{\sqrt{a^{3}-x^{3}}}$",,100,$\frac{2}{3}\left(\frac{x}{a}\right)^{\frac{3}{2}}$,$\frac{2}{3} \sin ^{-1}\left(\frac{x}{a}\right)^{\frac{3}{2}}$,$\frac{2}{3} \cos ^{-1}\left(\frac{x}{a}\right)^{\frac{3}{2}}$,NOne,,,,,2,,
+\int \frac{\sin x+\cos x}{\sqrt{\sin 2 x}} d x=?,,difficult,"Reverse Solve:
+(a) $\frac{d}{d x}(\sin \sin x+\cos \cos x)=\frac{(\cos \cos x-\sin \sin x)}{\sqrt{1-(\sin \sin x+\cos \cos x)^{2}}}$
+Numerator does not match
+(b) $\frac{d}{d x}(\sin \sin x-\cos \cos x)=\frac{(\cos \cos x+\sin \sin x)}{\sqrt{1-(\sin \sin x-\cos \cos x)^{2}}}$
+\[
+=\frac{(\cos \cos x+\sin \sin x)}{\sqrt{1-(x+x-2 \sin \sin x \cos \cos x)}}=\frac{(\cos \cos x+\sin \sin x)}{\sqrt{1-1+\sin \sin 2 x}}=\frac{(\cos \cos x+\sin \sin x)}{\sqrt{\sin \sin 2 x}}
+\]",,100,$\sin ^{-1}(\sin x+\cos x)$,$\sin ^{-1}(\sin x-\cos x)$,$\sin ^{-1}(\cos x-\sin x)$,$(\sin \sin x-\cos \cos x)$,,,,,2,,
+$\int \frac{d x}{x \sin ^{2}(\ln x)}=?$,,easy,$\int \frac{(\ln \ln x)}{x} d x=-\cot \cot (\ln \ln x)$,,100,$\cot (\ln x)$,$\tan (\ln x)$,$-\cot (\ln x)$,$-\tan (\ln x)$,,,,,3,,
+$\int \frac{\cot (\ln x)}{x} d x=?$,,easy,Basic formula: $\int \cot \cot x d x=\ln \ln \sin \sin x$,,100,$\ln (\cos (\ln x))$,$\sin (\ln x)$,$\ln \sin (\ln x)$,none,,,,,3,,
+$\int e^{a x} \cos (b x) d x=?$,,moderate,"There is no way square root can come in denominator. Rest is just formula",,100,$\frac{e^{a x}(a \cos b x+b \sin b x)}{a^{2}+b^{2}}$,$\frac{e^{a x}(a \cos b x+b \sin b x)}{\sqrt{a^{2}+b^{2}}}$,$\frac{e^{a x}(a \cos b x+b \sin b x)}{\sqrt{a^{2}-b^{2}}}$,none,,,,,1,,
+$\int \frac{x}{\sqrt{4-x^{4}}} d x=?$,,moderate,$\int \frac{x / 2}{\sqrt{\frac{4-x^{4}}{4}}} d x=\frac{1}{2} \int \frac{2 x / 2}{\sqrt{1-\left(\frac{x^{2}}{2}\right)^{2}}}=\frac{1}{2}\left(\frac{x^{2}}{2}\right)$,,100,$-\cos ^{-1}\left(\frac{x^{2}}{2}\right)$,$\frac{1}{2} \cos ^{-1}\left(\frac{x^{2}}{2}\right)$,$\cos ^{-1}\left(\frac{x^{2}}{2}\right)$,$\frac{1}{2} \sin ^{-1}\left(\frac{x^{2}}{2}\right)$,,,,,4,,
+"The area bounded by the curve y = lnx, x-axis and line x = e is",,moderate,"at $x=e, \quad \ln \ln x=1$
+$\int_{1}^{e} \ln \ln x \cdot 1 d x=\ln x \int_{1}^{e} 1 d x-\int_{1}^{e}\left(\int 1 d x\right) \frac{d}{d x} \ln \ln x d x=|x \ln \ln x-x|_{1}^{e}$
+$\quad=(e \ln \ln e-e)-(\ln \ln 1-1)=(e-e)-(0-1)=1$",,100,e,1,$\infty$,none,,,,,2,,
+The degree of the differential equation $\left(\frac{d y}{d x}\right)^{2}+\left(\frac{d^{2} y}{d x^{2}}\right)+y \frac{d^{2} y}{d x^{2}}=0$,,easy,The degree of diff eq. is index of highest derivative. The index of second order derivative is 1.,,100,1,2,0,none,,,,,1,,
+Solution of the differential equation $\frac{d y}{d x}=\frac{\sin x}{\sin y}$ is,,easy,$\int \sin \sin y d y=\int \sin \sin x d x \rightarrow-\cos \cos y+c=-\cos \cos x \rightarrow \cos \cos y-\cos \cos x=c$,,100,$\cos x=\cos y$,$\sin x=\sin y$,$\sin x+\sin y=c$,$\cos y-\cos x=c$,,,,,4,,
+$\int_{-\pi}^{\pi}\left(\sin ^{75} x+x^{125}\right) d x=?$,,easy,"The integration of odd function generates an even function, so, the resulting function will be even. The even function always results in 0 for two equal and opposite limits.",,100,-75,125,0,-125,,,,,3,,
+"The slope of tangent to the curve $y=x^{2}-2 x$ at $P(1,1)$ is",,easy,$\frac{d}{d x} y=2 x-2=0: \quad$ slope $: \frac{d y}{d x}=2 x-2=2(1)-2=0$,,100,2,0,-2,none,,,,,2,,
+The area bounded by the $x$ -axis and the curve $y=4 x-x^{2}$ is,,moderate,"$\begin{aligned} 4 x-x^{2}=0 \rightarrow x=0,4 & \int_{0}^{4}\left(4 x-x^{2}\right) d x=\left|2 x^{2}-\frac{x^{3}}{3}\right|_{0}^{4}=\left(2(4)^{2}-\frac{4^{3}}{3}\right)-0 \\ 32-\frac{64}{3}=\frac{32}{3} \end{aligned}$",,100,$\frac{32}{3}$,32,$\frac{64}{3}$,64,,,,,1,,
+$\int e^{e^{x}} \cdot e^{e^{x}} \cdot e^{x} d x=?$ is,,easy,The first function will be the result of integration rest are derivative of each other.,,100,$\frac{1}{2} e^{2 e^{e^{x}}}+C$,$e^{2 e^{e^{x}}}+C$,$e^{e^{e^{x}}}+C$,$\frac{1}{2} e^{e^{e^{x}}}+C$,,,,,3,,
+$\int_{-3}^{3}\left(\sin ^{93} x+x^{295}\right) d x=?$,,easy,"The integration of odd function generates an even function, so, the resulting function will be even. The even function always results in 0 for two equal and opposite limits.",,100,0,any real number,$2\left(8^{290}-1\right)$,$2\left(3^{295}-1\right)$,,,,,1,,
+$F(x)=\int_{0}^{x} x^{2} d x$,,moderate,$F(x)=\left|\frac{x^{3}}{3}\right|_{0}^{x}=\frac{x^{3}}{3} \quad F(3)=\frac{3^{3}}{3}=\frac{27}{3}=9$,,100,9,27,3,81,,,,,1,,
+$\ln \int_{0}^{1} \sin ^{-1} x d x$,,moderate,"at $x=0, t=0$ and $x=1, t=\frac{\pi}{2} \quad \sin \sin t=t, \quad d x=\cos \cos t d t$
+Putting the values:
+$\int t \cos \cos t d t$",,100,$\int_{0}^{\frac{\pi}{2}} t \cos t d t$,$\int_{0}^{\frac{\pi}{2}} t d t$,$-\int_{0}^{\frac{\pi}{2}} t \cos t d t$,$-\int_{0}^{\frac{\pi}{2}} t d t$,,,,,1,,
+$\int_{0}^{2}|x-1| d x=?$,,moderate,"$-\int_{0}^{1}(x-1) d x+\int_{1}^{2}(x-1) d x=-\left|\frac{(x-1)^{2}}{2}\right|_{0}^{1}+\left|\frac{(x-1)^{2}}{2}\right|_{1}^{2}$
+$=\frac{1}{2}(-(1-1)+(0-1)+(1-1)+(2-1))=\frac{2}{2}=1$",,100,-1,2,3,1,,,,,4,,
+$\frac{d}{d t} \int_{0}^{t} \cos e c \theta d \theta=?$,,easy,"The integral will change variable $\theta \rightarrow t$. while same function will be differentiated
+w.r.t ""t"". Overall variable change occurs in process.",,100,$\cos e c \theta+C$,$\cos e c t+C$,0,$\operatorname{cosect}$,,,,,4,,
+Area between the $x$ -axis and the curve $y=\sqrt{16 x-x^{2}}$ is,,moderate,"the integral of form $y=\int_{0}^{2 a} \sqrt{2 a-x^{2}}=a^{2} \frac{\pi}{2} \quad$ here $a=8$
+So, $\frac{\pi}{2}(8)^{2}=64 \frac{\pi}{2}=32 \pi$",,100,$8 \pi$,$16 \pi$,$32 \pi$,$64 \pi$,,,,,3,,
+Area of ellipse $x^{2}+4 y^{2}=16$ is;,,moderate,"Rearranging the equation: $4 y^{2}=16-x^{2} \rightarrow y=\frac{1}{2} \sqrt{16-x^{2}}$
+The integral of form $y=\frac{1}{2} \int_{0}^{a} \sqrt{2 a-x^{2}}=\frac{a}{2}^{2} \frac{\pi}{2}$ here $a=8$
+\[
+A=\left(\frac{8}{2}\right)^{2} \frac{\pi}{2}=\frac{16 \pi}{2}=8 \pi
+\]",,100,$8 \pi$,$16 \pi$,$32 \pi$,$64 \pi$,,,,,1,,
+Order and degree of the differential equation $\left(1+\left(\frac{d y}{d x}\right)^{2}\right)^{\frac{3}{2}}=\frac{d^{2} y}{d x^{2}}$ is respectively,,easy,"since the power on L.H.S is in fraction it will be simplified. So RHS will have index 2. OR taking square on both sides:
+\[
+\left(1+\left(\frac{d y}{d x}\right)^{2}\right)^{3}=\left(\frac{d^{2} y}{d x^{2}}\right)^{2}
+\]",,100,"2,2","2,3","3,2","1,3",,,,,1,,
+$\int_{1}^{e} \frac{1+\ell n x}{2 x} d x=?$,,moderate,$\frac{1}{2} \int_{1}^{e}\left(\frac{1}{x}+\frac{\ln \ln x}{x}\right) d x=\frac{1}{2}\left|\ln \ln x+\frac{(\ln \ln x)^{2}}{2}\right|_{1}^{e}=\frac{1}{2}\left(\ln \ln e+\frac{(\ln \ln e)^{2}}{2}\right)-0=\frac{1}{2}\left(1+\frac{1}{2}\right)=\frac{3}{4}$,,100,$\frac{1}{4}$,e,$\frac{3}{4}$,$\frac{1}{e}$,,,,,3,,
+$\int_{1}^{\sqrt{3}} \frac{d x}{1+x^{2}}=?$,,moderate,$\int_{1}^{\sqrt{3}}\left(\frac{1}{1+x^{2}}\right) d x=|x|_{1}^{\sqrt{3}}=\sqrt{3}-1=\frac{\pi}{3}-\frac{\pi}{4}=\frac{\pi}{12}$,,100,$\frac{\pi}{2}$,$\frac{\pi}{4}$,$\frac{\pi}{6}$,$\frac{\pi}{12}$,,,,,4,,
+$\int \frac{e^{x}(1+x)}{\cos ^{2}\left(x e^{x}\right)} d x=?$,,moderate,$\int \frac{e^{x}(1+x)}{\left(x e^{x}\right)}=\int\left(x e^{x}\right) * e^{x}(1+x)=\tan \tan \left(x e^{x}\right)$,,100,$\tan \left(x e^{x}\right)$,$\sqrt{\tan \left(x e^{x}\right)}+c$,$\tan ^{-1}\left(x e^{x}\right)+c$,None,,,,,1,,
+$\int x^{2} e^{x^{3}} \cos \left(e^{x^{3}}\right) d x=?$,,easy,$\frac{1}{3} \int \cos \cos \left(e^{x^{3}}\right) * e^{x^{3}} * 3 x^{2} d x=\frac{1}{3} \sin \sin \left(e^{x^{3}}\right)$,,100,$\sin \left(e^{x^{3}}\right)+c$,$3 \sin \left(e^{x^{2}}\right)+c$,$\frac{1}{3} \sin \left(e^{x^{3}}\right)+c$,$e^{x} \sin \left(e^{x^{3}}\right)+c$,,,,,3,,
+$\int 3 e^{3 x^{2}} \cdot x d x=K \cdot e^{3 x^{2}}$ then $K=?$,,easy,$\frac{1}{2} \int e^{3 x^{2}} \cdot 3 \cdot(2 x) d x=\frac{1}{2} e^{3 x^{2}} \quad K=\frac{1}{2}$,,100,$\frac{1}{6}$,1,$\frac{1}{2}$,-3,,,,,3,,
+$\int_{\frac{-\pi}{2}}^{\frac{\pi}{2}} \cos x d x=?$,,easy,"$\cos \cos x$ is an even function so,
+$(x) d x=2|\sin \sin x|_{0}^{\frac{\pi}{2}}=2\left(\sin \sin \frac{\pi}{2}\right)-0=2$
+$2 \int_{0}^{2} \cos \cos$",,100,0,1,-1,2,,,,,4,,
+$\int_{0}^{2 \pi} \sqrt{1+\sin \frac{x}{2}} d x=?$,,moderate,"$\sqrt{1+\sin \sin \frac{x}{2}}=\sqrt{\frac{x}{4}+\frac{x}{4}+2 \sin \sin \frac{x}{4} \cos \cos \frac{x}{4}}=\sqrt{\left(\sin \sin \frac{x}{4}+\cos \cos \frac{x}{4}\right)^{2}}=\sin \sin \frac{x}{4}+\cos \cos \frac{x}{4}$
+$\int_{0}^{2 \pi}\left(\sin \sin \frac{x}{4}+\cos \cos \frac{x}{4}\right) d x=4\left|\sin \sin \frac{x}{4}-\cos \cos \frac{x}{4}\right|_{0}^{2 \pi}=4\left[\left(\sin \sin \frac{\pi}{2}-\cos \cos \frac{\pi}{2}\right)-(\sin \sin 0-\cos \cos 0)\right]$
+$4[(1-0)-(0-1)]=4(2)=8$",,100,0,2,8,4,,,,,3,,
+$\int_{a}^{b} \frac{|x|}{x} d x=$,,easy,Property of integral of absolute numbers,,100,$b-a$,$a-b$,$b+a$,$|b|-|a|$,,,,,4,,
+$\int_{-3}^{3}|x| d x=?$,,moderate,"$\int_{-3}^{3}|x| d x=-\int_{-3}^{0} x d x+\int_{0}^{3} x d x=\int_{0}^{-3} x d x+\int_{0}^{3} x d x=\left|\frac{x^{2}}{2}\right|_{0}^{-3}+\left|\frac{x^{2}}{2}\right|_{0}^{3}$
+$=\frac{(-3)^{2}+3^{2}}{2}=9$",,100,3,9,18,0,,,,,2,,
+"If the graph of integral of $y=3 \cos x-2 \sin x$ passes through $\left(\frac{\pi}{2}, 1\right)$ then $\int y d x=?$",,moderate,"$\int y d x=\int(3 \cos \cos x-2 \sin \sin x) d x=3 \sin \sin x+2 \cos \cos x+c$
+$1=3 \sin \sin \frac{\pi}{2}+2 \cos \cos \frac{\pi}{2}+c \rightarrow c=1-3=-2$
+$3 \sin \sin x+2 \cos \cos x-2$",,100,$3 \sin x+2 \cos x+c$,$3 \sin x+2 \cos x+1$,$3 \sin x+2 \cos x-2$,$3 \sin x+2 \cos x$,,,,,3,,
+$\int \frac{\cos x d x}{\sin ^{2} x}=?$,,easy,$\int \csc \csc x \cot \cot x d x=\csc \csc x+c \quad$ Basic integration formula.,,100,$\operatorname{cosec} x+c$,$c-\operatorname{cosec} x$,$c+\sin x$,$\operatorname{cosec}^{2} x+c$,,,,,1,,
+$\int\left(5-2^{x}\right) d x=?$,,easy,Basic Integration Formula,,100,$5 x-2^{x} \ln a+c$,$5 x-\frac{2^{x}}{\ln 2}+c$,$5 x-\frac{2^{x}}{\ln \alpha}+c$,$5 x+2^{x}+c$,,,,,2,,
+$\int \frac{1}{(t-2)^{2}+25} d t=?$,,easy,$\int \frac{1}{(t-a)^{2}+b^{2}} d t=\frac{1}{b}\left(\frac{t-a}{b}\right) \quad$ Basic integration formula,,100,$\tan ^{-1}\left(\frac{t-2}{5}\right)+c$,$\tan ^{-1}(t-2)+c$,$\frac{1}{5} \tan ^{-1}\left(\frac{t-2}{5}\right)+c$,$5 \tan ^{-1}\left(\frac{t-2}{5}\right)+c$,,,,,3,,
+"$\int e^{x}\left(f(x)+f^{\prime}(x)\right) d x=e^{x} \sin x,$ then $f(x)=?$",,easy,$\int e^{x}\left(f(x)+f^{\prime}(x)\right) d x=e^{x} f(x)$,,100,$\sin x$,$\cos x$,$-\sin x$,$-\cos x$,,,,,1,,
+$\int_{-\pi}^{\pi} \frac{x \cos x}{1+\sin ^{2} x} d x=?$,,easy,"The integration of odd function generates an even function, so, the resulting function will be even. The even function always results in 0 for two equal and opposite limits.",,100,0,1,2,-2,,,,,1,,
+"Centroid of a triangle with vertices A(2,3) B(-1,6) and C(7,5) is",,easy,"$\left(\frac{2-1+7}{3}, \frac{3+6+5}{3}\right)=\left(\frac{8}{3}, \frac{14}{3}\right)$",,101,"$\left(\frac{1}{3}, \frac{2}{7}\right)$","$\left(\frac{2}{5}, \frac{7}{3}\right)$","$\left(\frac{8}{3}, \frac{14}{3}\right)$","$\left(\frac{7}{3}, \frac{11}{3}\right)$",,,,,3,,
+"The points (7,9), (3, -7) and (-3, 3) are the vertices of",,moderate,"$A B=\sqrt{(7-3)^{2}+(9+7)^{2}}=\sqrt{4^{2}+16^{2}}=\sqrt{16+256}=\sqrt{272}$
+$B C=\sqrt{(3+3)^{2}+(-7-3)^{2}}=\sqrt{6^{2}+10^{2}}=\sqrt{36+100}=\sqrt{136}$
+$A C=\sqrt{(7+3)^{2}+(9-3)^{2}}=\sqrt{10^{2}+6^{2}}=\sqrt{100+36}=\sqrt{136}$
+$A B^{2}=A C^{2}+B C^{2}=136+136=272$",,101,A right angled $\Delta$,an isosceles $\Delta$,an equilateral $\Delta$,a right angled isosceles $\Delta$,,,,,4,,
+"The points (4, -2), (-2,4) and (5,5) are the vertices of a triangle. Then the coordinates of the in centre of the triangle are?",,difficult,"$c=A B=\sqrt{(4+2)^{2}+(-4-2)^{2}}=\sqrt{6^{2}+6^{2}}=\sqrt{36+36}=\sqrt{72}=6 \sqrt{2}$
+$a=B C=\sqrt{(5+2)^{2}+(5-4)^{2}}=\sqrt{7^{2}+1^{2}}=\sqrt{49+1}=\sqrt{50}=5 \sqrt{2}$
+$b=A C=\sqrt{(5-4)^{2}+(-2-5)^{2}}=\sqrt{1^{2}+7^{2}}=\sqrt{1+49}=\sqrt{50}=5 \sqrt{2}$
+$\left(\frac{6 \sqrt{2}(5)+5 \sqrt{2}(-2)+5 \sqrt{2}(4)}{6 \sqrt{2}+5 \sqrt{2}+5 \sqrt{2}}, \frac{6 \sqrt{2}(5)+5 \sqrt{2}(-2)+5 \sqrt{2}(4)}{6 \sqrt{2}+5 \sqrt{2}+5 \sqrt{2}}\right)=\left(\frac{40}{16}, \frac{40}{16}\right)=\left(\frac{5}{2}, \frac{5}{2}\right)$",,101,"$\left(\frac{7}{2}, \frac{2}{7}\right)$","$\left(\frac{3}{2}, \frac{3}{2}\right)$","$\left(\frac{5}{2}, \frac{5}{2}\right)$","(3,-3)",,,,,3,,
+"If the gradient of line passing through $A(3,2)$ is $\frac{3}{4},$ the points on the line at a distance 5 units from A are;",,moderate,"the gradient is $\tan \tan \theta=\frac{3}{4} \quad$ so,
+\[
+\begin{aligned}
+\sin \sin \theta=\frac{3}{5}, \cos \cos \theta=\frac{4}{5} & \text { with } r=5 \\
+\frac{x-x_{1}}{\cos \cos \theta}=\frac{y-y_{1}}{\sin \sin \theta}=\pm r & \rightarrow \quad \frac{x-3}{4 / 5}=\frac{y-2}{3 / 5}=\pm 5 \\
+x-3 &=\pm 4, \quad x=7,-1 \\
+y-2=\pm 3, & y=5,-1
+\end{aligned}
+\]
+The points are (7,5),(-1,-1)",,101,"(-7, 5), (-1, -1)","(7, 5), (-1, -1)","(1, 1), (5, -5)","(-7, -5),(1, 1)",,,,,2,,
+Slope of a line parallel to y-axis is;,,easy,Theoretical Point,,101,0,Undefined,1,-1,,,,,2,,
+"The equation of line through (-3,5) and perpendicular to line $x+2 y+3=0$ is",,moderate,"slope of given line: $y=-\frac{1}{2} x-\frac{3}{2}$ is $-\frac{1}{2}$ The required slope is $m_{1} *-\frac{1}{2}=-1 \rightarrow m_{1}=2$
+The required line is $y-5=2(x+3) \rightarrow y-2 x-11=0=2 x-y+11$",,101,$ y+2x+7=0$,$2x-y+11=0$,$3x+7y+20=0$,$4y+13x=19$,,,,,2,,
+Which pair of lines are perpendicular to each other?,,moderate,"Check for slopes of each option
+(a) $m_{1}=-\frac{2}{2}=-1, \quad m_{2}=-\frac{3}{3}=-1 \quad m_{1}=m_{2} \quad$ parallel
+(b) $m_{1}=-\frac{4}{3}=-\frac{4}{3}, \quad m_{2}=-\frac{2}{7}=-\frac{2}{7} \quad m_{1} * m_{2}=-\frac{4}{3} *-\frac{2}{7} \neq-1$
+Not
+(c) $m_{1}=-\frac{7}{-3}=\frac{7}{3}, \quad m_{2}=-\frac{5}{2} \quad m_{1} * m_{2}=\frac{7}{4} *-\frac{5}{2} \neq-1$
+(d) $m_{1}=-\frac{1}{-2}=\frac{1}{2}, \quad m_{2}=-\frac{\overline{2}}{1}=-2 \quad m_{1} * m_{2}=\frac{1}{2} *-2=-1$",,101,"$2x+2y=1, 3x+3y=1$"," $4x+3y-7=0, 2x+7y+4=0 $","$7x-3y=17, 5x+2y=9$","$x-2y-6=0, 2x+y-5=0$",,,,,4,,
+Point of intersection of pair of lines $7 x+2 y=6$ and $3 x+y=0$ is;,,moderate,"reverse solve
+(a) $7(6)+2(-18)=6 ; \quad 3(6)-18=0$",,101,"(6, -18)","(17, 9)","(–6, -1)","$\left(3,-\frac{1}{2}\right)$",,,,,1,,
+Which point is above the line $\frac{4}{3} x+y=1$,,moderate,"Reverse Solve:
+(a) $\frac{4}{3}(-3)+(-1)=-4-1=-5<1$ Below line
+(b) $\frac{4}{3}(-3)+1=-4+1=-3<1$
+(c) $\frac{4}{3}(3)+1=4+1=5>1$
+Above line",,101,"(-3,-1)","(-3,1)","(3,1)","(-4,-1)",,,,,3,,
+"The area of the triangle formed by the lines $7 x-y-10=0,10 x+y-41=0$ and $3 x+2 y+3=0$ is;",,difficult,"the formula for intersection point:
+\[
+\left(\frac{b_{1} c_{2}-b_{2} c_{1}}{a_{1} b_{2}-a_{2} b_{1}}, \frac{a_{2} c_{1}-a_{1} c_{2}}{a_{1} b_{2}-a_{2} b_{1}}\right)
+\]
+For
+\[
+l_{1} \& l_{2} ; \quad\left(\frac{-1(-41)-(1)(-10)}{7(1)-10(-1)}, \frac{10(-10)-7(-41)}{7(1)-10(-1)}\right)=\left(\frac{41+10}{17}, \frac{287-100}{17}\right)=\left(\frac{51}{17} \cdot \frac{187}{17}\right)=(3,11)
+\]
+For
+\[
+l_{2} \& l_{3} ; \quad\left(\frac{1(3)-2(-41)}{10(2)-1(3)}, \frac{3(-41)-10(3)}{10(2)-1(3)}\right)=\left(\frac{3+82}{17}, \frac{-123-30}{17}\right)=\left(\frac{85}{17}, \frac{-153}{17}\right)=(5,-9)
+\]
+For
+\[
+\begin{array}{c}
+l_{3} \& l_{1} ; \quad\left(\frac{2(-10)-(-1)(3)}{7(2)-(-1) 3}, \frac{7(3)-3(-10)}{7(2)-(-1) 3}\right)=\left(\frac{-20+3}{17}, \frac{21+30}{17}\right)=\left(-\frac{17}{17}, \frac{51}{17}\right)=(-1,3) \\
+\Delta=\frac{1}{2}\left|x_{1} y_{1}\right| x_{2} y_{2}\left|x_{3} y_{3}\right|=\frac{1}{2}|3| 1|5-911-31| \quad R_{2}-R_{1}, R_{3}-R_{1} \\
+\Delta=\frac{1}{2}|31112-200-2-140|=\frac{1}{2}[1(-34-40)]=\frac{1}{2} 68=34
+\end{array}
+\]",,101,68 square units,34 square units,17 square units,7.5 square units,,,,,2,,
+"Distance of the point (-7,13) from the line $2 x+y+13=0$ is",,moderate,$d=\frac{\left|a x_{1}+b y_{1}+c\right|}{\sqrt{a^{2}+b^{2}}}=\frac{|2(-7)+1(13)+13|}{\sqrt{2^{2}+1}}=\frac{12}{\sqrt{5}}$,,101,$\frac{6}{\sqrt{109}}$,56,67,$\frac{12}{\sqrt{5}}$,,,,,4,,
+Which is the intercept form of the equation $p x+q y+r=0$ ?,,easy,intercept form of equation $a x+b y+c=0$ is $\frac{x}{-c / a}+\frac{y}{-c / b}=1$,,101,$y=m x+r$,$\frac{x}{p}+\frac{y}{q}=1$,$x \cos \alpha+y \sin \alpha=1$,none,,,,,4,,
+The slope formula is given by;,,easy,Theoretical Point,,101,$m=\frac{y_{2}+y_{1}}{x_{2}-x_{1}}$,$m=\frac{x_{2}-x_{1}}{y_{2}+y_{1}}$,$m=\frac{y_{2}-y_{1}}{x_{2}-x_{1}}$,$m=\frac{y_{2}+y_{1}}{x_{2}+x_{1}}$,,,,,3,,
+The inclination of any line parallel to y-axis is,,easy,"the line parallel to $y-$ axis will have $m=\infty=\tan \tan \alpha$
+\[
+\alpha=(\infty)=\frac{\pi}{2}
+\]",,101,$\frac{\pi}{2}$,0,$\frac{\pi}{4}$,$\frac{3 \pi}{2}$,,,,,1,,
+Two lines are parallel if and only if they have same;,,easy,"Key point of parallel lines:
+\[
+m_{1}=m_{2}
+\]",,101,Distance,Quadrants,Slope,Vertices,,,,,3,,
+The inclination of the x-axis is;,,easy,"the line parallel to $x-$ axis will have $m=0=\tan \tan \alpha$
+\[
+\alpha=(0)=0
+\]",,101,$180^{\circ}$,0,$90^{\circ}$,$150^{\circ}$,,,,,2,,
+Any equation of first degree in x and y represents a;,,easy,first degree equation are linear equations.,,101,Triangle,Rectangle,Line,Quadratic equation,,,,,3,,
+"Find ‘b’ if the line through (3,4) and (-1, b) is parallel to the line through (2,3) and (-5,1).",,moderate," for parallel lines, slopes are equal so, $\frac{b-4}{-1-3}=\frac{1-3}{-5-2} \rightarrow b=\frac{-2 *-4}{-7}+4=\frac{20}{7}$",,101,20,17,$\frac{20}{7}$,$\frac{-11}{15}$,,,,,3,,
+"The measure of the angle from the first line to the second line whose slopes are 0 and 3, is;",,easy,"$\tan \tan \theta=\tan \tan \left(\alpha_{2}-\alpha_{1}\right)=\frac{\tan \tan \alpha_{2}-\tan \tan \alpha_{1}}{1+\tan \tan \alpha_{1} \tan \tan \alpha_{2}}=\frac{m_{2}-m_{1}}{1+m_{2} m_{1}}=\frac{3-0}{1+(0)(3)}=3$
+$\theta=(3)$",,101,$\tan ^{-1}\left(\frac{1}{3}\right)$,$\tan ^{-1} 3$,$\frac{1}{2} \tan ^{-1} 7$,$2 \tan ^{-1} 3$,,,,,2,,
+"A (0, b), B (0, 0) and C (a, 0) are vertices of a triangle. Its median AD and BE are mutually perpendicular if;",,moderate,"the coordinates of $\mathrm{D}$ and $\mathrm{E}$ are $\left(\frac{a}{2}, 0\right),\left(\frac{a}{2}, \frac{b}{2}\right)$ the slopes of $\mathrm{AD}$ and $\mathrm{BE}$ are
+\[
+\begin{array}{lr}
+m_{1}=\frac{b}{-a / 2}=-\frac{2 b}{a} & m_{2}=\frac{b / 2}{a / 2}=\frac{b}{a} \\
+\text { since they are perpendicular: } & m_{1} m_{2}=-1=-\frac{2 b^{2}}{a^{2}} \rightarrow a=\pm \sqrt{2} b
+\end{array}
+\]",,101,$a=\sqrt{2} b$,$b=-\sqrt{2} a$,$a=\pm \sqrt{2} b$,$a=\frac{b}{\sqrt{2}}$,,,,,3,,
+"The equation of line through the points (2,4) and (7,1) is;",,moderate,"Using two point form:
+\[
+\begin{aligned}
+\frac{y-4}{1-4}=\frac{x-2}{7-2} & \rightarrow \quad 5(y-4)=-3(x-2) \\
+5 y-20=-3 x+6 & \rightarrow 5 y+3 x-20-6=5 y+3 x-26=0
+\end{aligned}
+\]",,101,$5 y+3 x=0$,$5 y+3 x-26=0$,$2 \sqrt{5} y+16 x-13=0$,$5 y+3 x-26=0$,,,,,2,,
+"The equation of the line through (-1,3) perpendicular to a line having slope $\frac{3}{2}$ is",,easy,the required slope is: $m_{1} m_{2}=-1=m_{1} * \frac{2}{3} \rightarrow m_{1}=-\frac{2}{3}$ only valid for option $(\mathrm{d})$,,101,$2 y-3 x+7=0$,$15 y+2 x-1=0$,$13 y+2 x-3=0$,$3 y+2 x-7=0$,,,,,4,,
+"The equation of the line through the point (-2,1) and the point of intersection of the lines $4 x+3 y-1=0$ and $2 x-6 y+5=0$ is;",,moderate,"Point of intersection of two lines are $\left(\frac{b_{1} c_{2}-b_{2} c_{1}}{a_{1} b_{2}-a_{2} b_{1}}, \frac{a_{2} c_{1}-a_{1} c_{2}}{a_{1} b_{2}-a_{2} b_{1}}\right)$
+\[
+=\left(\frac{3 * 5-(-6 *-1)}{4 *(-6)-2 * 3}, \frac{2(-1)-4(5)}{4 *(-6)-2 * 3}\right)=\left(\frac{15-6}{-30}, \frac{-2-20}{-30}\right)=\left(\frac{-3}{10}, \frac{11}{15}\right)
+\]
+$m=\frac{11 / 15-1}{-3 / 10+2}=\frac{4 / 15}{-17 / 10}=-\frac{8}{51}$ only option (b) have same slope",,101,$x-13 y+19=0$,$8 x+51 y-35=0$,$23 x-43 y+27=0$,$18 x+29 y-21=0$,,,,,2,,
+"The equation of the line through $\left(x_{2}, y_{2}\right)$ parallel to $p x+q y+r=0$ is",,easy,"slope is $-\frac{p}{q}$ so point slope form: $y-y_{2}=-\frac{p}{q}\left(x-x_{2}\right)$
+\[
+p x+q y-p x_{2}-q y_{2}=0
+\]",,101,$p x+q y+r+p x_{2}=0$,$p x+q y+p x_{2}+q y_{2}=0$,$p x+q y-p x_{2}+r=0$,$p x+q y-p x_{2}-q y_{2}=0$,,,,,4,,
+"The equation of line through $\left(x_{2}, y_{2}\right)$ perpendicular to the line $p x+q y+r=0$ is;",,moderate,"Slope is $m_{1} \cdot m_{2}=-\frac{e}{g} m_{2}=-1 \rightarrow m_{2}=\frac{q}{p}$ Point slope form
+\[
+\begin{array}{c}
+y-y_{2}=\frac{q}{p}\left(x-x_{2}\right) \rightarrow p y-p y_{2}-q x+q x_{2}=0 \\
+q x_{2}-p y_{2}-q x+p y=0
+\end{array}
+\]",,101,$q x_{2}-p y_{2}-q x+p y=0$,$p x+q y+p x_{2}+q y_{2}=0$,$p x_{2}+q y_{2}+3 p x-3 q y=0$,$p x_{2}+q y_{2}=0$,,,,,1,,
+"The measure of the angle $\theta$ from the line $p_{1} x+q_{1} y+r_{1}=0$ to the line $p_{2} x+q_{2} y+r_{2}=0,$ is given by $\tan \theta=$",,easy,Theoretical Point,,101,$\frac{p_{1} q_{1}+p_{2} q_{2}}{p_{1} q_{2}-p_{2} q_{1}}$,$\frac{p_{1} q_{2}+q_{2} q_{1}}{p_{1} q_{2}-p_{2} q_{1}}$,$\frac{p_{1} q_{2}-p_{2} q_{1}}{p_{1} p_{2}+q_{1} q_{2}}$,none,,,,,3,,
+The distance between the parallel lines $4x+3y-2 = 0$ and $4x+3y+8 = 0$ is;,,easy,$d=\frac{\left|c_{2}-c_{1}\right|}{\sqrt{a^{2}+b^{2}}}=\frac{|8-(-2)|}{\sqrt{3^{2}+4^{2}}}=\frac{|10|}{\sqrt{25}}=\frac{10}{5}=2$,,101,$\frac{13}{2}$,$\frac{59}{3}$,2,12,,,,,3,,
+Slope of line parallel to x-axis is;,,easy,Key point,,101,0,1,$\infty$,2,,,,,1,,
+"The matrix form of the system of linear equations;    
+$3 x+4 y-7=0$
+$2 x-5 y+8=0$
+$x+y-3=0$",http://d15o1jx56rxevg.cloudfront.net/ecat/maths/m19_Linear/18-29.PNG,easy,Basic matrix conversion,,101,A,B,C,D,,,,,2,,
+"The equation of the straight line through the point of intersection of
+$16 x-10 y-33=0,12 x+14 y+29=0$ and the intersection of
+\[
+x-y+4=0, x-7 y+2=0 \text { is }
+\]",,difficult,"Point of intersection of two lines are $\left(\frac{b_{1} c_{2}-b_{2} c_{1}}{a_{1} b_{2}-a_{2} b_{1}}, \frac{a_{2} c_{1}-a_{1} c_{2}}{a_{1} b_{2}-a_{2} b_{1}}\right)$
+\[
+\begin{array}{c}
+\frac{x}{-290+462}=\frac{-y}{464+396}=\frac{1}{224+120} \rightarrow \quad x=\frac{172}{334}=\frac{1}{2}, \quad y=-\frac{860}{334}=-\frac{5}{2} \\
+\frac{x}{-2+28}=\frac{-y}{2-4}=\frac{1}{-7+1} \rightarrow \quad x=\frac{26}{-6}=-\frac{13}{3}, \quad y=\frac{2}{-6}=-\frac{1}{3}
+\end{array}
+\]
+The pints are $\left(\frac{1}{2},-\frac{5}{2}\right),\left(-\frac{13}{3},-\frac{1}{3}\right)$
+The require line is: $y+\frac{5}{2}=\frac{\frac{-1}{3}+\frac{5}{2}}{-\frac{13}{3}-\frac{1}{2}}\left(x-\frac{1}{2}\right) \rightarrow 2 y+5=-\frac{13}{29}(2 x-1)$
+\[
+26 x+58 y+132=0 \rightarrow 13 x+29 y+66=0
+\]",,101,$13 x+29 y-66=0$,$13 x-29 y-66=0$,$13 x+29 y+66=0$,$13 x-29 y+66=0$,,,,,3,,
+"The points (5, -2), (1,2),(-2,5) are; ",,easy,"$|5-21121-251|=|5-21-440-770| \quad$ Taking 4 and 7 common from $R_{2}$ and $R_{3}$
+$(4)(7)|5-21-110-110|=0$
+\[
+R_{2}=R_{3}
+\]",,101,collinear,Vertices of Triangle,Vertices of rectangle,all,,,,,1,,
+$y=-\frac{17}{9} x+\frac{37}{9}$ is $\quad$ form of equation $9 y+17 x-37=0$,,easy,Theoretical Formula,,101,Normal,Slope-Intercept,intercepts,Point-slope,,,,,2,,
+"The average entry test score of engineering candidates was 592 in the year 1998, while the score was 564 in 2002. assuming that the relationship between time and score is linear, then the average score in the year 2006 will be;",,easy,"	Since the time difference is equal and relation is linear: 592-564=564-x
+x=564-28=536",,101,450,350,536,650,,,,,3,,
+"The equation of line passing through point (4,-6) and making an angle of $45^{\circ}$ with positive $x$ -axis is;",,easy," $\quad m=\tan \tan 45=1$ slope intercept form:
+\[
+y+6=x-4 \rightarrow y-x+10=0
+\]",,101,$x+y-10=0$,$2 x-y=10$,$x-y+10=0$,$y-x+10=0$,,,,,4,,
+"If a line passes through points (4,3) and $(2, \lambda)$ and perpendicular to $y=2 x+3,$ then $\lambda=?$",,moderate,"\begin{aligned}
+&\text { slope of line } 2 \text { is } 2 . \quad \text { So, } m_{1} . m_{2}=2 m_{1}=-1 \rightarrow m_{1}=-\frac{1}{2}\\
+&\text { From points: } \quad \frac{\lambda-3}{2-4}=-\frac{1}{2} \quad \rightarrow \quad \lambda=-\frac{1}{2}(-2)+3=4
+\end{aligned}",,101,-1,1,-4,4,,,,,4,,
+"If the origin is shifted to (-4,-6) then the point $P(-6,-8)$ will be shifted into;",,easy,"Translation of origin: -6+4,-8+6=-2,-2",,101,"(-2,1)","(-2,-2)","(0,2)","(2,2)",,,,,2,,
+"The $x y$ -coordinates are rotated about origin at an angle $180^{\circ},$ then the coordinates of the point $P(4,-1)$ are",,easy,"$X=4 \cos \cos 180+(-1) \sin \sin 180=-4 \quad Y=-4 \sin \sin 180+(-1) \cos \cos 180=1$
+So new point is: $\quad(-4,1)$",,101,"(1,4)","(-1,4)","(-4,1)","(-4,-1)",,,,,3,,
+"After the rotation of axis at 90° the coordinates of the point P(x,y) 
+	are  (2,-9) then the original point is;",,easy,"\[
+2=x \cos \cos 90+y \sin \sin 90 \rightarrow y=2 \quad-9=-x \sin \sin 90+y \cos \cos 90 \rightarrow x=9
+\]
+So the old point was: (9,2)",,101,"(-9,2)","(9, -2)","(9,2)","(-2,9)",,,,,3,,
+The angle between the lines represented by $9 x^{2}+24 x y+16 y^{2}=0$ is,,easy,$\tan \tan \theta=\frac{2 \sqrt{h^{2}-a b}}{a+b}=\frac{2 \sqrt{12^{2}-9(16)}}{9+16}=\frac{2 \sqrt{144-144}}{25}=\frac{0}{25}=0 \rightarrow \theta=0$,,101,$90^{\circ}$,0,$180^{\circ}$,none,,,,,2,,
+Which of the following is not homogenous?,,easy,"The first two terms have index 2 last two terms have index 1. In the homogenous equation, all terms have same index",,101,$3 x^{2}+2 y^{2}+3 x y=0$,$x^{2}+y^{2}+2 g x y=0$,$4 x^{2}+5 y^{2}+3 x y=0$,$x^{2}+4 y^{2}+2 g x+2 f y=0$,,,,,4,,
+"Two points (a, 0) and (0, b) are on a straight line. Which of the following points is on that straight line?",,moderate,"the line will be: $y-b=-\frac{b}{a}(x-0) \rightarrow b x-a y-a b=0$
+Reverse Solve
+(a) $(3 a,-2 b): \quad b(3 a)-a(-2 b)-a b=3 a b-2 a b-a b=0$",,101,"$(3 a,-2 b)$","$\left(a^{2}, a b\right)$","$(-3 a, 2 b)$","$(a, b)$",,,,,1,,
+"The join of (-3, 2) and (4, 6) is cut by x-axis in ratio __________ externally.",,easy,the external ratio for x-axis where $y=0$ is $\frac{2-0}{6-0}=\frac{2}{6}=\frac{1}{3}=1: 3$,,101,2:3,1:2,1:3,3:2,,,,,3,,
+"If A and B are the points (-3, 4) and (2, 1) then the coordinates of the point C on AB such that AC = 2BC are __________",,easy,"Ratio is 2: 1 externally: $\left(\frac{2(2)-1(-3)}{2-1}, \frac{2(1)-1(4)}{2-1}\right)=(7,-2)$",,101,"(2,4)","(3, 7)","(7, -2)","$\left(\frac{-1}{2}, \frac{5}{2}\right)$",,,,,3,,
+"Equation of the straight line making equal intercepts on the axes passing through (3, 2) is __________",,easy,"Reverse Solve:
+(a) $3+2=5 \neq 2$
+(b) $3+2=5 \neq 3$
+(c) $3+2=5$",,101,x + y = 2,x + y = 3,x + y = 5,x + y = 15,,,,,3,,
+"If the points (a, 0), (0, b) any (x, y) are collinear then __________",,moderate,"using determinant: $|a 010 b 1 x y 1|=a(b-y)+x(-b)=-b x-a y+a b=0$
+$\frac{b x}{a b}+\frac{a y}{a b}=\frac{a b}{a b} \rightarrow \quad \frac{x}{a}+\frac{y}{b}=1$",,101,$a x+b y=1$,$b x+a y=1$,$\frac{x}{a}+\frac{y}{b}=1$,$a x+b y=0$,,,,,3,,
+"The line segment joining by the points (-3, -4) and (1, -2) is divide by y – axis in the ratio",,easy,"Key method for internally divided line: $\frac{x_{2}-x_{c}}{x_{c-x_{1}}}$ at $y-$ axis, $x=0: \frac{0-(-3)}{1-0}=\frac{3}{1}=3: 1$",,101,1:3,2:3,3:1,3:2,,,,,3,,
+"Area of the triangle whose vertices are (-4, -1), (1, 2) and (4, -3) is __________",,moderate,"$\Delta=\frac{1}{2}|-4-111214-31|=\frac{1}{2}|-4-115308-20|=\frac{1}{2}[1(5(-2)-3(8))]$
+$=\frac{1}{2}|-10-24|=17$",,101,17,16,15,0,,,,,1,,
+"The vertices of a $\Delta A B C$ are (2,2),(-4,-4) and (5,-8) respectively, the length of the
+median through $C$ is",,moderate,"$\begin{array}{ll}\text { midpoint of } \mathrm{AB}: & M=\left(\frac{2-4}{2}, \frac{2-4}{2}\right)=(-1,-1) \\ \text { Length of median: } & \overline{C M}=\sqrt{(5-(-1))^{2}+(-8+1)^{2}}=\sqrt{36+49}=\sqrt{85}\end{array}$",,101,$\sqrt{65}$,$\sqrt{117}$,$\sqrt{85}$,$\sqrt{117}$,,,,,3,,
+If the sum of the distances of a point from two $\perp$ lines is 1 then the locus is,,easy,Defination of square,,101,Square,Circle,Straight line,Two intersecting straight lines,,,,,1,,
+Distance between the lines $4 x+3 y=11$ and $8 x+6 y=15$ is,,easy,$\frac{\left|c_{2}-c_{1}\right|}{\sqrt{a^{2}+b^{2}}}=\frac{|22-15|}{\sqrt{8^{2}+6^{2}}}=\frac{7}{10}$,,101,$\frac{7}{2}$,4,$\frac{7}{10}$,$\frac{15}{10}$,,,,,3,,
+"Directed distance of a point (-5, -6) from y-axis is",,easy,"Directed distance of any point $\left(x_{1}, y_{1}\right)$ from $y$ -axis is $\left|x_{1}\right|$",,101,6,-6,5,-5,,,,,3,,
+Equation of line having slope 3 making x-intercept 5 is,,easy,"point (5,0) and slope $m=3 \quad y-0=3(x-5) \rightarrow-3 x+y+15=0$",,101,$y=3 x+5$,$-3 x+y+15=0$,$3 x-y+5=0$,$x+\frac{1}{3} y-5=0$,,,,,2,,
+Equation of hypotenuse $\overline{A B}$ of length $\sqrt{2}$ in isosceles $\Delta O A B$ is,,easy,"the points are (0,1),(1,0)$: y-1=1(x-0) \rightarrow y-x=1$",,101,$x+y=1$,$x+\sqrt{2 y}=1$,$y-x=1$,$x-y=1$,,,,,3,,
+Joint equation of lines through the origin and perpendicular to the lines $x^{2}+x y-6 y^{2}=0$,,easy,The lines $a x^{2}+2 h x y+b y^{2}=0 ; b x^{2}+2 h x y+a y^{2}=0$ are perpendicular to each other,,101,$6 x^{2}+x y-y^{2}=0$,$-6 x^{2}+x y+y^{2}=0$,$-6 x^{2}-x y-y^{2}=0$,None,,,,,1,,
+A function which is to be maximized or minimized is called __________ function,,easy,Definition,,102,Optimal,Feasible,Objective,Corner,,,,,3,,
+The feasible solution which maximizes or minimizes the objective function is called,,easy,Definition,,102,Feasible solution,optimal solution,Either feasible or optimal,None,,,,,2,,
+Non-negative constraints help in taking__________,,easy,The solution is the result of constraints and maximization and minimization are processes to obtain optimal solutions.,,102,Solutions,maximization,Minimization,decision,,,,,4,,
+Optimize means__________ a quantity under certain constraints,,easy,A function can never be minimized and maximized at single point solution.,,102,Maximize,minimize,Either maximize or minimize,both a and b,,,,,3,,
+Inequalities have__________ symbols,,easy,"There are four symbols of inequality: $>,<, \leq, \geq$",,102,2,3,4,6,,,,,3,,
+The solution set of x<4 is,,easy,The lower constraint on negative side is $-\infty$ unless given otherwise,,102,$-\infty<x<4$,$4<x<\infty$,$0<x<4$,$-\infty<x<\infty$,,,,,1,,
+Which one is an associated equation of $a x+b y \leq c ?$,,easy,"The associated equation of inequality converts the inequality to equality. So,
+\[
+a x+b y=c \rightarrow \quad a x+b y-c=0
+\]",,102,$a x+b y<c$,$a x+b y \leq c$,$a x+b y-c<0$,$a x+b y-c=0$,,,,,4,,
+Corner point is also called,,easy,Definition,,102,Origin,focus,Vertex,point of contact,,,,,3,,
+The variables used in the system of linear inequalities are__________,,easy,The domain of Cartesian linear inequalities is real number.,,102,Integers,real numbers,non-ve integers,none,,,,,2,,
+"Non -ve constraints are called__________ variables.",,easy,Definition,,102,Discrete,continuous,Dependent,decision,,,,,4,,
+"There are __________ feasible solutions in the feasible region.",,easy,"An inequality have infinite solutions in feasible region",,102,2,4,6,infinte,,,,,4,,
+"When $f(x, y)=x+3 y$ is maximized, subject to $2 x+5 y \leq 30,5 x+4 y \leq 20, x \geq 0, y \geq 0$ the maximum value of $f(x, y)$ is",,easy,"Reverse Solve: Inequality $25 x+4 y \leq 20$ does not satisfy (5,5)
+(a) $f(0,0)=0+3(0)=0$
+(b) $f(0,5)=0+3(5)=0+15=15$",,102,"(0,0)","(0,5)","(5,0)","(5,5)",,,,,2,,
+"If $\mathrm{H}=2 \mathrm{x}+\mathrm{y}$ is minimized, subject to $\mathrm{x}+\mathrm{y} \geq 3,7 \mathrm{x}+5 \mathrm{y} \leq 35, \mathrm{x} \geq 0, \mathrm{y} \geq 0$ then $\mathrm{H}$ is minimum at",,moderate,"Reverse Solve: Inequality $1 x+y \geq 3$ does not satisfy (0,0)
+(a) $f(0,0) \quad$ not satisfied by inequality 1
+(b) $f(3,0)=2(3)+0=6+0=6$
+(c) $f(0,3)=2(0)+3=0+3=3$",,102,"(0,3)","(3,0)","(0,3)","(3,3)",,,,,3,,
+"The points above the line $x+2 y=4$ satisfy the inequality,",,easy,Simple Solution: the points above line are greater than the line values.,,102,$x+2 y<4$,$x+2 y \leq 4$,$x+2 y>4$,$x+2 y \geq 4$,,,,,3,,
+The graph of solutions region of $3 x-y \leq 2$ and $x+y \geq 6$ is,http://d15o1jx56rxevg.cloudfront.net/ecat/maths/m19_Linear/19-15.PNG,moderate,"Reverse Solve to check which point satisfy both inequalities.
+(a) $3(1)-3=3-3=0 \leq 2$
+$1+3=4 \geq 6 \quad$ Not
+(b) $3(2)-4=6-4=2 \leq 2 \quad 2+4=6 \geq 6 \quad$ Satisfy",,102,A,B,D,C,,,,,2,,
+Is the solution region of,http://d15o1jx56rxevg.cloudfront.net/ecat/maths/m19_Linear/19-16.PNG,easy,"Reverse solve to check which points are satisfied by lines. Since the auxiliary equations are same for each options so each option satisfies the points. The region shows the inclusion of lines, which means lines are also part of solution. Only option (c) includes line in the solution as it has signs containing equal to values.   ",,102,"$2 x-y>5,3 x+y>0, x \leq 4$","$2 x-y \geq 5,3 x+y>0, x<4$","$2 x-y \geq 5,3 x+y \geq 0, x \leq 4$","$2 x-y \geq 5,3 x+y>0, x<4$",,,,,3,,
+"The graph of $x-2 y \leq 6,2 x+y \geq-2$ and $x+2 y \leq 10$ is",http://d15o1jx56rxevg.cloudfront.net/ecat/maths/m19_Linear/19-17.PNG,moderate,"Solve the lines for intersection points:
+\[
+\begin{array}{c}
+x-2 y=6 ; \quad 2 x+y=-2 ; \quad x+2 y=10 \\
+\text {adding } l_{1} \& l_{3}: 2 x=16 \rightarrow x=8, \quad 8-2 y=6, \quad y=1: \quad(x, y)=(8,1)
+\end{array}
+\]
+subtracting $l_{2}$ from 2 times $l_{1}: \quad y+4 y=12-2 \rightarrow y=2$
+\[
+2 x+2=-2 \rightarrow \quad x=-2: \quad(x, y)=(-2,2)
+\]
+Only option (d) has these two points",,102,A,B,C,D,,,,,4,,
+Which of the following is not convex?,http://d15o1jx56rxevg.cloudfront.net/ecat/maths/m19_Linear/19-18.PNG,easy,The convex regions have stand out straight line boundaries without any intersection. The adjoining figures are not convex regions.,,102,A,B,C,D,,,,,4,,
+"A manufacturer makes two grades of concrete. Each bag of the high-grade concrete contains 10Kg of gravel and 5Kg of cement, while each bag of low-grade concrete contains 12Kg of gravel and 3Kg of cement. There are 1,920 Kg of gravel and 780Kg of cement currently available. The manufacturer can make a profit of $1.20 of each bag of the high grade and $ 1.00 on each bag of low grade concrete. Then the number of bags of low grade, high grade and the maximum profit are respectively? ",,moderate,"Satisfy the condition of materials: Gravel: $60(12)+120(10)=1920 \mathrm{kg}$ Find the solution: $\quad f(1,1.2)=60 x+120 y=60(1)+120(1.2)=60+144=204$",,102,"60,120,240","120,60,240","60,120,204","120,60,204",,,,,3,,
+"The largest and smallest value of $F=3 x+4 y$ subject to $x+3 y \leq 15,4 x+3 y \leq 24, x, y \geq 0$
+are respectively",,moderate,"Solve for feasible region: Inequality 1 will give (15,0), $(0,5),$ Inequality 2 will give (6,0),(0,8) and the intersection point is $(3,4) .$ Inequality 3,4 will give (0,0) The points of feasible solutions are: (0,0),(3,4),(6,0),(0,5)
+\[
+f(0,0)=0 \quad f(3,4)=3(3)+4(4)=9+16=25
+\]",,102,"25,5","5,0","25,10","25,0",,,,,4,,
+"Find the equation of tangent to the circle $x^{2}+y^{2}+4 x+2 y=0$ from the point $P(-1,2)$",,moderate,"The equation at point (-1,2)$: \quad y-2=m(x+1) \rightarrow m x-y+m+2=0$
+\[
+\begin{array}{l}
+\text { For radius at } C=(-2,-1): \quad r=\sqrt{g^{2}+f^{2}-c}=\sqrt{5} \\
+\qquad \begin{aligned}
+\frac{1-2 m+1+m+2 |}{\sqrt{m^{2}+1}}=& \sqrt{5} \rightarrow(m-3)^{2}=5\left(m^{2}+1\right) \rightarrow 2 m^{2}+3 m-2=0 \rightarrow m=-2, \frac{1}{2} \\
+\text { For } m=-2: \quad &-2 x-y-2+2=0 \rightarrow 2 x+y=0
+\end{aligned}
+\end{array}
+\]",,103,x+y=0,x+2y=0,2x+y=0,2y+x=0,,,,,3,,
+"The equation of the circle passing through the points (5,10),(6,9) and (-2,3) is",,moderate,"Reverse Solve. Check which equation satisfies all 3 points.
+(a) $5^{2}+10^{2}+3(5)+2(10)=25+100+15+20=160 \neq 0 \quad$ not satisfy
+(b) $\operatorname{At}(5,10): \quad 5^{2}+10^{2}-4(5)-12(10)+15=25+100-20-120+15=0$
+At (6,9):
+\[
+6+9^{2}-4(6)-12(9)+15=36+81-24-108+15=0
+\]
+At (-2,3)$: \quad-2^{2}+3^{2}-4(-2)-12(3)+15=4+9+8-36+15=0$",,103,$x^{2}+y^{2}+3 x+2 y=0$,$x^{2}+y^{2}-4 x-12 y+15=0$,$x^{2}+y^{2}+4 x+12 y=0$,$x^{2}+y^{2}-4 x-3 y-15=0$,,,,,2,,
+Which one is not the equation of circle,,easy,The product of variables does not exist in equation of circle.,,103,$35 x^{2}+35 y^{2}-30 x+17 y-2=0$,$17 x^{2}+17 y^{2}+2 g x-2 f y+17=0$,$x^{2}+y^{2}=49$,$x^{2}+2 y^{2}-2 x y+2 f y=0$,,,,,4,,
+The circum centre of right angled triangle is,,easy,Theorem of Circle.,,103,Any vertex,the vertex where two legs meet,Mid-point of hypotenuse,at which angle bisectors meet,,,,,3,,
+Equation of a circle with centre at origin and radius 3 is ,,easy,"The general equation of circle: $(x-h)^{2}+(y-k)^{2}=r^{2}$
+\[
+\text { At origin }(h, k)=(0,0), r=3 \quad x^{2}+y^{2}=3^{2}=9
+\]",,103,$x^{2}+y^{2}=9$,$x^{2}+y^{2}=3$,$x^{2}=y^{2}+3$,$x^{2}-y^{2}=9$,,,,,1,,
+Coordinate of centre of the circle of equation $x^{2}+y^{2}+2 x+y+17=0$ is,,easy,"The center of circle for equation: $x^{2}+y^{2}+2 g x+2 f y+c=0$ is $(-g,-f)$",,103,"(1,2)","(3,4)","$\left(-1,-\frac{1}{2}\right)$","$\left(1, \frac{1}{2}\right)$",,,,,3,,
+Which is not the equation of circle which touches both the axes and is of radius 13;,,easy,All the equations will touch both axis and of radius 13.,,103,$(x+13)^{2}+(y+13)^{2}=169$,$(x-13)^{2}+(y+13)^{2}=169$,$(x+13)^{2}+(y-13)^{2}=169$,None,,,,,4,,
+The mid-point of the chord cut off from the line $x+y=3$ by the circle $x^{2}+y^{2}=9$ is;,,moderate,"The chord will intersect the circle at points $(0,3) \&(3,0) .$ Using mid-point formula: $\left(\frac{x_{1}+x_{2}}{2}, \frac{y_{1}+y_{2}}{2}\right)=\left(\frac{3}{2}, \frac{3}{2}\right)$",,103,"$\left(-\frac{3}{2},-\frac{3}{2}\right)$","$\left(\frac{3}{2},-\frac{3}{2}\right)$","$\left(-\frac{3}{2}, \frac{3}{2}\right)$","$\left(\frac{3}{2}, \frac{3}{2}\right)$",,,,,4,,
+Which point lies inside the circle $2 x^{2}+2 y^{2}+3 x+4 y-1=0 ?$,,moderate,"Any point that gives a -ve value when inserted in equation of circle is inside the circle,
+\[
+2(-1)^{2}+2(-2)^{2}+3(-1)+4(-2)-1=2+8-3-8-1=-2
+\]",,103,"(-1,-2)","(2,1)","(-3,1)","(1,3)",,,,,1,,
+"The length of the tangent segment from (2,-1) to the circle $x^{2}+y^{2}-5 x-3 y+27=0$ is",,easy,Length of tangent: $\sqrt{(2)^{2}+(-1)^{2}-5(2)-3(-1)+27}=\sqrt{25}=5$,,103,3,4,5,8,,,,,3,,
+Number of tangents drawn to a circle from a point outside the circle is;,,easy,Key Point.,,103,1,2,3,4,,,,,2,,
+"The equation of tangent to the circle $x^{2}+y^{2}-10 x-24 y=0$ at the point (5,-1) is;",,moderate,"Equation of Tangent from point to circle is: $x x_{1}+y y_{1}+g\left(x+x_{1}\right)+f\left(y+y_{1}\right)+c=0$
+\[
+\begin{array}{c}
+5 x-y-5(x+5)-12(y-1)=5 x-y-5 x-25-12 y+12=-13 y-13=0 \\
+y+1=0
+\end{array}
+\]",,103,$ x+y = 0 $,3x-5y+3 = 0, 9x-7y = -11,y+1 = 0,,,,,4,,
+"Equation of tangent to the circle $x^{2}+y^{2}=a^{2}$ for all values of $^{\prime} m^{\prime}$ at point $\left(x_{1}, y_{1}\right)$ is;",,easy,Very important formula,,103,y = mx+c,$y^{2}=a^{2}-x^{2}$,$x^{2}+y^{2}-2 a x-2 b y+a^{2} b^{2}-r^{2}=0$,$y_{1}=m x_{1}+a \sqrt{1+m^{2}}$,,,,,4,,
+Angle between lines $x^{2}-y^{2}=0$ is;,,easy,"the lines are $x-y=0: x+y=0$ with slopes $1 \&-1$
+According to intersecting lines: $m_{1} \cdot m_{2}=-1$ is perpendicular lines",,103,0,$180^{\circ}$,$50^{\circ}$,$90^{\circ}$,,,,,4,,
+$3 x^{3}-7 x y^{2}+19 y^{3}=0$ is an equation of,,easy,Each term has index sum 3.,,103,Degree 1,degree 2,degree 3,degree 4,,,,,3,,
+"If $\mathrm{g}^{2}+\mathrm{f}^{2}$ -c is zero, the circle is;",,easy,A circle of zero radius is point circle or single point.,,103,Infinite,imaginary,single point,unit circle,,,,,3,,
+Radius of the circle $13 x^{2}+13 y^{2}-52 x+39 y=0$ is,,moderate,"The equation in standard form will be:
+$x^{2}+y^{2}-4 x+3 y=0$
+\[
+a=\sqrt{2^{2}+\frac{3^{2}}{2}}=\sqrt{4+\frac{2}{4}}=\sqrt{\frac{25}{4}}=\frac{5}{2}
+\]",,103,$\frac{125}{\sqrt{9}}$,$\frac{15}{2}$,$\frac{31}{3}$,$\frac{5}{2}$,,,,,4,,
+"The equation of circles with (2,3) and (3,4) as end points of diameter is;",,moderate,"centre is mid-point:
+$\left(\frac{2+3}{2}, \frac{3+4}{2}\right)=\left(\frac{5}{2}, \frac{7}{2}\right)$
+The radius is: $\quad a=\frac{1}{2} \sqrt{1^{2}+1^{2}}=\frac{\sqrt{2}}{2}$
+Using standard form: $\quad\left(x-\frac{5}{2}\right)^{2}+\left(y-\frac{7}{2}\right)^{2}=\frac{\sqrt{2}^{2}}{2} \rightarrow x^{2}+y^{2}-5 x-7 y+\frac{25}{4}+\frac{49}{4}-\frac{2}{4}=0$
+\[
+x^{2}+y^{2}-5 x-7 y+18=0
+\]",,103,$x^{2}+y^{2}-9 x+12 x+12=0$,$x^{2}+13 x+y^{2}-7 y+13=0$,$x^{2}+y^{2}-5 x-7 y+18=0$,$x^{2}+y^{2}=36$,,,,,3,,
+"The equation of normal to $x^{2}+y^{2}=a^{2}$ at $\left(x_{1}, y_{1}\right)$ is",,easy,The basic equation is: $y-y_{1}=\frac{y_{1}+f}{x_{1}+g}\left(x-x_{1}\right)$,,103,$y+y_{1}=\frac{x_{1}}{y_{1}}\left(x+x_{1}\right)$,$y-y_{1}=\frac{y_{1}}{x_{1}}\left(x+x_{1}\right)$,$y-y_{1}=\frac{y_{1}}{x_{1}}\left(x-x_{1}\right)$,None,,,,,3,,
+The circle $x^{2}+y^{2}-2 x-4 y+1=0$ and $x^{2}+y^{2}+4 x+4 y-1=0$,,moderate,"For $C_{1}: r_{1}=\sqrt{1^{2}+2^{2}-1}=2$ center $=(1,2)$
+$$
+\begin{array}{l}\text { For } C_{1}: \quad r_{2}=\sqrt{2^{2}+2^{2}+1}=3 \text { center }=(-2,-2) \\ \qquad \begin{array}{l}C_{1} C_{2}=\sqrt{(-2-1)^{2}+(-2-2)^{2}}=\sqrt{9+16}=5 \\ C_{1} C_{2}=r_{1}+3+2=5 & \text { Touch Externally }\end{array}\end{array}
+$$",,103,Touch internally,touch externally,do not touch,None,,,,,2,,
+The coordinates of points of intersection of $x^{2}+y^{2}=25$ and $3 x+y=5$ are;,,moderate,Reverse Solve check which pair of point satisfy both equations.,,103,"(5,0) (3,-4)","(1,2)(3,4)","(-5,0),(-3,4)","(0,5),(3,-4)",,,,,4,,
+The line $3 x+2 y+K=0$ may touch the circle $x^{2}+y^{2}-2 x+3 y=0$ if $K$ is,,moderate,"\begin{aligned}
+&\text { the radius of circle: } \quad r=\sqrt{(1)^{2}+\left(\frac{3}{2}\right)^{2}}=\frac{\sqrt{4+9}}{2}=\frac{\sqrt{13}}{2}\\
+&\begin{array}{l}
+\text { For centre } C=\left(x_{1}, y_{1}\right), \quad r=d=\frac{\left|\alpha x_{1}+b y_{1}+c\right|}{\sqrt{a^{2}+b^{2}}}=\frac{\left|3(1)+2\left(-\frac{2}{2}\right)+K\right|}{\sqrt{2^{2}+3^{2}}}=\frac{K}{\sqrt{13}}=\frac{\sqrt{13}}{2} \\
+K=\frac{13}{2}
+\end{array}
+\end{aligned}",,103,$\frac{13}{2}$,$\frac{5 \sqrt{13}}{2}$,$\frac{2 \sqrt{3}}{5}$,$\frac{6 \sqrt{19}}{3}$,,,,,1,,
+The value of eccentricity of the circle is;,,easy,Theoretical Formula,,103,0,1,-1,$\sqrt{2}$,,,,,1,,
+The number of constants in equation. $x^{2}+y^{2}+2 g x+2 c y+b=0$ is;,,easy,"2g, 2c and b are constants here.",,103,1,2,3,4,,,,,3,,
+The coordinates of the centre and the radius of the circle whose equation is $x^{2}+y^{2}+2 q \cos \vartheta x+2 q \sin \vartheta y+q^{2}=0$ are respectively,,easy,"Centre: $(-g,-f) \quad$ Radius: $\sqrt{g^{2}+f^{2}-c}$",,103,"$(q \cos \vartheta, q \sin \vartheta), q$","$(-q \cos \vartheta,-q \sin \vartheta), 0$","$\left(q \cos ^{2} \vartheta, q \sin ^{2} q\right), \sqrt{q}$","$\left(-q \cos ^{2} \vartheta,-q \sin ^{2} \vartheta\right), 0$",,,,,2,,
+Coordinates of the centre of circle for equation $2 x^{2}+2 y^{2}+2 x-4 y+7=0$ are;,,easy,"The standard form will be: $\quad x^{2}+y^{2}+x-2 y+\frac{7}{2}=0$
+Centre: $(-g,-f)=\left(-\frac{1}{2}, 1\right)$",,103,"(-2,4)","(2,-4)","(1,-2)","$\left(-\frac{1}{2}, 1\right)$",,,,,4,,
+"The equation of circle whose centre is at (3,-2) and which touches the line 3x+4y+14=0 is;",,easy,"This is the only equation with centre (3,-2)",,103,$x^{2}+y^{2}-6 x+4 y+4=0$,$x^{2}+y^{2}-9 x-7 y+13=0$,$x^{2}+y^{2}+17 x-12 y+3=0$,$x^{2}+y^{2}+2 x+17 y+21=0$,,,,,1,,
+"The equation of circle with (-3, 4) and (7,1) as end points of diameter is;",,moderate,"centre is mid-point:
+$\left(\frac{-3+7}{2}, \frac{4+1}{2}\right)=\left(2, \frac{5}{2}\right)$
+The radius is: $\quad a=\frac{1}{2} \sqrt{(-3-7)^{2}+(4-1)^{2}}=\frac{1}{2} \sqrt{10^{2}+3^{2}}=\frac{\sqrt{109}}{2}$
+Using standard form: $(x-2)^{2}+\left(y-\frac{5}{2}\right)^{2}=\frac{\sqrt{109}^{2}}{2} \rightarrow x^{2}+y^{2}-4 x-5 y+4+\frac{25}{4}-\frac{109}{4}=0$
+$x^{2}+y^{2}-4 x-5 y+17=0$",,103,$x^{2}+y^{2}-4 x-13 y=0$,$x^{2}+y^{2}-2 x+7 y-3=0$,$x^{2}+y^{2}-4 x-5 y-17=0$,$x^{2}+y^{2}+3 x+4 y+13=0$,,,,,3,,
+"The equation of the circle whose radius is $\sqrt{a^{2}+b^{2}}$ and centre (a,b) is",,moderate,"$(x-a)^{2}+(y-b)^{2}=(\sqrt{a^{2}+b^{2}})^{2} \rightarrow x^{2}+y^{2}-2 a x-2 b y+a^{2}+b^{2}-a^{2}-b^{2}=0$
+$x^{2}+y^{2}-2 a x-2 b y=0$",,103,$x^{2}+y^{2}-2 a x+2 b y=0$,$x^{2}+y^{2}-2 a x-2 b y=0$,$x^{2}+y^{2}+2 a x-2 b y=0$,$x^{2}+y^{2}+2 a x+2 b y-c=0$,,,,,3,,
+"Length of tangent drawn from (5,1) to the circle $x^{2}+y^{2}+6 x-4 y-3=0$ is",,easy,$\sqrt{5^{2}+1^{2}+6(5)-4(1)-3}=\sqrt{25+1+30-4-3}=\sqrt{49}=7$,,103,81,29,7,49,,,,,3,,
+"If the line $x+2 b y+7=0$ is a diameter of the circle $x^{2}+y^{2}-6 x+2 y=0$, then $\quad b=?$",,easy,"Centre of circle: (3,-1) Put in the line:
+\[
+3+2 b(-1)+7=-2 b+10=0
+\]
+\[
+b=5
+\]",,103,3,-5,-4,5,,,,,2,,
+"If $\mathrm{S}_{1}$ and $\mathrm{S}_{2}$ are the equations of circles $x^{2}+y^{2}+4 x+1=0$ and $x^{2}+y^{2}+6 x+2 y+3=0,$ then equation of common chord is;",,moderate,"Reverse solve: $x+y+1=0 \rightarrow x=-(1+y)$
+$S_{1}: \quad(1+y)^{2}+y^{2}-4(1+y)+1=y^{2}+2 y+1+y^{2}-4 y-4+1=y^{2}-y-1=0$
+$S_{2}: \quad(1+y)^{2}+y^{2}-6(1+y)+2 y+3=y^{2}+2 y+1+y^{2}-6 y-6+2 y+3=0$
+$y^{2}-y-1=0$",,103,$x+y+1=0$,$x+y-1=0$,$2 x+2 y+5=0$,$x+y-3=0$,,,,,1,,
+The length of the chord intercepted by the circle $x^{2}+y^{2}+2 x-4 y-1=0$ on the line $x-y+1=0$ is;,,difficult,"the points of intersections need to be found for this: $\quad x=y-1$
+\[
+\begin{array}{l}
+(y-1)^{2}+y^{2}+2(y-1)-4 y-1=y^{2}-2 y+1+y^{2}+2 y-2-4 y-1=2 y^{2}-4 y-2 \\
+y^{2}-2 y-1=0: \quad \text { By solving we get: } \quad y=1 \pm \sqrt{2} \quad x=\pm \sqrt{2}
+\end{array}
+\]
+Points are: $\quad P=(\sqrt{2}, 1+\sqrt{2}), Q=(-\sqrt{2}, 1-\sqrt{2})$ their distance is length
+\[
+P Q=d=\sqrt{(2 \sqrt{2})^{2}+(2 \sqrt{2})^{2}}=\sqrt{8+8}=\sqrt{16}=4
+\]",,103,4,8,2,1,,,,,1,,
+"If (x, 3) and (3, 5) are ends of a diameter of a circle and centre is (2, y), then the  value of (x, y) is;",,moderate,"midpoint of diameter is centre of circle:
+$\left(\frac{x+3}{2}, \frac{3+5}{2}\right)=(1, y)$
+\[
+\frac{x+3}{2}=2 \rightarrow x=4-3=1 \quad \frac{3+5}{2}=\frac{8}{2}=4=y
+\]",,103,"(1, 4)","(4, 1)","(8, 2)","(2, 8)",,,,,1,,
+"The equation of circle which touches y-axis at (0, 3) and cuts 9 intercept on x-axis, is;",,moderate,"Reverse Check for point (0,3)$\&(9,0)$
+(a) $0+3^{2}+0+6(3)+9=36 \neq 0$
+(b) $0+3^{2}+0-6(3)+9=0 \quad 9^{2}+0+6(9)+0+9=144 \neq 0$
+(c) $0+3^{2}+0+4(3)+2=23 \neq 0$
+(d) $0+3^{2}-0-6(3)+9=0 \quad 9^{2}+0-10(9)-0+9=0$",,103,$x^{2}+y^{2}+10 x+6 y+9=0$,$x^{2}+y^{2}+6 x-10 y+9=0$,$x^{2}+y^{2}+8 x+4 y+2=0$,$x^{2}+y^{2}-10 x-6 y+9=0$,,,,,4,,
+"If one end of the diameter of the circle $2 x^{2}+2 y^{2}-8 x-4 y+2=0$ is (2,3) then other end
+is",,moderate,"Reverse check which point satisfy equation of circle.
+(a) $2(-2)^{2}+2(-3)^{2}-8(-2)-4(3)+2=8+18+16+12+2>0$
+(b) $2(4)^{2}+2(-2)^{2}-8(4)-4(-2)+2=32+8-32+8+=18>0$
+(c) $2(2)^{2}+2(-1)^{2}-8(2)-4(-1)+2=8+2-16+4+2=0$",,103,"(-2, -3)","(4, -2)","(2, -1)","(3, 2)",,,,,3,,
+Which of the following lines is a normal to the circle $(x-1)^{2}+(y-2)^{2}=10 ?$,,easy,"The normal line passes through centre 1,2 reverse check;
+1+2=3",,103,$x+y=3$,$(x-1)+(y-2)=10$,$x+2 y=0$,$2 x+y=3$,,,,,1,,
+If the line $\frac{x}{a}+\frac{y}{b}=1$ touches the circle $x^{2}+y^{2}=r^{2}$ then_______,,easy,Very important formula,,103,$a^{2}+b^{2}=r^{2}$,$a^{2}-b^{2}=r^{2}$,$\frac{1}{a^{2}}+\frac{1}{b^{2}}=\frac{1}{r^{2}}$,$\frac{1}{a^{2}}-\frac{1}{b^{2}}=\frac{1}{r^{2}}$,,,,,3,,
+"Circle passes through (a, 0), (0, b) and (0, 0) then its centre is",,moderate,"Putting the values of point in general equation of circle:
+(0,0)$: c=0$
+\[
+\begin{array}{l}
+(a, 0): a^{2}+2 g a=0 \rightarrow g=-\frac{a}{2} \\
+(0, b): b^{2}+2 f b=0 \rightarrow f=-\frac{b}{2}
+\end{array}
+\]
+Centre of Circle is: $\quad(-g,-f)=\left(\frac{a}{2}, \frac{b}{2}\right)$",,103,"$\left(\frac{a}{2}, \frac{b}{2}\right)$","$\left(\frac{b}{2}, \frac{a}{2}\right)$","$(a, b)$","(b, a)",,,,,1,,
+"The equation for chord of circle with centre (0,0)
+\[
+\begin{array}{c}
+x x_{1}+y y_{1}+g\left(x+x_{1}\right)+f\left(y+y_{1}\right)=x_{1}^{2}+y_{1}^{2}+2 g x_{1}+2 f y_{1} \\
+x-2 y+0+0=1+4+0+0 \\
+x-2 y=5
+\end{array}
+\]",,moderate,"The equation for chord of circle with centre (0,0)
+\[
+\begin{array}{c}
+x x_{1}+y y_{1}+g\left(x+x_{1}\right)+f\left(y+y_{1}\right)=x_{1}^{2}+y_{1}^{2}+2 g x_{1}+2 f y_{1} \\
+x-2 y+0+0=1+4+0+0 \\
+x-2 y=5
+\end{array}
+\]",,103,$2x + y = 5$,$2x – y = 5$,$x + 2y = 5$,$x - 2y = 5$,,,,,4,,
+Centre of the circle $\left(x-x_{1}\right)\left(x-x_{2}\right)+\left(y-y_{1}\right)\left(y-y_{2}\right)=0$ is,,moderate,"Simplify equation: $\quad x^{2}-\left(x_{1}+x_{2}\right) x+x_{1} x_{2}+y^{2}-y\left(y_{1}+y_{2}\right)+y_{1} y_{2}=0$
+Comparing with standard form: $2 g=-\left(x_{1}+x_{2}\right) \rightarrow g=-\frac{x_{1}+x_{2}}{2}, f=-\frac{y_{1}+y_{2}}{2}$
+\[
+\text { Centre: }(-g,-f)=\left(\frac{x_{1}+x_{2}}{2}, \frac{y_{1}+y_{2}}{2}\right)
+\]",,103,"$\left(x_{1}, y_{1}\right)$","$\left(x_{2}, y_{2}\right)$",$\left(\frac{x_{1}+y_{1}}{2} \frac{x_{2}+y_{2}}{2}\right)$,$\left(\frac{x_{1}+x_{2}}{2} \frac{y_{1}+y_{2}}{2}\right)$,,,,,4,,
+$x^{2}+y^{2}=r^{2}$ and $x^{2}+y^{2}-10 x+16=0$ intersect in two points then,,moderate,"For circle to be mutually intersecting: $\left|r_{1}-r_{2}\right|<C_{1} C_{2}<r_{1}+r_{2}$
+\[
+C_{1}=(0,0), \& C_{2}=(5,0): \quad C_{1} C_{2}=5 \quad r_{2}=\sqrt{5^{2}-16}=\sqrt{9}=3
+\]
+Satisfying the condition: $r>5-3=2 \& \quad r<5+3=8$",,103,$2<r<8$,r = 2 or r = 8,r < 2 or r > 8,r > 2 and r > 8,,,,,1,,
+The circles $x^{2}+y^{2}-2 x-4 y=0$ and $x^{2}+y^{2}-8 y-4=0$,,moderate,"$C_{1}=(1,2) \& C_{2}=(0,4) \quad r_{1}=\sqrt{5} \& r_{2}=2 \sqrt{5}$
+$C_{1} C_{2}=\sqrt{1^{2}+2^{2}}=\sqrt{5}$
+$\left|r_{1}-r_{2}\right|=|\sqrt{5}-2 \sqrt{5}|=\sqrt{5}=C_{1} C_{2}$",,103,Touch internally,Touch externally,Intersect,Do not intersect,,,,,1,,
+"Equation of normal to the circle $x^{2}+y^{2}=a^{2}$ at point $\left(x_{1}, y_{1}\right)$ is",,easy,Theoretical Formula,,103,$x x_{1}+y y_{1}=a^{2}$,$x y_{1}-y x_{1}=a^{2}$,$x y_{1}-y x_{3}=0$,$x x_{1}+y y_{1}=0$,,,,,3,,
+"Area of a circle whose centre is $(\cos \theta, \sin \theta)$ and passes through the origin is",,easy,"The radius of circle is for points given:
+\[
+\sqrt{\theta+\theta}=1
+\]
+\[
+A=\pi r^{2}=\pi(1)^{2}=\pi
+\]",,103,$\pi$,1,$\pi r^{2}$,$2 \pi$,,,,,1,,
+"The equation of chord of contact of circle $x^{2}+y^{2}=21$ when tangent are drawn from $(-3,4),$ is",,easy,"Equation of tangent at Point $P\left(x_{1}, y_{1}\right)$ and $Q\left(x_{2}, y_{2}\right)$ on circle are:
+\[
+x x_{1}+y y_{1}=21 \quad \& \quad x x_{2}+y y_{2}=21
+\]
+Putting the value of point we will have same line: $-3 x+4 y=21$",,103,$-3 x+4 y=21$,$x+6 y=21$,$3 x-4 y=21$,$x-6 y=21$,,,,,1,,
+Distance of chord cut by line $2 x+3 y=13$ from centre of circle $x^{2}+y^{2}=26$ is,,moderate,"the centre of circle is origin $(0,0) .$ Using formula of perpendicular distance:
+\[
+d=\frac{|c|}{\sqrt{a^{2}+b^{2}}}=\frac{13}{\sqrt{2^{2}+3^{2}}}=\frac{13}{\sqrt{13}}=\sqrt{13}
+\]",,103,$\sqrt{26}$,13,$\sqrt{13}$,cannot be determined,,,,,3,,
+"Angle subtended in the major arc of circle $x^{2}+y^{2}=18,$ whose end points are (3,3),(-3,3)",,moderate,"the centre is origin so, slope of both points are
+$(3,3) \quad m_{1}=\frac{3-0}{3-0}=1 \rightarrow \alpha_{1}=45^{\circ}$
+$(-3,3) \quad m_{2}=\frac{3-0}{-3-0}=-1 \rightarrow \alpha_{2}=135^{\circ}$
+The angle of arc will be $\alpha_{2}-\alpha_{1}=90^{\circ}$ so angle of major arc $\alpha=360^{\circ}-90^{\circ}=270^{\circ}$",,103,$45^{\circ}$,$90^{\circ}$,$135^{\circ}$,$270^{\circ}$,,,,,4,,
+For what value of $\mathrm{m}$ the circle $3 \mathrm{x}^{2}+3 \mathrm{y}^{2}+60 \mathrm{x}+180 \mathrm{y}+75 \mathrm{m}=0$ become a point circle,,moderate,$\begin{aligned} r=\sqrt{10^{2}+30^{2}-25 m}=& \sqrt{100+900-25 m}=0 \\ 25 m=1000 \rightarrow m=40 \end{aligned}$,,103,20,75,40,3,,,,,3,,
+The equation of circle of circumference $\pi$ a and tangent to both axes in $3^{\text {rd }}$ quadrant is,,moderate,"The radius of circle is $\frac{\text { circum }}{2 \pi}=\frac{a \pi}{2}=\frac{a}{2}$. If the circle is tangent to both axis in third quadrant then the centre of circle will be: $(-r,-r)=\left(-\frac{a}{2},-\frac{a}{2}\right)$
+\[
+\begin{array}{c}
+\left(x+\frac{a}{2}\right)^{2}+\left(y+\frac{a}{2}\right)^{2}=\frac{a^{2}}{2} \rightarrow \frac{1}{4}\left[(2 x+a)^{2}+(2 y+a)^{2}\right]=\frac{a^{2}}{4} \\
+(2 x+a)^{2}+(2 y+a)^{2}=a^{2}
+\end{array}
+\]",,103,$(x+a)^{2}+(y+a)^{2}=a^{2}$,$(x-a)^{2}+(y-a)^{2}=a^{2}$,$(2 x+a)^{2}+(2 y+a)^{2}=a^{2}$,$(2 x+a)^{2}+(2 y+a)^{2}=\frac{a^{2}}{4}$,,,,,3,,
+The focus of the parabola $x^{2}=6$ ay is,,easy,"Focus of parabola is $\left(0, \frac{3}{2} a\right)$",,103,"(0,a)","(0,6a)","$\left(0, \frac{2}{3} a\right)$",none,,,,,4,,
+"The standard equation of an ellipse with major-axis along x-axis and center at (h,k) is",,easy,Theoretical Formula,,103,$\frac{(x-h)^{2}}{b^{2}}+\frac{(y-k)^{2}}{a^{2}}=1$,$\frac{(x-k)^{2}}{b^{2}}+\frac{(y-h)^{2}}{a^{2}}=1$,$\frac{(x-k)^{2}}{b^{2}}+\frac{(y-h)^{2}}{a^{2}}=0$,$\frac{(x-h)^{2}}{a^{2}}+\frac{(y-k)^{2}}{b^{2}}=1$,,,,,4,,
+Foci of the ellipse $\frac{x^{2}}{a^{2}}+\frac{y^{2}}{b^{2}}=1$,,easy,"Theoretical point. Foci are $(\pm c, 0)$ where $c^{2}=a^{2}-b^{2}$",,103,"$(\pm c, 0)$","(a,b)","$(0, \pm c)$",none,,,,,1,,
+Equations of directrices of ellipse $\frac{x^{2}}{25}+\frac{y^{2}}{16}=1$,,moderate,directrix : $x=\pm \frac{c}{e^{2}}=\pm \frac{a^{2}}{c}=\pm \frac{25}{3}$,,103,$x=\pm \frac{a}{e}$,$x=\pm a$,$y=\pm \frac{a}{e}$,$x=\pm \frac{25}{3}$,,,,,4,,
+Equations of directrices of ellipse $\frac{x^{2}}{3}+\frac{y^{2}}{2}=1$,,moderate,$d: x=\pm \frac{c}{e^{2}}=\pm \frac{a^{2}}{c}=\pm \frac{3}{1}=\pm 3$,,103,$x=\pm \frac{3}{e}$,$x=\pm \frac{e}{3}$,$x=\pm \frac{3}{2}$,none,,,,,4,,
+The coordinates of foci of $a^{2} x^{2}+b^{2} y^{2}=a^{2} b^{2}$ are;,,moderate,"Eq. is $\frac{x^{2}}{b^{2}}+\frac{y^{2}}{a^{2}}=1:$ So, foci are $(0, \pm c)$",,103,"$(\pm c, 0)$","$(0, \pm c)$","$\left(0, \pm \frac{a}{e}\right)$",none,,,,,2,,
+The eccentricity of $2 x^{2}+5 y^{2}=1$ is,,moderate,"Eq. is $\frac{x^{2}}{1 / 2}+\frac{y^{2}}{1 / 5}=1 \quad c^{2}=a^{2}-b^{2}=\frac{1}{2}-\frac{1}{5}=\frac{3}{10}$
+$$
+e=\frac{c}{a}=\frac{\frac{\sqrt{3}}{\sqrt{10}}}{\frac{1}{\sqrt{2}}}=\sqrt{\frac{3}{5}}
+$$",,103,$\frac{1}{\sqrt{16}}$,$\sqrt{\frac{3}{5}}$,$\frac{2}{5}$,$\frac{3}{5}$,,,,,2,,
+"The equation of ellipse with centre at (2,3), length of major axis = 3 and length of minor axis = 2 is;",,moderate,"From lengths of major and minor axis $a=\frac{3}{2}, b=\frac{2}{2}=1 \quad \frac{(x-2)^{2}}{\left(\frac{3}{2}\right)^{2}}+\frac{(y-3)^{2}}{1}=1$",,103,$\frac{x^{2}}{9}+\frac{y^{2}}{4}=1$,$\frac{x^{2}}{4}+\frac{y^{2}}{9}=1$,$\frac{x^{2}}{4}-\frac{y^{2}}{9}=1$,none,,,,,4,,
+The coordinates of foci of $-\frac{x^{2}}{b^{2}}+\frac{y^{2}}{a^{2}}=1$,,easy,Theoretical point.,,103,"$(0, \pm c)$","$(\pm c, 0)$","$(\pm b, 0)$",none,,,,,1,,
+The eccentricity of $\frac{x^{2}}{25}-\frac{y^{2}}{16}=1$,,moderate,"For Hyperbola:
+$c^{2}=a^{2}+b^{2} \rightarrow c=\sqrt{16+25}=\sqrt{41}$
+Eccentricity: $\quad e=\frac{c}{a}=\frac{\sqrt{41}}{5}$",,103,$\frac{\sqrt{41}}{5}$,$\frac{\sqrt{13}}{2}$,$\frac{2}{\sqrt{13}}$,none,,,,,1,,
+The equations of directrices of $-\frac{x^{2}}{b^{2}}+\frac{y^{2}}{a^{2}}=1$,,moderate,Directrix: $\quad y=\pm \frac{c}{e^{2}}=\pm \frac{c}{a}=\pm \frac{a}{e}$,,103,$y=\pm \frac{a}{e}$,$y=\pm \frac{e}{a}$,$x=\pm \frac{a}{e}$,$x=\pm \frac{e}{a}$,,,,,1,,
+The parametric equations of circle $x^{2}+y^{2}=a^{2}$ are,,easy,"The parametric of circle:
+\[
+x=\theta, y=a \sin \sin \theta
+\]",,103,"$x=a \cos \vartheta, y=b \sin \vartheta$","$x=a t^{2}, y=2 a t$","$x=a \sec t, y=b \tan t$",none,,,,,4,,
+The parametric equations of $\frac{x^{2}}{a^{2}}-\frac{y^{2}}{b^{2}}=1$,,easy,Theoretical point.,,103,"$x=a \sec t, y=b \tan t$","$x=a t^{2}, y=2 a t$","$x=a \cos \vartheta, y=b \sin \vartheta$",none,,,,,1,,
+"The equation of tangent at $\left(x_{1}, y_{1}\right)$ to the parabola $y^{2}=4 a x$ is",,easy,Theoretical point.,,103,$y y_{1}=2 a\left(x+x_{1}\right)$,$y_{1}=4 a x_{1}$,$\frac{x x_{1}}{a^{2}}+\frac{y y_{1}}{b^{2}}=1$,none,,,,,1,,
+"The equation of normal to $y^{2}=4 a x$ at $\left(x_{1}, y_{1}\right)$ is",,easy,Theoretical point.,,103,$y-y_{1}=\frac{a^{2} y_{1}}{b^{2} x_{1}}\left(x-x_{1}\right)$,$y-y_{1}=-\frac{y_{1}}{2 a}\left(x-x_{1}\right)$,$\frac{x x_{1}}{a^{2}}+\frac{y y_{1}}{b^{2}}=1$,none,,,,,2,,
+"In ellipse the relation between $a^{2}, b^{2}, c^{2}$ is;",,easy,Theoretical point.,,103,$c^{2}=a^{2}-b^{2}$,$a^{2}=b^{2}-c^{2}$,$c^{2}=a^{2}+b^{2}$,none,,,,,1,,
+In hyperbola $\frac{x^{2}}{a^{2}}-\frac{y^{2}}{b^{2}}=1$ The ends of latera recta are,,moderate,Theoretical point.,,103,"$\left(\pm a e, \pm \frac{a}{e}\right)$","$\left(\pm a e, \pm \frac{b^{2}}{a}\right)$","$\left(\pm \frac{2 b^{2}}{a}, 0\right)$","$\left(\pm \frac{2 b^{2}}{a}, \pm c\right)$",,,,,2,,
+"In hyperbola the relation between $a^{2}, b^{2}, c^{2}$ is",,easy,Theoretical point.,,103,$c^{2}=a^{2}-b^{2}$,$c^{2}+a^{2}=b^{2}$,$c^{2}=a^{2}+b^{2}$,none,,,,,3,,
+Length of latus rectum of parabola $y^{2}-8 y-4 x=0$ is,,moderate,"Length of latus rectum: $4 a \quad$ Rearranging the equation to std. form
+\[
+(y-4)^{2}=4(1)(x+4) \quad \text { Where vertex: }(-4,4) \& a=1
+\]",,103,2,4,8,16,,,,,2,,
+"If (0,0) is vertex and (0,-5) is focus, then equation of parabola is",,moderate,parabola is along -x-axis with $a=5$ so: $\quad x^{2}=-4(5) y=-20 y$,,103,$y^{2}=-5 x$,$y^{2}=5 x$,$x^{2}=-20 y$,none,,,,,3,,
+"For parabola $y^{2}=4 y-4 x,$ the vertex is",,moderate,The std. form will be: $y^{2}-4 y+4=-4 x+4 \rightarrow(y-2)^{2}=-4(x-1)$,,103,"(1,2)","(2,4)","(4,0)","(2,0)",,,,,1,,
+"Equation of ellipse with length of major axis = 4, length of minor axis = 3 is",,moderate,"From lengths of major and minor axis $a=\frac{4}{2}=2, b=\frac{3}{2}$
+\[
+\frac{(x)^{2}}{2^{2}}+\frac{(y)^{2}}{\frac{3}{2}^{2}}=1
+\]",,103,$\frac{x^{2}}{4}+\frac{y^{2}}{3}=1$,$\frac{x^{2}}{3}+\frac{y^{2}}{4}=1$,$\frac{x^{2}}{\sqrt{3}}+\frac{y^{2}}{\sqrt{4}}=1$,none,,,,,4,,
+"Equation of hyperbola with centre at (h,k) is; ",,easy,Hyperbola will be: $\quad \frac{(x-h)^{2}}{a^{2}}-\frac{(y-k)^{2}}{b^{2}}=1$,,103,$\frac{x^{2}}{a^{2}}-\frac{y^{2}}{b^{2}}=1$,$\frac{(x-k)^{2}}{a^{2}}-\frac{(y-h)^{2}}{b^{2}}=1$,$\frac{(x-k)^{2}}{a^{2}}+\frac{(y-h)^{2}}{b^{2}}=1$,none,,,,,4,,
+"The coordinates of the point on parabola $y^{2}=8 x$ whose distance from focus is $4,$ are;",,moderate,"$y^{2}=4 a x=8 x \rightarrow a=2$ Focus: (2,0) distance of 4:(2,±4)",,103,"(2,4)","(4,2)","(-2,-4)","(4,-2)",,,,,1,,
+The length of latus rectum is one third of length of major axis of an ellipse then its eccentricity is;,,moderate,"$\frac{2 b^{2}}{a}=\frac{1}{3}(2 a) \rightarrow a^{2}=3 b^{2} \quad c^{2}=a^{2}-b^{2}=2 b^{2}$
+Eccentricity: $\quad e=\frac{c}{a}=\sqrt{\frac{2 b^{2}}{3 b^{2}}}=\sqrt{\frac{2}{3}}$",,103,$\frac{2}{3}$,$\sqrt{\frac{2}{3}}$,$\frac{1}{3}$,$\frac{3}{4}$,,,,,2,,
+The graph of parabola $x=4 y^{2}$,,easy,Basics of Graph of Parabola,,103,opens left,opens right,opens up,opens down,,,,,2,,
+"The gradient of the normal of the parabola $y^{2}=4 a x$ at $\left(a t_{1}^{2}, 2 a t_{1}\right)$ is",,moderate,the slope of normal to parabola is: $m=-\frac{y_{1}}{2 a}=-\frac{2 a t_{1}}{2 a}=-t_{1}$,,103,$\frac{1}{t^{1}}$,$t_{1}$,-$t_{1}$,$-\frac{1}{t^{1}}$,,,,,3,,
+If the line $y=4 x+c$ is tangent to the ellipse $\frac{x^{2}}{8}+\frac{y^{2}}{4}=1$,,moderate,$c=\pm \sqrt{a^{2} m^{2}+b^{2}}=\pm \sqrt{8(-2)^{2}+4}=\pm \sqrt{32+4}=\pm \sqrt{36}=\pm 6$,,103,±4,±6,±1,$\pm \sqrt{132}$,,,,,2,,
+"If $e$ is the eccentricity of $\frac{x^{2}}{8}+\frac{y^{2}}{4}=1$, then",,moderate,"Eccentricity of ellipse is always less than one and greater than 0 .
+\[
+\begin{array}{rl}
+c^{2}=a^{2}-b^{2}=8-4=4 & c=2 \\
+& e=\frac{c}{a}=\frac{2}{2 \sqrt{2}}=\frac{1}{\sqrt{2}}<1
+\end{array}
+\]",,103,$0<e<1$,$e>1$,e=1,none,,,,,1,,
+Line $y=m x+1$ is tangent to the parabola $y^{2}=4 x$ if,,easy,"the condition for tangent is: $y=m x+\frac{a}{m}=m x+c$
+\[
+a=1, c=1 \rightarrow c=\frac{a}{m} \rightarrow m=1
+\]",,103,m=1,m=2,m=4,m=3,,,,,1,,
+"$[\operatorname{Sec} \alpha, \operatorname{cosec} \alpha, 0]$ is a",,easy,It is telling the position of point,,104,Null vector,Negative vector,Unit vector,Position vector,,,,,4,,
+Which is not a vector?,,easy,Simple point of Physics,,104,Force	,density,electric field intensity,weight,,,,,2,,
+Which is not a scalar?,,easy,Simple point of Physics,,104,Kinetic energy,torque,entropy,work,,,,,2,,
+"If P(0,1,2), Q(-1,2,1) and R(4,1,-2) are three points then, $PQ+QP+PR=?$",,easy,Vector sum of closed path is zero,,104,15,2,0,17,,,,,3,,
+a. b = 0 iff;,,easy,Property of Dot product,,104,a and b are parallel,a and b are anti parallel,a and b are perpendicular to each other,can’t be determined,,,,,3,,
+"If $\mathbf{a}=a_{1}\underline i+a_{2}\underline j+a_{3} \underline k$ and $\mathbf{b}=b_{1} \underline i+b_{2}\underline j+b_{3}\underline k$ then
+$a \cdot b=?$",,easy,Property of Scalar product,,104,$\left(a_{1} b_{3}-a_{3} b_{2}\right) i+\left(a_{3} b_{1}-a_{1} b_{3}\right) i+\left(a_{1} b_{2}-a_{2} b_{1}\right) k$,$a_{1} a_{2}+b_{1} b_{2}+c_{1} c_{2}$,$a_{2} b_{3}-a_{3} b_{2}+a_{3} b_{1}-a_{1} b_{3}$,$a_{1} b_{1}+a_{2} b_{2}+a_{3} b_{3}$,,,,,4,,
+$|a \times b|=?$,,easy,Property of Cross product.,,104,Area of a triangular region with a and b as its adjacent sides,area of a parallelogram with a and b as its adjacent sides,area of a trapezium with a and b as its adjacent sides,area of tetrahedron with a and b as its adjacent sides,,,,,2,,
+Which one is false?,,moderate,$\Delta A B C=4 \Delta D E F$,,104,$\sin (\alpha+\beta)=\sin \alpha \cos \beta+\cos \alpha \sin \beta$,$\frac{\sin A}{a}=\frac{\sin B}{b}$,"$\Delta D E F=4 \Delta A B C$ if $D, E, F$ are the mid points of sides of $\triangle A B C$",$\underline{a} \cdot \underline{b} \times \underline{c}=\underline{b} \cdot \underline{c} \times \underline{a}=\underline{c} \cdot \underline{a} \times \underline{b}$,,,,,3,,
+$\underline{i} . \underline j \times \underline{k}=?$,,easy,\underline{i}(\underline{j} \times \underline{k})=\underline{i} \underline{i}=1,,104,$\underline i$,$\underline j$,$\underline O$,1,,,,,4,,
+"If $\underline{a}=2 \underline{i}+4\underline {j}-\underline{k}, \underline{b}=\underline{i}-\underline j+7 \underline{k}$ and $\underline{c}=5_{\underline{i}}+2\underline {j}+3 \underline{k}$ then $(3 \underline{c}+\underline{b}) \cdot(2 \underline{a}-\underline{c})=?$",,moderate,$\begin{aligned}(2 \underline{a}-\underline{c})=-\underline{i}+\underline{6} j-5 \underline{k} & ; \quad(\underline{3} \underline{c}+\underline{b})=16 \underline{i}+\underline{5} j+16 \underline{k} \\ &(2 \underline{a}-\underline{c}) \cdot(3 \underline{c}+\underline{b})=-16+30-80=-66 \end{aligned}$,,104,32,-66,-19,-27,,,,,2,,
+If $\underline{a}=3 \underline{i}-x \underline {j}+2 \underline{k}$ and $\underline{b}=4 \underline{i}+6 \underline j+3 \underline{k}$ are perpendicular to each other then $x=?$,,easy,$\underline{a} \cdot \underline{b}=12-6 x+6=0 \rightarrow x=3$,,104,$\frac{18}{7}$,$\frac{2}{3}$,3,93,,,,,3,,
+"The cosine of the angle between the vectors a and $\underline{b}$, where $\underline{a}=\underline{i}+2 \underline j -\underline k$ and $\underline{b}=-\underline i+\underline j-2 \underline{k},$ is",,moderate,$\cos \cos \theta=\frac{a \cdot b}{|a||b|}=\frac{-1+2+2}{\sqrt{1+4+1} \sqrt{1+4+1}}=\frac{3}{\sqrt{6} \sqrt{6}}=\frac{3}{6}=\frac{1}{2}$,,104,$\frac{\sqrt{3}}{2}$,0,$\frac{1}{2}$,$\frac{1}{\sqrt{2}}$,,,,,3,,
+The angle between the vectors $2 \underline i-\underline j+\underline k$ and $-\underline{i}+\underline{j}$ is;,,moderate,"\begin{array}{l}
+\cos \cos \theta=\frac{a b}{|a||b|} \rightarrow \theta=\left(\frac{-2-1+0}{\sqrt{4+1+1}}-\sqrt{1+1}\right)=\left(-\frac{3}{\sqrt{12}}\right)=\left(-\frac{\sqrt{3}}{2}\right) \\
+\theta=\frac{5 \pi}{6}
+\end{array}",,104,$\frac{\pi}{2}$,$\frac{5 \pi}{6}$,$\frac{\pi}{4}$,$\frac{\pi}{3}$,,,,,2,,
+"If $\underline{a}=2 \underline i +\underline j$ and $\underline{b}=3 \underline{i}-\underline{k},$ then $\underline{a} \times \underline{b}=?$",,moderate," $\quad \underline{a} \times \underline{b}=(1(-1)+0) \underline{i}+(0-(2)(-1))\underline j+(0-3(1)) \underline{k}=-\underline{i}+2 j-3 \underline{k}$
+$\underline{a} \times \underline{b}=\left(a_{1} \underline{i}+a_{2}\underline j+a_{3} \underline{k}\right) \times\left(b_{1} \underline{i}+b_{2} j+b_{3} \underline{k}\right)=\left(a_{2} b_{3}-a_{3} b_{2}\right) \underline{i}+\left(a_{3} b_{1}-a_{1} b_{3}\right)\underline j+\left(a_{1} b_{2}-a_{2} b_{1}\right) \underline{k}$",,104,$i+j+2 k$,$-i+j-3 k$,$2 i+3 j+4 k$,$-i+2j-3 k$,,,,,4,,
+"If $\underline{a}=2 \underline{i}+3 \underline j +\underline{k}, \underline{b}=4 \underline{i}+\underline j-3 \underline{k}$ and $\underline{c}=5 \underline{i}-\underline{k}$ then $(\underline{b}-\underline{a}) \times \underline{c}=?$",,moderate,"$(\underline{b}-\underline{a}) \times \underline{c}=(2 \underline{i}-2 \underline{j}-4 \underline{k}) \times(5 \underline{i}-\underline{k})=2 \underline{i}-(20-2) \underline{j}+10 \underline{k}$
+$=2 \underline{i}-18 j+10 \underline{k}$
+$\underline{a} \times \underline{b}=\left(a_{1} \underline{i}+a_{2} \underline{j}+a_{3} \underline{k}\right) \times\left(b_{1} \underline{i}+b_{2} j+b_{3} \underline{k}\right)=\left(a_{2} b_{3}-a_{3} b_{2}\right) \underline{i}+\left(a_{3} b_{1}-a_{1} b_{3}\right) \underline{j}+\left(a_{1} b_{2}-a_{2} b_{1}\right) \underline{k}$",,104,$i-9 j-5 k$,$2 i-18 j+10 k$,$3 i+7 j-k$,$4 i+5 k$,,,,,2,,
+A unit vector perpendicular to both $\underline{a}=2 \underline{i}+\underline j+\underline{k}$ and $\underline{b}=-\underline i-\underline j-3 \underline{k}$ is,,moderate,"$\underline{a} \times \underline{b}=(-3+1) \underline{i}+(-1+6) \underline j+(-3+2) \underline{k}=-2 \underline{i}+5 \underline j-\underline{k}$
+$\hat{u}=\frac{\underline{a} \times \underline{b}}{|\underline{a} \times \underline{b}|}=\frac{-2 i+5 j-\underline{k}}{\sqrt{4+25+1}}=\frac{-2 \underline i+5 \underline j-\underline{k}}{\sqrt{30}}$",,104,$\frac{i+j+k}{\sqrt{2}}$,$\frac{2 i-j-3 k}{\sqrt{15}}$,$\frac{-2 i+5 j-k}{\sqrt{30}}$,none of these,,,,,3,,
+A vector of magnitude 5 and perpendicular to $\underline{a}=i+3 j-\underline{k}$ and $\underline{b}=3 \underline{i}-j$ is,,moderate,"$\underline{a} \times \underline{b}=(0-1) \underline{i}+(0-3) \underline{j}+(-1-9) \underline{k}=-\underline{i}-3 \underline{j}-10 \underline{k}$
+$5 \hat{u}=5 \frac{\underline{a} \times \underline{b}}{|\underline{\alpha} \times \underline{b}|}=5 * \frac{-i-3 j-10 \underline{k}}{\sqrt{1+9+100}}=\frac{5}{\sqrt{110}}(-\underline{i}-3 \underline{j}-10 \underline{k})$",,104,$\frac{5}{\sqrt{110}}(-\underline{i}-3 \underline{j}-10 \underline{k})$,$\frac{5}{\sqrt{17}}(-\underline{i}-3 \underline{j}-10 \underline{k})$,$\frac{5}{\sqrt{17}}(-\underline{i}+3 \underline{j}-10 \underline{k})$,$\frac{6}{\sqrt{17}}(-\underline{i}+3 \underline{j}-10 \underline{k})$,,,,,1,,
+The sine of the angle between the vectors $\underline{a}= \underline{5}\underline i-2\underline j+\underline{k}$ and $\underline{b}=3 \underline{i}-4 \underline{j}+\underline{k}$ is,,moderate,"$\underline{a} \times \underline{b}=(-2+4) \underline{i}+(3-5) \underline{j}+(-20+6) \underline{k}=2 \underline{i}-2 \underline{j}-14 \underline{k}$
+$\sin \sin \theta=\frac{|\underline{a} \times \underline{b}|}{|a||b|}=\frac{\sqrt{4+4+196}}{\sqrt{25+4+1} * \sqrt{9+16+1}}=\sqrt{\frac{204}{30 \cdot 26}}=\sqrt{\frac{51}{195}}$",,104,$\sqrt{\frac{72}{390}}$,$\frac{14}{29}$,$\frac{61}{\sqrt{23}}$,$\sqrt{\frac{51}{195}}$,,,,,4,,
+"The area enclosed by the triangle, ABC whose vertices are A(1,2,-3), B(0,0,0) and C(2,4,7), is;",,moderate,"$A B \times C B=(2(7)-(4(-3))) \underline{i}+(7(1)-(-3)(2)) j+(4(1)-2(2)) k$
+$\Delta=\frac{1}{2}|\underline{A B} \times \underline{C B}|=\frac{1}{2}|26 \underline{i}+13 j|$
+$=\frac{1}{2} \sqrt{676+169}=\frac{\sqrt{845}}{2}$",,104,$\sqrt{676}$,$\frac{\sqrt{845}}{2}$,$\sqrt{184}$,27,,,,,2,,
+"If $\underline{a}=2 \underline{i}+4 i-k, \underline{b}=3 \underline{i}-i+2 \underline{k}$ and $\underline{c}=\underline{i}+3 i-3 \underline{k}$ then $\underline{a} \cdot \underline{b} \times \underline{c}=?$",,easy,$|2 4 -1 3 -1 2 1 3 -3| =23-6-4-9-2+-19+1=-6+44-10=28$,,104,20,13,28,34,,,,,3,,
+$[\underline{k}-\underline{i} \underline{i}-\underline{j} \underline{j}-\underline{k}]=?$,,easy,$| -1 0 1 1 -1 0 0 1 -1 |=-11-0-0+11-0=-1+1=0$,,104,1,-1,$\frac{1}{2}$,0,,,,,4,,
+"The volume of parallelepiped, whose edges are; $\underline{a}=4 i-2 j-k \underline{b},  \underline{b}=\underline{i}+3 \dot{j}-3 \underline{k}$ and $\underline{c}=5 \underline{i}+2 \dot{j}+4 \underline{k},$ is;",,moderate,"$v=|4-2-113-3524|=[4(12+6)+2(4+15)+(-1)(2-15)]$
+$=(72+38+13)=123$",,104,97,123,75,67,,,,,2,,
+"The value of $\lambda$ which makes $\lambda_{i}+i+2 k, 2 i-2 j-k$ and $\lambda_{i}+i-k$ coplanar is;",,moderate,"$|\lambda 122-2-1 \lambda 1-1|=\lambda(2+1)-1(-2+\lambda)+2(2+2 \lambda)=0$
+$3 \lambda+2-\lambda+4+4 \lambda=6 \lambda+6=0 \rightarrow \lambda=-1$",,104,1,0,$\frac{1}{2}$,-1,,,,,4,,
+"The volume of the tetrahedron that has $\underline{a}=\underline{i}+2 i+3 \underline{k}, \underline{b}=3 \underline{i}+i+2 \underline{k}$ and $\underline{c}=2 \underline{i}+3 \dot{i}+\underline{k}$ as its edges,
+is;",,moderate,"$\frac{1}{6}|123312231|=\frac{1}{6}[1(1-6)-2(3-4)+3(9-2)]=\frac{1}{6}(-5+2+21)$
+$=\frac{18}{6}=3$",,104,19,3,25,23,,,,,3,,
+"A force $E=2 i+4 i-2 k$ is applied at $P(2,3,-1) .$ Its moment about $A(1,0,3)$ is;",,moderate,"$r=P A=(1,3,-4)=\underline{i}+3 j-4 k \quad F=2 \underline{i}+4 j-2 \underline{k}$
+$M=r \times F=(-6+16) \underline{i}+(-2+8) j+(4-6) \underline{k}=10 \underline{i}-6 j-2 \underline{k}$",,104,$2 i+3 j-k$,$5 i+3 j-k$,$10 i+8 j+6 k$,$10 i-6 j-2 k$,,,,,4,,
+"The volume of the parallelepiped that has the vectors $-7 i+k, 2 i+3 k, i+2 j-k$ as coterminous edges is;",,easy,v=$| -7 0 1 2 0 3 1 2 -1| =-2-21-2=46,,104,46,24,39,57,,,,,1,,
+"If the dot product of vector $\underline{i}+\dot{j}+\underline{k}$ and the unit vector along the sum of vectors $2 \underline{i}+4 i-5 \underline{k}$ and $\lambda_{\underline{i}}+2_{\dot{L}}+3 \underline{k}$ is $1,$ then $\lambda=?$",,moderate,"$a \cdot \frac{S}{|S|}=(\underline{i}+j+\underline{k}) \cdot \frac{((\lambda+2) \underline{i}+6 j-2 k)}{\sqrt{(\lambda+2)^{2}+6^{2}+2^{2}}}=\frac{(\lambda+2)+6-2}{\sqrt{(\lambda+2)^{2}+36+4}}=\frac{\lambda+6}{\sqrt{(\lambda+2)^{2}+40}}=$
+$(\lambda+6)^{2}=(\lambda+2)^{2}+40 \rightarrow \lambda^{2}+12 \lambda+36=8$
+$\lambda^{2}+4 \lambda+4+40 \rightarrow 8 \lambda=8$
+$\lambda=1$",,104,5,2,3,1,,,,,4,,
+The modulus of the sum of three mutually perpendicular unit vectors is;,,easy,since the vectors are unit vectors: $|1 i+1 j+1 k|=\sqrt{1+1+1}=\sqrt{3}$,,104,$\sqrt{3}$,3,0,1,,,,,1,,
+"For what values of $x$ and $y, x a-5 b=7 a+y b,$ where $a$ and $b$ are two non-collinear vectors?",,easy,"comparing coefficients: x=7, y=-5",,104,"-5,7","7,-5","-7,5","5,-7",,,,,2,,
+For what value of ' $\alpha$ ' the magnitude of the vector $\alpha_{\underline{i}}+(\alpha+1)\underline{j}+(\alpha-1) \underline{k}$ is $2 ?$,,moderate,"$\sqrt{\alpha^{2}+(\alpha+1)^{2}+(\alpha-1)^{2}}=2$
+$\alpha^{2}+\alpha^{2}+2 \alpha+1+\alpha^{2}-2 \alpha+1=3 \alpha^{2}+2=4 \rightarrow \alpha=\sqrt{\frac{2}{3}}$",,104,$\frac{2}{3}$,$\sqrt{\frac{2}{3}}$,$\sqrt{\frac{3}{2}}$,none,,,,,2,,
+If $\underline{a}$ and $\underline{b}$ are two non-zero vectors then component of $\underline{b}$ along $\underline{a}$ is,,easy,Theorectical Formula,,104,$\underline{a} . \underline{b}$,$\hat{a} \cdot \hat{b}$,$\underline{a} \hat{b}$,$\underline{b} \cdot \hat{a}$,,,,,4,,
+"The perimeter of a triangle formed by $3 i+4 i+5 k$, $4 i-3 j-5 k$ and $7 i+j$ is;",,moderate,"$P=(3+4+7) i+(4-3+1) j+(5-5) \underline{k}=14 i+2 j$
+$|P|=\sqrt{14^{2}+2^{2}}=\sqrt{196+4}=\sqrt{200}$",,104,$\sqrt{450}$,$\sqrt{150}$,$\sqrt{50}$,$\sqrt{200}$,,,,,4,,
+The area of a parallelogram whose adjacent sides are represented by 3 i-k and $i+2$ is;,,moderate,"$|\underline{u} \times \underline{v}|=|(0+2) \underline{i}+(-1+0) j+(6-0) \underline{k}|=|2 \underline{i}-\underline{j}+6 \underline{k}|$
+$=\sqrt{4+1+36}=\sqrt{41}$",,104,$\frac{1}{2} \sqrt{17}$,$\frac{1}{2} \sqrt{14}$,$\sqrt{41}$,41,,,,,3,,
+"If $\underline{a} \underline{b} \underline{c}$ are position vectors of vertices of triangle $\mathrm{ABC}$, then position vector of centroid of triangle $\mathrm{ABC}$ is;",,easy,Theorectical Formula,,104,$\frac{a+b+c}{3}$,$\frac{a+b+c}{2}$,$\underline{a}+\frac{b+c}{2}$,none,,,,,1,,
+$\underline{a} \cdot[(\underline{b}+\underline{c}) \times(\underline{a}+\underline{b}+\underline{c})]=?$,,moderate,"$\quad| a 1 a 2 a 3 b 1+c 1 b 2+c 2 b 3+c 3 a 1+b 1+c 1 a 2+b 2+c 2 a 3+b 3+c 3 |$
+$R_{2}^{\prime} \rightarrow R_{2}+R_{1}$
+$=|a 1 a 2 a 3 a 1+b 1+c 1 a 2+b 2+c 2 a 3+b 3+c 3 a 1+b 1+c 1 a 2+b 2+c 2 a 3+b 3+c 3|=0 \quad \quad R_{2}=R_{3}$",,104,0,$[\underline{a} \underline{b} \underline{c}]+[\underline{b} \underline c\underline{a}]$,[\underline{a} \underline{b} \underline{c}],none,,,,,1,,
+The value of $[\underline i \underline j \underline{k}]$ is;,,easy,\underline{i}(\underline{j} \times \underline{k})=\underline{i} \underline{i}=1,,104,1,0,2,none,,,,,1,,
+$\underline{a} \times \underline{b}=\underline{b} \times \underline{c}=\underline{c} \times \underline{a}$ if,,easy,key point,,104,$\underline{a}=\underline{b}+\underline{c}$,$\underline{a}+\underline{b}+\underline{c}=0$,$\underline{a}=\underline{b}=\underline{c}$,both b and C,,,,,4,,
+"If $\vec{A}$ and $\vec{B}$ are two vectors such that $|\vec A|=4,  | \vec{B} |=3,  \vec{A}. \vec{B}=6,$ then the angle between
+$\vec{A}$ and $\vec{B}$ is",,easy,$\cos \cos \theta=\frac{\vec{A} \cdot \vec{B}}{|\vec{A}| \cdot|\vec{B}|} \rightarrow \theta=\left(\frac{6}{4 * 3}\right)=\left(\frac{1}{2}\right)=60^{\circ}$,,104,$45^{\circ}$,$90^{\circ}$,$60^{\circ}$,none,,,,,3,,
+The direction cosines of the vector $6 \underlinei-2 \underline j+ \underline k$ are;,,moderate,"the modulus of vector:
+\[
+\sqrt{6^{2}+2^{2}+1^{2}}=\sqrt{36+4+1}=\sqrt{41}
+\]
+Direction cosines ae:
+\[
+\frac{\vec{V}}{|\vec{v}|}=\frac{6 i-2 j+k}{\sqrt{41}}
+\]",,104,"$\frac{2}{41}, \frac{3}{41}, \frac{-1}{41}$","$\frac{6}{\sqrt{41}}, \frac{-2}{\sqrt{41}}, \frac{1}{\sqrt{41}}$","$\frac{1}{\sqrt{41}}, \frac{-2}{\sqrt{41}}, \frac{6}{\sqrt{41}}$",all of these,,,,,2,,
+$\underline{u} \times(\underline{v} \times \underline{w})=?$,,moderate,It is vector triple product: $\quad \underline{u} \times(\underline{v} \times \underline{w})=(\underline{u} . \underline{v}) \times \underline{w}-(\underline{u} \cdot \underline{w}) \times \underline{v}$,,104,$(\underline{v} \times \underline{w}) \times \underline{u}$,$(\underline{u} \times \underline{v}) \times \underline{w}$,both a and b,none,,,,,4,,
+For two non zero vector $\vec{a}$ and $\vec b$,,easy,Property of modulus,,104,$|\vec{a}+\vec{b}|=|\vec{a}|+|\vec b|$,$|\vec{a}+\vec{b}|=|\vec{a}|- |\vec b|$,$|\vec{a}+\vec{b}| \leq|\vec{a}|+|\vec b|$,$|\vec{a}+\vec{b}|>|\vec{a}|+|\vec b|$,,,,,3,,
+"$|\vec{a}|=2,|\vec{b}|=5$ and $|\vec{a} \times \vec{b}|=8$ then $|\vec{a}|. |\vec {b}|=?$",,moderate,$\begin{aligned} \sin \sin \theta &=\frac{|\vec{a} \times \vec{b}|}{|\vec{a}||\vec{b}|}=\frac{8}{2 * 5}=\frac{4}{5} \\ \cos \cos \theta &=\sqrt{1-\theta}=\sqrt{1-\left(\frac{4}{5}\right)^{2}}=\frac{3}{5} \\ \cos \cos \theta=\frac{\vec{a} \cdot \vec{b}}{|\vec{a}||\vec{b}|} \rightarrow \vec{a} \cdot \vec{b}=|\vec{a}||\vec{b}| \cos \cos \theta=(2)(5)\left(\frac{3}{5}\right)=6 \end{aligned}$,,104,4,5,2,6,,,,,4,,
+If $|\vec a|=8$ then $|(-5) \vec {a}|=?$,,easy,$|(-5) \vec{a}|=|-5||\vec{a}|=5(8)=40$,,104,-40,40,5,6,,,,,2,,
+"$[1,0,0] \times[0,1,0]=?$",,easy,$\underline{i} \times \underline j=\underline{k}$,,104,"[1,1,0]",0,"[0,0,1]",2,,,,,3,,
+If $\theta$ is angle between two unit vectors $a$ and $b$ then $\sin \theta=?$,,easy,$\sin \sin \theta=\frac{|\vec{a} \times \vec{b}|}{|\vec{a}||\vec{b}|}=\frac{|\hat{a} \times \hat{b}|}{1}=|\hat{a} \times \hat{b}|$,,104,$\hat {a+b}$,$\hat {a-b}$,$\hat {a.b}$,$|\hat {a\times b}$,,,,,4,,
+If $\vec {a}$ is a non-zero vector and $|k \vec{a}|=1$ then $k=?$,,moderate,"if $\vec{a}$ is non-zero than $|\vec{a}|>0$ So, $|k \vec{a}|=|k||\vec{a}|=1$
+\[
+|k|=\frac{1}{|\vec{a}|} \rightarrow k=\pm \frac{1}{|\vec{a}|}
+\]",,104,$\vec {|\alpha|}$,1,$\frac{1}{\vec {|\alpha|}}$,$\pm \frac{1}{\vec{|\alpha|}}$,,,,,4,,
+$i \hat{(j \times k)} \hat{+} j \hat{\cdot}(k \hat{\times} i) \hat{+} k \hat{(} i \times j)=?$,,easy,$\hat{i}(\hat{j} \times \hat{k})=\hat{j} \cdot(\hat{k} \times \hat{i})=\hat{k} \cdot(\hat{i} \times \hat{j})=11+1+1=3$,,104,0,-3,-1,3,,,,,4,,
+"If $\alpha, \beta, \gamma$ are direction angles of a vector $a$ then $\cos 2 \alpha+\cos 2 \beta+\cos 2 \gamma=?$",,moderate,"$\cos \cos 2 \alpha+\cos \cos 2 \beta+\cos \cos 2 \gamma=1-2 \alpha+1-2 \beta+1-2 \gamma$
+$3-2(\alpha+\beta+\gamma)=3-2(-2)=3-4=-1$
+$\alpha+\beta+\gamma=2$",,104,1,-1,2,0,,,,,2,,
+If $\theta$ is an angle between $\vec{a}$ and $\vec{b}$ then $|\vec{a} \times \vec{b}|=\vec{a} . b$ if $\theta=?$,,easy,"$\sin \sin \theta=\frac{|\vec{a} \times \vec{b}|}{|\vec{a}||\vec{b}|}, \quad \cos \cos \theta=\frac{\vec{a} \vec{b}}{|\vec{a}||\vec{b}|}, \quad \quad|\vec{a} \times \vec{b}|=\vec{a} \cdot \vec{b} \rightarrow \sin \sin \theta=\cos \cos \theta$
+Solving for $\theta: \tan \tan \theta=1 \rightarrow \quad \theta=1=45^{\circ}$",,104,$45^{\circ}$,$30^{\circ}$,$90^{\circ}$,$0^{\circ}$,,,,,1,,
+$(\hat{2} i-\hat{3} j \hat{+} k) \cdot(i+\hat{2} j+\hat{3} k)=?$,,easy,$2(1)+(-3)(2)+1(3)=2-6+3=-1$,,104,1,0,-1,2,,,,,3,,
+If $3 \underline{i}+2 \underline{j}-5 \underline{k}$ is parallel to $a i+b \underline{j}+15 \underline{k}$ then $\underline{a}+\underline{b}=?$,,easy,"In vector $1, x_{i}+y j+z \underline{k}$ has relation $x+y=-z$ so parallel vector have same direction, they just have different magnitudes. So applying the same relation.
+\[
+a+b=-15
+\]",,104,-15,0,5,15,,,,,1,,
+"Sum of direction angles of vector [0, 1, 0] is;",,easy,Sum of direction angles of any space vector is always $\pi$,,104,$\frac{\pi}{2}$,0,$\pi$,$\frac{3 \pi}{2}$,,,,,3,,
+"For what value of $m,$ the vectors $2 \underline{i}+m \underline{j}-\underline{k}$ and $-\underline{i}+m \underline{j}+7 \underline{k}$ are perpendicular?",,easy,"if the dot product is $0,-2+m^{2}-7=0 \rightarrow m^{2}=9 \rightarrow m=\pm 3$",,104,3,2,1,$\pm 3$,,,,,4,,
+"If $\alpha, \beta, \gamma$ are direction angles of a vector $a$ then $\cos 2 \alpha+\cos 2 \beta+\cos 2 \gamma=?$",,easy,Property of direction cosine of vector.,,104,$\cos ^{2} \alpha+\cos ^{2} \beta+\cos ^{2} \gamma=1$,$\sin ^{2} \alpha+\sin ^{2} \beta+\sin ^{2} \gamma=1$,$\sin 2 \alpha+\sin 2 \beta+\sin 2 \gamma=-1$,both a and c,,,,,1,,
+"For what value of k the points A(1, 1, 1), B(2, 2, 2), C(3, 3, 3), D(k, 4, 4) are coplanar",,moderate,"To check the coplanar of vector, we need to find $A B, A C, A D$ and then,
+$A B .(A C \times A D)=0 \quad$ since $\quad A B=A C=(1,1,1) .$ The determinant is already zero so the value of k cannot be determined.",,104,4,2,1,cannot be determined,,,,,4,,
