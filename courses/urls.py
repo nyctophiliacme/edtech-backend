@@ -2,5 +2,5 @@ from django.urls import path
 from courses.views import CourseView
 
 urlpatterns = [
-    path('courses/', CourseView.as_view()),
+    path('get_all/', CourseView.as_view()),
 ]

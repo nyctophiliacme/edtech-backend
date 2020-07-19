@@ -56,6 +56,7 @@ INSTALLED_APPS = [
     'chapters',
     'questions',
     'user_question',
+    'courses',
 ]
 
 MIDDLEWARE = [
