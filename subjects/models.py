@@ -7,6 +7,8 @@ class Subject(models.Model):
     title = models.CharField(max_length=255)
     description = models.TextField(blank=True, null=True)
     image_url = models.TextField(blank=True, null=True)
+    background_start_color = models.TextField(blank=True, null=True)
+    background_end_color = models.TextField(blank=True, null=True)
 
     exam = models.ForeignKey(Exam, on_delete=models.CASCADE)
 
@@ -23,5 +25,7 @@ class Subject(models.Model):
             'title': self.title,
             'description': self.description,
             'image_url': self.image_url,
-            'exam': self.exam_id
+            'exam': self.exam_id,
+            'background_start_color': self.background_start_color,
+            'background_end_color': self.background_end_color,
         }
