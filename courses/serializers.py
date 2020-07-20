@@ -21,7 +21,7 @@ class CourseContainerSerializer(serializers.ModelSerializer):
 class ExamCustomSerializer(serializers.ModelSerializer):
     class Meta:
         model = Exam
-        fields = ('id', 'exam_code', 'title', 'description', 'image_url')
+        fields = ['id', 'exam_code', 'title', 'description', 'image_url']
 
 
 class CourseExamSerializer(serializers.ModelSerializer):

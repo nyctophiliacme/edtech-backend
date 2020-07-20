@@ -1,6 +1,5 @@
-from courses.models import CourseContainer
+from courses.models import CourseContainer, Course
 from courses.serializers import CourseContainerSerializer, CourseExamSerializer
-from exams.models import Exam
 
 from rest_framework.response import Response
 from rest_framework.views import APIView
@@ -18,6 +17,6 @@ class CourseView(APIView):
 class ExamCourseViseView(APIView):
 
     def get(self, request, *args, **kwargs):
-        exams = Exam.objects.filter(course_id=request.query_params.get("course_id"))
-        serializer = CourseExamSerializer(exams, many=True)
+        courses = Course.objects.all()
+        serializer = CourseExamSerializer(courses, many=True)
         return Response(serializer.data)
