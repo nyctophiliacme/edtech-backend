@@ -36,7 +36,7 @@ class SubjectViewCourseVise(APIView):
 
     def get(self, request, *args, **kwargs):
         exam_ids = Exam.objects.filter(course_id=request.query_params.get("course_id")).values_list(
-            'exam_id', flat=True)
+            'id', flat=True)
         subjects = Subject.objects.filter(id__in=exam_ids).order_by('id')
         serializer = SubjectSerializer(subjects, many=True)
         return Response(serializer.data)
