@@ -1,6 +1,7 @@
 from django.db import models
 from courses.models import Course
 
+
 class Exam(models.Model):
     exam_code = models.CharField(max_length=100, unique=True)
     title = models.CharField(max_length=255)

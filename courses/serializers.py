@@ -1,5 +1,6 @@
 from rest_framework import serializers
 
+from exams.serializers import ExamSerializer
 from courses.models import Course, CourseContainer
 
 
@@ -15,3 +16,11 @@ class CourseContainerSerializer(serializers.ModelSerializer):
     class Meta:
         model = CourseContainer
         fields = ['id', 'course_container_title', 'courses']
+
+
+class CourseExamSerializer(serializers.ModelSerializer):
+    exams = ExamSerializer(many=True, read_only=True, source='exam_set')
+
+    class Meta:
+        model = Course
+        fields = ['id', 'course_title', 'exams']
