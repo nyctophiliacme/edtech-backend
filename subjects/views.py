@@ -4,7 +4,7 @@ from subjects.serializers import SubjectSerializer
 from rest_framework import status
 from rest_framework.response import Response
 from rest_framework.views import APIView
-from rest_framework.permissions import IsAuthenticated
+# from rest_framework.permissions import IsAuthenticated
 
 
 class SubjectView(APIView):
@@ -24,7 +24,7 @@ class SubjectView(APIView):
 
 
 class SubjectViewExamVise(APIView):
-    permission_classes = [IsAuthenticated]
+    # permission_classes = [IsAuthenticated]
 
     def get(self, request, *args, **kwargs):
         subjects = Subject.objects.filter(exam__exam_code=request.query_params.get("exam_code"))
