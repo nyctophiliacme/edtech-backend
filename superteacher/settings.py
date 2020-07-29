@@ -196,7 +196,8 @@ SOCIALACCOUNT_PROVIDERS = {'facebook':
                                 'SCOPE': ['email'],
                                 'AUTH_PARAMS': {'auth_type': 'reauthenticate'},
                                 'LOCALE_FUNC': lambda request: 'en_US',
-                                'VERSION': 'v2.4'
+                                'VERSION': 'v2.4',
+                                'VERIFIED_EMAIL': True
                                 }
                            }
 
