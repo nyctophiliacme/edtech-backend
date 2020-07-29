@@ -193,10 +193,23 @@ CORS_ORIGIN_ALLOW_ALL = True
 
 SOCIALACCOUNT_PROVIDERS = {'facebook':
                                {'METHOD': 'oauth2',
-                                'SCOPE': ['email'],
+                                'SCOPE': ['email','public_profile', 'user_friends'],
                                 'AUTH_PARAMS': {'auth_type': 'reauthenticate'},
-                                'LOCALE_FUNC': lambda request: 'en_US',
+                                'LOCALE_FUNC': 'path.to.callable',
+                                'FIELDS': [
+                                        'id',
+                                        'email',
+                                        'name',
+                                        'first_name',
+                                        'last_name',
+                                        'verified',
+                                        'locale',
+                                        'timezone',
+                                        'link',
+                                        'gender',
+                                        'updated_time'],
                                 'VERSION': 'v2.4',
+                                'EXCHANGE_TOKEN': True,
                                 'VERIFIED_EMAIL': True
                                 }
                            }
