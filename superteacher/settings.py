@@ -193,7 +193,7 @@ CORS_ORIGIN_ALLOW_ALL = True
 
 SOCIALACCOUNT_PROVIDERS = {'facebook':
                                {'METHOD': 'oauth2',
-                                'SCOPE': ['email','public_profile', 'user_friends'],
+                                'SCOPE': ['email', 'public_profile'],
                                 'AUTH_PARAMS': {'auth_type': 'reauthenticate'},
                                 'INIT_PARAMS': {'cookie': True},
                                 'LOCALE_FUNC': 'path.to.callable',
