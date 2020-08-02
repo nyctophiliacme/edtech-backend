@@ -24,6 +24,7 @@ import chapters.urls
 import questions.urls
 import user_question.urls
 import courses.urls
+import exam_details.urls
 
 urlpatterns = [
     path('api/auth/', include(emailsignup.urls)),
@@ -34,4 +35,5 @@ urlpatterns = [
     path('api/questions/', include(questions.urls)),
     path('api/user_progress/', include(user_question.urls)),
     path('api/courses/', include(courses.urls)),
+    path('api/exam_data/', include(exam_details.urls)),
 ]
