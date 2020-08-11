@@ -22,7 +22,7 @@ def complete_view(request):
 class CustomerRequiredInformationView(APIView):
 
     def get(self, request, *args, **kwargs):
-        customers = CustomUser.objects.all().order_by('id')
+        customers = CustomUser.objects.all().order_by('-id')
         serializer = RequiredInformationSerializer(customers, many=True)
         return Response(serializer.data)
 
@@ -31,7 +31,7 @@ class EmailVerifiedCustomerInformation(APIView):
 
     def get(self, request, *args, **kwargs):
         verified_customer_ids = EmailAddress.objects.filter(verified=True).values_list('user_id', flat=True)
-        customers = CustomUser.objects.filter(id__in=verified_customer_ids).order_by('id')
+        customers = CustomUser.objects.filter(id__in=verified_customer_ids).order_by('-id')
         serializer = RequiredInformationSerializer(customers, many=True)
         return Response(serializer.data)
 
