@@ -6,6 +6,7 @@ from emailsignup.serializers import RequiredInformationSerializer
 from rest_framework.response import Response
 from allauth.socialaccount.providers.facebook.views import FacebookOAuth2Adapter
 from rest_auth.registration.views import SocialLoginView
+from rest_framework import status
 from allauth.account.admin import EmailAddress
 
 
@@ -27,13 +28,26 @@ class CustomerRequiredInformationView(APIView):
         return Response(serializer.data)
 
 
-class EmailVerifiedCustomerInformation(APIView):
+class EmailVerifiedCustomerInformationView(APIView):
 
     def get(self, request, *args, **kwargs):
         verified_customer_ids = EmailAddress.objects.filter(verified=True).values_list('user_id', flat=True)
         customers = CustomUser.objects.filter(id__in=verified_customer_ids).order_by('-id')
         serializer = RequiredInformationSerializer(customers, many=True)
         return Response(serializer.data)
+
+
+class UpdatePaymentStatusInformationView(APIView):
+
+    def get(self, request, *args, **kwargs):
+        try:
+            user = CustomUser.objects.get(email=request.query_params.get("email_id"))
+        except CustomUser.DoesNotExist:
+            return Response("User not found", status=status.HTTP_400_BAD_REQUEST)
+
+        user.is_paid_user = True
+        user.save()
+        return Response("Payment Details updated", status=status.HTTP_201_CREATED)
 
 
 class FacebookLogin(SocialLoginView):
