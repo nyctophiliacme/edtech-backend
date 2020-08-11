@@ -13,7 +13,7 @@ urlpatterns = [
     url(r'^accounts/', include('allauth.urls')),
     url(r'', include('rest_auth.urls')),
     url(r'^registration/', include('rest_auth.registration.urls')),
-    path('user/get_required_information', CustomerRequiredInformationView.as_view()),
-    path('user/get_verified_users', EmailVerifiedCustomerInformation.as_view()),
+    path('user/get_required_information/', CustomerRequiredInformationView.as_view()),
+    path('user/get_verified_users/', EmailVerifiedCustomerInformation.as_view()),
     url(r'^rest-auth/facebook/$', FacebookLogin.as_view(), name='fb_login'),
 ]
