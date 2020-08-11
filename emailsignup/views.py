@@ -37,7 +37,7 @@ class EmailVerifiedCustomerInformationView(APIView):
         return Response(serializer.data)
 
 
-class UpdatePaymentStatusInformationView(APIView):
+class UpdatePaymentStatusAsPaidView(APIView):
 
     def get(self, request, *args, **kwargs):
         try:
@@ -45,9 +45,29 @@ class UpdatePaymentStatusInformationView(APIView):
         except CustomUser.DoesNotExist:
             return Response("User not found", status=status.HTTP_400_BAD_REQUEST)
 
+        if user.is_paid_user:
+            return Response("User " + user.email + " has already a PAID account", status=status.HTTP_400_BAD_REQUEST)
+
         user.is_paid_user = True
         user.save()
-        return Response("Payment Details updated", status=status.HTTP_201_CREATED)
+        return Response("User " + user.email + " has now a PAID account", status=status.HTTP_201_CREATED)
+
+
+class UpdatePaymentStatusAsUnPaidView(APIView):
+
+    def get(self, request, *args, **kwargs):
+        try:
+            user = CustomUser.objects.get(email=request.query_params.get("email_id"))
+        except CustomUser.DoesNotExist:
+            return Response("User  " + request.query_params.get("email_id") + " not found",
+                            status=status.HTTP_400_BAD_REQUEST)
+
+        if not user.is_paid_user:
+            return Response("User " + user.email + " has already an UNPAID account", status=status.HTTP_400_BAD_REQUEST)
+
+        user.is_paid_user = False
+        user.save()
+        return Response("User " + user.email + " has now an UNPAID account", status=status.HTTP_201_CREATED)
 
 
 class FacebookLogin(SocialLoginView):

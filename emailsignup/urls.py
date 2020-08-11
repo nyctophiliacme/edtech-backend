@@ -2,7 +2,7 @@ from allauth.account.views import ConfirmEmailView
 from django.conf.urls import url, include
 from django.urls import path
 from emailsignup.views import complete_view, null_view, CustomerRequiredInformationView, \
-    EmailVerifiedCustomerInformationView, UpdatePaymentStatusInformationView, FacebookLogin
+    EmailVerifiedCustomerInformationView, UpdatePaymentStatusAsPaidView, UpdatePaymentStatusAsUnPaidView, FacebookLogin
 
 urlpatterns = [
     # Override urls
@@ -15,6 +15,7 @@ urlpatterns = [
     url(r'^registration/', include('rest_auth.registration.urls')),
     path('user/get_required_information/', CustomerRequiredInformationView.as_view()),
     path('user/get_verified_users/', EmailVerifiedCustomerInformationView.as_view()),
-    path('user/update_payment_information/', UpdatePaymentStatusInformationView.as_view()),
+    path('user/update_payment_information/mark_as_paid/', UpdatePaymentStatusAsPaidView.as_view()),
+    path('user/update_payment_information/mark_as_unpaid/', UpdatePaymentStatusAsUnPaidView.as_view()),
     url(r'^rest-auth/facebook/$', FacebookLogin.as_view(), name='fb_login'),
 ]
