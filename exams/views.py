@@ -3,6 +3,7 @@ from exams.serializers import ExamSerializer
 from rest_framework import status
 from rest_framework.response import Response
 from rest_framework.views import APIView
+from courses.models import Course
 
 
 class ExamView(APIView):
@@ -13,9 +14,10 @@ class ExamView(APIView):
         return Response(serializer.data)
 
     def post(self, request, *args, **kwargs):
+        course_obj = Course.objects.get(id=request.data.get("course_id"))
         serializer = ExamSerializer(data=request.data)
         if serializer.is_valid():
-            serializer.save()
+            serializer.save(course=course_obj)
             return Response(serializer.data, status=status.HTTP_201_CREATED)
         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
 
