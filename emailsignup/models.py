@@ -18,6 +18,8 @@ class CustomUser(AbstractUser):
     date_of_birth = models.DateField(blank=True, null=True)
     is_paid_user = models.BooleanField(default=False)
 
+    is_superteacher_admin = models.BooleanField(default=False, blank=True, null=True)
+
     parent_name = models.CharField(blank=True, null=True, max_length=255)
     parent_email = models.CharField(blank=True, null=True, max_length=255)
     parent_phone_number = models.CharField(blank=True, null=True, max_length=30)
