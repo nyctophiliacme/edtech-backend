@@ -11,7 +11,7 @@ from allauth.account.admin import EmailAddress
 
 
 @api_view()
-def null_view(self, request, *args, **kwargs):
+def null_view(request, *args, **kwargs):
     return redirect("https://www.superteacher.pk/not_found")
 
 
