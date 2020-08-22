@@ -1,7 +1,7 @@
 from allauth.account.views import ConfirmEmailView
 from django.conf.urls import url, include
 from django.urls import path
-from emailsignup.views import complete_view, null_view, CustomerRequiredInformationView, \
+from emailsignup.views import complete_view, null_view, password_reset_view, CustomerRequiredInformationView, \
     EmailVerifiedCustomerInformationView, UpdatePaymentStatusAsPaidView, UpdatePaymentStatusAsUnPaidView, FacebookLogin
 
 urlpatterns = [
@@ -13,7 +13,7 @@ urlpatterns = [
     # Default urls
     url(r'^accounts/', include('allauth.urls')),
 
-    path('password-reset/<uidb64>/<token>/', null_view, name='password_reset_confirm'),
+    path('password-reset/<uidb64>/<token>/', password_reset_view, name='password_reset_confirm'),
 
     url(r'', include('rest_auth.urls')),
     url(r'^registration/', include('rest_auth.registration.urls')),

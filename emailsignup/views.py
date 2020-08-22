@@ -16,6 +16,13 @@ def null_view(request, *args, **kwargs):
 
 
 @api_view()
+def password_reset_view(request, *args, **kwargs):
+    uidb64 = kwargs.get('uidb64')
+    token = kwargs.get('token')
+    return redirect("https://www.superteacher.pk/password/reset/" + uidb64 + '/' + token)
+
+
+@api_view()
 def complete_view(request):
     return redirect("https://www.superteacher.pk/email_verified")
 
