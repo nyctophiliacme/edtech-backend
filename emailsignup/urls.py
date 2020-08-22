@@ -7,10 +7,15 @@ from emailsignup.views import complete_view, null_view, CustomerRequiredInformat
 urlpatterns = [
     # Override urls
     url(r'^registration/account-email-verification-sent/', null_view, name='account_email_verification_sent'),
-    url(r'^registration/account-confirm-email/(?P<key>[-:\w]+)/$', ConfirmEmailView.as_view(), name='account_confirm_email'),
+    url(r'^registration/account-confirm-email/(?P<key>[-:\w]+)/$', ConfirmEmailView.as_view(),
+        name='account_confirm_email'),
     url(r'^registration/complete/$', complete_view, name='account_confirm_complete'),
     # Default urls
     url(r'^accounts/', include('allauth.urls')),
+
+    url(r'^reset/(?P<uidb64>[0-9A-Za-z]+)-(?P<token>.+)/$', 'django.contrib.auth.views.password_reset_confirm',
+        name='password_reset_confirm'),
+
     url(r'', include('rest_auth.urls')),
     url(r'^registration/', include('rest_auth.registration.urls')),
     path('user/get_required_information/', CustomerRequiredInformationView.as_view()),
