@@ -1,5 +1,6 @@
 from django.db import models
 from chapters.models import Chapter
+from emailsignup.models import CustomUser
 
 
 class Question(models.Model):
@@ -52,3 +53,13 @@ class QuestionChapterMapping(models.Model):
 
     class Meta:
         unique_together = (('question', 'chapter'),)
+
+
+class QuestionBugReport(models.Model):
+    question = models.ForeignKey(Question, on_delete=models.CASCADE)
+    user = models.ForeignKey(CustomUser, on_delete=models.CASCADE)
+    bug_title = models.TextField(blank=True, null=True)
+    bug_description = models.TextField(blank=True, null=True)
+
+    created_on = models.DateTimeField(auto_now_add=True)
+    modified_at = models.DateTimeField(auto_now=True)

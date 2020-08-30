@@ -1,6 +1,6 @@
 from rest_framework import serializers
 
-from questions.models import Question, QuestionChoice
+from questions.models import Question, QuestionChoice, QuestionBugReport
 
 
 class QuestionChoiceSerializer(serializers.ModelSerializer):
@@ -19,3 +19,10 @@ class QuestionSerializer(serializers.ModelSerializer):
         fields = ['id', 'question_text', 'question_title', 'question_type', 'question_img_url', 'difficulty_level',
                   'time_to_solve', 'answer_selection_type', 'explanation', 'explanation_img_url', 'question_choice',
                   'user_question_choice_id', 'user_attempt_is_correct']
+
+
+class QuestionBugReportSerializer(serializers.ModelSerializer):
+
+    class Meta:
+        model = QuestionBugReport
+        fields = ('id', 'user', 'question', 'bug_title', 'bug_description', 'created_on', 'modified_at')

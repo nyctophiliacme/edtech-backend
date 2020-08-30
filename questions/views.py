@@ -1,5 +1,5 @@
-from questions.models import Question, QuestionChoice, QuestionChapterMapping
-from questions.serializers import QuestionSerializer
+from questions.models import Question, QuestionChoice, QuestionChapterMapping, QuestionBugReport
+from questions.serializers import QuestionSerializer, QuestionBugReportSerializer
 from user_question.models import UserQuestionProgress
 
 from rest_framework import status
@@ -73,3 +73,20 @@ class QuestionPostView(APIView):
         print("Exception in Question Post\n", serializer.errors)
         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
 
+
+class QuestionBugReportView(APIView):
+    permission_classes = [IsAuthenticated]
+
+    def get(self, request, *args, **kwargs):
+        question_bugs = QuestionBugReport.objects.all()
+        serializer = QuestionBugReportSerializer(question_bugs, many=True)
+        return Response(serializer.data)
+
+    def post(self, request, *args, **kwargs):
+
+        user_id = request.user.id
+        serializer = QuestionBugReportSerializer(data=request.data)
+        if serializer.is_valid():
+            serializer.save(user=user_id)
+            return Response(serializer.data, status=status.HTTP_201_CREATED)
+        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
