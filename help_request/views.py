@@ -3,6 +3,7 @@ from help_request.serializers import HelpRequestSerializer
 from rest_framework import status
 from rest_framework.response import Response
 from rest_framework.views import APIView
+from emailsignup.models import CustomUser
 
 
 class HelpRequestView(APIView):
@@ -16,7 +17,8 @@ class HelpRequestView(APIView):
         serializer = HelpRequestSerializer(data=request.data)
         if serializer.is_valid():
             if not request.data.get("is_guest_user"):
-                serializer.save(user_id=request.user.id)
+                user_obj = CustomUser.objects.get(email=request.data.get('email'))
+                serializer.save(user=user_obj)
             else:
                 serializer.save()
             return Response(serializer.data, status=status.HTTP_201_CREATED)
