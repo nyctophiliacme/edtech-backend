@@ -87,6 +87,6 @@ class QuestionBugReportView(APIView):
         user_id = request.user.id
         serializer = QuestionBugReportSerializer(data=request.data)
         if serializer.is_valid():
-            serializer.save(user=user_id)
+            serializer.save(user_id=user_id)
             return Response(serializer.data, status=status.HTTP_201_CREATED)
         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
