@@ -60,6 +60,7 @@ INSTALLED_APPS = [
     'user_question',
     'courses',
     'exam_details',
+    'help_request',
 ]
 
 MIDDLEWARE = [
