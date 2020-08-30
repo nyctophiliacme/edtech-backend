@@ -17,7 +17,7 @@ class HelpRequestView(APIView):
         serializer = HelpRequestSerializer(data=request.data)
         if serializer.is_valid():
             if not request.data.get("is_guest_user"):
-                user_obj = CustomUser.objects.get(email=request.data.get('email'))
+                user_obj = CustomUser.objects.get(email=request.data.get('user_email'))
                 serializer.save(user=user_obj)
             else:
                 serializer.save()
