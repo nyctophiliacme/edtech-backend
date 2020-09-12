@@ -1,5 +1,6 @@
 from django.db import models
 from emailsignup.models import CustomUser
+from commons.custom_email import send_help_request_email
 
 
 class HelpRequest(models.Model):
@@ -11,3 +12,8 @@ class HelpRequest(models.Model):
 
     created_on = models.DateTimeField(auto_now_add=True)
     modified_at = models.DateTimeField(auto_now=True)
+
+    def save(self, *args, **kwargs):
+        super(HelpRequest, self).save(*args, **kwargs)
+        send_help_request_email(user_name=self.user_first_name, is_guest_user=self.is_guest_user,
+                                user_email=self.user_email, message=self.message)
