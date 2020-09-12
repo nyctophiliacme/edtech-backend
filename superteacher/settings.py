@@ -34,7 +34,7 @@ def get_secret(setting, secrets=secrets):
 # See https://docs.djangoproject.com/en/3.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'fct)uas$cjf!rkxlr%usham!qmc&-h&)c548yl!4#ev6en$=rr'
+SECRET_KEY = get_secret('SECRET_KEY')
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -116,9 +116,9 @@ WSGI_APPLICATION = 'superteacher.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'edtech',
-        'USER': 'edtechadmin',
-        'PASSWORD': 'psswrd',
+        'NAME': get_secret('DB_NAME'),
+        'USER': get_secret('DB_USER'),
+        'PASSWORD': get_secret('DB_PASSWORD'),
         'HOST': 'localhost',
         'PORT': '',
     }
@@ -166,8 +166,8 @@ STATIC_URL = '/static/'
 
 # Email backend settings for Django
 EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER = 'info.superteacher@gmail.com'
-EMAIL_HOST_PASSWORD = 'Superteacher1!'
+EMAIL_HOST_USER = get_secret('EMAIL_HOST_USER')
+EMAIL_HOST_PASSWORD = get_secret('EMAIL_HOST_PASSWORD')
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 
