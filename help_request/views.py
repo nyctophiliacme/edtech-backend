@@ -16,7 +16,7 @@ class HelpRequestView(APIView):
     def post(self, request, *args, **kwargs):
         serializer = HelpRequestSerializer(data=request.data)
         if serializer.is_valid():
-            if request.data.get("is_guest_user") == "false":
+            if request.data.get("is_guest_user") == "true":
                 user_obj = CustomUser.objects.get(email=request.data.get('user_email'))
                 serializer.save(user=user_obj)
             else:
