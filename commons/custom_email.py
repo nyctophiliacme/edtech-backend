@@ -7,8 +7,23 @@ def send_help_request_email(user_name, is_guest_user, user_email, message):
     if is_guest_user:
         message += 'The user is a guest user'
 
+    subject = 'User Reported an Issue in Superteacher'
+
+    send_email_common(message=message, subject=subject)
+
+
+def send_question_bug_report_email(user_email, question_id, bug_title, bug_description):
+    message = 'User: ' + user_email + '\nReported bug in question: ' + question_id + '\nBug Title is: ' + bug_title + \
+              'Bug Description is: ' + bug_description
+
+    subject = 'Bug in Question reported by student!'
+
+    send_email_common(message=message, subject=subject)
+
+
+def send_email_common(message, subject):
     send_mail(
-        subject='User Reported an Issue in Superteacher',
+        subject=subject,
         message=message,
         from_email=EMAIL_HOST_USER,
         recipient_list=['Studykitco@gmail.com', 'info@superteacher.pk'],

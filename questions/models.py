@@ -1,6 +1,7 @@
 from django.db import models
 from chapters.models import Chapter
 from emailsignup.models import CustomUser
+from commons.custom_email import send_question_bug_report_email
 
 
 class Question(models.Model):
@@ -63,3 +64,8 @@ class QuestionBugReport(models.Model):
 
     created_on = models.DateTimeField(auto_now_add=True)
     modified_at = models.DateTimeField(auto_now=True)
+
+    def save(self, *args, **kwargs):
+        super(QuestionBugReport, self).save(*args, **kwargs)
+        send_question_bug_report_email(user_email=self.user.email, question_id=self.question_id, bug_title=self.bug_title,
+                                       bug_description=self.bug_description)
