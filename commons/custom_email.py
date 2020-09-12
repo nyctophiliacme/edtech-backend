@@ -14,7 +14,7 @@ def send_help_request_email(user_name, is_guest_user, user_email, message):
 
 def send_question_bug_report_email(user_email, question_id, bug_title, bug_description):
     message = 'User: ' + user_email + '\nReported bug in question: ' + str(question_id) + '\nBug Title is: ' \
-              + bug_title + 'Bug Description is: ' + bug_description
+              + bug_title + '\nBug Description is: ' + bug_description
 
     subject = 'Bug in Question reported by student!'
 
